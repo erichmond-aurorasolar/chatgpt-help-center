@@ -1,0 +1,11 @@
+How to Create a Dual Tilt (Sawtooth) Design
+
+
+Create the model of your site. For help modeling your site, click here!
+Add a design for your system by clicking on the  next to Designs on the left-hand toolbar.
+Select Solar Panels then Fill Zone from the right-hand toolbar. Click for the boundaries of your solar system and right click when finished.
+In the pop-up settings box, change the fill mode to 'Dual Tilt'. Configure the other settings, click OK.
+To change the orientation of your panels, set a rotation value in the fill zone modal.
+
+
+

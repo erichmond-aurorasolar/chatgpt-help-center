@@ -1,0 +1,7 @@
+1/21/2021 Release Notes
+
+Features Updated
+
+Fixed an issue causing the SE P485 to display the incorrect minimum string length.
+Updated messaging in emails from Aurora that are sent when account updates are made to be more descriptive. 
+Introduced new and updated utility rates to the consumption database 

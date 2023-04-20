@@ -1,0 +1,24 @@
+How to Select Your Financing Product in the New Financing Dropdown in Sales Mode
+
+Financing in Sales Mode now has a new dropdown where financing options will be sorted by financing type. Your entire arsenal of financing products will now be better organized, and page performance will be much faster. Here’s how to use the dropdown:
+ 
+Navigate to “Financing” in Sales Mode within a specific design you've already created. 
+
+ 
+Make sure to select any adders, discounts, or incentives you’d like to add to the project. Then select your preferred financing type from the left drop down menu on the right side of the screen. The left drop down menu will contain the following master level categories:
+
+
+
+Integrated Financiers
+Aurora custom loans (configured in the Financing Products page under Database)
+Cash Financing 
+
+
+
+
+Once you click your preferred financing type, select your relevant financing product that falls under the selected financing type on the right drop down menu.
+
+If you would like to switch to a different product under a different financing type, simply switch your selected financing type in the left dropdown menu, then select the new financing product on the right drop down menu.
+
+ 
+You can now continue with the rest of the Sales Mode workflow!

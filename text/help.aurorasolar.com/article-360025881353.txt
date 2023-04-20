@@ -1,0 +1,8 @@
+6/28/19 Release Notes
+
+Features Added
+
+
+All Aurora users (premium and basic) will now have access by default to Google HD imagery
+
+Increase LiDAR coverage for (available only for Premium and Enterprise accounts)

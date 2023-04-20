@@ -1,0 +1,15 @@
+7/1/2022 - Release Notes
+
+Features Added
+
+
+Custom Sales Mode Background Images - In addition to image options provided, admins can now upload a custom image to display on the Overview Page in Sales Mode in order to further differentiate themselves from competition and provide a unique proposal experience to the homeowner.
+
+Web Proposal Customization - You can now sync custom pages from Sales Mode into the Web Proposal. This helps to not only differentiate your company during the sales process, but also leave your customer with a memorable, customized proposal.
+
+Web Proposal Layout Preview - Admins can now preview the Web Proposal, including custom pages, in Settings > Sales Mode customization > Preview proposal. This gives users more visibility into the format of their Web Proposal before sending it out to customers.
+
+Full Screen Image Custom Pages - In this new page type, customers can upload a single image that takes up the entire page – set as either a “Fill” or “Fit” view. This allows customers to better highlight an image without cropping, and gives them more flexibility to create fully customized pages.
+
+LIDAR Coverage Update - The latest LIDAR update refreshes Aurora’s LIDAR map with USGS data from 2019, increasing LIDAR coverage from 95% to 98% of the US population. View the full map of our LIDAR coverage here: Where is LIDAR available in Aurora?
+

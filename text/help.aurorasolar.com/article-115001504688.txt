@@ -1,0 +1,3 @@
+What is Inverter Clipping?
+
+Inverter clipping occurs when the DC input power of an inverter exceeds the inverter's AC power rating. It is normal to slightly oversize the DC array relative to the inverter, but if this DC-to-AC ratio is too high, a significant amount of generated energy will be lost. Aurora's performance simulation report indicates how much energy is lost due to clipping, leaving it up to the user to resize their design if desired.

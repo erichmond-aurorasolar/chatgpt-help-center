@@ -1,0 +1,735 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How does a PV system produce electricity? | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How does a PV system produce electricity?                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As a solar professional, it’s important to be able to explain the process of how a solar photovoltaic system produces electricity. This process seems mysterious to many and misconceptions abound among those unfamiliar with solar energy. In this article, we get back to basics with an overview of how solar installations provide electricity and how the process works for the customer.
+Let’s start with the foundations of how solar energy is produced and then we’ll get into the specifics of pv systems. 
+
+Click the image to download the full guide.
+The basics of a solar PV system
+Solar PV systems are essentially any combination of solar panels, the hardware needed to help the energy flow through the panels, and inverters.
+
+Depending on the type of system they can utilize string inverters, microinverters, or power optimizers to convert the energy, but the basic makeup of most PV systems is the same. 
+How does solar energy work in a PV system?
+Solar panels convert the energy of photons (light particles) into electricity (as we discuss in The Beginner’s Guide to Solar Energy). This process is called the photovoltaic effect. 
+When a photon hits a photovoltaic (PV) device, its energy is transferred from the photon to the local electrons in the material. These excited electrons begin to flow, producing an electric current.
+Solar cells (within solar panels) produce direct current (DC) electricity, which is typically converted to alternating current (AC) electricity by an inverter. This allows it to be sent back to the electric grid, which operates with AC electricity, as well as used to power appliances in the customer’s home (or commercial building, in the case of commercial solar installations). 
+That’s the in-depth explanation. In summary, the process of how solar panels works involves three primary steps:
+
+Solar cells within solar panels absorb light from the sun, which causes an electric current to begin flowing.
+An inverter converts DC electricity to AC electricity.
+This electricity is used to supply current energy demands in the customer’s building and excess electricity beyond what the customer can use is exported to the grid.
+
+What happens with the energy a PV system produces?
+Most solar customers in the U.S. have grid-connected solar installations. Because their homes and PV systems are both connected to the electric grid, these customers have the option of buying additional utility power if their solar installations aren’t generating enough energy — like on rainy days or when the sun goes down. 
+It also means that whenever their PV system produces more power than they need, that excess energy can be sent to the grid for other utility customers to use. And thanks to different state-level incentives — like net metering and feed-in tariffs — it’s often possible to monetize some of this surplus solar power and save even more money.
+Net Energy Metering
+Under state-level net metering programs, utility customers can feed unused solar power into the grid in exchange for credits they can use to offset the cost of future utility bills.
+Net metering has played a significant role in making solar energy cost-effective. However, around the country, we are beginning to see some changes in how utility companies implement net metering. And quite often, these changes attempt reduce the long-term value that solar customers receive from their PV installations. (Don’t take this sitting down, see what you can do.)
+Feed-in tariffs
+Feed-in tariffs are another way of compensating solar customers for the electricity they send to the grid. Under most state-level feed-in tariff programs, utility customers receive cash payments instead of credits for any unused solar power they feed into the grid. 
+What are the parts of a Photovoltaic system?
+A simple PV system contains two basic types of components:
+
+Solar Modules: Solar modules contain PV cells that convert sunlight into electricity.
+Solar Inverter: An inverter converts DC electricity to AC power. It can also perform other functions that are beneficial to the electricity grid (see our article on smart inverters, which are now required in California).
+
+
+
+Diagram of a simple PV system. Source: Aurora Solar.
+BOS components
+It is common practice to refer to the remaining parts of a PV system (besides the modules) as balance of system (BOS) components. Examples of BOS components include:
+
+Inverters
+Disconnects
+Racking
+Wiring
+
+It’s also worth noting that many customers are now choosing to install their PV systems with on-site solar batteries for night-time and emergency backup power. Electric vehicle (EV) charging is also increasingly common — especially among homeowners who invest in rooftop solar.
+Of course, this is just a basic overview of the parts of a solar installation and how they fit together. Explore some of our related articles for a deeper dive into the ways that solar panels and inverters can be wired together (i.e. stringing). We also have resources on some of the most popular alternatives to traditional solar inverters, including module-level power electronics (MLPE). 
+What factors impact solar PV system efficiency
+Even under laboratory conditions, no solar panel is 100% efficient at converting sunlight into clean electricity. These efficiency losses become even more pronounced once those panels are installed on a user’s actual roof.
+Some of the main environmental factors that can negatively impact solar panel efficiency include:
+
+Temperature: Solar panel efficiency is inversely proportional to temperature. This means that the hotter it becomes outside, the less solar energy your modules will generate (with all other factors held equal).
+Soiling: Material that accumulates on the surface of PV panels can block sunlight from reaching the solar cells, reducing the amount of power they can generate. These energy losses are highly variable and depend both on the type of soiling (i.e. dust, pollen, or snow) and how frequently the PV panels are cleaned and maintained.
+
+
+
+Soiling, such as dust, on PV modules reduces power output.
+
+Shading: Shading is what happens when surrounding trees, buildings, terrain, and other objects partially or fully block sunlight from hitting a PV system. The effect of shading on solar power output is highly variable. To learn more about  the causes and consequences of shading, this article and this section of our PV system losses series are great resources.
+
+Wiring and connections: Resistance in the electrical connections of a solar installation typically results in energy losses of a few percent.
+
+Mismatching: Due to manufacturing variations, modules of the same type can have slightly different electrical characteristics. This mismatch between modules can lead to performance losses.
+
+Inverter efficiency: Converting DC into AC via an inverter is typically around 96-97% efficient. Solar inverters typically enjoy improved conversion efficiency rates when the DC input power is high. However, conversion rates take a big hit when the input is much less than the inverter’s rated power.
+
+Age: All solar panels degrade with time — producing less energy the older they get. This decrease in performance is typically factored into the PV module manufacturer’s linear 25-year warranty, with most degradation rates hovering around 0.5% per year.
+
+For a deeper dive into solar panel efficiency losses, see our PV System Losses Series.
+
+
+
+
+Term
+Typical Value
+
+
+
+
+Temperature
+-0.5%/°C above 25°C
+
+
+Inverter Efficiency
+96.5%
+
+
+Mismatch
+98%
+
+
+Wiring/Connections
+98%
+
+
+Soiling
+95% (highly variable)
+
+
+Age
+-0.5%/year
+
+
+Shading
+Highly environment-dependent
+
+
+
+Typical solar efficiency values for different PV system loss types. 
+System derate factor
+The above variables are combined in a coefficient called the “system derate factor” to represent the overall losses of a solar installation. For instance, PVWatts, an NREL-supported PV system energy production calculator, uses a default system derate factor of 86%.
+However, depending on the PV system design or environmental conditions, this value can be higher or lower. Advanced solar design software like Aurora can ensure that you accurately determine PV system losses and how much energy your customer’s solar installation will actually produce.
+Solar panel (module) efficiency denotes what portion of irradiance a module converts into electricity under standard test conditions (STC; irradiance of 1000W/m2, ambient temperature of 25°C). As a general rule of thumb, you can estimate how efficient a PV system is at converting solar irradiance into electricity (under STC) using the following formula:
+Overall System Efficiency = Module Efficiency x Derate Factor
+
+It is important to note that these are merely back-of-the-envelope calculations. To get a comprehensive energy production analysis, you need dedicated tools, such as Aurora Solar’s Design Software, that can incorporate all of a PV system’s environmental, mechanical, and electrical characteristics.
+
+About Solar PV Education 101
+This blog is part of Solar PV Education 101, a six-article series that serves as an introductory primer on the fundamentals of solar. We’re updating each piece in late 2022, so be sure to check back often for the most recent information.
+Part 1: The Beginner’s Guide to Solar Energy (Updated 11/9/2022)
+Part 2: How a Photovoltaic System Produces Electricity (Updated 11/10/2022)
+Part 3: Reading Your Electricity Bill: A Beginner’s Guide (Updated 11/15/2022)
+Part 4: How to Size a PV System from an Electricity Bill (Updated 12/9/2022)
+Part 5: Shade Losses for PV Systems, and Techniques to Mitigate Them (Updated 12/12/2022)
+Part 6: The Basic Principles that Guide PV System Costs (Updated 12/13/2022)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar 101                
+
+
+
+                    Technology                
+
+
+            3 min read        
+
+
+
+            3 Solar Software Must-Haves For Growing Small Businesses        
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Design                
+
+
+            1 min read        
+
+
+
+            5 Ways Solar Design Software Helps Contractors Work Smarter        
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Products & Features                
+
+
+            2 min read        
+
+
+
+            Private: A New Solar Software Feature Comparison Chart        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

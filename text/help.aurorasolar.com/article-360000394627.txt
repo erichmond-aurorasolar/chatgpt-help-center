@@ -1,0 +1,8 @@
+2/16/18 Release Notes
+
+
+Faster LiDAR downloads
+
+Site Models can now be created per Design. Each design has its own site model. Copying a design will copy the site model. All these are now configurable per Design: Irradiance maps, jurisdictions, and weather datasets (for irradiance)
+ 
+

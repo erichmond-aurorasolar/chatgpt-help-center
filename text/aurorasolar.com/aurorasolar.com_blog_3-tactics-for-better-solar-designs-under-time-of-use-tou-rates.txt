@@ -1,0 +1,530 @@
+
+
+
+
+
+
+
+
+
+
+
+
+3 Tactics for Better Solar Designs Under Time of Use (TOU) Rates | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            3 Tactics for Better Solar Designs Under Time of Use (TOU) Rates                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The promise of lower utility bills is typically a driving factor for individuals and businesses considering installing solar. Since the amount solar will save a customer depends heavily on local utility rates and solar compensation (e.g., net metering) policies, as a solar contractor, you need to have a solid understanding of both. You also need reliable systems to accurately assess customers’ solar savings.
+  
+Time of use rates–which charge different prices for electricity depending on the time of day–add additional complexity to determining solar savings and finding the best solar design for the customer. This is because, for net metered solar customers, the value of the energy their PV system produces also varies depending on the time it is sent to the grid. However, time of use rates are becoming more common, particularly in areas with high levels of installed solar.
+For instance, in California, all commercial, industrial, and agricultural customers are already required to be on a time of use (TOU) rate plan and residential customers will be transitioned to these rates starting in 2019. Under these conditions, how can solar contractors design PV systems that maximize their customers’ solar savings?
+There are several strategies that can help you design the best PV system for your customer’s TOU rate. Applying them can translate into measurable differences in solar savings, which can help make your solar proposals more competitive.
+1. Start with integrated system design and financial analysis tools
+One of the first considerations for finding the best design for TOU rates is to make sure you’re using software tools that will let you easily and accurately determine how different design choices will impact the financial returns of your project.
+The structure of TOU rates can vary widely, with important differences in the time periods when different pricing applies. TOU rates can be very favorable for solar customers if peak price hours coincide with when PV systems produce the most, as was historically the case in California.
+In other cases, like when peak price hours occur in the evening, TOU rates can reduce solar savings. This is the case for new, later TOU rates being rolled out in California (a depiction of this change for a San Diego Gas and Electric rate is shown in Figure 1 below).
+Figure 1. An example of different TOU rate structures. The chart on the left reflects SDG&E’s DR-SES rate, a special time of use rate for solar customers, prior to changes implemented December 1, 2017. On the right is the newer version of the same rate which went into effect December 1, 2017; peak hours were shifted to the evening.
+
+To get an accurate understanding of your customer’s savings, your financial modeling tools must take into account how much the PV system will produce at different times, combined with the exact structure of your customer’s TOU rate.
+Beyond that, integrated solar design and financial analysis software can make a big difference in your ability to explore a variety of options to maximize your customer’s savings. This will allow you to quickly see how system design changes or alternative utility rates (discussed below) affect project economics.
+Figure 2. An example of a time of use rate in Aurora Solar’s database. Each number represents a different price tier; you can see how energy prices vary by time of day, as well as seasonally. Aurora has an extensive rate database–over 3,000 utilities and over 17,000 utility rates around the world, plus the option to add new ones. Combined with Aurora’s solar design and financial analysis tools, this facilitates informed TOU design decisions.
+2. Get smart about post-solar rate choices
+A second key consideration for saving your customer the most money with their solar installation is to familiarize yourself with all of their utility rate choices and assess the financial implications of different rates.
+In some cases, the solar customer only has one potential rate that they are eligible for–but other times (as for some PG&E customers) there are multiple options. Choosing the best rate can significantly improve the economics of the project.
+If your customer has a choice between rates make sure to explore the financial implications of different options. In a case study of a solar design for a medium-sized office building in PG&E territory in California (illustrated below), we found that choosing a different post-solar rate resulted in over $42,000 in additional savings over the lifetime of the project.
+In addition to the fact that increased savings can make your proposal more compelling for the customer, this kind of expertise can distinguish your company in the sales process.
+Figure 3. A case study of a solar design for a medium-sized office building in PG&E territory in California where there were multiple post-solar rate options. In this case, choosing the E-19 TOU rate resulted in over $42,000 more savings for the customer over the lifetime of the project and a multiple percentage point increase in the Internal Rate of Return (IRR) compared to the A-10 TOU rate.
+ 
+
+3. Explore alternative azimuths for your PV design
+Finally, solar designers can also experiment with different azimuths (or orientations) for their solar design in order to adjust the timing of some of the array’s production. For example, if a system is facing west, it may produce less overall but have more production later in the day. In cases where peak hours are late in the day, there may be times when this makes sense.
+Figure 4. An example of the production profiles (the distribution of energy production at different times of the day) of PV systems with different azimuths.
+Again, using an integrated program for solar design and financial analysis makes assessing the merit of these kinds of design changes a lot easier–because you’ll more easily be able to compare the value of the solar energy produced, overall system production, and other financial metrics like payback period.
+
+The rise of solar energy and other broader changes in the electricity grid are spurring the exploration of new rate structures by utilities around the country. While time of use rates may not have arrived in your area yet, they are likely to be a more common phenomenon in the future. Getting smart about how to maximize your customers’ savings under time of use rates can help you stay ahead of the curve.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

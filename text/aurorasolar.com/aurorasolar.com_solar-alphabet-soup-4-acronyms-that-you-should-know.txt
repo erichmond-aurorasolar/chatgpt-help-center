@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar Alphabet Soup: 4 Acronyms That You Should Know | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar Alphabet Soup: 4 Acronyms That You Should Know                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[This article was originally published in Solar Power World. ]
+It isn’t easy keeping up with the solar industry. Every few months new products, financing mechanisms, policies, and organizations pop up and change how you design and sell solar.
+This article will bring you up to speed on some of the industry’s most frequently used acronyms, and keep you up to date on important emerging solar design and financing trends.
+  
+1. PACE – Property Assessed Clean Energy
+
+Infographic on how PACE works.
+What it is: PACE is a mechanism by which homeowners can finance solar and energy efficiency projects via their property taxes. Local or state governments, working with traditional financiers, fund the upfront cost of the solar installation or energy improvement. Homeowners pay back their local authority via an increased property tax bill, usually over a period of 20 years.
+Why you need to know about it: PACE has been around since 2001, but for the first 10 years of its life it had a limited impact on the industry. PACE programs received a big boost in August 2015, when the Obama administration issued a new directive to implement legislative changes making it easier to buy and sell properties that have solar installations financed by a PACE loan.
+PACE offers low financing rates, tolerant credit requirements, but most importantly, local governments are incentivized to promote the product since they keep a portion of the PACE payment.
+What’s in store: Over the next few years, I predict PACE-based financing will be the fastest growing financing option in the solar market.
+2. LIDAR – Light Detection and Ranging
+What it is: LIDAR is a method of obtaining information about objects or areas remotely by using light pulses emitted from a device to measure distances. The device combines GPS data with the distances it measures, constructing precise three-dimensional information about the shape of the environment.
+Why you need to know about it: LIDAR is slashing solar design costs by helping the solar industry avoid truck rolls. With LIDAR, a solar salesperson or engineer can quickly generate 3D models directly from their office. They can precisely calculate building, tree, and obstruction heights as well as roof slopes. LIDAR data can be used to generate bankable shade reports, which are accepted for rebate purposes by rebate authorities and private lease financiers.
+What’s in store: As the cost of acquiring LIDAR falls and its benefits become more accessible, I predict that LIDAR will continue to reduce the soft costs of residential solar. NREL estimates that remote site assessment has the potential to reduce industry soft costs by $0.17 per watt — that’s the equivalent of half the cost of an average string inverter!
+LIDAR data is used to improve the accuracy of remote site design in Aurora.
+  
+3. LCOE – Levelized Cost of Energy
+What it is: The LCOE is the average cost per unit of energy that your solar project generates over its lifetime. Mathematically, it is the lifecycle cost of the solar project divided by the amount of energy it produces. The lifecycle cost of a solar project includes the initial cost to purchase it, financing costs (such as loan payments), and operations and maintenance costs (such as inverter replacement costs) over the life of the project.
+
+Why you need to know about it: LCOE is one of the oldest metrics in the solar industry. It offers an “apples-to-apples” way of comparing different financing options. If your client wants to compare the financial returns of going solar via a loan, lease, PACE, or cash purchase, LCOE is one of the best ways to determine their best option. Additionally, knowing your LCOE also has implications for solar design.
+What’s in store: Over the next few years there are going to be more and more options for solar design and financing, so knowing how to calculate LCOE offers you the ability to evaluate them on an equal playing field and determine the best option for your customer.
+4. LACE – Levelized Avoided Cost of Energy
+What it is: The LACE is the average revenue per unit of energy that your solar installation generates over its lifetime. Mathematically, it is the lifecycle revenue (or avoided cost in the case of net metering or other similar compensation schemes) divided by the lifetime energy production. Lifecycle revenue includes revenue earned from feed-in tariffs, avoided cost from net metering schemes, and production-based incentives.
+
+Why you need to know about it: One of the drawbacks of an LCOE calculation is that it does not explicitly take into account the revenue or avoided cost of a solar project. LACE, on the other hand, accounts for that. Since utility rates often vary by time of day, it is important to not only know how much energy you are offsetting, but at what times you are offsetting it. Without knowing the value of the energy you are saving, it makes it hard to compare two different solar designs that cost the same, but have different production profiles.
+Furthermore, LACE allows you to easily compare a solar installation to an energy efficiency retrofit, for example. This has made LACE popular in government and utility planning circles. For example, a utility can compare the avoided cost of purchasing LED light bulbs versus installing solar (spoiler alert: it partially depends on the differential between daytime and nighttime electricity rates).
+What’s in store: As the benefits of solar energy become increasingly explicit, customers will go from asking if they should go green to asking how they should go green. LACE provides a convenient way to compare the economic returns of different ways to reduce your carbon footprint.
+Pantone’s color of the year is “greenery” for a reason.
+And there you have it! Hopefully this overview of some choice acronyms can help you stay on the forefront of this dynamic industry. If you think of some industry acronyms that are important for the solar community to know, tweet us at @AuroraSolarInc!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

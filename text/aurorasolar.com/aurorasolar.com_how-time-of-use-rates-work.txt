@@ -1,0 +1,643 @@
+
+
+
+
+
+
+
+
+
+
+
+
+What Are Time of Use Rates? Your TOU Guide | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            What Are Time of Use Rates? Your TOU Guide                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What do the prices of movie tickets to Hollywood’s latest blockbuster and the cost of electricity have in common?
+Utility companies all over the US are making big changes when it comes to their billing methods for residential customers. Similar to a blockbuster movie, where ticket prices change based on the time of day — matinees tend to be cheaper than primetime showings — many utility companies are moving towards billing customers based on energy used at specific times of the day.  
+Additionally, companies are starting to charge different rates for different types of consumers. Just like in movies where students and seniors can pay less for their tickets than others do, we see a similar phenomenon in utility companies across the country: For a given time period, consumers who use less than a baseline amount of energy can often pay less than those who use more than the baseline amount. 
+The illustration below shows how California’s Pacific Gas and Electric (PG&E) utility varies the cost of energy based on time of day and cumulative consumption.
+
+Figure 1: A diagram of a PG&E time of use rate (E-TOU option A) during the summertime. Source: www.pge.com.
+
+Time of Use Rates Glossary
+There are quite a few terms that are used when discussing time of use rates. Here are some quick definitions to make the process easier.
+What Are Peak Hours?
+Electricity costs more during certain designated “peak hours” for customers on a time of use rate plan. These hours are typically selected to coincide with the times when the demand for electricity is greatest (often in the afternoon/evenings and the summertime). For example, California utility San Diego Gas & Electric (SDG&E) has peak hours from 4pm – 9pm.
+One reason for peak pricing is because utilities must have additional energy generation resources available to meet the needs of the grid during limited times when energy demand is highest. By pricing electricity higher during times that typically have the highest demand, TOU rates are intended to provide price signals that encourage customers to shift their energy usage to other periods. 
+What Are Off-Peak Hours? 
+Off-peak hours are the hours under a time of use rate plan when electricity is less expensive. For customers that can shift some of their energy-using activities — like running the washing machine or charging an electric vehicle — to these off-peak hours, the savings can be significant. 
+What is Time of Use Metering?
+Time of use metering is the measurement that companies use to determine the amount and time of energy consumption from a certain customer. Most locations have an electricity meter that measures that energy like a dial on a clock. That information is then used in the billing process. 
+How Common Are TOU Rates? Where Are They Used?
+California was among the first states to make this type of utility rate structure mandatory for customers. In 2019 and 2020 most residential customers were transitioned to TOU plans. All commercial, industrial, agricultural customers are also required to be on one. 
+California is not alone, however. 
+Time-variable rate programs are already offered on a voluntary basis in many states. In early 2019, Ahmad Faruqui, Principal at the Brattle Group, told Utility Dive that “About half of U.S. investor-owned utilities have optional time varying rates for residential customers,” and that new programs are being tested or talked about in at least ten states. 
+Although participation in voluntary TOU programs has been low to date, as many states consider efforts to modernize the electrical grid and reduce peak energy consumption, TOU rates (and other related time-based rate structures) may become increasingly prevalent. There are multiple approaches that utilities take when it comes to time-varying energy costs, but TOU rates are one of the most common.
+
+How Understanding TOU Rates Can Help You Get A Solar Sale | A Case Study
+Let’s take a look at a case study of two households to get a more complete picture of the impact of a time of use rate plan. Using the modeling tools in Aurora’s solar design and sales software, we can better understand how TOU rates affect customers’ bills.  
+That’s because, with the input of the customer’s bill amount or kWh energy usage, Aurora’s Consumption Profile tool can model the customer’s energy consumption patterns throughout the day and year (their “load profile”) based on the characteristics of the home — for example, whether they have a pool, electric vehicle plug, air conditioner, etc. — and weather data (pulled automatically from local weather stations). 
+
+
+
+Note: Aurora’s consumption profile is just one of many tools we offer
+ to help solar contractors get a complete picture of their customers’ 
+energy usage and design the optimal PV system with ease. 
+
+
+
+In this example, we’ll take a look at a time of use rate from PG&E: E-TOU A, a residential plan. First, a quick note: This case study uses the version of the PG&E E-TOU A rate plan that was in effect as of March 1, 2017. While energy charges under this rate have changed, the peak and off-peak time periods remain the same at the time this article was updated in June 2021. (The current TOU-A rate plan can be found here).  
+In Figure 1, you can see that the cost of energy is higher between 3pm – 8pm on weekdays than during any other time. During a weekday in summertime, as of March 1, 2017, rates range from $.317/kWh, to $.393/kWh. That is almost a 25% variation between the lowest and highest cost energy!
+Household A lives in Bakersfield, CA. We used Aurora to model the customer’s load profile based on typical hourly summertime energy consumption for a house in Bakersfield. 
+Aurora (using average US climate data) generated a load profile where air conditioning was a large portion of Household A’s energy consumption (see Figure 2). 
+Unfortunately for this household, about 43% of their summertime energy consumption occurs during the peak hours.
+
+Figure 2: A load profile for a house (“Household A”) in Bakersfield, CA generated automatically in Aurora.
+Now let’s consider Household B, also located in Bakersfield, CA. In this case, we obtained actual measured interval data (Green Button data) for a house in Bakersfield from PG&E. We uploaded this into Aurora, which generated the load profile below.
+This homeowner has an electric vehicle which they charge at night (off-peak hours). Because of their usage patterns, only about 10% of their energy consumption occurs during the 3pm – 8pm peak hours.
+ Figure 3: Load profile for a house (“Household B”) in Bakersfield, CA generated in Aurora, based on uploaded interval (Green Button) data.
+If you’ve been following along, your intuition would suggest that for the same energy consumption, Household A should have a higher electricity bill than Household B, because they are consuming more energy during peak hours. 
+
+
+
+
+Household A
+Household B
+
+
+Location
+Bakersfield, CA
+Bakersfield, CA
+
+
+Utility Rate
+PG&E, E-TOU A – Residential TOU Region W
+PG&E, E-TOU A – Residential TOU Region W
+
+
+Energy Consumption (July)
+1,873 kWh
+1,873 kWh
+
+
+% of weekday consumption during peak hours (3pm-8pm)
+43%
+10%
+
+
+
+Using Aurora’s utility bill calculator, we found that Household A (high peak consumption) had a bill of $591 for the month of July. We found that Household B (low peak consumption) had a July bill of $561. 
+So, despite consuming the exact same amount of electricity, Household A’s bill was about 5.5% higher in July than Household B.
+
+Figure 4: Household A’s July electric bill is $591.
+
+Figure 5: Household B’s July electric bill is $561.
+Does this make sense? Mathematically, we can get a rough estimate of how much of a difference TOU rates should make in electricity bills by running our data through a formula:
+TOU Bill Difference = (DaysTOU/7) * (ConsumptionpeakA– ConsumptionpeakB) * (URpeak – URoffpeak) / URoffpeak
+Equation 1: Rough estimate of the TOU effect on energy bills.
+Let’s plug some numbers into Equation 1.
+
+
+
+Term
+Definition
+Value
+
+
+Days TOU
+Days of the week that TOU values apply
+5*
+
+
+Consumption_peakA
+Energy consumption (kWh) during peak hours for household A
+43%
+
+
+Consumption_peakB
+Energy consumption (kWh) during peak hours for household B
+10%
+
+
+UtilityRate_peak
+Peak period utility rate **
+$.393/kWh
+
+
+UtilityRate_offpeak
+Off peak period utility rate**
+$.317/kWh
+
+
+
+*TOU rates in this region only apply to weekdays
+** For simplicity we are assuming that this is for the above baseline energy consumption
+TOU Bill Difference = (5/7) * (43%-10%) * (.393- .317) / .317= 5.64%
+You can see our estimate came pretty close to the actual difference between Household A’s (high peak consumption) and Household B’s (low peak consumption) energy bills. (In this related article, we extend this case study to consider how increasing the total amount of energy consumed affects energy bills.)
+Want to see how it works? Sign up for an Aurora demo.
+Key Takeaways
+To summarize:
+
+Like the prices of movie tickets, under time of use rates, the cost of electricity varies based on the time when you use it.
+For solar customers in TOU areas, understanding these rates is particularly important because TOU rates affect solar savings. Modeling software can help contractors provide accurate savings estimates for customers.
+You can use the following simple formula to calculate how much of an impact the difference between high-cost electricity and low-cost electricity has on a homeowner’s bill:
+TOU Bill Difference = (DaysTOU/7) * (ConsumptionpeakA– ConsumptionpeakB) * (URpeak – URoffpeak)/URoffpeak*
+
+Considering TOU rates in your solar proposals can help you craft your solar proposal with more exciting savings in mind. If you’d like to quickly provide consumption profiling (even taking TOU rates into account) Aurora is the perfect, fast solution. We also have an excellent solar sales proposal software, so you can spend your time focusing on taking care of the customer and getting back to them quickly and efficiently. 
+In this article, we focused on energy rate factors where the cost of energy varies according to the time of day it is consumed. Check out our other articles:
+
+How rates vary based on level of energy consumption
+How utility rate changes affect the returns for solar customers
+How you can optimize your designs to maximize savings under different rate types.
+
+
+Editor’s Note: This article was originally published on March 21, 2017. It was updated in June 2021 for freshness, accuracy, and comprehensiveness.
+Cover photo credit: NREL/DOE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

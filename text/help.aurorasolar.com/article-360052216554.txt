@@ -1,0 +1,5 @@
+8/11/2020 Release Notes
+
+
+Added additional sample Financing Products to the database.
+Added additional details to the notification when 3D Modeling Service requests are rejected. 

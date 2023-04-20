@@ -1,0 +1,6 @@
+03/04/2021 - Weather Data Update
+
+ 
+Aurora is constantly striving to make our simulations more accurate. On 03/04/2021 we introduced improvements to our data sets by including NREL's NSRDB PSM v3 weather data.Below are some common questions you may have about this new data:
+If I rerun simulation on my project will my production values change? When you rerun your simulation performance and irradiance results will change based on the newer weather station. However, existing projects will not change stations automatically. 
+Will I Iose any weather data access? No. Aurora has not deleted any weather data sources but rather just added a new, additional source.Can I choose between various weather data sets for a project?Yes, you can switch the weather data source. Aurora will search to find close by stations. If none are found close by, you have the option of choosing another set. 

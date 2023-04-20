@@ -1,0 +1,581 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar O&M: What solar contractors need to know | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    8 min read                                
+
+
+                            Solar O&M: What solar contractors need to know                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Operations and maintenance, commonly called “O&M”, has grown from a simple service offered by engineering, procurement, and construction (EPC) companies for systems they built, to a dedicated market segment comprised of independent service providers and robust branches of solar contracting companies. 
+The maturation of the solar industry has also led to increased O&M specialization to address the more complex demands of both the market and the grid.
+Regardless of whether solar contractors engage directly in O&M, it is important to understand — particularly given the long lifespan of solar systems and the ongoing need to ensure they generate as much power as possible.
+In this article, we explore the following:
+
+What solar O&M involves 
+Considerations for solar contractors regarding offering O&M services
+Working with other companies specializing in this space and the criteria for evaluating potential solar O&M partners
+
+What is O&M?
+Broadly speaking, O&M is a set of activities or programs that deals with the practices, tasks, and labor that help systems run properly and efficiently. 
+O&M includes three basic functions: rapid problem identification and resolution, minimization of downtime due to faults, and comprehensive reporting and transparency.
+What is solar operations and maintenance?
+As you may have guessed, solar O&M is this same set of activities, but applied specifically to solar PV plants to help optimize how they produce energy. 
+There are several different aspects to solar O&M: 
+
+Preventative maintenance: The routine inspection and servicing of equipment to avoid breakdowns and needless production losses. 
+Corrective maintenance: Repairs after a breakdown occurs to minimize unplanned downtime. 
+Condition-based maintenance: Using real-time data to predict breakdowns and prioritize activities and resources; offered by an increasing number of third-party integrators and turnkey providers.
+
+Each of these approaches employs some, or all, of a number of services, including: performance monitoring and diagnostics, energy forecasting, warranty administration, and preventative maintenance including module cleaning and vegetation control. 
+It can also involve integration with a third party for system commissioning, Supervisory Control and Data Acquisition (SCADA) upgrades, parts replacement, and re-roofing support.
+The maintenance aspect
+Maintenance includes both scheduled and unscheduled elements. While scheduled services are outlined by equipment manufacturers’ product manuals, unscheduled maintenance involves fixing problems once they occur (fairly self-explanatory). 
+Scheduled maintenance lowers the frequency and cost of unscheduled work, ideally achieving a system that operates properly at “99.9% availability” due to constant monitoring and clear recovery systems.
+The risk management aspect
+Risk management, another side of O&M services offered by some industry players, is the ability to identify what can go wrong and predict probability and consequences. 
+It enables PV owners or asset managers to effectively plan for unscheduled maintenance and mitigate issues. Risk management is emerging as a distinct field, with a number of companies offering software and services to “ensure” solar production.
+Creating a foundation for lower-maintenance O&M
+When a PV system is designed and built with the highest quality in mind, using a complete software solutions, there are less costs and wasted time associated with O&M. Aurora Solar has the best design software for PV systems. With features like LIDAR-assisted modeling and NREL-validated shading analysis, you can have confidence that you’ve created the best foundation for operations and maintenance moving forward.
+Aurora’s Plan Sets Service streamlines what can be a difficult process.
+For example, Aurora Solar’s Plan Sets Service not only brings speed and quality to your post-sales processes, it brings peace of mind to your teams. It streamlines and standardizes your data-collection process within your sales and design tool, and even takes care of AHJ identification. It consolidates all the information you need to collect in an easy-to-use intake form — and information from your design can automatically populate many fields in the form. After gathering the necessary site information, you can submit a request for a solar permitting plan set package directly within the platform. The Aurora team review the site information, ensure all AHJ requirements are met, and deliver a permit-ready plan set package within 24h.
+Click above to watch the full webinar.
+Including solar O&M in-house
+There are a number of factors to keep in mind when assessing the feasibility of adding solar O&M services to your contracting business or expanding your current offerings.
+Benefits of in-house solar O&M
+Benefits for solar companies that offer O&M services in-house include the ability to be your customer’s key point of contact from initial design and construction to maintenance over the long-term. This may mean lower costs for asset owners and greater value from each customer (increased customer lifetime value) due to the ability to maintain a relationship with customers for the 25+ year lifespan of their systems. This allows for more payments over time, as well as more opportunities for referrals or subsequent jobs.
+Challenges with in-house solar O&M
+There are also some important challenges to consider, however:
+
+Does your company have the necessary expertise and workforce?
+Can your team support these additional services without compromising your current design and installation commitments?
+
+To effectively provide solar O&M services, a company needs to be able to address three areas of functionality: core systems, supporting systems, and management.
+Core systems
+Core systems include data monitoring systems and the data analysis capabilities to interpret results and identify problems. Appropriately skilled field personnel and strong engineering capabilities are also key.
+Supporting systems
+Supporting systems include protocols for efficiently running O&M operations, such as quality assurance systems, development of a comprehensive knowledge-base to assist with diagnosis of similar issues, and field tracking and measurement. 
+Management
+Management entails having proper technical knowledge as well as the ability to oversee maintenance activities, in-house and subcontractor personnel, and inventory.
+Your company also needs to be able to provide a comprehensive, precise assessment of the potential profitability of a system and the O&M risks and costs. This allows you to price and schedule your services in a way that is both accurate and in line with the asset owner’s risk tolerance. 
+Keep in mind, this process can be complex and may require robust software as well as a sophisticated approach to plant operational health, particularly if your company has a large number of smaller systems or larger commercial solar plants.
+Considerations for outsourcing solar O&M
+Working with an external company specialized in solar O&M to manage O&M needs for the PV systems your company installs can have some particular advantages. 
+Benefits of outsourced solar O&M
+Offering O&M in-house may require you to dedicate resources to activities that are not the core of your company’s focus, including attempting to fulfill commitments made by a sales team years earlier. 
+Therefore, a major benefit of outsourcing is that it can help your solar installation company maintain its focus on core services. Outsourcing to a contractor specializing in O&M also means PV system owners have a company that is completely focused on those services and that can provide guarantees regarding system availability and response times.
+The types of solar projects your company works on are another consideration, as O&M needs differ between smaller residential and commercial systems and large-scale commercial and industrial plants. 
+Large-scale solar plants have particular needs that are sometimes most effectively managed by a dedicated O&M contractor. The paperwork can be extensive, complicated, and varied, and every site requires adequate staffing. An O&M specialist can be better equipped to manage multiple long-term contracts with layers of guarantees.
+Additionally, making accurate predictions to plan for future O&M requirements can be challenging. This requires strategic evaluation of complex systems to know how to predict performance issues and budget for expected costs. A dedicated operations company may be better equipped in this respect.
+Challenges with outsourcing O&M
+There are a few potential challenges with outsourcing solar O&M. For starters, depending on how you set up the relationship with an O&M provider, your company may not get to stick with the customer from beginning to end, resulting in a lower lifetime customer value. 
+Also, taking on a relationship with another company for O&M puts your own company’s reputation on the line. A poor partnership could result in fewer referrals, fewer subsequent jobs, and a lower client retention rate. That’s why we recommend taking a few things into consideration before starting up a partnership.
+What to look for in an O&M partner
+If you’re considering developing a relationship with an O&M partner, there are a variety of factors to evaluate in potential partners. Solar Power World writes, “Outsourcing solar O&M is not just about technology and techniques, it’s about partnering with someone having an international perspective of the best practices in plant inspection procedures, quality assessment plans and checklists for maintenance.” 
+An effective O&M company does not simply provide preventive maintenance services. They must be able to fully monitor and analyze the performance of a system and work to ensure it is performing optimally.
+The company should be able to follow plant inspection procedures and execute quality assurance plans. They should provide real-time monitoring, data analysis, and reporting for expedited fault handling and optimal use of resources. This should include periodic and preventive maintenance checks with IV curve analysis and thermographic imaging.
+Certifications of company staff can also be a helpful indicator of competence. The North American Board of Certified Energy Practitioners (NABCEP) now offers an O&M certification, as does Solar Energy International. The team should also be fully-bonded and have clean safety records.
+Click above to schedule a personalized demo.
+How to find an O&M company
+For contracting companies interested in working with outside O&M partners, there is a variety of ways these relationships may be structured. An O&M provider can be a subcontractor to a solar contracting company, receive referrals from the contractor, or in some cases a third party can facilitate the relationship.
+The relationship between a contractor and an O&M company is sometimes administered by an asset management company. For residential systems, the contractor can have a channel partnership with the asset management company who monitors the system. The asset management company brings in a third-party subcontractor to fix issues the contractor can’t handle. For commercial projects, the asset management company partners with the O&M contractor to execute services and, on a per project basis, creates O&M contracts or works with the EPC or warranty provider to structure O&M services.
+Given the financial challenges inherent in solar PV O&M, such as budgeting for project performance and service needs far in advance, it’s important to look for an approach to O&M that suits the particular needs and abilities of your company, including what makes the most sense financially.
+For all systems, one of the most crucial factors in ensuring the successful operation of a PV system over the long term is a solar contractor’s ability to deliver excellence in solar design and installation. 
+Beyond that, whether you choose to manage O&M in-house, work with a contractor, or refer your customers to an O&M specialist, consider what will best allow you to ensure optimal solar production and a good experience for your customers.
+Click above to schedule a personalized demo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

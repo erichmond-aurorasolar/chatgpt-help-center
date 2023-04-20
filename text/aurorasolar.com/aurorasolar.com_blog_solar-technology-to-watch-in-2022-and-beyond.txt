@@ -1,0 +1,545 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar Technology to Watch in 2022 and Beyond | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar Technology to Watch in 2022 and Beyond                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The theme for this year’s Earth Month is “Invest in our planet,” and whether you work in the industry or not, there’s no arguing that solar is, and will continue to be, one of the big investments we need to make to, well, keep Earth livable. 
+For its part, the solar industry continues to grow at an amazing pace. While the pandemic did slow solar growth over the past couple years, the residential solar market did grow by over 30% in 2021, and looks strong over the next few years — despite facing supply chain issues and materials shortages. 
+One of the main things that will help the industry continue to grow? As usual, it comes back to the incredible pace of solar technology. 
+For this blog, we’ll look at some of the technological developments we find most exciting, and how they might affect the solar market and installers. This is by no means an exhaustive list, please let us know what you’re seeing out there and how you’re adapting.
+New Solar Tech in 2022
+Here are some solar technologies in 2022 that we’re keeping an eye on.
+Perovskite Cells
+Perovskite cells are flexible, lightweight, and low-cost solar cells made using perovskite and organic materials. Perovskite cells hold promise to enhance photovoltaic deployment in a wide range of applications, such as powering vehicles and boats. But they’ve traditionally suffered from a couple challenges: efficiency and instability. 
+This year has seen a few research groups from around the world make real progress on the instability front. 
+By adding a ferrocene layer — essentially compounds with iron at their core — researchers from City University of Hong Kong made perovskite cells more stable and more efficient. In fact, in lab tests, this ferrocene layer could boost the efficiency of perovskite devices to 25%.
+These devices still face some real challenges, for example, scaling them up to size that’s useful for residential purposes. Right now, “the device area was defined and characterized as 0.08 cm2 by metal shadow mask.” 
+So, perovskite is still more on the level of an “interesting tech to watch” right now.
+
+More Efficient Solar Modules
+In 2020, the National Renewable Energy Laboratory (NREL) announced that it developed a six-junction solar cell prototype that achieved an impressive 47.1% efficiency. This new technology isn’t available for consumer photovoltaic installations for a number of reasons, but that doesn’t mean we don’t continue to make great strides in solar panel efficiency.
+The most efficient panels available to consumers are pushing 23% efficiency now, compared to about 15% just 10 years ago. Even incremental gains mean generating more power on smaller roof areas, lowering payback times and making solar attractive to more people.
+Recycled Silicon
+While a big part of solar’s appeal to many people is its environmental benefits, what to do when panels reach the end of their life is becoming an increasingly important question.
+Right now, silicon-based technology represents approximately 95% of total solar production, so anything we can do to make panels more recyclable is a huge plus. 
+A group of German researchers recently announced the development of 19.7% efficient PERC solar cells made from 100% recycled silicon. Silicon was recovered from end-of-life silicon panels, and could be recycled regardless of panel type, make, or origin. 
+This is just one example of the work being done in the recycling space, but the upside of this work is potentially huge. Silicon recycling will combat waste and create new markets for end-of-life solar products, while creating new streams of raw materials for panel manufacturing. 
+Solar Energy Storage
+Solar energy storage is another area where we expect to see significant growth in 2022. For reasons from energy independence to backup power, homeowners are increasingly considering solar battery storage. 
+This market is driven by the continuous improvements in battery technology, including high-capacity batteries with long discharge times — up to 10 hours is on the horizon. This article shows more about what’s available in battery tech.
+Along with improvements in battery technology, to really sell it to potential customers, modeling software has had to improve, too. And it has. For example, Battery Storage for Aurora allows you to present a homeowner with a pre-assembled smart recommendation that can be added to your solar design within seconds.
+
+Modernized Solar Software
+On the ground, perhaps the technology that affects solar installers’ day-to-day life the most is the solar sales and design software you use. All the best solar technology is meaningless without a way to sell and scale it. 
+The pace of innovation in solar software is incredibly fast. For our part, Sales Mode gives your sales team the industry’s most powerful 3D-design tool in an interactive, iPad-friendly format. It even lets your sales reps work with the customer to make changes to their proposal in real-time.
+Other important improvements include steps like integrated financing. While it may not seem as exciting as the other developments on this list, having financing options directly integrated into Sales Mode lets reps streamline loan pre-approval and documentation — for themselves and customers. 
+
+Learn More…
+Looking to read a little more?
+
+The Big Book of Solar Software Must-Haves goes in-depth on everything you need in a solar software solution.
+Get a 2-minute lesson on how integrated financing can help you close more deals.
+
+Want to listen to or watch something quick?
+
+Check out this webinar on how to power your sales team with AI.
+See how APIs can help you reduce errors and automate your solar processes.
+
+To get all your specific questions answered, schedule quick a demo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

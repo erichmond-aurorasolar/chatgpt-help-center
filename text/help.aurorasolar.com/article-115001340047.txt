@@ -1,0 +1,20 @@
+Submodule (Cell String)-Level Simulation
+
+Bypass Diodes at the Submodule (Cell String)-Level
+As noted in the article on global MPPT, bypass diodes can sometimes result in higher overall production if shaded modules are bypassed. But what happens if only a portion of the module is shaded? That is the reason why manufacturers integrate more than one diode into a module—this effectively divides the module up into smaller sections, or cell strings, each with a parallel bypass diode. When there is shade on only one of these cell strings, it can be bypassed while the rest of the module operates at its maximum power; for a module with three cell strings (and three bypass diodes), that means we’re only losing about ⅓ of the module’s power instead of the entire module’s power. A common cell string/bypass diode configuration is shown below, where a 60 (72) cell module is divided into three strings of 20 (24) cells, each with a parallel bypass diode.
+
+Image source: SolarPro
+Aurora is capable of running performance simulations at the submodule, or cell string level for silicon crystalline modules. For modules in the Aurora component database, we simulate the actual cell string and bypass diode configuration of the module you’ve chosen, beginning with a shading analysis performed on each cell string of every module. If your design includes an inverter with global maximum power point tracking capability, Aurora will attempt to bypass individual cell strings that are shaded or otherwise limiting a string’s current in order to maximize the output power. The ability to perform shading and performance analyses at this level of granularity, with bypass diode and cell string information specific to the exact components in your design, is unique to Aurora.
+You can enable submodule simulation in the performance simulation settings:
+1. In your Design click on the down arrow next to the Simulate button in the Production toolbar on the right. 
+2. Click on the Gear icon in the top right corner to enter the Simulation Settings menu.
+3. Check off the Submodule Simulation box and click Done.
+
+4. Click the Simulate button to see the Submodule Level Simulation.
+
+For the time being, this will only be an option when your design also includes inverters with global maximum power point tracking and modules from Aurora’s component database that contain cell string configuration information, which are noted as supporting submodule simulation. The list of modules and inverters that support these features will be expanded over time. 
+Impact on Energy Production
+
+Simulating at the submodule level vs. the module level will often result in higher production estimates. This is because the MPPT has the flexibility of bypassing individual cell strings vs. bypassing entire modules; in some cases, an entire module cannot be bypassed because it lowers the string voltage by too much, while a cell string can be bypassed without causing the output voltage to fall outside the inverter’s operating window.
+Different modules have different bypass diode and cell string configurations, so two different260 W modules could perform significantly differently at the submodule level. We have updated our component database to include the cell string configurations of as many modules as possible, but we encourage you to contact module manufacturers for more information regarding the internal configurations of their products.
+When it is not optimal for bypass diodes to be activated, such as in an unshaded site, there will be no difference between a module-level and a submodule-level (cell-string-level) simulation.

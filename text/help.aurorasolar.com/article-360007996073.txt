@@ -1,0 +1,22 @@
+Submitting a Request to our 3D Modeling Service
+
+Aurora’s 3D Modeling Service provides users with an opportunity to request a 3D model within the app. We have teamed up with a group of professionals to provide you with fast, accurate models of your work sites!* Each model includes Nearmap HD imagery. 
+*3D model service is currently only available 7:00AM PST to 7:00PM PST (Monday - Saturday). Models requested outside of these hours may be completed the next business day.
+To request a model, follow these steps:
+Step 1: Create New Project and enter your desired address
+Go to Projects → Create New Project → Create
+
+Step 2: Click on Design and choose Make a Request
+In the menu on the left, create a design by clicking ‘+’ next to Designs→ Having Trouble Modeling Roofs? → Make a Request
+
+Step 3: Move Green House Icon over requested property
+Drag green icon over property → Request
+
+Once requested, the window will display the time when your model will be available.
+Step 4: Relax while you wait for your 3D model! 
+Your model should be returned within 3 hours. You can check the progress of your request by looking at the time wheel next to the Model Request either within the project or on the Projects tab.
+
+Once the model is finished, you will receive an email from Aurora Solar informing you of the completion of your request with a link to review the design. If you are pleased with the design, click ‘Use This Model’ to design your system!
+If you are unhappy with the model, you can choose to have the model adjusted by our team or cancel your request and we'll refund your credit:
+
+If you have any issues or further questions about our 3D Modeling Service, please reach out at support@aurorasolar.com. 

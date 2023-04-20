@@ -1,0 +1,8 @@
+Adjusting for Slanted Imagery
+
+Sometimes Google’s satellite imagery is taken at an angle which adds an artificial slope to the house profile.
+
+Address this issue by ignoring the slants – make your east/west and north/south edges straight and parallel.
+You want to avoid drawing in the roof structure at an angle as shown below.
+ 
+

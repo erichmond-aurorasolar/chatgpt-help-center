@@ -1,0 +1,557 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Solar Irradiance Is Calculated–and How We Made It 30 Times Faster | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Solar Irradiance Is Calculated–and How We Made It 30 Times Faster                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When you sit down to design a solar installation for a prospective customer, probably one of the first things you consider is how much solar energy (irradiance) is available in different locations. 
+In today’s blog post, we explain the principles of calculating solar irradiance and discuss some of the computation approaches we employed to make this critical process faster for you.
+We’ll also talk about why an efficient solar irradiance calculation can save solar installers over $800 per system.
+If you’re using remote solar design software, rather than relying on manual measurements at the project, all you have to do is click a button and the software generates an irradiance map showing the solar irradiance at every point on the roof of your site model.
+But what’s happening behind the scenes in your solar software to deliver that irradiance map? Do you understand the diverse components that go into the calculation of solar irradiance?
+While one of the benefits of solar software is that you don’t need to think too much about these calculations, it can be helpful to have an understanding of how solar irradiance is calculated to answer customer questions. Here at Aurora, we think about these calculations a lot, and recently our engineers have been working hard on updates that increased the speed of irradiance calculations by 30 times!
+
+An example of a solar irradiance map generated by Aurora solar software.
+What is Solar Irradiance?
+Irradiance is a measure of solar power. Because power refers to the rate of energy transfer over time (not the total amount of energy delivered), another way of thinking of irradiance is that it quantifies the amount of solar energy that arrives in a particular area in a given moment [Watt/m2].
+When that value is converted to express the total amount of energy the area receives over a certain interval of time, say one hour, it is communicated in Watt hours (Wh) or, depending on quantity, kilowatt hours (kWh) per unit of area [(k)Wh/m2]. This is a measure of insolation.
+In Aurora, we use the term irradiance interchangeably with insolation and communicate the value in kWh/M2/yr. This provides a helpful way of conceiving of the amount of solar energy that will be available to your solar installation over the course of the year, given any shade that is present as well as the local weather patterns.
+To learn more, check out our blog on Key Solar Energy Terms.
+
+Solar Irradiance Maps
+When you’re selling solar to clients, it can be helpful to know how their areas are affected by their location in reference to the sun. However, as we’ll get to in the next section, the calculations themselves can be very intricate. 
+As a help, we’ve gathered links to some excellent resources for solar irradiance maps that you can find here:
+
+NREL’s (National Renewable Energy Laboratory) Global Horizontal Irradiance Map
+Global Solar Atlas Map
+Solargis Solar Resource Maps of the World
+Solcast Solar Irradiance Maps
+
+The Basics of Irradiance Calculations
+While you might think solar irradiance is solely based on the rays of sunlight that directly reach a surface, there are actually several sources of irradiance that go into the calculation. A simple formula for solar irradiance is not as effective, then, since you’ll need to take these sources into account for an accurate calculation.
+The first of these is that direct “beam” irradiance that you might intuitively associate with irradiance. This involves determining whether there are any objects that would block rays of the sun from reaching the solar panel (i.e., cause shading), in order to determine if this component should be included in the total irradiance.
+In addition to this, there are two types of “diffuse” or indirect irradiance that need to be accounted for: sky diffuse irradiance — the light reflected from the atmosphere, separate from direct rays of sunlight that fall on the panel, and ground-reflected diffuse irradiance, light that is reflected back up from the ground.
+In order to calculate these three broad types of irradiance, it’s also necessary to take into account the angle of the array and the direction to the sun relative to the panel.
+
+There are three broad types of solar irradiance that must be included in calculations of the irradiance on a particular surface; these include direct irradiance from beams of the sun, as well as diffuse irradiance from both the sky and the ground.
+Of these calculations, determining whether or not direct beams from the sun can reach the panel requires the most processing power. This is because shading from surrounding objects must be calculated based on the location of the sun at every daylight hour of the year — these calculations can quickly add up! 
+Determining Sunbeam Intersection
+In order to determine whether the rays of the sun will directly hit a particular surface, one must first have an accurate understanding of the surroundings — including objects like trees, surrounding buildings and roof planes, and obstructions like skylights, vents, and chimneys. This is why the starting point for creating a solar design in Aurora is to construct a 3D model of the project site.
+Aurora’s irradiance engine translates the fully modeled project site into simpler shapes, which are more conducive to computational processes by computers.
+
+Aurora translates the 3D model of the project sites into simpler shapes. Aurora then computes whether any of these component shapes will block the rays of the sun during each daylight hour of the year, one key component of calculating solar irradiance.
+From there, Aurora’s irradiance engine computes the location of the sun, relative to the panel, for every daylight hour of the year; for each hour, it tests whether a beam from the sun to the panel hits any object in the scene. 
+If the beam intersects with an object, that means it cannot reach that point on the surface and the direct beam irradiance component should not be included in the irradiance calculation (in other words, that location is shaded at that hour of the day).
+To generate an irradiance map, Aurora intelligently samples different points on the roof. For performance simulations, Aurora computes the irradiance at specific points on each panel or cell string.
+
+Aurora solar software calculates whether any objects at the solar project site would block the rays of the sun at any given hour.
+Making Our Irradiance Calculations 30 Times Faster
+Because a project site can contain thousands of objects, and intersections with solar rays have to be calculated for every daylight hour of the year, the number of calculations that need to be computed can be significant.
+There are generally over 5,000 daylight hours for a given location. This means that, for each point on the roof, over 5,000 potential sun locations must be simulated, and a complex project site could require irradiance calculations for as many as 100,000 to 500,000 points! So, as you can imagine, running these processes one at a time could sometimes be a lengthy process — especially for very large or complicated sites. 
+
+Computing whether rays of the sun (direct beam irradiance) will reach a given point requires significant processing power, especially for complex sites like this one. By computing the many component processes in parallel (i.e., at the same time) Aurora solar software was able to deliver 30x improvements in the speed of irradiance map generation.
+That’s why Aurora’s computation team set about developing an approach to enable Aurora to run many of these computations at the same time. This was done by utilizing Graphics Processing Units (GPUs).
+In contrast to Central Processing Units, or CPUs, which you might be familiar with as the devices that perform most of the computing processes in your computer, GPUs are much better at performing thousands of calculation-heavy operations in parallel. This made it possible to dramatically speed up shading calculations.
+By computing the intersections of the sun’s rays with thousands of objects in the scene in parallel (at the same time) rather than sequentially (one after the other), Aurora has been able to deliver 30x speed increases! 
+To put this in context, irradiance for a large commercial project site of a 7 MW PV system can now typically be calculated in under 20 seconds. And, of course, this is done while still maintaining the high shading accuracy that Aurora is known for.
+Why Solar Irradiance Calculation Matters to Solar Contractors
+Aurora’s advanced solar design software has made it significantly easier for solar contractors and designers to determine how much solar energy is available to the solar arrays they design. 
+Instead of having to visit the home or business of every prospective customer and take manual measurements from the roof or ground where the array would be located, this can now be done accurately with the click of a button. The National Renewable Energy Lab calculates this could save solar installers over $800 per system.
+The next time you press “simulate” in Aurora, not only will you notice that the irradiance map generates much faster than you might expect, you’ll also have a better sense of what’s going on “under-the-hood” in the software. As we discussed in a recent post, being able to explain the power of your solar software tools is one way to help prospective customers understand the quality of your solar design processes — and feel more confident choosing your company for their solar installation.
+Want to see it in action? Schedule a demo today!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

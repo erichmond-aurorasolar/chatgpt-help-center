@@ -1,0 +1,567 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar Design Lessons from the 2017 Solar Decathlon Winners | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar Design Lessons from the 2017 Solar Decathlon Winners                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Two weeks ago, during the Solar Decathlon 2017 Competition , we explored the solar powered house designs from participating university teams. The designs showcased many creative and resourceful strategies—and presented a fun challenge for modeling in Aurora.
+
+With the competition now complete, today’s post takes a closer look at the top three teams to identify some of the solar design lessons from their success.
+The Solar Decathlon 2017 competition houses, modeled in Aurora.
+
+The Solar Decathlon Contests and Winning Teams
+The Solar Decathlon is comprised of ten equally-weighted contests, each with a total of 100 available points. Six of the contests—Architecture, Market Potential, Engineering, Communications, Innovation, and Water—are juried contests in which industry experts tour each house and assign it a score. Performance in the last four contests—Health and Comfort, Appliances, Home Life, and Energy—is based on measurements by sensors connected to each home. (For more information on the criteria of each competition, see the end of this article.)
+The winning teams this year featured a few common characteristics: appealing layout and appearance, energy and water efficiency through cutting-edge design practices and innovative methods, and excellent operation of the house during the contest week. Here’s a breakdown of the scores of the top three teams:
+1. Swiss Team – 872.910 points
+395.4 out of 400 measured contest points (#1)
+478 out of 600 juried contest points (#2)
+2. University of Maryland – 822.683 points
+348.7 out of 400 measured contest points (#4)
+476 out of 600 juried contest points (#3)
+3. UC Berkeley / University of Denver – 807.875 points
+394.6 out of 400 measured contest points (#2)
+414 out of 600 juried contest points (#9)
+
+The top three house designs from the 2017 U.S. Solar Decathlon, left to right: NeighborHub by the Swiss Team, reACT by Team Maryland, and RISE House by UC Berkeley and the University of Denver. Photo Credits: (left) Dennis Schroeder/U.S. Department of Energy Solar Decathlon; (center and right) Jack Dempsey/U.S. Department of Energy Solar Decathlon.
+Both the Swiss Team and UC Berkeley/University of Denver did exceptionally well in the measured competitions, losing just a few points across the Health & Comfort, Appliances, Home Life, and Energy contests. In the juried contests, the Swiss Team took second place and Maryland tied for 3rd (with the Northwestern house).
+Lessons from the Energy Contest
+The Energy Contest evaluates each team’s energy production (kWh) and the value ($) of that energy based on a theoretical utility rate structure. Of the total 100 points for the Energy Contest, Energy Production accounts for 60 possible points and Energy Value accounts for 40.
+Each team’s house both could both contribute energy to and take energy from the Solar Decathlon electricity grid (a microgrid created for the competition), just as would be the case for net metered customers on the U.S. electricity grid. Additionally, for the first time, this contest included time of use energy pricing.
+
+Let’s take a quick look at the Energy Contest and how the top teams fared:
+Graph of teams’ cumulative energy production and energy value, the two components of the Energy Contest. Credit: U.S. Department of Energy Solar Decathlon 2017 .
+The above graphs show the top three teams’ Energy Production and Energy Value throughout the competition week. In the Energy Production segment, teams receive the full 60 points if they have an energy surplus for the competition; if they have an energy deficit, they can receive partial points depending on the size of the deficit, between 0 and -50 kWh. For the Energy Value segment, teams get the full 40 points for having at least $10 in energy credits by the end of the competition, with prorated points for having between $10 in credits and -$10 in energy charges. Both the Swiss Team and UC Berkeley/University of Denver achieved the $10.00 credit threshold, and Maryland managed their house energy demands at the end of the contest to keep a small energy surplus despite inclement weather that reduced energy production.
+Designing for the Local Weather
+October 9th was the first time in all of the Solar Decathlon contests that snow fell on the competition site, presenting a new challenge for the competitors. Most of the Solar Decathlon teams had PV systems sized to handle inclement weather, as is evident in the growing energy surplus for all three teams during the in the first few (sunny) days of the competition. This surplus proved very valuable when snow arrived mid-week. During the snowfall, we can see that each of the houses experienced a decline in their net energy balance, a result of powering their homes for the contests while there was minimal production from the PV arrays.
+While several teams had to sweep snow off their solar panels to keep the systems up and running, the Swiss Team simply left the facade of the NeighborHub closed. This prevented snow from accumulating in the first place, contributing to their strong performance. Not all systems were designed with snow in mind, but rather reflected the climate of the house’s target market.
+
+A model of NeighborHub in Aurora, showing the house’s ability to adjust pitch of its panels.
+Benefits of Module-level Power Electronics
+Many teams came in with some sort of module-level performance control, either a set of optimizers or microinverters. In some cases they served mostly to help monitor individual module health, but the Swiss Team’s winning design took it a step further by using optimizers to connect modules with different orientations without taking mismatch losses in production. It also provided an additional benefit when a muddy bird walked all over the array, seen here:
+Photo credit: Joe Simon/U.S. Department of Energy Solar Decathlon.
+Hungry for more inspiring solar designs? You can check out our Solar Landmark blog series—as well as future Solar Decathlon events! The program now has multiple international events, with five more planned before the next U.S. competition in 2020:
+
+Solar Decathlon China   – 2018 in Dezhou, China
+Solar Decathlon Latin America & Caribbean  – 2018 in Cali, Colombia
+Solar Decathlon Middle East  – 2018 in Dubai, UAE
+Solar Decathlon Europe  – 2019 in Szentendre, Hungary
+Solar Decathlon Africa  – 2019
+U.S. Solar Decathlon  – 2020
+
+You can also check out some of the innovations that have come out of the Solar Decathlon competition in their latest blog post .
+What solar design lessons did you take away from the U.S. Solar Decathlon 2017? Let us know in the comments below!
+
+Solar Decathlon Contest Details
+Curious about what goes into each of the ten contests that comprise the Solar Decathlon Competition? Here’s an overview of how each is judged:
+
+1. Architecture: A jury of architects evaluates each team’s architectural concept and design approach; the implementation of the design and its innovative features; and required documentation for the project. 
+2. Market Potential: Teams design a primary residence for year-round occupancy for a specific target client. A jury of professionals from the homebuilding industry evaluates the overall attractiveness of each team’s design to its selected target client and the market impact potential of the house. 
+3. Engineering: A jury of engineers evaluates the engineering design and implementation of each team’s house based on the engineering approach, design, efficiency, and performance. 
+4. Communications: A jury of communications professionals evaluates each team’s communication strategies, materials, and efforts to educate, inform, and interest the team’s local communities, visiting public at the event, and diverse online audiences. 
+5. Innovation: This is a new contest for Solar Decathlon 2017. A jury of industry professionals will evaluate each team’s research, approach to sustainability, innovations for the target client, and durability and safety of innovative elements, while also evaluating whether the price is right for the target client. 
+6. Water: Solar Decathlon 2017 is rewarding smart water solutions for the first time. A jury of industry professionals evaluates each team’s approach to water conservation, water use and reclamation, and landscaping water impacts. 
+7. Health and Comfort: Team houses must minimize the flow of cooled air in summer or heated air in winter to the outdoors, operate heating and cooling systems that keep temperature and humidity steady, all while maintaining healthy indoor air quality. 
+8. Appliances: The Appliances Contest is designed to mimic the appliance use of an average U.S. home. Teams earn points for operating their refrigerator and freezer, washing and drying laundry, and simulating cooking tasks and hot showers. 
+9. Home Life: Teams are required to engage in common household activities that use electricity. They cook and share meals with friends and neighbors, watch television, use computers, and host game nights. And, for five days, they “commute” at least 25 miles in an electric vehicle charged by the house solar electric system. 
+10. Energy: The Energy Contest evaluates each team’s energy production and a theoretical value to a utility of the energy each team both contributes to and takes from the Solar Decathlon electricity grid. For the first time, this contest includes real-time energy pricing.
+Background Image Credit: Jack Dempsey/U.S. Department of Energy Solar Decathlon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

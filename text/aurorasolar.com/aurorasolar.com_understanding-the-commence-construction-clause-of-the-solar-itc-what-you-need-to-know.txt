@@ -1,0 +1,545 @@
+
+
+
+
+
+
+
+
+
+
+
+
+What to Know About the Solar ITC Step Down | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            What to Know About the Solar ITC Step Down                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Whether you’ve been working in the U.S. solar industry for a decade or a week, chances are you’re familiar with the solar Investment Tax Credit (ITC), one of the most important incentives for solar customers. This federal policy, which allows owners to deduct 30% of the cost of a solar installation from their taxes, has been a cornerstone in the growth of the solar industry.
+Stakeholders breathed a sigh of relief in December 2015 when the solar ITC–previously set to expire at the end of 2016–was extended for an additional five years. But starting in 2020, the value of the tax credit will drop down to 26% of the system cost as part of a multi-year phase-out.
+In this article, we break down what solar contractors need to know to understand whether the full 30% ITC will apply to their customer’s project depending on the timeline for the project’s completion. Clarity on this point is essential to accurate modeling of the finances of the project and setting the right expectations for your customer.
+[Note: This blog post is provided for informational purposes only and does not constitute legal advice. Consult an attorney for guidance on your particular situation.]
+The solar ITC will begin to be phased out starting in 2020. The phase-out will end in 2022 when the ITC drops to zero for residential projects and a permanent 10% for commercial projects. 
+Differences the ITC Step Down Between Residential and Commercial Projects 
+It is important to understand that there are differences in the cut-off for when residential solar projects and commercial solar projects may claim the full 30% solar ITC (as the Solar Energy Industries Association, SEIA, explains here). 
+This is because the tax credits for these two types of projects are designated in different parts of the U.S. tax code. Although both residential and commercial PV systems have been eligible for the 30% solar ITC, the tax credit for businesses who invest in solar energy systems credits is established in Section 48. The residential solar energy credit for individuals who purchase a solar energy system is found in Section 25D.
+A major difference between the residential and commercial solar ITC is that commercial projects that “commence construction” before the ITC step down date of January 1, 2020 and are completed before 2024 can still receive the full 30% tax credit. In contrast, residential systems do not have this “safe harbor” period. They must be completed (that is “placed in service”) before January 1, 2020 or else the lower 26% tax credit will apply. 
+Understanding the Solar ITC Step Down for Residential Projects
+As SEIA explains, “To receive the full 30% residential solar tax credit, the system must be ‘placed in service; before the end of the day December 31, 2019. It is not enough to have signed a contract, or to have made a down payment or even to have begun construction. There is no bright-line test from the IRS on what constitutes ‘placed in service,’ but the IRS has equated this with completed installation in a Private Letter Ruling.”
+In the case of newly built homes with solar PV systems, where the customer is the owner of the PV system, SEIA clarifies that eligibility for the solar ITC is established based on when the customer moves into the home. This is only the case for solar installation purchased in connection with the construction of a new home. In the case of solar installations on existing homes, eligibility is based on the time of completion of the PV system.
+Understanding the Solar ITC Step Down for Commercial Projects
+Solar ITC eligibility is a little less black and white for commercial solar projects. If construction on the project has not started before January 1, 2020, the lower tax credit will apply. 
+But what qualifies as starting construction? Solar contractors need to have a firm grasp on the “commence construction” policy to know whether a commercial project that may extend into 2020 will qualify for the 30% ITC. In June 2018, the IRS released guidance which answers this question.
+
+Understanding the “Commence Construction” Clause 
+According to the IRS, there are two ways to establish that construction on a commercial solar project has started for the purposes of claiming the solar ITC: 
+
+passing the “Physical Work Test” by starting “physical work of a significant nature,” or 
+passing the “Five Percent Safe Harbor test” by “spending five percent or more of the total cost of the facility in the year that construction begins.”
+
+In either case, the system owner will need to show continuous progress on the project after that point in order (the “Continuity Requirement”) in order to qualify.
+Let’s delve into each of these cases a little more closely:
+The Physical Work Test
+The physical work test establishes that construction has commenced on a project when “physical work of a significant nature” has begun on the project. The IRS states that whether the work is considered “significant” is based on the nature of the work, rather than the amount or cost of that work. In the case of a solar installation, one example of qualifying work that the IRS provides in their guidance document is the installation of racking to affix solar panels to a site. 
+A PV system owner can establish the start of a project for the purpose of claiming the solar ITC by starting physical work of a significant nature (what the IRS calls “the Physical Work Test”). 
+The qualifying work may be undertaken by the taxpayer (i.e., the PV system owner) or a contractor working under binding written contract entered into prior to the start of work (i.e., your solar installation company). Technically, this work may take place on-site or off-site, however, in the case of a residential or commercial solar PV installation off-site work is less likely to apply. Off-site work does not include work “to produce components of energy property that are either in existing inventory or are normally held in inventory by a vendor”–as would typically be the case for solar equipment.
+“Preliminary activities” do not qualify for the Physical Work Test. Some examples of preliminary activities include planning or designing the project, securing financing, researching, obtaining permits and licenses, clearing a site, or removing existing solar panels or other components that will no longer be part of the energy property.
+Again, once construction has commenced on the project for the purposes of qualifying for the solar ITC, continuous work must be done on the project until it is completed.
+The Five Percent Safe Harbor Test
+An alternative way that a solar system owner may establish that construction has started on a project for the sake of qualifying for the 30% ITC prior to the end of 2019, is by having paid or incurred five percent or more of the total cost of the energy property. In the case of a solar PV installation, this refers to the cost of the PV system. This does not include the cost of land or any property not integral to the energy system. 
+A PV system owner can also establish the start of a project for the purpose of claiming the solar ITC by incurring five percent or more of the cost of the project (what the IRS calls the “Five Percent Safe Harbor Test”).
+There is an important caveat to this method of establishing the start of the project. If the project cost exceeds what was anticipated, so that the amount the system owner paid to satisfy the five percent Safe Harbor later falls short of five percent of the total cost, they will be found not to have met the requirement.
+As with the physical work test, the system owner must also show continuous progress after this point in order to continue to qualify for the Safe Harbor. The IRS notes that this could include “(a) paying or incurring additional amounts included in the total cost of the energy property; (b) entering into binding written contracts for the manufacture, construction, or production of components of property or for future work to construct the energy property; (c) obtaining necessary permits; and (d) performing physical work of a significant nature.”
+Combination of Methods
+If a PV system owner meets both methods of establishing the commencement of construction, whichever method occurs first will be used as the date in which construction began for the purposes of the solar ITC. 
+
+Guidance from the IRS provides solar customers, contractors, project developers and others the clarity they need to determine whether and at what level the solar ITC will apply to a given project. With this information, your solar company can better advise prospective customers on how this key federal incentive will reduce the cost of their project.
+At the time of writing SEIA is working hard to build support for an extension of the solar ITC. You can find out how to get involved in this initiative here.
+
+Editor’s Note: A version of this article was originally published on July 25, 2018. It was updated and republished on October 16, 2019 to clarify how the step down of the ITC applies to residential projects and reflect that the commence construction clause applies only to commercial projects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,695 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Module-level power electronics (MLPE) for solar design: a primer | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Module-level power electronics (MLPE) for solar design: a primer                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solar contractors face many decisions when it comes to finding the best solar design. One important consideration is determining whether to use module-level power electronics (microinverters or DC optimizers).
+New to solar design or want a refresh on the fundamentals? Read more about the basics of solar panel wiring by reading our article, Solar Panel Wiring Basics: How to String Solar Panels.
+
+Once costly specialty products, module-level power electronics (MLPE) have made great strides in the last decade and are rapidly growing in popularity. And there’s a good reason for that! Incorporating these devices can offer a number of design benefits.
+In today’s article, we explore some of the benefits of module-level power electronics and take a closer look at each type and where they fit within a PV system design.
+What are module-level power electronics (MLPE)?
+Module-level power electronics are devices that can be incorporated into a solar PV system to improve its performance in certain conditions (especially where shade is present) and to achieve a number of other solar design benefits. MLPE includes microinverters and DC power optimizers. They perform some of the same functions as a string inverter or central inverter, but are typically coupled to just one (or a few) solar modules rather than many, and offer additional features.
+Click the image to see how solar software can help you with MLPEs.
+What is a microinverter?
+Microinverters are small (hence the name) inverters that are installed at the actual panel. This is in contrast to regular string inverters, which are usually larger and are in a central place with access to multiple solar panels. Instead of converting an entire string of panels, microinverters are connected to one (maybe a few) panels.
+Inverters allow the DC energy from the solar panel to be converted into the AC energy that is used in the home or sent to the grid. To learn more about the fundamentals, check out our in-depth article on AC/DC energy and what it means for solar. 
+What is a solar optimizer?
+Similar to the microinverters, solar optimizers also convert solar energy from DC to AC. The difference between microinverters and optimizers comes down to the process of conversion. 
+Solar optimizers also connect to the panels individually, but they first optimize the DC power and then send it to a central inverter to finalize the process of converting DC energy into AC, where microinverters convert the DC to AC right at the panel itself. 
+MLPEs, then, are the combination of microinverters and solar optimizers to create a maximum-performance PV system.
+
+Figure 1. Even partial shade, as shown here, can significantly reduce the power output of a solar array; MLPE–including microinverters and DC optimizers–can mitigate these performance losses, among other benefits. 
+Why use MLPE?
+There are a number of reasons why incorporating MLPE into your solar designs can be a good option. One of the primary reasons is to improve the energy production of the system. MLPE can help mitigate production losses from a variety of different factors such as shading, module mismatch losses, and orientation mismatch losses (for instance, if you have panels on different roof planes).
+The U.S. Department of Energy’s Office of Energy Efficiency and Renewable Energy explains that MLPE can reduce energy losses due to partial shading of modules by 20%-35% and they completely eliminate losses due to orientation mismatch of PV modules.
+Additional benefits of MLPE include providing compliance with module-level rapid shutdown requirements under the National Electrical Code (NEC), safety benefits, and typically longer warranties than for traditional inverters. Most MLPE products also come with performance monitoring and diagnostic functionality, which can be valuable in making sure the system is producing as expected or pinpointing technical issues.
+Solar contractors may want to weigh these benefits against possible higher up-front costs and increased installation labor.
+If you think solar tech is confusing, imagine how your customers feel. Click the image to download our Solar Sales Follow-up Kit to teach them the basics (and close more deals).
+How do MLPE improve PV system performance?
+MLPE can improve the energy production of a solar PV system by performing maximum power point tracking at the module level, rather than at the array level as would be the case with a string inverter. Maximum power point tracking (MPPT) refers to how inverters (and MLPE) instruct a solar panel or array to operate at a specific current and voltage combination that maximizes power output.
+Inverters and DC optimizers perform maximum power point tracking by responding to changes in the current and voltage of the solar installation (for example, a decrease in current resulting from shade falling on the panel). They respond to these changes by adjusting the voltage to maximize power output. For a deeper discussion of this process, and the relationship between current, voltage, and power, see our article on global MPPT.
+In a system with a string inverter and no MLPE, shade or soiling on one module can decrease the power output of the entire string. This is because, as detailed in our overview of shading losses, the current through the string is limited to the current of the lowest-producing module. In contrast, in systems with microinverters or DC optimizers, each module produces at its maximum level regardless of shading on other modules on the string because these devices offer module-level MPPT functionality.
+DC power optimizers
+DC power optimizers, commonly called DC optimizers, are attached to the junction box of individual solar modules, or in the case of some “smart modules” may be integrated directly into the module. These devices maximize the module’s DC power output before that power is converted to AC power by an inverter. As discussed above, they achieve this by providing MPPT at the module level, so that each module produces at its maximum level regardless of shading on other modules on the string.
+When using DC optimizers, a string inverter is still required to convert the energy produced from DC to AC (see Figure 3 below for a comparison of system configurations with DC optimizers, microinverters, and traditional string inverters).
+Discussing the benefits of her company’s DC optimizers, Gal Bauer, Director of Customer Care at Tigo, a leading MLPE manufacturer, explained that “Tigo’s DC-DC optimizers–the integrated TS4-O and the retrofit/add-on TS4-R-O–increase solar production, reduce shade impacts, prevent burnt diodes, and delay other aging effects that degrade a system’s performance over time. Tigo’s optimizers also include matched module warranties as well as a built-in UL-certified rapid shutdown solution and module-level monitoring with sophisticated alerts. These unique features purposefully keep costs of ownership at record lows and revenues at record highs for our customers.”
+Microinverters
+As their name implies, microinverters are similar to traditional inverters but operate just one or, in some cases, a few modules rather than the full array. Like a string inverter or central inverter, they convert the DC power produced by the panels to AC power that can be sent to the grid and used in the home.
+In addition to the benefits of MLPE discussed above, such as improving performance through module-level MPPT, microinverters can offer increased design flexibility. For instance, systems with microinverters can more easily be expanded at a later date if that is something the customer is considering (such as if they purchase an electric vehicle). Whereas string inverters have specific string length requirements, those considerations are avoided in systems with microinverters. Additionally, while not something you would commonly design, microinverters would allow for different types of modules to be used in the same system. 
+
+Figure 2. An example of a microinverter. Source: Enphase. Click on the image to view an Enphase instructional video on the installation process for their microinverters.
+How do MLPE fit into your solar design?
+Both microinverters and DC Optimizers are attached to individual modules in your solar array (though as referenced above, there are some microinverters that operate multiple panels). If using microinverters, you will not need a string inverter for the system. If you are using DC optimizers, the panels will be connected in series to a string inverter. The figure below compares the installation configurations for these two options to a design without MLPE.
+
+Figure 3. An illustration of PV system configurations depending on whether MLPE options like DC optimizers or microinverters are used. As you can see, DC optimizers still require a string inverter, while microinverters do not. Both options are typically connected to individual solar panels. Source: Aurora. 
+
+
+In contrast to systems with microinverters, where every panel must be connected to a microinverter, DC optimizers can sometimes be deployed selectively. This is the case for Tigo’s selective deployment capabilities, in which MLPE devices that perform different functions can be attached to specific modules as needed. For instance, if shading only affects selected modules in your system, DC optimizers could be added to those specific modules so that they will not bring down the power output of the rest of the string.
+Want a quick, accurate design every time? Check out our Expert Design Service.
+Key takeaways
+
+MLPE can help mitigate production losses from a variety of different factors such as shading, module mismatch losses, and orientation mismatch losses and provides compliance with NEC module-level rapid shutdown requirements.
+Solar contractors may want to weigh the benefits of MLPEs against possible higher up-front costs and increased installation labor. Our Solar software helps you model customer load profiles and create sales proposals.
+
+Finding the optimal PV design for your customer can be a challenging proposition, but being aware of the diverse benefits of different components can help. Module-level power electronics can be a great option to maximize system performance, enable greater design flexibility, and capture other benefits. As with all design considerations, being able to quantify the performance impacts with accurate solar design software like Aurora can help ensure that you’re making the best design choices for the customer.
+With integrated financial analysis tools, Aurora can also help you to understand if a potential increase in the up-front cost of the system is justified based on the value of the additional energy that the system will produce. Aurora models the precise impacts of DC optimizers and microinverters based on manufacturer specifications and is a leader in accurate modeling of complex MLPE functionality.  
+Want to learn more about how Aurora can help incorporate MLPEs into your designs? Schedule a quick, customized demo. 
+FAQs
+Which is better: microinverter or optimizer?
+Microinverters and optimizers provide many of the same benefits, but differ on one main point: Where each converts direct current (DC) to alternating current (AC). Microinverters convert electricity right behind the solar panel, whereas optimizers condition DC current at each panel before sending it to a central string inverter. Each is best suited for different needs: A microinverter will likely last longer than a standard string inverter, which still needs to be paired with solar optimizers. Microinverters also offer greater design flexibility for a PV system. Optimizers, however, do increase the efficiency of DC current, and may be the better option for challenging lighting conditions. 
+How does PV rapid shutdown work?
+PV rapid shutdown cuts off the energy produced at the solar module, usually at an MLPE such as an optimizer or microinverter. These “on/off” switches at the solar panel reduce or de-energize voltage coming from the source (i.e. solar panel), allowing first responders or maintenance technicians to do their jobs safely. PV rapid shutdown is required by the National Electric Code (NEC), and will soon be adopted in every state in the US.
+What is module-level monitoring?
+Module-level monitoring allows customers to monitor energy output of each individual solar panel. This helps pinpoint fault detections and other performance issues, allowing remote troubleshooting and eliminating time-consuming manual testing of each solar panel. 
+What is the difference between a microinverter and a string inverter?
+String inverters and microinverters do essentially the same thing: Convert DC current to AC current. Where they differ is where the conversion takes place. String inverters convert DC electricity from a “string” of panels wired together at a single location. Microinverters are wired in parallel at each solar panel. Microinverters allow customers to track the production of each panel, whereas string inverters only allow tracking of total combined system output. Microinverters also provide other benefits, like remote troubleshooting, PV rapid shutdown, and greater modularity in PV system design. They are more expensive than string inverters, however. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Related Posts                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sales                    
+
+
+
+                        Storage                    
+
+
+
+
+
+
+
+        Charging Up Your Solar Sales with Battery Storage        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Design                    
+
+
+
+
+
+
+
+        Designing for Performance: 3 Techniques to Boost Sol...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Design                    
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        High-End Designs, High-Quality Installations: ilumen...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,705 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Understand solar panel specification sheets and how to read them | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    7 min read                                
+
+
+                            Understand solar panel specification sheets and how to read them                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A solar panel spec sheet provides valuable information about the operating parameters of a panel and can help designers, engineers, and installers determine how to configure a solar PV system.
+
+The panel spec sheet will tell you about the panel’s electrical power production, including its efficiency and how it operates with changing temperatures, as well as mechanical information like the dimensions and wind loads. This information is required to get an accurate performance simulation.
+How to read a solar panel spec sheet
+If your first solar spec data sheet looks like a foreign language, don’t be concerned. There’s a lot of unique jargon that goes into it, but we’re here to help you out. Our research engineer, Andrew Gong, will walk you through the terms to know and what you should expect.
+What is Pmax rating?
+The first value people should pay attention to is the maximum power point, commonly abbreviated to Pmax or MPP rating.
+“Maximum power point is a combination of voltage and current,” Gong explains. “It’s the combination of volts and amps that creates the highest wattage.
+“If you lower the current and increase the voltage, you move away from the maximum power point,” he continues.
+Typically, solar panels are rated between 250 and 400 watts. Higher wattage generally means a system will be more efficient and require fewer modules.
+Understanding voltage in solar panel specs
+Voltage is also an important consideration.
+If, for example, a designer decided on 12 panels in a string, it’s important to make sure the voltage doesn’t exceed certain thresholds.
+“You want to size the system so it doesn’t exceed 600 volts per string,” Gong explains. Above that, the panel won’t operate as well.
+Solar panel efficiency
+Installers, engineers, and designers should consider efficiency ratings. On average, solar panel efficiency ranges from 15% to 20%, with some panels as high as 23%. As cell technology improves, so do efficiency ratings.
+A spec sheet also provides information about the assumptions used to create a panel’s operating parameters.
+For example, SunPower’s spec sheet provides a range of temperatures, from -40 C degrees F to 85 degrees C. That’s listed under Operating Condition and Mechanical Data.
+“In colder temperatures, panels operate a bit better,” Gong says.
+Looking to explain solar to your customers? Click the image to download our Solar Sales Follow Up Kit and leave it with them.
+In extreme weather, consider temperature ranges
+How does weather affect solar panel efficiency? The temperature ranges of modules generally are between -20 degrees C to +85 degrees C in the U.S. In areas with more extreme temperatures — such as Alaska — installers and designers should be aware of panels’ temperature ranges.
+Another value is the operating cell temperature, says Gong. “Some panels run hotter than others. This value tells you how modules respond to various levels of sunlight.”
+It’s also important to understand current in panels. Under the heading of electrical data, a spec sheet provides a rated current.
+“If you exceed the current, you destroy the panel,” says Gong. “Maximum current depends on the panel and how many parallel strings in the system.”
+Ratings that are important in areas with high winds
+In areas of extreme weather — those susceptible to high winds or snow — installers should pay attention to the mechanical or static load ratings.
+The front side rating focuses on the snow load, and the back side rating is about the wind load.
+The load figures appear in Pascals, a unit of pressure. Higher numbers mean the panel is stronger.
+Click above to download our full guide to PV system losses.
+What your solar specifications sheet should include
+Material characteristics
+A specs sheet should have information on the material characteristics, including vital information about the size and dimensions of the solar panels.
+Electrical specifications
+The electrical specifications are where a lot of the technical terms and metrics begin to show up. It will include data on important specs such as Pmax and temperature testing. Below is a list of some important electrical specifications within solar panel specification sheets.
+Nominal Operating Cell Temperature (NOCT)
+The expected operating temperature of a solar cell is important for determining the output it will provide. The Nominal Operating Cell Temperature (NOCT) is the temperature reached by a solar panel under four standard environmental conditions:
+Sunlight hitting the solar panel = 800 watts/sq meterWind velocity = 1 m/sAir temperature = 20°C (68°F)Panel angle = 45° from horizon
+NOCT has a major impact on solar panel performance, and must be factored into any solar system planning and optimization.
+Temperature coefficient (%/ °C)
+When silicon in PV cells heats up, they become less efficient. A solar panel’s temperature coefficient shows the relationship between PV output and the temperature of the solar panel, and is represented as the overall percentage decrease in power over for each degree of temperature rise.
+Maximum Power Point (MPP)
+The Maximum Power Point represents when a solar panel has maximum power output. MPP, changes slightly with temperature and sunlight intensity. 
+Maximum Power Point Voltage (Vmp)
+This is the available voltage of a connected panel operating at max capacity under standard testing conditions. Most manufacturers rate their panels around 70-80% of the Open Circuit Voltage (VOC). 
+Maximum Power Point Current (Imp)
+Maximum Power Point Current (Imp) is the current (amperage) a solar panel produces at maximum power output. It’s the current you want to see when the panel is hooked up to a charge controller under standard test conditions. Imp varies with the intensity of sunlight hitting the panel. 
+Open Circuit Voltage (Voc)
+Open Circuit Voltage (Voc) is the maximum voltage a solar panel can produce without a load. Voc is measured at the unconnected terminals of a solar panel to check or test the panel during installation. 
+Short Circuit Current (Isc)
+Short Circuit Current (Isc) is a measurement of the current produced when the positive and negative terminals of a solar panel are connected to each other. Isc shows the highest current a solar panel can deliver without damaging itself, and is used to determine how many amps a panel can safely handle when connected to a load. 
+Power tolerance
+Power tolerance is a measurement of how much power a solar panel can produce below or beyond its rated capacity. For example, a 100 watt panel with a -4%/+4% power tolerance could produce 96 to 106 watts in real-life conditions. 
+Module efficiency (%)
+A solar panel’s module efficiency measures how much sunlight hitting the panel is actually converted to electricity. The higher the module efficiency, the fewer panels it takes to get the job done. 
+Certifications 
+Quality solar panels undergo rigorous testing under various environmental stressors to ensure quality and safety. Solar panel certifications are printed on a solar panel’s spec sheet. Common solar panel testing and certification standards are established by the International Electrotechnical Commission (IEC) and Underwriters Laboratories (UL). 
+Warranties can vary
+Solar spec sheets also mention warranties. Most have 25-year warranties, according to Gong. Some manufacturers offer a 90% warranty for 10 years, and decrease that amount as the panels age. Premium panels have better warranties.
+What are your next steps
+Hopefully, this helps while you’re reviewing your own spec sheet. We highly recommend taking the next step of testing out a solar software platform, it will make the next step for making sure you have a viable setup so much simpler.
+Using a spec sheet with Aurora Solar
+Once you’ve gathered this and other data from a spec sheet, you can load the data into Aurora Solar and immediately create a picture of how the panels will fare.
+It’s super easy. Just a few button clicks, and you’re on your way. Take an inside look at how it works:
+
+
+Get an inside look at how Aurora calculates the performance of a PV installation.
+Want to learn more? Schedule a free, personalized demo and we’ll walk you through anything that doesn’t make sense. Or, click into the chat at the bottom right of the screen to be connected to one of our experts.
+FAQs
+How do you understand solar panel specifications?
+Solar panel specs can be confusing, but understanding them is essential to installing the right equipment. The key to understanding solar panel specifications is learning to identify acronyms. Keep a notebook handy with the acronyms you regularly encounter, and when in doubt, look it up! 
+How to read solar panel datasheets?
+Solar panel data sheets can be very confusing, especially if you are new to solar. If you can’t have your installer with you when reviewing a datasheet, having your internet guide handy while walking through the definitions and metrics will be your best friend. 
+If you prefer the human touch, contact your local solar installer, and they will be happy to walk you through the more complicated subjects like Voc, Isc, Pmax, and more. Working with an expert, they can also specialize the process by explaining how your solar panels will behave based on where you live, the placement of the panels, and more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Design                    
+
+
+
+
+
+
+
+        Designing for Performance: 3 Techniques to Boost Sol...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Design                    
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        How Semper Solaris Reduced Change Orders & Rede...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Solar 101                    
+
+
+
+
+
+
+
+        PV Education 101: A Guide for Solar Installation Pro...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

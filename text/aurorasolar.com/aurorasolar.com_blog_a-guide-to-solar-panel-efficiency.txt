@@ -1,0 +1,617 @@
+
+
+
+
+
+
+
+
+
+
+
+
+A Guide to Solar Panel Efficiency | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            A Guide to Solar Panel Efficiency                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When you think of solar panel efficiency, you’re most likely thinking about how much sunlight a given panel turns into electricity. While this is certainly an important consideration for customers choosing a new photovoltaic system, it’s far from the only aspect of “efficiency” that goes into a high-performing PV system. 
+In this blog, we’ll look at a few different variables that go into making an efficient solar installation. We’ll start with how well different panels and panel types turn sunlight into electricity, but also looks at other factors, like planning, installation, and maintenance.
+But let’s get started where the rubber hits the road: the panels themselves.
+Solar Panel Efficiency
+Over the years, solar panel efficiency has jumped from about 15 to more than 20%, with great promise to expand. New and emerging technologies, such as perovskite material, hold the promise of boosting solar panel efficiency to 40%.
+(For more information on just what perovskite solar cells are, check out this explainer.)
+When choosing solar panels, efficiency rating is an important metric to determine how much power a panel will produce compared to other products.
+Solar panel efficiency is based on two factors:
+
+Photovoltaic cell (PV) efficiency, which results from cell design and materials.
+Total panel efficiency, determined by cell configuration, design, and panel size.
+
+Let’s start at the heart of the modern PV system: The cell.
+
+What is solar cell efficiency?
+When discussing solar cell efficiency, we mean the amount of sunlight that hits a solar panel and is converted into electricity. A solar panel is only as efficient as its weakest link: the cell. Cells, made of silicon, absorb photons and convert them to electricity. 
+Not all photons are absorbed, however: Depending on the wavelength of light hitting the cell, some photons are reflected and others pass through while others are absorbed and produce heat. What’s left are able to separate electrons from the silicon, thus producing energy.
+The age-old struggle of solar cell design is designing cells to maximize photon receptivity by improving the following factors:
+
+Material. The type of material (monocrystalline, polycrystalline, etc) plays a critical role in overall panel efficiency. The most efficient cells incorporate the purest silicon.  Impurities can lead to recombination, which results from electrons  recombining when they encounter an impurity or defect in the cell’s crystalline structure. 
+Wiring and busing. Cells with multiple busbars and passivation help efficiently capture and transfer electricity. 
+Reflection. Minimizing the amount of light reflected off the cell is also an important factor affecting efficiency. Thus cells treated with anti-reflective coatings (the blue or black you see on a solar panel) perform best.
+
+What is solar panel efficiency?
+Taking it up one level, solar panel efficiency is measured under strictly controlled test conditions called standard test conditions (STC). STC is established by exposing a panel to a constant light source and temperature, measuring the current and voltage produced for different load resistances. STC accommodates a cell temperature of 25°C, 1000W/m2 irradiance, and air mass of 1.5. 
+Efficiency is determined by the panel’s maximum power rating at STC divided by the panel’s area in meters:
+Efficiency = ([Pmax / Area] / 1000) x 100%
+Under STC, a one meter square, 15% efficient solar panel would produce 150 watts.
+Average panel efficiency in the real world is a whole different story, though. Solar panel efficiency is measured at standard factory testing conditions, so real-world efficiency may vary from what’s advertised. That means there’s a whole lot more that goes into the efficiency cocktail, such as:
+
+Wiring and busing used to capture and transfer electricity
+Reflection
+Panel installation and placement
+The region’s potential  solar output
+Panel age
+Weather
+Shade
+Color of the roof and protective backsheeting
+
+Types of Solar Panels and How They Affect Efficiency
+Four major solar panel types are available to the consumer market today, each with its own advantages, disadvantages, and cell configurations:
+
+Monocrystalline cells are one solid silicon crystal. Mono cells provide more space for  electrons to flow, resulting in a smaller, more efficient panel. The downside is they tend to be more expensive. 
+Polycrystalline cells are constructed of many individual shards of silicon melted together. While not as efficient as mono cells, poly cells have a lower price point.
+Thin-film cells are thin enough to be flexible, making them ideal for small-scale or  portable applications, but are not efficient enough for use in large-scale installations.
+
+Cells can be further configured to maximize efficiency. We’ll go through the various solar cell types and efficiencies below, but first, a brief description of some acronyms:
+
+PERC (Passivated emitter and rear cells) reflect light back into the cell, thereby reducing the tendency of electrons to recombine. As a plus, they also absorb greater wavelengths of light, and have a high efficiency rating compared to traditional modules. 
+MBB (Multiple busbars): Reduces current loss by shortening the length a current must flow across a cell wafer.
+IBC (Interdigitated back contact): Energy conversion occurs on the back of the cell,  allowing the entire front of the cell to absorb sunlight, offering higher efficiency, yield, and reliability. 
+
+What are the most efficient solar panel types?
+Here are the various solar cell types ranked by efficiency:
+
+Polycrystalline PERC, 16-17% efficiency
+Monocrystalline PERC, 17-19% efficiency
+Shingled monocrystalline, 18-20% efficiency
+Half-cut monocrystalline PERC, 18-20% efficiency
+Half-cut monocrystalline PERC MBB, 19-20.5% efficiency
+Shingled monocrystalline PERC, 19-20.5% efficiency
+Half-cut MBB heterojunction,  20-22% efficiency
+N-type IBC, 20-23% efficiency
+
+
+What are the most efficient solar panels in 2021?
+Here’s a rundown of the ten most efficient consumer solar panels available at the time of publishing (source: Clean Energy Reviews):
+
+SunPower Maxeon 3 (400W), 22.8% efficient
+LG Neon R (380W), 22% efficient
+REC Alpha Pure (405W), 21.9% efficient
+Panasonic EverVolt (380W), 21.7% efficient
+Silfab Elite BK (405W), 21.4% efficient
+Jinko Solar Tiger N-type 66TR (410W), 21.4% efficient
+FuturaSun FU 360 M Zebra (360W), 21.3% efficient
+Hyundai HiE-S400UF (400W), 21.3% efficient
+Trina Solar Vertex S (405W), 21.1% efficient
+SPIC Solar Andromeda (355W), 21% efficient
+
+Ways To Maximize Your Solar System Efficiency
+
+It should be noted there’s a difference between setting max efficiency records and maintaining consistent performance in the real world. As stated above, a highly efficient panel may look good in a lab, but could lack the performance needed to operate consistently in practical applications.
+If your chief goal is to maximize electrical output of your system, technology like smart modules and module-level power electronics have to be considered along with panel efficiency. Maximizing this output by making a PV system as efficient as possible also has the potential benefit of revenue from net energy metering.
+There’s no such thing as a free lunch. Efficient solar panels come at a premium. If you’re tight on space, the premium may be worth it (or may be your only option). For other configurations, a middle-of-the-road panel may suit the customer’s energy needs and budget restrictions.
+Once a system has been chosen, there are a few initial considerations that can help keep efficiency high.
+Unlock output potential with proper planning
+Regardless of which solar panel is chosen, detailed planning and resources should go into determining the best installation and placement possible.
+A good first step is making sure the sun shines on the panels by avoiding shaded areas and installing panels at the best possible angle.
+Aurora Solar can help you generate complete PV system designs and sales proposals with just an address and an electric bill. You can even swap in different types and brands of panels to see how much energy each will generate on a given project, so you can find that sweet spot between price and efficiency, and configure a system that takes full advantage of the manufacturer’s STC efficiency. 
+Keeping panels clean can boost a PV system’s efficiency.
+Cleaning and maintenance
+The work isn’t done after a system is installed. Just like maintenance on a car, keeping a solar panel system clean and in good repair is essential to peak performance. Dust buildup over the course of a year can reduce output up to 4.4%, so if your system is in a particularly dry area where rain doesn’t regularly wash your panels naturally, manually cleaning them is a good idea. 
+Even if you get regular rainfall, all panels should be regularly checked for pollen, bird droppings, leaves, ash, and other pollutants and residue. Wash panels gently with a hose first. If they’re still dirty, softly squeegee with mild soapy water to effect.
+Why Solar Panel Efficiency Matters
+After looking at all the factors, it’s clear that solar panel efficiency is an important part of designing an efficient PV system. Just like fuel efficiency in a car, an efficient solar panel means less raw materials, a smaller footprint, and less required space for proper energy output. 
+For some applications, highly efficient solar panels are the only option. If space is limited, solar panel efficiency is vitally important to ensure enough energy can be harnessed. This may be the case on smaller residential homes where roof area or bare ground is at a premium.
+When looking for the perfect photovoltaic system, however, efficiency isn’t everything: On a large percentage of homes there’s more than enough space to install the number of solar panels required to suit energy needs, even when using less efficient panels. 
+Let’s see how this works in practice. Consider a home with a 1,500 sq. ft. pitched roof that uses about 30 kWh of electricity a day, and gets 3-5 hours of peak solar-generating sunlight a day. How can we try to offset that 30 kWh? (Note: All the calculations below are estimates, for example purposes only, based on a panel’s STC efficiency, time in the sun, location, season, and other factors.)
+Using a panel that is 15% efficient, we can capture .45-.75 kWh of energy per square meter during a day when the sun is shining. We can reach our 30 kWh goal with about 40-70 square meters, or 430-750 square feet, of panels. 
+Using a panel that’s 20% efficient, we can capture .60-1.0 kWh of energy per square meter during a day when the sun is shining. So, we’d only need between 30-50 square meters, or 320-540 square feet, of panels.
+For context, a king-sized bed is approximately 40 square feet.
+Not all parts of a roof will be a fit for panels.
+Not every foot of a 1,500 sq. ft. roof will be suitable for solar installation, of course, but in this case there’s likely ample space to install this capacity. Choosing a readily available, affordable, and efficient panel is an excellent choice. 
+Polycrystalline panels have around 15% efficiency, for example, and are among the cheapest panels available, making them a viable choice for many installations. However, poly panels tend to have shorter lifespans than more efficient (and expensive) monocrystalline panels. So if longevity is another key factor for your next project, efficient panels may win here.
+After choosing a panel, proper installation and placement of the entire PV system is critical to coaxing the most out of those panels. Improper installation—unsuitable backsheeting, inadequate ancillary equipment, etc.—and placement can significantly impede solar panel performance.
+In conclusion, solar panel efficiency is one part of the grander litany of considerations when choosing to go solar, albeit an important one. Installers have to consider all aspects of a project (cost, value, warranty, homeowner needs, and aesthetics) to determine what type of panel works best for any given installation.
+Key Takeaways
+
+When considering which panels to use, there is a trade-off between efficiency and price. Make sure to work with the customer to find out what works best for their needs and budget. 
+Solar panels may eventually reach 40% efficiency, but that doesn’t negate the benefits of installing the best solar panels today.
+The most efficient solar panels are produced by SunPower (22.6%), LG (22%), and REC Solar (21.7%). 
+Aurora Solar provides seamless planning solutions for high-efficiency (and other types of) solar equipment.
+
+   
+Featured image by Bernard Hermant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

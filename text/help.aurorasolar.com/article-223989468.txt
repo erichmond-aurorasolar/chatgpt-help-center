@@ -1,0 +1,30 @@
+Loans: Two Terms (Interest Only then Regular)
+
+        
+A popular loan structure offered by companies like Sungage Financial, Dividend Solar, Green Sky, Admirals Bank and Enerbank, consists of two terms with different interest rates: the first term has a low interest only payment, the second term has a higher interest rate whose payment contains interest and principal.
+In the US, homeowners that get this type of loan are usually required to apply their ITC tax credit towards buying down (also known as Prepaying) the loan. 
+
+Go to your account Settings. Click on Financing Templates then Create New Template. Give your template a descriptive name that you will later be able to understand.
+In the Basic Information section, click on Loan.
+Click on the pencil icon to input your Project Useful Life and your Discount Rate (we chose 25 years and 3.0%).
+Input your Degradation Factor, Inverter Replacement Cost and Inverter Life (we chose 99.5%, $.35/W and 13 years).
+
+
+Input your tax rates (we chose 0%). Please contact a tax attorney for more information on whether your solar project's returns should be taxed. In our experience, in the US residential solar returns are never taxed. 
+
+Add your Incentives.
+Click Add Loan and select Interest Only. Give your loan a descriptive name that you will later be able to understand.
+
+Principal Percentage should be set to 100%.
+Input your Dealer Fee, Interest Rate, and the Duration of the loan (we chose 4.5%, 0% and 12 months).
+Set Prepayment to Yes. This opens two new fields Percent and Month (we chose 30% and 12 months).
+The homeowner is expected to apply her ITC rebate to buydown the loan principal. The prepayment month typically matches the duration of term 1 of the loan.
+
+Input the Interest Rate and Duration of the second term of your loan (we chose 4.9% and 224 months)
+Read the summary at the bottom of the pop up box to make sure your loan description is accurate. Click OK.
+
+
+Lock your immutable fields.
+
+We highly recommend that you lock fields that will not change between different designs. This will save your team time and reduce errors.
+

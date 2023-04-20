@@ -1,0 +1,7 @@
+What is Green Button interval data? 
+
+Green Button data refers to an option provided by some utilities that enables customers to download detailed data on their electricity usage with just the click of a (green) button from the utility website. Specifically, Green Button data gives utility customers — both residential and commercial — timely access to energy use data in a standardized format. 
+Beyond showing how much energy a consumer uses, one of the greatest benefits of Green Button data is that it also provides insight into when energy is being used. Historically utility bills have only shown how much energy was used over a monthly period. However with the increased deployment of “smart meters,”  which track energy usage at intervals of one hour or less, much more granular energy use data is becoming available. 
+If a customer has a smart meter, Green Button data will allow a customer to see exactly how much energy they use at specific intervals. Smart meters and Green Button data go hand in hand as methods to give customers’ greater insight into and control over their energy use. The Green Button program is helping to make the improved data from smart meters more easily accessible.Beyond showing how much energy a consumer uses, one of the greatest benefits of Green Button data is that it also provides insight into when energy is being used. 
+ 
+ 

@@ -1,0 +1,9 @@
+8/24/18 Release Notes
+
+
+PVWatts simulation upgrade:Previously Aurora ran PVWatts versions 4 and 5. Now, in Aurora we will run PVWatts version 6. Note: In Aurora, PVWatts version 6 will run with NSRDB weather data and DC-AC ratio of 1.2.
+Added ‘Auto” simulation engine:Previously in Aurora’s performance simulation, if the user did not string their panels to their inverter, the perf sim will fail to run. Now, the user will have the option to set the performance simulation engine to “auto”. If the user forgets to string/connect the panels to the inverter, PVWatts will run in place of the Aurora algorithm. (Note: the PVWatts simulation does not require stringing and connecting panels to inverters. For PVWatts sim to run, you cannot have any inverters or connections in your design)
+Added Financing tax rules:We have added tax flags (checkboxes) applied to bill savings , O&M costs (commercial), incentives, and loans. Note: taxed incentives do not impact the depreciable basis of a project.
+Updated index views:Notice that the top menu has changed. “Maps” has been moved. You can find the map option next to the list option. We have renamed “tutorials” to “learn”. The index view is much cleaner. There is also an added option to filter out “my projects”.
+Added back "Customer Name" to the "New Project" modal:Due to customer feedback, we have added back the option to put in the customer name in the new project modal.
+Production values in the performance simulation page will now show the units as [kWh] instead of [MWh] / [GWh] values. 

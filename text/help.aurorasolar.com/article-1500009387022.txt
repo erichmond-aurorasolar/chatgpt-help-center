@@ -1,0 +1,42 @@
+How to Request Custom Components in New Aurora
+
+Aurora Solar has an ever-growing database of components, however, if you run into a component that is not available, you are able to request a custom component easily within the database. 
+ 
+Table of Contents
+Navigating to the Component Update Window
+Component Update Window Fields
+What to Expect After Making a Request
+ 
+Navigating to the Component Update Window
+First, navigate to the database. The database will be under the drop-down in the right-hand corner of the page, under your name:
+
+ 
+ 
+In the left-hand side of the page, you will see a list of various components, choose which type of component you are wanting to use:
+
+ 
+ 
+Next, search the database to verify that the component is not available. In each component page, there is a search bar in the top-right hand corner, type in the component name or the manufacturer in order to search the database for the component: 
+
+ 
+ 
+If the component you are looking for is not available, click "Request Custom Component" in the top right-hand corner (above the search bar). You will next need to click on "Get in touch" and then "Leave a message" as shown below:
+
+ 
+You are now able to fill out the Component Update window:
+
+ 
+Component Update Window Fields
+
+Name (Optional)
+Email Address - This is required in order to receive updates on your request
+Subject - The email subject, which will help you know what to look for in your inbox
+Type of Request - Choose from the dropdown
+Component Type - Choose from the dropdown
+Component Manufacturer - Enter the manufacturer name (can be found on the spec sheet)
+Component Model Number - Enter the component model number, if multiple, please separate with a comma (can be found on the spec sheet, typically either at the top of the page, or within the electrical specifications table)
+Description - Any specific information that may be helpful for our team (ie - information missing on the spec sheet, etc)
+Attachments - Please attach the spec sheet here
+
+What to expect after making a request
+After a request has been made, our team will begin working on adding your custom component to the database. This process typically takes a week. Our Support Team will reach out when the component has been added, or if further information is needed. 

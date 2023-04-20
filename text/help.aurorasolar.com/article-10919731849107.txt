@@ -1,0 +1,64 @@
+Plan Sets: Filling out the Intake Form
+
+This guide is designed to help users complete the Plan Sets intake form. It provides additional information on the minimum content required in the form, and which images from the site survey should be included in the photo uploader section. All the required fields and photos are necessary for an accurate plan set to be created. In the absence of any of the required fields or photos, the Plan Sets request may be rejected.
+
+ 
+Table of Contents:
+Project Information
+Mounting Planes
+Electrical
+Racking and Attachment
+Images and Documents
+Review and Submit
+ 
+ 
+
+Project Information
+
+Project name, address and utility information will fill automatically. 
+If homeowner information is filled out in the Project Overview, the fields will auto-populate.  Otherwise, be sure to complete the homeowner information fields. 
+Be sure to complete the required fields in this section:
+
+Authority Having Jurisdiction (AHJ) information
+Contractor information
+
+
+ 
+ 
+Mounting Planes
+Pitch, azimuth and array information will fill automatically from the Aurora model.
+Be sure to fill in each mounting plane.
+
+ 
+ 
+Electrical
+All electrical fields are required.
+Add additional subpanels as needed. 
+
+ 
+ 
+Racking and Attachment
+All racking and attachment fields are required.
+
+ 
+ 
+Images and Documents
+At a minimum, please include photos of the following:
+
+Main Service Panel
+MSP label
+Meter
+Full picture of location of BOS components
+Rafters on which design will be installed
+Roof on which design will be installed
+Any subpanels
+
+
+ 
+ 
+Review and Submit
+Once all the project information has been added to the corresponding section, please review before submitting the Plan Set request.
+ 
+Note: Once the request has been submitted the intake form will not allow any changes until the plan set has been generated. If you require quick support or a revision to something already submitted, please reach out to permitting@aurorasolar.com to get direct support from the design team.
+ 
+ 

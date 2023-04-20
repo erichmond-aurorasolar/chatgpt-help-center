@@ -1,0 +1,8 @@
+9/21/18 Release Notes
+
+
+Added ability to select weather data sets for PVWatts simulation. The options are Default, NSRDB-PSM3, TMY3, TMY2, International and can be found in the performance simulation settings.
+Expanded project search capabilities. Users can now do partial searches of projects names.
+Revised incentive tax wording. The revision was done on the summary of the tax section in Financing. 
+Improved the Mppt assignment Algorithm to minimize crashing. 
+Added ability to handle large image files when uploading custom imagery. Aurora will automatically resize files that are larger than 4096x4096.  

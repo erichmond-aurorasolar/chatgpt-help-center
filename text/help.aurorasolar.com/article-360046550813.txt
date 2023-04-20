@@ -1,0 +1,5 @@
+4/9/2020 Release Notes
+
+
+When creating a proposal template 3D Model Viewports now display a sample project instead of a watermark allowing you to have a better feel for the end result of your template. 
+Added ability to undo/redo copy/paste commands when editing a proposal template. 

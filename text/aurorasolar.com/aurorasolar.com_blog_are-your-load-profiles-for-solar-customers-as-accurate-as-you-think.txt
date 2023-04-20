@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Are Your Load Profiles for Solar Customers as Accurate as You Think? | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Are Your Load Profiles for Solar Customers as Accurate as You Think?                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It’s a typical day at your solar installation company. You received an inquiry from a prospective customer who is thinking about installing solar on their house, so you sit down to put together a design and quote. As a savvy designer, you’re already using cutting edge remote design tools to assess the solar access potential of the home and create a custom solar installation.
+  
+You begin the process by getting a sense of the customer’s energy consumption in order to design a PV system sized to their needs. As is often the case, you don’t have copies of the customer’s actual electricity bills, just the bill amounts they’ve provided.
+In most cases, this is a fine starting point—as long as you know the utility rate, tools like Aurora’s estimator can translate that total bill amount into an estimated energy consumption amount. These tools can even generate a representative load profile (also known as a consumption profile) depicting the amount of energy the customer uses throughout the day and year. Aurora builds a profile based on the typical patterns of energy consumption in a particular area.
+Given the bill values and utility rate you have from this customer, and their location in Southern California in a suburb of Los Angeles, a typical profile would look something like this: 
+Aurora’s interactive Consumption Profile tool estimates a customer’s load profile based on the typical consumption patterns in their geographic area, as well as heating and lighting types, and whether they have amenities like AC, a pool, or an electric vehicle. 
+Unfortunately, this particular customer isn’t as typical as you may have expected. Little could you tell from their electric bill amount, but this is what their load profile actually looks like: 
+This customer’s load profile is actually quite different from typical energy consumption patterns in Southern California. As you can see from the shape, the bulk of their energy consumption is between 10am and 6pm. 
+It turns out this customer is a startup founder, feverishly work to launch the next Snapchat. They don’t yet have an office, so they spend most of their waking hours—into the late evening—working from their home. These late nights also mean that most days their small team gets a late start, ramping up their work around 10am. With multiple computers and electronics running, they have sizeable energy consumption during hours when most residential households would be out of the house at work or school.
+The end result of this customer’s unusual energy consumption patterns is that they’re actually consuming a lot less energy than a typical customer paying this amount on their electric bills—they’re just paying more per kilowatt hour.
+Why is that and why does it matter? 
+This is because the customer is on a time of use rate, which charges them different amounts for electricity depending on the time of day that they use it. On this customer’s rate, peak hours—when electricity is most expensive—span from 10am to 6pm, precisely when they are using the most. As a result, this customer’s energy consumption is less than than most customers with equivalent monthly bills.
+In this case, the difference between the customer’s actual annual consumption and the typical consumption for these bill amounts is over 1000 kWh per year! As you can imagine, this has big implications for developing an appropriate solar design. Without knowing the breakdown of their energy consumption throughout the day and how much they consume during peak hours, the estimate of their annual consumption is far too high.
+If the customer’s load profile wasn’t verified with greater accuracy before installation, this could lead to designing a system that’s larger than their needs. Or, if the mistake were to be discovered before project completion, it might require a change order that costs your company considerable time and money.   
+Creating a More Accurate Load Profile
+While this is an extreme example (not all of your customers are trying to build the Next Big Thing in their living room!), it illustrates the critical importance of an accurate load profile to creating an appropriate design and accurately estimating the customer’s savings from solar.
+Recognizing that the utility bill information that contractors receive from customers can vary widely, both in level of detail and structure of the information, we’ve been hard at work here at Aurora to give you a variety of options for arriving at an accurate load profile. 
+Aurora is rolling out new options to make it easier to generate an accurate load profile for prospective solar customers. 
+Traditional Approaches to Load Modeling
+As we discussed above, one option for developing a load profile is to use software tools to generate an estimated load profile based on monthly energy consumption or bill amount. This is a great option for customers with typical consumption patterns, but as demonstrated, it has limitations when the customer’s patterns of energy use are outside of the norm.
+Alternatively, if your customer’s utility company offers Green Button data—a type of standardized file of their energy consumption throughout the day—software like Aurora lets you upload that file to generate a perfectly accurate historic model of their energy consumption down to 15-minute intervals. Unfortunately, only a limited number of utilities offer Green Button data. For these reasons, additional modeling options can be helpful.
+Green Button data is currently offered by a handful of electric utility companies around the United States. Source: Green Button Alliance. 
+New Tools for Accurate Load Profiles
+Starting next week, Aurora is excited to unveil some additional tools that offer solar designers greater ability to create an accurate load profile.
+First, if you have copies of the customer’s bills, you can now manually enter their consumption information in much more granular detail than just entering their monthly consumption or bill charge. Specifically, if the customer’s utility rate includes different time of use periods or different rates in different seasons, you can enter the amount of energy or the portion of their bill that corresponds to each billing period. This will allow you to manually generate a representative profile of how much they consume during those different periods.
+
+Aurora’s new Direct Input option allows you to manually enter a customer’s energy consumption during different time of use periods in order to generate a more accurate load profile.
+Additionally, we’re now making it easier to enter consumption information from the customer’s utility in different formats than Green Button data. If the customer’s utility offers it, you can now upload a CSV file of the customer’s historic energy consumption. Like Green Button data, this option allows for the entry of a customer’s energy usage over different time spans, such as 15-minute or 1-hour intervals. This also provides greater flexibility for modeling load profiles of customers in international markets. 
+
+Clearly, getting an accurate consumption profile for your customer is critical to finding the best solar design for their needs, and to accurately representing their potential savings from solar. Next time you’re putting together a design, consider taking advantage of these additional tools to enhance the accuracy of your load profile modeling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

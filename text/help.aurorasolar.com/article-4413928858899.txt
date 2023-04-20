@@ -1,0 +1,33 @@
+How to Place Modules in Sales Mode
+
+
+
+Placing Modules in Sales Mode
+
+
+
+
+
+
+Aurora provides you with the tools to create beautiful PV designs. Just follow these steps.
+
+
+
+
+
+
+
+
+
+Click the Module icon, select Panel type and Panel orientation, then click Place.
+
+
+
+Single tap to flip panel state from off, to on, and back again.
+
+
+Tap and drag to “snake select” multiple panels.If you start this action on an active module, it will deactivate it and all others you select after it. If you start this action on an inactive module, it will active it and all others you select after it.4. Double tap to turn off or on an entire array. If there is a mix of active and inactive panels in the array, double tap will activate the entire array. Double tapping again will deactivate it.
+
+
+
+

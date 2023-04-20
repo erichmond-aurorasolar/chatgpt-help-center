@@ -1,0 +1,656 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How to use AI to speed up your solar sales, marketing, and design | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How to use AI to speed up your solar sales, marketing, and design                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Do you ever feel like there are simply not enough hours in the day to run your solar business?
+From talking to potential customers to qualifying leads, designing systems, making sales, and actually installing new panels, there are so many facets of running a solar company that can take time out of the day and money out of your balance sheet. 
+Last year, the National Renewable Energy Laboratory found that the customer acquisition process accounted for roughly 20% of a residential solar business’s total costs on average, nationwide. Up 18% from 2020, this presents an enormous opportunity for solar companies to find creative ways to cut costs and streamline their lead acquisition and sales processes.  
+So how do you make your solar business more efficient?
+Increasingly, the answer is AI: artificial intelligence designed specifically for the solar industry.  
+Using AI to accelerate solar sales
+Celebrating the Summer of AI at Aurora Solar, we are out on the road talking to companies across the country both in-person and online about their solar sales processes. 
+In a recent webinar, Aurora Solar Product Marketing Managers Sherry Huang and Stephen Gerken demonstrated exactly how AI can be used to speed up your lead management and conversion processes without sacrificing accuracy at any step. 
+By cutting down on the time-intensive manual processes throughout the marketing, design, sales, and contracting cycles, AI lets companies sort out unqualified leads and keep their potential customers engaged with fast and accurate system proposals. 
+
+Watch the entire webinar on-demand to get all the info. But, in the spirit of saving time, in this blog, we’ll highlight three quick ways that AI can instantly speed up your solar sales process. 
+Get more high-quality leads
+In a recent survey, we found that over a third of solar businesses use external lead services to supplement their sales pipeline. While purchasing customer information can be a great way to get more solar leads, there are also many drawbacks to this method.
+Drive leads right from your own website.
+Third-party lead services, for example, often sell their inventory to multiple companies (a.k.a. your competitors) and it can be hard to stand out when the solar installers across town have the same customer information that you do. 
+Even further, relying on external sources can cause your business to fall behind on its own organic lead generation process, forcing you to continue purchasing new customer contacts every time your pipeline is looking a bit scarce. 
+To spend less time and money talking to purchased leads, and drive more sales, you can use AI to give potential customers a personalized experience. Using Aurora Solar’s Lead Capture AI, you can embed a powerful tool directly on your website to build customer trust, engage homeowners, and capture digital leads — digital leads that you own.
+While nearly every solar website includes some sort of “how much you will save” feature, few widgets are as interactive, easy-to-use, and advanced as Aurora Solar’s Lead Capture AI. With nothing more than a street address and monthly bill estimate, customers using Lead Capture AI on your website can instantly generate an accurate 3D solar estimate for their specific home. 
+Essentially, Lead Capture AI can keep customers visually engaged with real-world imagery to instantly build confidence in your company’s services. As a part of the engaging 3D solar estimate, Lead Capture AI automatically calculates its quantified benefits to display accurate estimates of annual electricity production, energy offset, and local utility bill savings.  
+Instantly qualify new customers
+Seconds after a customer clicks through Lead Capture AI on your website, all of their lead information is sent directly to the Aurora app, or any system you want — CRM, inbox, etc. — via API. From there, you can determine whether your sales team should spend time pursuing the lead based on the information they provide.  
+Who can say no to savings like these?
+If the customer lives in your service area and has a large enough roof and electrical bill to qualify for solar savings, then it’s up to you to jump into action, create a proposal, and set up a meeting with the customer.  
+Here, time is of the essence, as online prospects are 7x more likely to attend sales meetings if contacted within the hour, and 78% of customers are more likely to choose the solar company that contacts them first. 
+Learn more about how to Qualify a solar customer in 10 minutes. 
+No matter how your customer initially contacted you, speeding up the qualification process can help you generate more business with homeowners that are actively thinking about going solar. By using AI to cut down on the manual aspects of the qualification process, your company saves time, energy, and stress by only talking to customers who are fit for a solar energy system. 
+When designing your proposal prior to a meeting, or directly in front of the customer, Aurora AI can quickly and accurately determine the performance and quantified benefits of a solar energy system. 
+Measuring roof space: With over half a million roof models used to train the AI, Aurora Solar uses proprietary algorithms to create full 3D models in 30 seconds. While solar developers may be used to visiting homes and measuring everything manually, Aurora’s advanced LIDAR data and HD map imagery instantly produces accurate measurements of a roof’s height, pitch, and obstructions.    
+Accurate measurements via LIDAR save time, and money.
+Designing your system: Once the roof is drawn, Aurora’s irradiance data can be used to determine exactly how a system should be installed. Based on the available roof faces, pitches, trees or adjacent buildings that would cause shade, and even customer preferences, you can design a system with Aurora that will automatically estimate accurate performance data.   
+Energy bill savings: By combining accurate production models with real utility data, Aurora can instantly project 25 years of electricity bill spending against the cost of a solar energy system. With consistent information throughout the sales cycle, you can build customer confidence and satisfaction when actual performance matches your initial projections. 
+Want to show 25 years of savings? No problem.
+Once you’ve determined that a solar energy system will work for your customer, it’s time to stand out from the competition with a high-quality proposal that presents your company’s unique selling points. 
+Create proposals that will sell 
+It is no secret that most customers receive multiple quotes before going solar, so you have to create accurate systems, quickly, to take sales across the finish line — before someone else seizes the opportunity. 
+While keeping customers engaged, answering questions, and making proposal changes on the fly — right in front of the customer — solar company representatives can confidently use Sales Mode to make accurate calculations on the backend, so that they can spend more time presenting and selling the value of their unique services.  
+Both online and in-person, you can walk your customers through their personalized proposal in Sales Mode to develop an ideal solar system, while overcoming objections in real-time with a personalized proposal based on customer feedback. No matter how minor or major the system changes are, you can build customer trust and move the conversation forward with accurate adjustments to the system price and performance. 
+When it comes to proposals, personalization is key.
+Of course, if your customer is not quite ready to go solar at the end of your presentation, there’s no sense in rushing their decision to force a hasty sale. Instead, Sales Mode allows solar companies to generate interactive proposals that customers can send to their spouses, partners, friends, or neighbors to help them make the decision on their own time. 
+Complete with full 3D views and detailed information about your company, the solar energy system, financing, and contracting all in one place, Sales Mode’s interactive proposals are designed to make your customers’ decisions as easy and accurate as possible. 
+In closing… 
+In working with some of the best companies in the solar industry, Aurora is proud to have developed purposeful AI programs that help solar installers reduce the time, energy, and expenses that it takes to run their businesses. 
+Click the image to learn more about Aurora’s Summer of AI.
+From marketing to lead qualification and sales, Lead Capture AI and Aurora AI are designed to help you work seamlessly from end to end, so that every piece of customer information remains organized, accurate, and updated instantly in live proposals.
+With less time spent chasing questionable leads, drawing roof faces, and designing solar energy systems, we hope that our AI solutions can help you spend more time soaking in the sun this summer, knowing that your customers and their energy systems are doing the same.
+Learn more about Aurora Solar’s Summer of AI.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Sales                
+
+
+            5 min read        
+
+
+
+            3 Ways the Agile Sales Method Can Help Your Solar Business Compete        
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Sales                
+
+
+            4 min read        
+
+
+
+            3 easy ways to qualify a solar customer in 10 minutes        
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Products & Features                
+
+
+            4 min read        
+
+
+
+            How to Close More Solar Sales — More Quickly — With Sales Mode        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

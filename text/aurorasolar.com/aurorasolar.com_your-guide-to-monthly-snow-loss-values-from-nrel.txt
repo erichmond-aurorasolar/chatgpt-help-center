@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Your Guide to Monthly Snow Loss Values from NREL | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Your Guide to Monthly Snow Loss Values from NREL                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In addition to delivering a quality solar installation, providing an accurate estimate of how much energy the PV system will produce is one of the most critical ways solar contractors can ensure their customers are satisfied. But sometimes environmental factors–like snow–can complicate your efforts.
+That’s where loss values come in. As discussed in Aurora’s PV System Losses Series, these kinds of solar PV system losses are accounted for with linear loss factors. These are applied as percentage reductions to the energy production calculated by the simulation tools of your solar design software.
+Determining the appropriate loss factor to account for energy production lost as a result of snow on the customer’s solar panels is particularly tricky, however. Not only does the amount of snow vary widely between different locations, the design of the solar installation–particularly the tilt of the panels–can play an important role as well.
+Thankfully, a number of models have been developed that help solar contractors determine the appropriate snow loss factor to use when estimating solar customers’ energy production in order to get the most accurate result. In 2017, the National Renewable Energy Laboratory (NREL) published research that verifies the accuracy of a leading snow loss model and provides recommended snow loss values for different types of solar designs in different areas.
+Following up on Part 3 of our System Loss series, which introduced snow losses, today’s article discusses this snow loss model and shares NREL’s recommended snow loss percentages for PV systems at different tilts and different locations in an easily accessible format. With this local data, solar contractors can ensure their solar production estimates capture the effects of snow as accurately as possible.
+NREL’s Snow Loss Research
+In order to address the solar industry’s need for a reliable model that estimates solar production losses as a result of snow coverage, NREL integrated the methodology of a leading snow model (developed in the paper by Marion et al. in 2013) into its System Advisor Model (SAM) software.
+NREL then conducted a validation study demonstrating that the model reduced error in estimated annual energy by over 45% compared to measured values. Finally, using historic weather data, the agency applied the snow model to a wide variety of locations in order to determine snow loss values for different locations and tilts that reflect typical trends. These findings are published the 2017 paper, Integration, Validation, and Application of a PV Snow Coverage Model in SAM.
+About the Model
+The snow loss model assumes that the sliding of snow off of a PV Array is the primary method of removing snow, and other works support this conclusion. The model can be used in NREL’s SAM software, another tool for simulating the production from PV systems.1
+The model is used during the PV simulation step, and acts to reduce the irradiance on modules similar to how shading and soiling are accounted for; Aurora applies snow losses in the same step. (For a quick summary of system losses, and how to configure your account settings in Aurora, see the Aurora Help Center.)
+
+Find the Right Snow Loss Values for Your System
+In order to provide solar contractors an accessible way to determine a representative snow loss factor to enter in their solar design software of choice, we ran the model in SAM for a range of locations in the U.S. across a range of tilts and compiled the appropriate percentage loss factors for each month according to NREL’s model.
+The map linked below has icons for each of the locations modeled, presenting monthly snow loss values for each respective tilt.
+(Click here to open the map in it’s own tab.)
+Each of the 64 locations modeled had a south-facing system oriented at a tilt between 20 and 60 degrees. On the map, each different tilt is represented by a different color icon for accessibility; users who want to look up snow loss for a given tilt near an available city can simply click the appropriate icon to see the monthly snow loss values. (You may need to zoom in to see all of the icons.)
+The example plot demonstrates the snow losses for varying tilts at a given location in each month. For the town of Rockford, IL, snow losses can range from 20% to 50% in a typical January, depending on the tilt, and that snow loss drops down as spring encroaches.
+
+In general, rooftops with modules at a greater tilt will see less snow blockage, but the exact values will still depend on whether there’s enough space for snow to slide off and if the system is oriented away from south, resulting in less direct sunlight and less chance for the snow to slip away.
+
+
+You strive to provide a high level of accuracy to your solar customers when estimating how much energy the system will produce. If your customer lives in a U.S. location that experiences snow, using NREL’s monthly snow loss percentages in Aurora will help you ensure that your estimates more accurately represent reduced energy production from snow coverage.
+ 
+
+1 This model can only be applied if snowfall data is available; the National Solar Radiation Database (NSRDB) has this data available for a “Typical Year” in the older TMY2 weather data sets, but not TMY3, so we only ran the model for those locations across a range of tilts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

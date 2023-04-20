@@ -1,0 +1,10 @@
+9/7/18 Release Notes 
+
+
+Added CRM lead import. This feature allows you to import leads from Salesforce and Zoho CRM directly into Aurora. Learn more here: Salesforce Integration
+
+Fixed issue where having too many setbacks can slow down the application.
+Added full text search for proposal templates.
+Tuned zoom button speeds.
+Removed current safety factor of 1.25. We used a factor of 1.25 * the input current into an inverter for NEM validation and inverter string sizing rules. This is no longer industry best practice and has been removed.
+Improved automatic assignment of strings to inverter MPPTs, and improved inverter input port constraints.

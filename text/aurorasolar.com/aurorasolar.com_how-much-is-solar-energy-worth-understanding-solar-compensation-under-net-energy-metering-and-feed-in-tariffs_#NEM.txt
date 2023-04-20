@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Much Is Solar Energy Worth? Understanding Solar Compensation Under Net Energy Metering and Feed-in Tariffs | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Much Is Solar Energy Worth? Understanding Solar Compensation Under Net Energy Metering and Feed-in Tariffs                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There are many benefits of installing a solar system–but a major one for many people is that generating your own solar energy can save you money on your utility bills. In order to understand the cost savings that your solar project will provide over time, it is critical to understand the policies that determine how much your solar energy is worth. 
+There are a variety of different approaches that governments and utilities use to compensate the owners of renewable energy systems for the energy they produce, but two of the most widely used mechanisms are net energy metering (NEM) and feed-in tariffs (FITs). In today’s article we provide an overview of each. 
+ Feed-in tariffs  are a compensation scheme which offers guaranteed cash payments to producers of renewable energy, based on an established rate per kWh. The rate of compensation established under FITs is often higher than the retail rate, and the payments are typically guaranteed through a long-term contract. For example, in the UK, a solar installation with a capacity between 10kW and 50kW installed before March 31, 2017 will be compensated at a rate of 3.89 pence per kWh for a period of twenty years. 
+Under net energy metering , solar system owners are credited at the retail rate for the excess solar energy that they feed onto the grid, while being charged normally for the electricity they draw from the grid. For these customers, it is as if their electricity meters run backwards when their solar system is producing more energy than they need, so they pay only for the net electricity they consume over the course of the year. In contrast, with a feed-in tariff, compensation for the energy produced is independent of your energy consumption.
+  
+Feed-In Tariffs (FITs)
+FITs are a popular policy tool designed to encourage the investment in renewable energy technologies (including, but not limited to, solar) by guaranteeing that the owner will be compensated at a set rate – often above the retail rate – for the energy produced. Globally, feed-in tariffs (FITs) are the most widely used renewable energy policy for driving accelerating renewable energy deployment.
+FITs rose to prominence in the late 1990s as a mechanism for encouraging the rapid deployment of renewable energy sources, and have been used to great success in many international markets, including in the European Union, and later China and Japan. (The use of FITs in the U.S., however, has been limited to a small number of states.) By guaranteeing that developers of new renewable technologies will have a market for the resulting energy and can count on being compensated at a rate that reflects the generation costs, feed-in tariffs have helped renewable sources like solar achieve economies of scale. Payments are guaranteed through long-term contracts ranging from 10-25 years.
+
+Currently, only seven U.S. states have solar feed-in tariff programs. Information source: Database of State Incentives for Renewable Energy.
+FITs compensate project owners for the energy produced based on a set rate established by policy makers, which is typically higher than the prevailing retail rate (a major difference between net metering and feed-in tariffs). Different renewable energy sources may be compensated at different rates, depending on how expensive they are to deploy–with technologies like solar and wind typically being compensated at a lower rate than less developed technologies like tidal power. This approach reflects the fact that feed-in tariffs are designed to help emerging industries achieve economies of scale. Feed-in tariffs are usually designed so that rates scale down over time to encourage technological cost reductions.
+  
+Net Energy Metering (NEM)
+As UtilityDive  explains, “U.S. policymakers… never got comfortable with the economics behind the FIT model, preferring to set initial solar supports at or near the retail rate of electricity.” Enter net energy metering (NEM), a policy in which utilities compensate producers of renewable energy at the retail rate for any excess production that flows back to the grid, allowing them to offset the cost of energy they draw from the grid at times when their system is not producing enough to cover their needs.
+In the U.S., net energy metering is the dominant approach for compensating producers of solar energy. As of July 2016, 41 states have mandatory net metering policies, and an additional two states have voluntary net metering programs through utilities. Cory Honeyman, Senior Solar Analyst at GTM Research, reports that “The overwhelming majority of DG solar that has come online to date [in the U.S.] has come from projects taking advantage of net metering, not Feed-In Tariffs.”
+
+Forty-one U.S. states (as well as the District of Columbia) have mandatory net metering policies for certain utilities. Two additional states have utilities that offer net metering programs, though they are not mandated by state policy. Source: Database of State Incentives for Renewable Energy.
+Compared to FITs, NEM requires less active management from policy makers because the rate of compensation follows the retail rate for energy. Honeyman notes “The good thing about net metering is that it does not require re-adjustments… [With feed-in tariffs] it is difficult to set the step downs in the level of the tariff in a measured way that doesn’t either crater the market or drive demand too fast.” Also unlike FITs, NEM programs typically use bill credits, rather than cash, to compensate system owners.
+Another way of thinking about how net metering works in practice for system owners is that it enables them to use the energy their system produces as needed, rather than when it is being produced. Since the energy produced by your solar system varies based on time of day and weather conditions–and the times when you use the most energy often will not coincide with when your system is producing the most – net metering is a convenient way to even things out.
+ A forecasted daily load profile for a house in central California, broken down by the source of energy demand, as created by Aurora’s solar design software.
+In some states, like California, the retail rate for energy varies throughout the day, with higher rates at times when there is higher demand, typically in the afternoon and evening (an approach known as time of use, or TOU, rates). These policies can work hand-in-hand with net metering and affect the value of the solar energy you produce. For instance, owners of solar installations that sell excess energy back to the grid during the day, when demand from businesses is high, may be compensated at a higher rate.
+While participation in time of use rate programs remains low around the US, most states offer voluntary time of use rates. Whether you live somewhere where TOU rates are mandatory or are considering opting into a voluntary program (which could save solar system owners money), it is important to understand how much energy you’ll be producing and consuming at different times throughout the day to accurately estimate the finances of your solar installation. Aurora’s solar design software automatically predicts how your production and consumption will vary throughout the day, and the compensation strategy used in your area, when estimating the value of the energy your system will produce over time.
+Feed-In Tariffs or Net Energy Metering? Looking to the Future
+NEM and FITs have both played important roles in the development of the solar industry globally. Looking to the future, policies for compensating producers of clean, renewable energies like solar are likely to adapt. In the U.S., there has been debate over net metering policies, with some stakeholders arguing that compensating solar energy producers at the retail rate does not ensure that they pay for the costs of maintaining the electrical grid. Around the country, states are beginning to explore a variety of new ways of compensating solar producers to reflect these concerns, such as California’s NEM 2.0 policy. No matter what compensation approach prevails, having a solid grounding in NEM and FITs will provide you with a strong base for understanding policy changes to come.
+~~~ 
+Want to be in the loop on our latest articles? Click here to subscribe to our blog!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

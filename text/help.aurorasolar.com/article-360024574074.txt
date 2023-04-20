@@ -1,0 +1,17 @@
+Why Should I Migrate My Financing Products to Aurora's Finance 2.0? 
+
+Overview 
+On June 13th, 2019 Aurora Solar introduced Finance 2.0. This new financial analysis interface introduced a number of major improvements to the way that you can run financial analysis in your Aurora Solar. Many of these new improvements were inspired by direct feedback and feature requests from our customers. Please note all new projects will open in Finance 2.0 by default. This action can not be undone. 
+On September 7th, 2019 Aurora Solar will deprecated our legacy finance feature. However, you can take advantage of the new Finance 2.0 tool today by updating your finance settings. You can do this by following the steps below. Please note that each existing project in your account can be updated one project at a time. 
+
+Log into your Aurora Solar account 
+Navigate to Financing (Legacy) in your left-hand menu
+Next a yellow banner will appear in your account on the top of your screen (see screenshot below). Click on the word "Update" to change your current project to the new Finance 2.0 view!
+Please remember that when you update your finance setting within a project you can not undo this action. 
+
+ 
+ 
+What Improvements have been made in the Finance 2.0 tool? 
+Immediately calculate savings as you design- In Finance 2.0 you can view your bill offset along with your production values directly in the design interface- You can also analyze your avoided cost as you designQuickly pick the right financing option- You can now configure any type of loan in Aurora. Including Mortgage Style Loans, Bullet (Balloon) Loans, Interest only and No Payment loan options.- You can also configure your PPA or lease and save the up front payment, the rate per kWh, and the PPA escalation rateEasily add Incentives- Use customizable templates to quickly add your most commonly used incentives!Additional placeholders and dealer fee setting- We've added a number of new placeholders to automatically pull in financing values in words your customer will understand.- You can addAdd your Dealer Fee to the system cost! Aurora will now allow users to add the dealer fee to the system cost of a project.
+ 
+ 

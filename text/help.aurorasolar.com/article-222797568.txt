@@ -1,0 +1,6 @@
+What is the difference between "Savings (Lifetime)" and "Utility Bill Savings (Lifetime Total)"?
+
+The placeholder "Savings (Lifetime)" takes into account the cost of the system, the discount rate, any down payments, loan payments, PPA payments, lease payments, utility bill savings, incentives, interest, operations and maintenance, and all financial costs and benefits of going solar. This measure shows you how much you should expect over the entire life of your solar project in today's dollars. In other words, it is adjusted for the time value of money. 
+The placeholder "Utility Bill Savings (Lifetime Total)" is the difference between the pre-solar bill and the post-solar bill for the life of the system, taking into account the utility escalation rate and the discount rate. It does not take into account the cost of the system, or interest, principal or any other costs.
+ 
+ 

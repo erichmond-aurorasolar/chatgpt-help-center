@@ -1,0 +1,20 @@
+Modeling Cell-String Level PV Optimizers
+
+        
+One of the exciting new products available in the solar market is cell-string level PV optimizers. Aurora is able to simulate the performance of these products, because our performance simulation engines compute the exact shading, and analyze the exact configuration of your module, on each cell string of your module. This is how you model these modules in Aurora:
+
+Enable the module for your account by "staring" it in your database (note you need to be an account administrator to star modules). You can change the search field by clicking on the label in the top right of your database (in our example we changed the search field to Model, and we searched for "Maxim").
+You will notice the modules say "smart module" next to them. Click to the left of the module name to star the module - this enables it for your account to use.
+
+
+Now that you have activated the modules, you can analyze their performance effects. Go to your System Design view. Then click on Solar Panels then Fill Roof Face and select your module and inverter. Click on the roof face you wish to fill with modules.
+
+Note: if you want to see monthly shading, click on the Settings button on the top right, and enable the monthly shading option.
+
+You have to explicitly enable submodule simulation. To do this click on the Gear icon then Settings of your performance simulation, and then select Submodule Simulation. Please note that your simulations will be a little slower when you perform submodule simulation.
+
+Look over the loss tree diagram. It is broken into four sections: Irradiance, DC, AC and Other losses. Cell-string level optimizers effect should show up in the DC losses section. 
+
+If you want more information about what is going on under the hood of your performance simulation, you can look at the "Simulation Logs" and "Simulation Warnings". You can learn how much you are losing due to inverter clipping and other factors.
+ 
+

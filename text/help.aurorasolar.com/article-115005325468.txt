@@ -1,0 +1,31 @@
+How do I calculate SRECs?
+
+What are SRECs?
+Solar Renewable Energy Credits (SRECs) are an incentive for homeowners who have solar. The homeowner will receive credits based on how much energy their system produces, which they can then sell back to their utility company. Of the states that offer SRECs, all have varying rates. 
+ 
+1 SREC = 1000 kWh
+ 
+For example, your system generates 10,000kWh. This means you have 10 SRECs. If you are in a state that offers a rate of $260/ SREC, the total value of SRECs for their system would amount to $2,600.
+ 
+(kWh x .001) x SREC rate = value of SRECs
+ 
+(10,000kWh x .001) x 260 = $2,600
+
+How do I model SRECs in Aurora?
+Some SREC programs, like other incentives, are already modeled for you in Aurora’s Database section. To apply these to your project in Sales Mode, navigate to the Adjust Pricing page > Incentives > then search for the incentive you’d like to apply.
+
+By default, Aurora will calculate the total expected savings from the SRECs and subtract that amount from the system cost. However, this is not factored into the monthly post-solar bill comparison.
+
+To show the effect of SRECs on the homeowners’ post-solar monthly bill, admins will need to navigate to Settings > Pricing > General and turn on the toggle for “Show recurring income for performance incentives”.
+
+Once enabled, there will be a new item in the post-solar card on the Bill Overview page in Sales Mode for “Incentive income”. This will factor the expected monthly income from SRECs into their post-solar bill and the monthly savings chart. 
+
+ 
+SRECs paid out in a lump sum
+Most SRECs are paid out incrementally, as in, via smaller payments over time. However, some SRECs (most notably Illinois SRECs) are paid up front as a lump sum determined by the size of the system. 
+ 
+To model for these correctly, admins will need to access Aurora V1 > Database > Incentives. Then, select the appropriate incentive, change Disbursement Type to Lump Sum, and specify the percentage that gets paid out to the homeowner. You can also create your own Custom SREC Incentive.
+ 
+Note: If you do not have access to Aurora V1, please reach out to your Customer Success Manager or Support for assistance.
+
+When this incentive is applied to your project in Sales Mode, the savings will be calculated as a one-time payment applied to the total system cost.

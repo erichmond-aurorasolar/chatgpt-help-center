@@ -1,0 +1,23 @@
+How to Use LIDAR
+
+Here is how to model using LIDAR in Aurora:
+
+
+After completing your design, click on the LIDAR button on the top menu.
+
+Toggle into the 3D view by clicking the 3D box icon (or holding right click) and moving your cursor up.
+
+Click the LIDAR Settings button to toggle between Mesh or Point Cloud. 
+
+
+Adjust the LIDAR data by using the x, y, and z coordinate fields.
+
+
+After calibrating LIDAR, click on the Fit Buildings to LIDAR button to fit your design to the LIDAR data.
+
+
+Note: you can also view or switch the source of LIDAR data in the LIDAR settings menu
+
+Click Here to see Aurora's LIDAR availability map of LIDAR data. 
+ 
+ 

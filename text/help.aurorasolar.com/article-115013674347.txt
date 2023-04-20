@@ -1,0 +1,20 @@
+10/20/17 Release Notes
+
+
+
+Aurora now allows you to estimate your customer's consumption by uploading from multiple file format options
+
+Our interval data upload feature has been modified to allow the following formats: XML, CSV, and a Pacific Gas & Electric CSV file directly from the customer's web portal
+A downloadable CSV template file is now also available
+Learn more, here
+
+
+
+
+Profitability-index property added to financing model
+
+Profitability Index: The present value of future cashflows divided by the initial investment
+It's a placeholder in a Financing section
+Grants are now taken into account
+
+ 

@@ -1,0 +1,117 @@
+Salesforce Integration Set Up Instructions (Legacy Aurora)
+
+ 
+(Looking for the Zoho Setup?) 
+
+Aurora clients can now import their lead’s (i.e. prospective customer's) information from Salesforce into Aurora. This integration will allow an Aurora client to do the following:
+
+Launch from Salesforce: select a lead in Salesforce, and click a button that will send the lead information to Aurora.
+With this integration Aurora will only import the following fields: First Name, Last Name, Full Address (Street, City, State, PostalCode, Country), Phone, and Email of leads you explicitly asked to import.
+
+Note: If you would like more import and export functionality you will need to have an Enterprise account, please email support@aurorasolar.com for more information.
+
+
+
+How to set-up (estimated to take 45 min to complete): 
+  Before you begin: 
+Make sure you have system administrator privileges in both Aurora and Salesforce. 
+Part I: Create Aurora App in Salesforce
+Step 1: Open Setup Page
+Click “Setup” from upper right corner.
+ 
+Step 2: Open “App Manager” page.
+Search for “apps” in Quick Find box -> Click App Manager under Apps.
+ 
+Step 3: Create a “New Connected App”
+Click New Connected App button.
+ 
+Step 4: Set up New Connected App
+Fill out required fields under Basic Information and API(Enable OAuth Settings) sections.
+
+
+Enter “Aurora Solar” for "Connected App Name".
+
+
+Enter“Aurora_Solar” for “API Name”.
+
+
+Enter“support@aurorasolar.com” for “Contact Email”.
+
+
+Check Enable OAuth Settings under API(Enable OAuth Settings).
+
+
+Enter “https://app.aurorasolar.com/settings/integrations” for “Callback URL”. 
+
+
+Choose Access and manage your data (api) and Perform requests on your behalf at any time (refresh_token, offline_access) under Available OAuth Scopes and add them to Selected OAuth Scopes.
+
+Click Save button.
+
+ 
+Step 5: Go to “Object Manager” page.
+Search for “object manager” in Quick Find box -> Click Object Manager under Objects and Fields.
+ 
+Step 6: Go to Lead page
+Click “Lead’ from the list.
+ 
+Step 7: Create a new link
+Click Buttons, Links, and Actions -> Click New Button or Link
+ 
+Step 8: Configure custom link
+Fill out required fields under Custom Button or Link Edit. It is CRUCIAL that this information be directly copied and pasted (without quotation marks) into the appropriate sections. On Mac: hit command(⌘) + c to copy and command (⌘) + v to paste. On PC: hit Ctrl +c to copy and Ctrl + v to paste. Please avoid entering the URL manually. 
+
+
+Enter “Design in Aurora” for “Label”.
+Enter “Design_in_Aurora” for “Name”.
+Choose a “Detail Page Link” for “Display Type”.
+Choose a “Behavior”
+
+Choose “URL” for “Content Source”.
+Enter https://app.aurorasolar.com/webhook/lead-import?type=salesforce&lead_id={!Lead.Id} for url.
+
+Click Save button.
+
+
+ 
+Step 9: Go to “Page Layouts”
+Click “Page Layout” button from the menu on the right.
+ 
+Step 10: Go to “Lead Layout”
+Click “Lead Layout” from “Page Layouts”
+ 
+Step 11: Add Link to Lead Page
+Drag Design In Aurora from Custom Link” menu at the top to Custom Links section.
+ 
+Step 12: Complete Setup
+Now you can view the link under Detail tab in lead page.
+
+
+Part II: Retrieve Consumer Secret and Consumer ID from Salesforce
+
+ 
+Step 1: Go to Setup page.
+Click Setup button from upper right corner -> Search for "Apps" from Quick Find search box -> Click App Manager from search result
+
+Step 2: Find your App
+Find your App from the list (in this case “Aurora Solar”) -> Click down arrow -> Click View button
+ 
+Step 3: Reveal your Consumer Secret
+Click Click to reveal to reveal your Consumer Secret -> Have this page open
+ 
+Step 4: Open Integration page in Aurora App
+Open a new tab or window from your browser -> Navigate to Aurora App -> Go to Setting page -> Integrations
+ 
+Step 5: Configure your integration (Please notice that you need tenant administrator privilege to configure the integration)
+Click Salesforce button under CRM Lead Import -> Input Consumer Key for "Client ID" field that you obtained earlier from salesforce connected app -> Click Connect to Salesforce
+ 
+Step 6: Consent in Salesforce
+Click Allow button
+ 
+Step 7: Input your Consumer Secret
+Enter the “Consumer Secret” you obtained from salesforce for “Client Secret” field -> Click Complete Setup
+ 
+Step 8: Complete setup
+A modal will show up indicating that the setup was successful. 
+
+Phew you're done! Please contact support@aurorasolar.com if you need further assistance! 

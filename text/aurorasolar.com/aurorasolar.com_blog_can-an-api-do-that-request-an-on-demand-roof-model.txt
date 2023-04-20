@@ -1,0 +1,645 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Can an API do that? Request an On-Demand Roof Model | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Can an API do that? Request an On-Demand Roof Model                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Roof modeling is one of the parts of the solar install process that has been changed the most by technology. What used to require several truck rolls, manual inputs, and complex tools, can now be accomplished in minutes, without visiting the site at all. 
+Just a few years ago, solar designers relied on multiple truck rolls and site visits to generate accurate site models for solar system designs. Advances in solar software have changed that. Our customers now use Aurora to remotely model and design installable solar systems, all from their computers. 
+Even more, Aurora’s Expert Design Service enables growing businesses to scale more quickly and efficiently by leveraging Aurora’s team of expert designers to produce site models on demand. In fact, our Expert Design Service team produces roof models for 30-40% of all Aurora projects today.
+Have a difficult project? Expert Design Service can help.
+But really, there’s no limit to the reasons that you might request a roof to be modeled for you, rather than modeling it yourself. When it comes to Aurora customers, some of the most common reasons we hear are:
+The quality of the roof models matters. It’s hard to get an accurate production estimate if a system is built on an inaccurate roof model.Hiring enough designers is difficult. As a solar company scales, finding enough designers, quickly enough, to meet demand can be tough. The natural ebbs and flows of the solar business. Nobody installs the same number of roofs every month; some months are incredibly busy, making design a strain on other areas, while other months are slower, and designers might be underutilized.Turnaround time. Aurora’s default SLA is 3 hours but most roof models are completed in less than an hour (or you can use our Expedited service to get it done in 30 minutes). It’s hard for internal designers to complete models that quickly. (It’s hard for our competitors, too.) Solo’s proposal turnaround time, for example, is measured in days.
+What it comes down to is that using roof design services can help solar businesses turn around designs more quickly, while keeping costs down and accuracy high. 
+How to request a roof model anytime, anywhere
+When your company needs roof modeling services — for any reason — you can request them within Aurora with a few clicks.
+This blog walks through all the steps and links out to some helpful resources.
+But, what if you want to embed the process to request a model right into your existing systems and processes? Or even automate a request as soon as an opportunity is created? There are a number of reasons you might want to do this, but there are a couple we’ve seen a lot with Aurora customers:
+To operate beyond a certain scale, solar installers have to automate workflows wherever possible, including roof model buildouts.Building roof models is often done before home visits. Since all you need to create a site model is an address, many of our customers trigger Expert Design Service requests via API calls as soon as a new lead’s address is populated in their CRM.
+Programmatically request Aurora’s Expert Design Services 
+With Aurora’s Sync API, you can build custom workflows that fit your business needs and existing systems, ultimately helping you scale faster and smarter. Sync API includes a suite of API endpoints and webhooks that help you programmatically deliver information across systems and get notified in real-time of any updates from Aurora.
+In this tutorial, we’ll show you how to use our Design Requests endpoint and corresponding webhook to programmatically request a roof model for any of your existing systems, and get a notification for when that model has been completed by Aurora’s expert team of designers.
+To get started, you’ll need:
+your Aurora tenant to be on the Custom planyour Aurora bearer tokenyour Aurora tenant_idURL to deliver Aurora webhooks to
+You or any Administrator for your Aurora tenant can retrieve the token and tenant ID from the API Settings page.
+Step 1. Subscribe to a design request completion webhook event
+Subscribe to the design_request_completed webhook event, pointing webhooks to your application that will process them.
+
+Step 2. Create a project
+Create a project using an address that will be instantly filled by the mock Expert Design Service.
+
+Step 3. Make an Expert Design Service request
+Request a roof model to be created for the project_id returned by the request above.
+
+Step 4. Look up the design_id for the newly created design
+On the webhook receipt, look up the design_id for the newly created design.
+
+Get started
+Ready to take your workflows to the next level? If you’re not an Aurora customer, or you’re not on a Custom Aurora plan, schedule a free demo to learn more.
+Already an Aurora customer? Check out our technical documentation page to implement this workflow for your company today!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Products & Features                
+
+
+
+                    Solar 101                
+
+
+
+                    Technology                
+
+
+            6 min read        
+
+
+
+            Scale Your Solar Organization Seamlessly With APIs        
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+            3 min read        
+
+
+
+            Top 10 Things You Didn’t Know Aurora Can Do: #1 — Expert Design Service        
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar 101                
+
+
+            7 min read        
+
+
+
+            Ready to Scale Your Solar Company? Start Here        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

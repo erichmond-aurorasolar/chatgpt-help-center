@@ -1,0 +1,532 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Using Computer Vision for Remote Solar Site Measurements | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Using Computer Vision for Remote Solar Site Measurements                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When designing a solar project for a prospective customer, you know it’s important to get the details right. That helps ensure that the design you propose to them is the design that actually gets installed—without the need for costly and time-consuming design changes, as might be the case if you thought that more panels would fit on a particular part of their roof, for instance.
+  
+But, in the increasingly competitive solar industry, speed is also of the essence. You need to follow up as soon as possible to maximize your chances of winning the customer’s business. That means that driving to the site and taking manual measurements may not be practical, particularly if the customer is far away. (Not to mention, you could save time and money by avoiding the trip.)
+It’s this very challenge that Aurora was founded to solve, and we’ve been hard at work developing many new software technologies that make it possible for solar contractors to accurately design solar installations without the site visit, from NREL-validated remote shading analysis to providing access to LIDAR data and crisp aerial imagery to cutting-edge roof drawing tools.
+This month, Aurora is excited to announce a new tool that gives solar contractors another way to get accurate measurements of elements of the project site: Street View Ruler.  
+
+Aurora’s Street View Ruler makes it easy to take site measurements without actually being at the site, so you can ensure that you can fit as many panels as expected and that the pitch of the roof is what you think it is (this can affect how much energy your PV system produces).
+
+Street View Ruler
+The Street View Ruler leverages computer vision, or the use of computers to interpret images. As we discussed in our overview of computer vision and how Aurora uses it to improve the solar design process, one application of computer vision is to calculate measurements using multiple images of a site.
+This new tool, which builds upon prior advances by the Aurora computer vision team, offers a simple and easy-to-use method for taking accurate measurements of the project site from the comfort of your desk.
+Behind the scenes, the computer vision approach that the Street View Ruler uses is the mathematical process of triangulation. Commonly used in nautical navigation, triangulation allows you to determine the distance to an object if you know the direction from two known locations.
+In this case, satellite imagery and Street View imagery provide the two different views of a site. Because these imagery sources include the camera positions and angles, measurements can then be extracted from the images.
+With this tool, solar designers can measure distances—like the height of a tree or width of a roof face—and slopes—like the pitch of a roof. To do so, the designer identifies the points they want to measure, in two different images of the site: the Street View image and a top-down satellite or aerial image. By indicating to Aurora which points correspond to each other in the images from two different angles, Aurora’s computer vision engine can perform triangulation and generate an accurate measurement.
+
+Key Features
+Several teams worked together to develop this tool. Our UI/UX (user interface/user experience) team worked to create a workflow that would be intuitive and minimize chances for confusion, while our Front End engineers Carl Olsson and Kelly Stevens worked to create the tool using the computer vision measurement functionality that our computer vision team had developed.
+In-App Instructions
+As you use the Street View Ruler, prompts on the screen guide you through the process. This makes it faster to learn and helps to minimize the chance of missing a step that would impact your measurement.
+As you use the Street View Ruler, prompts guide you through the process to ensure correct usage. 
+Numbered Points to Match Street View and Top-Down Measurements
+Numbered points make it easy to ensure that you’re lining up the points correctly between the Street View image and the top-down satellite/aerial view of the site.
+To allow Aurora’s Street View Ruler to take measurements using triangulation, place each numbered point on the spots you would like to measure in both top-down and street-level views of the project site. 
+Camera Animations Offer Enhanced Visualization
+Another feature of the tool is camera animations in which Aurora automatically aligns the 3D view of your site model with the perspective of the Street View camera once you’ve taken your measurements.
+Once the measurement is complete, Aurora automatically rotates the view of your project site to match the street-level view, allowing you to get a better sense of the area you measured.
+As Carl Olsson, one of the software engineers who built the Street View Ruler, explains, “Once you’re done creating a measurement, the top-down camera view will rotate to the direction of the street view camera. I think that makes it easier for users to understand the measurement they’ve just created and how it correlates with the Street View.”
+
+Street View Ruler is another tool in your toolkit for ensuring accuracy and precision in your solar designs for customers while saving time by minimizing the need for time-consuming and costly visits to the site during the design stage. Let us know in the comments below how you’re using the Street View Ruler!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

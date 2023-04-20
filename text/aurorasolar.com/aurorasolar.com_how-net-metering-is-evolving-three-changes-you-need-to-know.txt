@@ -1,0 +1,579 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Net Metering Is Evolving: Three Changes You Need to Know | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Net Metering Is Evolving: Three Changes You Need to Know                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net metering (also called Net Energy Metering or NEM)—which allows solar customers to sell excess solar energy back to the grid to reduce their bills—is a crucial policy for going solar in the U.S.  Without it, solar adoption would not be as widespread as it is today.
+
+However, in some areas, the proliferation of distributed solar has lead to an excess of solar energy being sent to the grid in the middle of the day, which is changing the economics of energy production. 
+As utilities and grid operators grapple with distributed grid, they are introducing a number of changes and reductions to the availability of net metering.
+In today’s article, we explain the variety of ways that net metering is changing around the U.S. so you can accurately predict your customers’ savings and explain how billing from their local utility will work after they install solar.
+ 
+How Traditional Net Metering Works
+Under traditional net metering, customers are only billed for their net consumption over a billing cycle, meaning that any energy they consume from the utility can later be offset by energy production from their solar installation. As a result, even though a customer’s solar installation only makes power for them during the day, they can use excess energy production during the day to cancel out their nighttime usage and drop their electric bill down to nearly zero.
+In this most basic form of net metering, the electricity sold to the grid is valued at an equal rate to electricity bought from the grid. Second, the utility bill is entirely comprised of energy charges; the amount the customer is billed for is directly connected to their energy usage alone and, importantly, those charges can be offset by solar production. In this scenario, there are no fixed energy charges (charges which cannot be offset, and which may or may not correspond to the amount of energy used). Finally, credits from excess solar generation can be applied to future months indefinitely.
+
+How Is Solar Net Metering  Changing? 
+Changes to net metering policies fall into three general categories: 1) changes to how long excess generation credits can be carried forward and applied to future energy charges, 2) the application of fixed energy charges which cannot be offset with solar energy credits, and 3) changes to the value of electricity sold to the grid from a solar installation compared to the value of electricity bought from the grid.
+Credit Expiration:
+
+Some utilities specify annual credit expiration. The billing year may end on a specific date or be based on when the system was installed. During the one year billing period, a customer’s excess generation credits can be applied to future months. At the end of a customer’s annual period, any excess credits are lost. Customers may receive a small compensation based on the wholesale rate of electricity for their excess generation.
+A handful of jurisdictions have taken further steps, with monthly credit expiration. Customers in these programs lose excess credits at the end of each month and receive wholesale compensation.
+
+
+Fixed Charges:
+
+Most utilities have fixed or minimum bills for customers. These are tabulated separately from energy charges and in many cases can’t be offset by excess solar production.
+Some utilities, including the three largest in California, specify a portion of the electricity rate as non-bypassable. This means that the customer is always charged for a portion of the energy they buy from the grid, regardless of whether they produce enough solar energy to offset it at a future time.
+
+Value of Electricity:
+
+Some utilities specify a reduced value for electricity sold to the grid, devaluing the energy production from the PV system. This is usually specified as a percentage reduction – the utility might credit the customer only 85% of the value of an equivalent amount of kWh bought from the grid.
+Some utilities specify a lower, fixed value for electricity sold to the grid; this means that regardless of the customer’s current tier or the time of use (TOU) period, the customer receives a specified fixed rate for their exports.
+
+In the next section we discuss each of these utility bill schemes in greater depth.
+Net Metering Credit Expiration
+Annual Credit Expiration and Net Surplus Compensation
+Annual credit expiration rules are common but weren’t a component of original net metering policies. In pure net metering, a customer can pass excess kWh or dollar credits to future months indefinitely—but with an annual credit expiration or “true-up,” any excess credits are expired annually.
+Customers usually receive some sort of compensation for excess electricity generated, often called “Net Surplus Compensation,” which reflects the cost savings for the utility company for those kWh. This is usually a small compensation, around $0.03 – $0.05 per kWh.
+Most utilities have a credit expiration time at the end of December or March. When credits are expired in March that means the customer can build up a “bank” of credits during the summer months when PV systems produce more energy.
+As a result of annual credit expiration, most installers will typically aim to just offset the customer’s bill; any excess production beyond that would result in little benefit to the customer. 
+
+Monthly Credit Expiration
+A more extreme version of credit expiration involves netting out and compensating excess kWh at the wholesale rate on a monthly basis. This is substantially less favorable to the customer, since they can’t bank excess credits during the summer to apply to winter months.
+
+Fixed Charges
+Minimum and Fixed Bills
+Fixed and minimum utility bills are a common portion of many utility rates. Simply put, a customer may have a fixed charge added on top of their charges for electricity. Alternatively, if their charges are below a certain level, they still have to pay a minimum connection amount (minimum bill).
+Many net metering policies specify that fixed charges and minimum charges can’t be offset with excess solar PV production or with excess production credits from previous months. This means that many solar customers will still have a $10-$20 monthly charge from the utility even if they have no electric charge or even receive credits.
+
+Non-bypassable Charges
+Non-bypassable charges, introduced in California’s NEM 2.0 policies, are a portion of the utility rate that is designated as irreversible. When a customer purchases electricity from the grid, some of it is designated as an energy charge, which can be offset by future energy credits, and another portion is set aside as non-bypassable meaning that those charges can’t be reversed. These charges can pile up; solar customers with non-bypassable charges will see monthly bills often ranging from $10-$35 higher than they otherwise would have.
+
+Reduced Rates for Solar Energy Production
+Reduced Value Exports
+This variation of net metering reduces the dollar value of electricity sold to the grid by the customer. This means that if a customer sells solar energy to the grid, they only receive 90%, 80%, or as low as 60% of what they pay the utility for the same amount of electricity.
+Most utilities that have a reduced-export policy phase it in over different tiers, based on when the customer signs up or has an approved application. Tiers fill up once a certain amount of distributed generation capacity has been added to the grid. 
+
+New York’s VDER compensates solar production at roughly 100%, 95%, and 90% of the retail value of electricity across its 3 tiers.
+Nevada’s NMR-405 policy has four tiers at 95%, 88%, 81%, and 75% of the retail value respectively. 
+Massachusetts has a harder cap; once the first cap is reached, future projects receive 60% of the regular credit value. Many of these rates are also tied to a 20-year limit for this credit policy.
+
+
+Flat Export Rates
+Net metering with a flat export rule is another adjustment that typically reduces the value of electricity exported to the grid. In this case, when the customer buys energy from the grid the price of electricity is based on their regular rate schedule, including time of use and tiered policies. Under these rate structures the cost of electricity from the utility varies depending on when it is consumed or how much total energy the customer uses, respectively. However, when these solar customers sell energy to the grid, the price they are paid for that electricity is set at a specified, non-variable rate depending on their net metering policy.
+
+PacifiCorp in Utah specifies a flat rate for customers. The rate for purchasing electricity is a tiered rate that varies based on the customer’s usage level, but is around $0.09/kWh for residential customers and $0.06/kWh for commercial customers. The residential rate is close to the lower tier of the regular retail rate, but is lower than the second tier.
+Some utilities only offer the avoided cost rate of electricity, perhaps $0.03-$0.05/kWh.
+
+
+Zero Export
+Zero export rules are the most extreme revision, or in this case elimination, of net metering policies.
+
+Zero-export rules, or self-consumption rules, dictate that a customer cannot export electricity to the grid. The inverter shuts down the system when there is no more load to support. This is usually found in areas with high levels of distributed solar, such as Hawaii and Australia, where additional solar production may cause grid stability issues.
+Zero-export policies incentivise the usage of smaller systems and energy storage solutions.
+
+
+It should be noted that changes in each of these categories may be mixed and matched depending on the utility. For instance, a particular utility rate might include both annual credit expiration and reduced export rates.
+As solar and other forms of distributed renewable energy become a larger share of the electricity production in the U.S., these variations of net energy metering are likely to become more common. Further, as utilities continue to explore approaches to cover their operating costs and the costs of maintaining the electric grid, additional new rate structures for solar customers may emerge. However, understanding these core changes will give you a strong foundation for interpreting new utility billing options that your solar customers may encounter.
+For easy reference, get your free copy of our complete guide to net metering variations infographic (shown below)! 
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

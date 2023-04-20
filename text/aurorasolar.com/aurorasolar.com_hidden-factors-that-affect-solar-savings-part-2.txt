@@ -1,0 +1,537 @@
+
+
+
+
+
+
+
+
+
+
+
+
+The Hidden Factors that Affect Solar Savings: Part 2, the End of the Billing Cycle | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            The Hidden Factors that Affect Solar Savings: Part 2, the End of the Billing Cycle                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There are many variations in the ways that utilities bill solar customers with net metering—as we discussed in our earlier article on the differences between monthly and yearly billing. One factor that can have a big impact on solar savings is the month when your customer’s billing cycle ends.
+
+
+Figure 1: Aurora’s financial analysis features allow users to model monthly energy bills based on billing cycles with different end months.
+When the Billing Cycle Ends
+Solar customers with net metering accumulate bill credits when their installations produce more energy than they can use. These credits can be used to reduce the customer’s electricity bill in other months when they don’t produce enough energy to offset their energy consumption. It’s common for utilities to only allow customers to rollover their credits for one year (though there are some exceptions, which we’ll discuss in a future installment of this series).
+The end of the billing cycle is the month that the billing year ends—when excess credits stop rolling over. At this point, customers who have excess credits are typically compensated for them at the wholesale rate of electricity, which is much lower than the retail rate at which they are compensated during the regular billing cycle.
+Because solar customers will have different amounts of excess credit at different times of the year, the month when the billing cycle ends can have a big impact on savings.
+Case Study
+To understand the impact of ending the billing cycle in different months, let’s look at a solar customer’s bills. We used Aurora’s solar design software to accurately model the energy consumption, solar production, and pre- and post-solar utility bills of a house in the San Francisco Bay Area of California.
+Figure 2 shows a customer’s pre- and post-solar bills if their billing cycle ends in December. Table 1 shows the amounts of the customer’s monthly bills, energy consumption and production, and solar savings. In this example, the customer’s total annual savings from solar are $2,730 (as shown in Table 1).
+
+Figure 2: Pre- and post-solar bills if the customer’s billing cycle ends in December, modeled in Aurora based on PG&E Rate: E-1, Baseline Region P.
+
+Table 1: Pre- and post-solar energy consumption, production, and utility bills if the customer’s billing cycle ends in December.
+By the time the end of the billing cycle arrives in December, this customer has used up almost all of the credits they accrued in the months that their solar system produced more energy than they consumed (April－September). This is ideal, because most of the value of these excess credits is lost at the end of the billing cycle since the customer is not paid for them at a retail rate.
+But what if the billing cycle ends when the customer has a lot of bill credits remaining? Figure 3 and Table 2 show what the customer’s bills would look like if the billing cycle ended in September, after the customer has accrued a lot of excess production credits over the summer.
+
+Figure 3: Customer’s pre- and post-solar bills if their billing cycle ends in September.
+
+Table 2: Pre- and post-solar energy consumption, production, and utility bills if the customer’s billing cycle ends in September.
+If the billing cycle ends in September, the customer’s savings from solar will be significantly lower: $2,402, compared to an annual savings of $2,730 if the billing cycle ends in December. The customer saves 12% less per year, a loss of $328 annually.
+As this example illustrates, it is advantageous if the billing cycle ends after a period when solar energy production is low (e.g., winter months) so that excess credits can be used up.
+It is ideal for solar customers if the billing cycle ends after a period when solar energy production is low.
+Different utilities end the billing cycle in different months. For example, for customers of Rocky Mountain Power in Utah the billing cycle ends in March, and for customers of Duke Energy in North Carolina and South Carolina it ends in June. Others, like Long Island Power Authority in New York and the major California utilities, end the billing cycle at the one-year anniversary of when a customer installed solar. Where this is the case, customers considering solar should think carefully about the timing of the installation.
+It is also important to note that some utilities allow customers to make a one-time change to the month when their billing cycle ends. These utilities include National Grid Generation in New York, Public Service Electric & Gas Company in New Jersey, and Long Island Power Authority. In these cases, customers should carefully assess their monthly consumption and production patterns to determine the end of billing cycle that will be most beneficial.
+Some utilities end the billing cycle at the one-year anniversary of when a customer installed solar; others allow customers to make a one-time change to the month when their billing cycle ends.
+The end-of-billing-cycle month that is most financially advantageous for a particular customer will depend on the monthly variations in their energy consumption and the energy production of the solar installation. (Both of these factors can be analyzed in Aurora, using our consumption profile tool and NREL-validated performance simulation engine. Aurora’s financial analysis features allow you to model the impact of different scenarios on a project’s finances, as we have done here.)
+The end of the billing cycle can have a noticeable impact on the savings a customer obtains from solar. This must be taken into account to accurately estimate the financial return a solar project will provide. The local utility’s policies regarding changes to the billing cycle end date should also be carefully explored.
+Key Takeaways
+
+There is a lot of variation in how net metered solar customers are billed across different utilities. It is important to understand these differences because they affect the financial return from solar.
+One key variation that can have a significant impact on savings from solar is the month in which the billing cycle ends, which determines when credits from excess energy production stop rolling over.
+Customers will see greater savings if the billing cycle ends at a time when they have less excess credit built up, because at the end of the billing cycle customers are typically compensated for excess production at a below-retail rate.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

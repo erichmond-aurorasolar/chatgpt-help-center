@@ -1,0 +1,575 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How to Estimate a Homeowner’s Energy Load Profile | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How to Estimate a Homeowner’s Energy Load Profile                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An energy load profile, or consumption profile, is essential to determining the value that a solar installation will provide—and thus to effectively selling solar to potential customers. We discuss what an energy load profile is, why it influences financial returns for solar, and how to model one.
+
+When communicating the value of a solar installation to a potential customer, showing them accurate financial returns is extremely important. 
+In order to accurately forecast the financial return of a solar system, you need to know exactly how much energy the customer uses.
+What is an Energy Load Profile?
+An Energy Load Profile is a graph of your customer’s electricity usage on a daily and/or seasonal basis. It will display the variation in a customer’s electrical load versus time. The graph varies as we use energy more at on-peak times versus off-peak times of day (mainly when we are home using energy or away from home/sleeping). Same with seasons — we use more energy during the summer and winter to cool and heat versus the more pleasant spring and fall. 
+Why Load Profiling Can Be Difficult
+In certain parts of the world, the process of determining a solar project’s financial return is simple and separate from the customer’s energy consumption. Many countries use Feed in Tariffs which pay the owners of solar systems a set amount for each unit of energy produced.
+Net Energy Metering
+But in the US, the majority of residential solar installations are on a Net Energy Metering regime, which means that their utility bill is adjusted based on the energy the solar installation produces. Another way of looking at it is that their utility meter turns forward when energy is used, and backward when excess solar energy is sent to the grid.
+Time of Use Rates
+This structure is further complicated by the fact that in many cases — especially for commercial customers—the price of energy differs based on when you use it (these are called Time of Use Rates). Utilities also charge customers different rates for electricity based on how much they use (Tiered Rates).
+ Figure 1: An example of Time of Use rates, showing higher energy prices at times of higher energy demand.
+Why Do You Need a Load Profile?
+Because of these variations in the cost of energy at different times and different levels of consumption, just knowing a potential solar customer’s bill before they install solar is not enough to enable an accurate assessment of how much money they could save with solar. 
+You also have to know when the customer was using electricity, and how much electricity they were using. You need to know this for every hour of the day, and every day of the year. This information makes up their energy load profile.
+ Figure 2: An example of an estimated energy load profile in summer for a residential house in Stanford, California with air conditioning, electric heat, and LED lighting.
+Once you have this data showing energy consumption for each time of the day, you will need to determine how much energy your PV system will produce for those same hours and days of the year (which Aurora’s industry-leading performance simulation engine can determine for you). 
+By subtracting the amount of energy produced by the solar installation from the amount of energy consumed by the household, you can determine how much, and when, the customer will actually need to purchase from the utility.
+This time-varying consumption profile will form the backbone of the financial analysis of the value your solar design will provide. Being able to show a customer the detail behind this analysis will help them understand—and be confident in—the financial savings solar can provide.
+How Is an Energy Load Profile Determined?
+Determining a customer’s energy use across each hour and day of the year and organizing it in an easily interpretable format is not easy. That is why Aurora developed its interactive Consumption Profile tool.
+One of the best ways to determine a customer’s load profile is to upload their “Green Button data.” 
+What is Green Button Data?
+Green Button data is a way that utilities provide customers with detailed information documenting their energy consumption at set (typically 15-minute) intervals throughout the day. Green Button data provides the customer’s actual load profile for a period of time in the past (for however long you have data). 
+If you have Green Button data, Aurora’s Consumption Profile tool imports and sorts it for you with the click of a button.
+
+Manual Load Profile Estimates
+If you don’t have Green Button data, our tool can quickly and easily estimate a load profile with the entry of some additional details. 
+While it is possible to manually estimate a load profile, it is a challenging and time-consuming process—and without a deep knowledge of the process, there is a lot of potential for mistakes. 
+With Aurora’s Consumption Profile tool you can automate this process, increasing accuracy and saving a considerable amount of time.
+What Makes up a Load Profile? 
+To understand the variables that go into estimating an energy load profile, let’s review some of the different factors that influence a customer’s energy consumption at different times.
+What Variables Affect a Load Profile?
+There are a wide number of factors that affect how much energy a home uses and when that energy is consumed. Without Green Button data, a load profile must be estimated based on the building’s characteristics. 
+In order to create an energy load profile that is accurate—and thus provide accurate financial analysis to your customers—it is essential that all of these factors be taken into account in a systematic way.
+Utility Bill
+A utility bill from the client is an important starting point in developing an energy load profile because it can provide the first data points for how much energy they are using, and what rate they are billed at by their utility. 
+In Aurora, you can enter data from one month’s bill (bill amount or total amount of energy used), or as many months as you have from the customer, and Aurora will use that to extrapolate estimated energy use for other months.
+ Figure 3: Aurora’s Consumption Profile tool uses bill amount or total energy consumption for one month, or as many months as you have data for, to estimate energy consumption throughout the year. This is supplemented by additional information about the building for increased accuracy (as we will discuss below).
+Location
+The location of the building is one important factor because the local climate will influence the demand for heat or air conditioning at the site, and the amount of daylight at different times of the year will impact the demand for electric lighting. 
+Whether the building has air conditioning, and what type of heat it has (electric or other) will influence how much much energy the customer uses at different times of the year.
+Take for example the case depicted in Figure 2 below, which shows the different estimated consumption profiles for the same house in Stanford, California with gas or other non-electric heat (top) versus if it has electric heat (bottom). 
+The orange section in the image on the right shows the proportion of electricity consumption that heating comprises. As you would expect, electric heat contributes significantly to electricity consumption.
+ Figure 4: Estimated annual load profile for the same house in Stanford, California with gas or other non-electric heat (left), or with electric heat (right).
+Lighting
+Other factors that impact an energy load profile include the type of lighting (incandescent, fluorescent, or LED) and type of hot water heating. 
+Less Common Factors
+Additionally, two less common factors that have a very big impact on energy consumption are whether the customer has a pool (pools use a surprising amount of energy, partially because of the energy needed to pump and filter the water) and whether they have an electric vehicle.
+Figures 5 – 7 illustrate the impacts of some of these factors on load profile. Figure 5 compares the load profiles of incandescent lighting versus more efficient LED lighting (top and bottom respectively), and Figures 6 and 7 show the impacts of an electric vehicle and pool respectively on load profile if the house has LED lighting.
+ Figure 5: Estimated annual load profile for the same house in Stanford, California with incandescent lighting (top), or with more efficient LED lighting (bottom).
+ Figure 6: The load profile of the same house with an electric vehicle with no air conditioning, non-electric heat, and LED lighting.
+ Figure 7: The load profile of the same house with a pool, with no air conditioning, non-electric heat, and LED lighting.
+How Getting a Load Profile Right the First Time Can Increase Your Sales
+When you’re able to accurately forecast your customer’s energy usage through their load profile, you’ll show them the value in solar installation. When the load profile turns out to be accurate, it builds trust with your customers and helps them make more efficient use of their energy. They’ll know the value of solar because they can see it with real data. This leads to more sales.
+How to Estimate a Load Profile? It’s Complicated.
+As you can see, a home’s load profile can vary significantly depending on the characteristics of the home. As a result, when estimating a load profile it is important to enter as much information as possible to maximize accuracy or use Green Button data. 
+It should be noted that an estimated load profile cannot account for future changes in the homeowner’s behavior—like upgrading to more energy-efficient appliances or setting the air conditioning to a lower temperature—that may affect how much energy they use. However, it can provide a strong, data-backed estimate based on their current behaviors and home energy demands.
+Let Aurora Do the Work for You
+Aurora has made it easier to ensure that your estimated energy load profile reflects actual consumption patterns, by incorporating robust data about how different home characteristics (air conditioning, lighting, electric vehicles, etc.) typically affect energy consumption at different times of the day. 
+This typical load profile is then tailored to account for average local weather patterns and the home’s total monthly energy consumption (based on their utility bill).
+With an accurate energy load profile, you can precisely assess the financial benefits that adopting solar will provide to a homeowner.
+Key takeaways
+
+An energy load profile shows how much energy a building uses at each time of day across each day of the year.
+Financial savings are a major motivator for many people who consider going solar. With an accurate energy load profile, you will be able to quantify the real savings that your solar design will provide to a customer.
+A customer’s consumption profile can be obtained using their Green Button data (a log of their energy consumption over specific, typically 15-minute, intervals).
+If you do not have Green Button data, you can create an estimated load profile with electricity bills and information about the characteristics of the site (whether they have air conditioning, what type of heat and lighting they have, etc.).
+Aurora’s load profile tool automates this process, making the development of a load profile faster and more accurate.
+
+~~~
+Want to be in the loop on our latest articles? Click here to subscribe to our blog!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

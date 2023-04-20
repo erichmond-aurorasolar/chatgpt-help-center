@@ -1,0 +1,39 @@
+How do I add a custom residential utility rate?
+
+Creating a Custom Residential RateAurora provides you with the tools to create utility rates. Just follow these steps.
+
+
+Go to the utilities page by clicking on Database then Utilities.
+
+
+To create a custom utility company, click on Add Utility at the top of the page. Input the name, area of operation, and utility website. 
+Click on the name of a utility company or follow step 2 to create a custom utility company, then click on Add Custom Utility Rate.
+
+
+Input a Name, Sector (Residential or Commercial), Description, Reference, Effective period, Fixed monthly charge, and Energy usage unit.
+
+
+Add periods and tiers. Periods are used for time-of-use rates. This is when the cost of electricity differs depending on month of the year (usually seasons) or time of day (peak vs non-peak). Tiers are used to simulate cost of electricity that differs depending on how many kWh the customer uses. 
+You can set the 'energy Usage unit' to kWh/month or kWh/day depending on how the utility company gives out the kWh allowances. 
+
+
+Change the allowance per tier and the $/kWh rate.
+Setting the first tier to 100 kWh is equal to 0-100kWh. Setting the second tier to 200kWH is equal to 101kWh to 200kWh. 
+
+
+Modify the weekday/weekend schedule for time-of-use rates. To do this, highlight a section by left clicking and dragging your mouse. Then hit a number on the keyboard to change the period. In our example, we set the months of Nov. 1 thru Apr. 30 to use the rate values set in period 2. The months of May 1 thru Oct. 31 is using the rate values from period 1.For the weekend hours, we also set the hours from 7:00am to 8:00pm to use the rate values set in period 2. 
+
+
+Click on the  Validate  button in left of your screen to make sure that your rate does not contain any errors.
+
+
+Checking the Accuracy of Your Utility Rate
+Once you finish creating your rate, you'll want to see if it is accurate. You will need an electric bill on hand.
+
+Go to a project that uses this custom rate.
+Click on Consumption. Make sure to select the custom rate. In the monthly usage graph, enter the kWh value seen on the electric bill. The box right below the kWh input box will display the Aurora calculated bill value. We want this bill value to be close to the bill value on the electric bill. 
+There may be some discrepancies due to taxes, fees, or credits. 
+
+
+
+Sample TemplatesFlat RateMedical Baseline For PG&E

@@ -1,0 +1,9 @@
+02/15/2019 Release Notes
+
+
+3D modeling design service will be available for all new and existing customers
+The account signup form will include a required field for the company address to accompany business name, phone number, etc.
+Helix presets for fill zone drop-downs will show each favorited inverter onc
+It will be possible to hide roof edges in proposals, and pixelation will be reduced
+Lighting and Shading will be slightly improved in proposals, and the perspective/3D view imaging will be improved
+System size will round to the same number of decimals throughout the app

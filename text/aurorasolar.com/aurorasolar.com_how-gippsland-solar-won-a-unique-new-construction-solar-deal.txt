@@ -1,0 +1,548 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Gippsland Solar Won a Unique New Construction Solar Deal | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Gippsland Solar Won a Unique New Construction Solar Deal                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+For Andy McCarthy, founder of Gippsland Solar, integrating 666 solar panels into the design for the Penguin Parade Visitor Centre in Australia posed a big challenge. That’s because at the time Gippsland Solar was bidding for the project, the Centre’s new building had not yet been built!
+The new building, which houses 1,800 square meters of interpretation and public spaces, replaced an existing building and featured an unusual roof shape for the internationally renowned center.
+Using functionality in Aurora Solar software, Gippsland solar won the project. In this article, McCarthy shares the process and insights on how you too can put in place a winning system for designing solar for new buildings.
+Gippsland Solar’s PV design for the Penguin Parade Visitor Centre in Australia as the building neared completion. Photo Credit: Kane Construction, courtesy of Gippsland Solar. 
+The Challenge of Designing Solar for a Building Not Yet Built
+The challenge: All Gippsland Solar had to work with were the architectural plans. Because the building did not yet exist, it wasn’t possible to physically measure the roof and calculate how many panels would be required, or to measure irradiance to determine how it would affect solar production and where best to place panels.
+What’s more, it was difficult to communicate to the client what the building would look like once the solar panels were added. With a building as high-profile as the Penguin Parade Visitors Centre, aesthetics were an important issue. “It was an interesting project because of the Centre’s global recognition,” says McCarthy.
+In addition, without a physical building, it wasn’t easy to calculate how nearby trees or other buildings would shade the roof throughout the year.
+In the case of the visitor center, the challenge was more difficult than most new construction solar projects.
+A Unique Roof for an Internationally Recognized Visitor Center
+“The roof almost looks like shards of glass cut in different angles; it’s spectacular,” says McCarthy. “The building has lots of innovation and design and has won sustainability awards.”
+Viewed from above, the building’s shape is similar to an unwieldy star, with many different roof points and angles. “Due to the architecture of the building, it was a very complex roof to work with,” McCarthy says.
+At first, McCarthy and his associates tried adding solar panels to the architectural plans. “It didn’t look good,” he says. It was back to the drawing board. McCarthy needed a tool that would communicate to the potential client exactly how the building would look with solar panels.
+Finding a Solution to Design Solar for New Construction: Aurora Solar Software
+Next, Gippsland Solar turned to Aurora Solar’s solar software and tried the design again. “We took the electronic version of the building plans and uploaded them into Aurora,” he explains. They took the measurement of the longest section of the roof from the architectural plans, then manually entered that measurement into Aurora program.
+The software is smart enough to take that information and calculate the rest of the dimensions of the roof, McCarthy explains. In fact, from that information, Aurora’s SmartRoof technology created a 3-D model of the roof.
+Next, based on the information in the roof plans, McCarthy and associates increased the roof pitch to 11 degrees. “That was the pitch of the roof,” he explains. “We didn’t see any financial benefit in using tilt frames to adjust the pitch, and the architects were very clear that they didn’t want the solar array to have a visual impact on the building itself,” he says.
+What happened next surprised them. In the model, it looked like the building was being built. “I had never seen anything like that,” he says. “It almost looked like paper mache. In the model you see the building rise up.” The model allowed for a 360-degree view of the building.
+It took about half an hour to build the model using the software, McCarthy says. He’s sure that using the program helped his company get the job.
+A top-down view of Gippsland Solar’s PV design for the Penguin Parade Visitor Centre in Australia. Photo Credit: Kane Construction, courtesy of Gippsland Solar. 
+
+
+New Buildings Pose Challenges, Opportunities for Solar
+Designing solar for new buildings like the Penguin Parade Visitors Centre poses challenges, and more and more solar companies are grappling with this challenge. But it’s not necessarily bad news.
+Because states and cities are calling for solar panels in new construction, the market for solar is increasing. For example, beginning in 2020, California mandates solar panels on all new homes under the state building code. As a result, solar demand is expected to jump by more than 800 MW between 2020 and 2023.
+Under the new California solar mandate, builders must either build homes with solar panels, or build a shared solar power system that provides solar energy to a group of homes.
+Additionally, cities all over the U.S. are calling for solar on new buildings. Watertown, Massachusetts now requires solar on new commercial buildings larger than 10,000 square feet and on all new residential buildings with ten or more units.
+With the market increasing for new construction solar, it’s a good idea to have a tool that speeds up the process.
+3 Simple Steps to Designing Solar for New Construction (Buildings Not Yet Built)
+1. Begin by Uploading Roof Plans
+When designing a solar installation for a new (not yet constructed) building using Aurora software, the most important step is to upload the roof plans. With that as your starting point, outline the perimeter of the roof—just as you would draw over a satellite or aerial image when using Aurora to design solar for an existing building.
+You’ll need to include a measure for at least one section of the roof as indicated in the plans. This data allows Aurora to correctly scale the 3D model and ensure accurate measurements for the remaining sections. It’s also important to indicate the pitch of different roof planes according to the architects’ plans, since there will not be 3D LIDAR data for Aurora to match the roof to if the building is not yet constructed.
+From there, Aurora’s SmartRoof technology will extrapolate the 3D structure of the rest of the building. If your designers need to make tweaks the building model, the program will respond by re-calculating and re-modeling, McCarthy explains.
+2. Simulate Shading During Different Times of Day, Year
+Another important feature of the Aurora software is the Sun Path simulation, which can do an interactive shade simulation. “When you play the simulation, you can see how certain parts of the roof will be shaded during certain times of day and can play with the design and move panels to less shady areas,” McCarthy explains.
+With a colorful irradiance map, the software will tell you how much irradiance will reach the panels at any given point on the roof.
+Adding trees to see how they will shade the roof of new buildings is also important, he says. By creating multiple versions of your design with different tree heights you can virtually “grow” young trees to see how they will shade the roof as they mature.
+How Will Other Buildings Affect Shading?
+Along with modeling the effect of trees, designers should simulate how nearby buildings affect shading, McCarthy says.
+For example, in another new construction solar project, Gippsland Solar added solar to a school that was built in two stages. To do this, the company used Aurora to model the second section of the building and see how it would affect the first section—and vice versa.
+Company designers did all the modeling before designing the first building. “We ran a shade analysis of both the old and new buildings,” he says.
+3. Close the Sale with Stunning Visuals
+Such modeling saves time, impresses clients, and also saves money, says McCarthy. It makes sense to avoid trying to overlay solar panels on architectural designs–and to choose instead design software.
+“Aurora is a fraction of the cost of 3-D simulations with architects’ software,” he says. “People need to build this into their sales pitches. It helped us get the job.”
+
+As the market for solar on new construction grows, so too will the need for scalable, accurate solutions for designing solar for buildings that have not yet been built if your company wants to tap into this market.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

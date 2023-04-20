@@ -1,0 +1,531 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Commercial Load Profiles: What the Solar Salesperson Needs to Know | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Commercial Load Profiles: What the Solar Salesperson Needs to Know                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To effectively sell solar to potential customers, you need to accurately communicate the value that a solar installation will provide. An energy load profile is a key step in determining this.
+  
+A load profile shows how much energy a building uses at each time of the day for each day of the year. It is a critical first step to evaluating the financial return a solar installation will offer. A load profile is also helpful in determining what size installation will best meet a customer’s needs. This is the case whether the customer is a homeowner or the owner of a commercial or industrial building.
+As a follow-up to our earlier article on residential load profiles, in today’s post we will take a closer look at commercial load profiles. As a solar installer, being able to show your customer the methodology behind your estimate of the value solar will offer them, and why you recommend a particular system size, is integral to building trust and ultimately increasing sales.
+ An example of an estimated load profile of a warehouse in San Jose, California during summer.
+Why Do Commercial Solar Customers Need to Know their Load Profile?
+One reason why load profiles, also known as consumption profiles, are so important is that they form the basis for assessing the finances of a potential solar installation. This is because, in the U.S., net metering is the prevailing approach for compensating solar system owners.
+For customers with net metering, the electric utility adjusts their bill to pay them the retail rate for the excess solar energy they send to the grid. As a result, they pay only for their net energy consumption. Thus, to evaluate how much the customer will save on their bills as a result of adding solar, you must know how much energy they consume and how much solar energy their system will produce (which Aurora’s NREL-validated performance simulation engine can help you determine).
+If that were the full story of utility billing, it would be enough to know the total amount of energy the customer used each month- but in many cases, utilities also charge different prices for electricity depending on when it is consumed. These Time-of-Use rates charge higher prices for energy at times when there is more demand. As such, you need to know not only how much energy the customer uses, but when they use it—and how that corresponds with the energy their solar installation is producing at different times.
+Furthermore, a key difference in how commercial customers are billed compared to residential customers is that many commercial customers also have to pay demand charges. These charges, which penalize customers who use a lot of power at any given time, are determined by the maximum amount of power (kW) that a customer used in any (typically 15-minute) interval during the billing cycle. A detailed energy load profile, which shows energy consumption at the appropriate interval, allows one to see the points of high power usage that determine the customer’s demand charges.
+Finally, a load profile also provides valuable information for determining the size of solar installation needed to meet a customer’s goals. For instance, if a customer wants to get their electricity bill as close to zero as possible, an energy load profile will allow you to assess how much energy their system would need to produce.
+Ways to Determine Commercial Load Profiles
+There are multiple ways to determine a customer’s energy load profile, but the two main options are to use actual energy usage data from a period in the past as a representative load profile, or to estimate the load profile based on the building’s characteristics.
+Using Real Interval Data
+Where it is available, using interval data of past energy usage is an ideal approach because you can be sure that the load profile exactly represents historical usage. (Of course, this doesn’t account for future changes in behavior or equipment, like installing more energy-efficient devices.) This is also the best approach if you want to account for demand charges because estimating a customer’s load profile won’t provide sufficiently granular detail to predict the customers highest demand over 15-minute intervals.
+One way to get this information is Green Button Data, a standardized type of interval data that some utilities make available to their customers, which can be uploaded into Aurora to create a load profile.
+Creating an Estimated Load Profile
+If interval data for the building is not available, one can estimate the load profile based on electricity bills, characteristics of the building, the energy usage behavior of the occupants, and the geographic location of the building. Using a software program that can tailor a load profile based on these factors is an excellent way to easily develop an accurate estimate for your customer.
+As you might expect, different types of commercial buildings have different energy consumption patterns. Think of a school, for instance. Its energy consumption will be lower in the evenings and weekends when it is unlikely to be occupied. In contrast, a grocery store’s energy profile will reflect that it is occupied for more hours of the day.
+ Example of a load profile for an elementary school in western North Carolina during winter, estimated with Aurora.
+ Example of a load profile for a grocery store in western North Carolina during winter, estimated with Aurora.
+The Department of Energy (DOE) has developed profiles of 16 different “commercial reference buildings”  that represent approximately 70% of the commercial buildings in the U.S. These commercial building archetypes each have their own patterns of energy usage as a result of typical occupant behavior, as well as the physical building characteristics that impact how they use energy (building size, types of appliances and machinery typically in use, etc.).
+The DOE’s open source knowledge-sharing platform, Open Energy Information (OpenEI.org) , includes sample interval data on these types of buildings. Aurora has leveraged these profiles in creating its commercial Consumption Profile tool, which provides a convenient and accurate way to estimate a customer’s load profile.
+ The DOE has developed profiles of 16 different commercial reference buildings that represent approximately 70% of the commercial buildings in the U.S.
+Other factors that impact load profiles include the geographic location and local climate. For instance, as you would expect, buildings in hotter climates are likely to use more energy on air conditioning. Similarly, day length at different times of the year in different latitudes will impact the need for electric lighting. Aurora takes into account data from local weather stations and the sun’s path at the location throughout the year to adapt commercial load profiles accordingly.
+ When developing a commercial project in Aurora, users are prompted to specify the building type that most closely matches the site they are designing. Aurora uses DOE data on energy usage patterns for the building type to develop an energy load profile.
+ Aurora also takes into account weather data from a local weather station to account for how the local climate impacts the load profile of a site.
+There are also methods to manually develop load profiles by measuring how much energy specific appliances use and the timing of their use; however, this is a complex and time-consuming process best left to experienced professionals.
+While there are other stages that go into designing an ideal solar installation and evaluating its financial returns, developing an accurate load profile is one crucial step. As a solar installer, increasing sales comes down to adding value to the customer and gaining their trust. If you’re able to show a commercial customer their load profile and the methodology used to ensure its accuracy, you’ll have greater credibility and increase the likelihood that the customer chooses your company. With Aurora’s Consumption Profile tool, you can easily develop an estimated load profile or upload Green Button Data for commercial clients, and know that the estimate reflects robust data on load profile trends.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,541 @@
+
+
+
+
+
+
+
+
+
+
+
+
+The Hidden Factors that Affect Solar Savings: Part 1, Monthly vs. Annual Billing | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            The Hidden Factors that Affect Solar Savings: Part 1, Monthly vs. Annual Billing                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There are many variations in the ways that different utilities bill solar customers with net metering. These subtleties can make it complicated to determine exactly how installing solar will affect a customer’s bills.
+
+In this series, we will explore elements of billing that commonly vary between utilities and examine the practical impacts of these factors on solar customers’ bills. Today, we look at how monthly billing compares to annual billing in terms of solar customers’ experiences and savings.
+As a solar installer, understanding utility bill nuances will enable you to better communicate what customers can expect after installing solar and help you find them extra savings
+Monthly or Annual Billing?
+One of the major ways billing for solar customers varies between utilities is how often customers are billed for their energy consumption. Under net metering policies, solar customers are credited for the energy they produce and charged for any energy supplied by the utility—effectively paying only for their net energy consumption (and any additional fees applied by the utility). If their solar system produced more energy than they consumed, they receive a credit for their excess generation which will carry over to future months.
+Most U.S. utilities reconcile solar customers’ energy consumption and production on a monthly basis. However, some utilities, particularly in California, have an annual billing cycle in which net metered customers are billed for their energy usage only once a year.
+
+Figure 1: Aurora allows users to conduct financial analysis based on monthly or annual billing approaches. Settings for a customer with annual billing are shown.
+Under an annual billing approach, the utility tracks customers’ energy consumption and production throughout the course of the year. Customers receive monthly statements tracking this data but do not have to pay monthly for energy consumption. However, they may have to pay some monthly fees to remain connected to the grid, as is the case for customers of major California utilities. At the end of the year, they receive their annual bill, often called the “True-up” statement, for any energy consumption that was not offset by their solar energy production.
+One benefit of annual billing is that credit from excess energy production can offset consumption from earlier months in the year.
+With monthly billing, on the other hand, excess credit produced can only be applied to later months. For example, credit accumulated in summer months would not reduce bills paid in early spring.
+Let’s take a look at what a solar customer’s bills look like under these two approaches.
+Figure 2 below shows pre- and post-solar utility bills for a customer with annual billing. Figure 3 shows that customer’s monthly energy consumption and production, and Table 1 shows how Aurora presents energy consumption, production, and bill amounts for customers with annual billing.
+With annual billing, credits from months in which energy production exceeded consumption (April through October) can be applied to any other months in which they consumed more than they produced (January, February, November, and December) because the utility considers the customer’s energy production or consumption over the entire year. As you can see in Figure 2, this means that solar will cancel out all of the customer’s bills except for $10 in fixed fees (which we’ll discuss in greater detail in a future blog article).
+
+Figure 2: Customer’s pre- and post-solar bills under an annual billing approach (PG&E Rate: E-1, Baseline Region P).
+
+Figure 3: Customer’s energy consumption and production.
+
+Table 1: Customer’s pre- and post-solar energy consumption, production, and utility bills under an annual billing approach (PG&E Rate: E-1, Baseline Region P). For customers with annual billing, Aurora shows the annual savings rather than monthly bill savings, since the customer does not pay on a monthly basis.
+Now, let’s consider what bills would look like for the same customer if their utility has monthly billing. For the purposes of this exercise, we kept the same exact utility rate, but we switched the billing schedule from annual to monthly.
+
+Figure 4: Aurora financial analysis settings for a customer with monthly billing.
+Figure 5 below shows the customer’s bills under a monthly billing approach, and Table 2 shows the amounts of the customer’s monthly bills, energy consumption, and production. Although the customer’s energy consumption and production (shown in Figure 3) remains the same, the amount they pay the utility increases in the early months of the year.
+
+Figure 5: Customer’s pre- and post-solar bills under a monthly billing approach.
+
+Table 2: Customer’s pre- and post-solar energy consumption, production, and utility bills under a monthly billing approach. For customers with monthly billing, Aurora shows the savings each month as well as the total annual savings.
+As Figure 5 and Table 2 illustrate, under monthly billing the customer will have higher bills in January and February because they receive those bills before they accrue credit for excess energy production.
+With monthly billing, the customer’s total annual savings from solar will be $2,899 compared to an annual savings of $2,951 if they had annual billing. In this case, annual billing saves the customer an additional $52 per year with the exact same solar installation.
+Most utilities do not allow customers to choose between monthly or annual billing as they offer only one option. In these cases, knowing what option the local utility offers allows one to accurately assess how much a customer can save with solar. Sacramento Municipal Utility District is one of the few utilities that does allow customers to choose between these options. For solar customers who do have a choice, annual billing is likely to be the most financially advantageous.
+Whether utilities bill monthly or annually is just one of the common differences in billing for solar customers. There are many other variations, including what time of year the billing cycle ends, how much net metered customers are compensated for their excess energy, and how long credits can carry over (some utilities allow credits to roll forward indefinitely). Fortunately, Aurora allows you to easily navigate these different options. We will analyze additional billing nuances in future segments of this series.
+Key Takeaways
+
+There is a lot of variation in how net metered solar customers are billed across different utilities. It is important to understand these differences because they affect the financial return from solar.
+Utilities may bill customers on a monthly or annual basis. With annual billing, solar customers pay once a year for their net energy consumption instead of every month.
+One advantage of annual billing is that credit from excess energy production can be used to cancel out consumption from any month in the year, whereas under monthly billing credits can only roll forward.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

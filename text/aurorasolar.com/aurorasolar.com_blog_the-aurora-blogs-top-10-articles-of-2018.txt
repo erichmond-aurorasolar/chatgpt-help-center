@@ -1,0 +1,540 @@
+
+
+
+
+
+
+
+
+
+
+
+
+The Aurora Blog’s Top 10 Articles of 2018 | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            The Aurora Blog’s Top 10 Articles of 2018                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From solar tariffs to new utility rates, 2018 has been filled with surprises for the solar industry. But it’s also been a year filled with progress towards a solar-powered future–as exemplified by the unprecedented state and local commitment to clean energy around the country, and by utility-scale renewables reaching prices that are at or below that of many fossil fuels. Through it all, our goal here at the Aurora Blog has remained the same: to produce helpful, informative articles, from policy updates to discussions of solar engineering concepts, to help you navigate the ins-and-outs of the solar industry.
+
+With the end of the year around the corner, we took a look back at our most popular articles published this year. If you missed these updates when they were first published, now’s your chance to catch up on the articles that have been a hit with your solar industry peers.
+1. The 2018 State Solar Policy Changes You Need to Know
+Our most popular article published 2018 was our guide to the state policy changes affecting solar and renewable energy around the country. Originally published mid-year, we’ve been updating this guide with all the key policy changes around the country, both good and bad (including New York’s exciting new announcement just last week that is aiming for 100% carbon-fuel free electricity by 2040!). Quickly navigate to your state to see if there are any new developments you should be keeping tabs on.
+
+2. Understanding PV System Losses, Part 1: Nameplate, Mismatch, and LID Losses
+PV system losses–the many factors that can reduce the energy production of your solar installation–can be complex. Throughout the year, Aurora’s Research Engineer Andrew Gong has been sharing his insights and industry data to help you better understand the different loss types and how to accurately account for them in your solar production estimates.
+While Part 1, exploring nameplate, mismatch, and LID losses, has been a hit, the whole series (which concluded with Part 4, published last week) has been popular with solar contractors around the country. You can check out the full series here.
+
+3. 5 Reasons Blockchain Is Game-Changing for Solar Energy
+Blockchain–the mechanism behind bitcoin–remains something of a mystery to many. But for those of us passionate about clean energy, it’s worth paying attention to for several reasons. Our popular article on blockchain explores what it is why it matters for clean energy.
+
+4. Does Solar Increase Home Value? The Latest Data for Solar Clients
+When you’re selling a residential solar installation, which will be part of a customer’s home for decades to come, one of the main things they may be concerned about is how it will affect their home’s value. We explored the literature on how solar installations affect home prices–and uncovered some exciting facts you’ll want to share with prospective customers.
+
+5. How Net Metering is Evolving: Three Changes You Need to Know
+As solar energy becomes a greater proportion of the energy mix in markets around the country, utilities are experimenting with new rate structures with important implications for solar savings. We explored these changes to net metering policies and identified the major trends to be aware of and what they mean for solar customers.
+
+6. Key Solar Energy Terms: Irradiance, Insolation, TSRF and More
+The amount of solar energy available at a location is an essential starting point for determining whether a solar installation makes sense and what design will work best. There are a number of different terms for quantifying solar energy and it’s important for solar professionals to well-versed in what they mean and how they differ. Our article on this topic provides a quick and handy primer, whether you’re a seasoned solar veteran or new to the industry.
+
+7. Turning Solar Support Into Solar Sales: 5 Tactics for Effective Communication
+One of our favorite conference sessions at Solar Power International this year explored how we communicate about solar and highlighted communication lessons for increasing solar support. Although solar enjoys broad support from Americans, this doesn’t always translate into action. A panel of communication experts, from a former White House Communications to the former Chief Marketing Officer at Beats by Dr. Dre and Apple, shared their insights on how to get your message across effectively. We identified the key lessons from the session.
+
+8. Lessons for Success from the 2018 Top Solar Contractors List
+Each year, Solar Power World compiles a list of the Top Solar Contractors in the U.S., based on the kilowatt capacity of projects they installed, developed, or helped construct in the previous year. We reached out to these companies to get their insights for running a successful solar business.In response to our question, “What advice and tips would you give to solar companies to operate successfully?” we saw several themes emerge. If you’re considering what your company can do to maximize success in the solar industry in the coming year, check out the advice of some of the most prolific U.S. solar installation companies of 2018.
+
+9. SEIA President & CEO Abby Hopper on Solar Policy Priorities and More
+From Washington, D.C. to state capitals around the country, if there’s a policy change that affects clean energy in the U.S., chances are the Solar Energy Industries Association (SEIA) is there advocating for the advancement of solar. We had the pleasure of speaking with SEIA President and CEO Abby Hopper to learn more about SEIA’s advocacy priorities, changes in solar markets around the country, opportunities for increasing diversity in the solar workforce and customer base, and more. Check out our interview for Hopper’s take on these important industry topics.
+
+10. The Green Bank Programs Making Solar Financing More Accessible, Part 1
+As any solar contractor knows, solar installations remain out of reach for many interested customers due to the high upfront cost. But green banks, a new type of finance institution established by governments to accelerate the growth of clean energy markets, are helping to make solar financing more accessible. And this trend is still going strong with Colorado’s establishment of a green bank just last week (something we’ll explore in a future article).
+In this two-part series, we spoke with staff at green banks across the U.S. to determine what programs solar contractors in different states should be aware of and offer insight into the diversity of approaches green banks are applying to help solar markets grow. For more background on green banks and how they work, we also put together a primer explaining them.
+
+We hope that the Aurora blog has been a valuable resource for you in 2018 to advance your solar knowledge and your work in the industry. Do you have other favorite articles that didn’t make this list? We’d love to hear your feedback in the comments below!
+
+ P.S. As Aurora’s Content Marketer, I’m always thinking about how our blog can better serve the needs of solar contractors. I’d love to hear from you about what solar topics you’re most interested in reading about in 2019, or other thoughts on how we can continue to improve! Feel free to email me at gbrown(at)aurorasolar.com. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

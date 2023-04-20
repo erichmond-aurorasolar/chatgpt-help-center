@@ -1,0 +1,643 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar 101: Solar panel roof setbacks | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar 101: Solar panel roof setbacks                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Designing a solar system requires more than just jumping into some software and putting panels on a roof. Among many other things, it requires an intimate knowledge of federal, state, and local regulatory nuts and bolts. 
+One of the most complex things to consider can be solar panel roofing setbacks. These are required under fire code, but they can differ drastically from jurisdiction to jurisdiction. This means that understanding roof setbacks is essential to delivering accurate designs to customers, avoiding change orders, and ultimately helping your business be more efficient… and profitable. 
+What is a solar panel roof setback?
+A solar panel roof setback — also called fire setbacks and jurisdiction setbacks — requires a certain amount of space between a solar panel on a roof and rooftop components (an HVAC system or vent) by federal, local, and international codes. These setbacks usually range from 18-36 inches, and allow space for firefighters to vent smoke, perform rescue operations, and keep fire from spreading to other buildings. 
+Click the image to see how Aurora can help you manage jurisdiction setbacks automatically
+Most jurisdictions base their setback requirements on the recommendations of local fire marshals, and many setback rules that apply to solar installations aren’t necessarily designed for solar. But there are globally recognized fire standards that installers are required to follow as part of successful solar design projects.
+International Fire Code
+Solar roof setbacks are required under the 2018 International Fire Code Section 1204. The IFC contains regulations to protect life and property from fire and explosion, and ranges from covering general fire precautions, firefighter access, emergency planning, and more. The IFC mandates the following rules for solar roof setbacks:
+Residential
+A 36 inch pathway must be available spanning from the bottom roof edge to the ridge.Setbacks at ridge:For PV arrays taking up 33% of the roof or less: 18 inch setback on both sides of the ridge.For PV arrays taking up more than 33% of the roof: 36 inch setback on both sides of ridge.A 36 inch pathway is required directly below a roof exit or rescue opening. 
+Non-residential
+A 6 foot perimeter around the edges of the roof.Pathways at intervals no greater than 150 feet throughout the length and width of the roof.A pathway no less than 4 feet wide surrounding any roof access hatches or vents, with at least one 4 foot pathway to a parapet or roof edge.For other ventilation options, setbacks range from 8-4 feet.
+There’s a solar fire code for ground-mounted systems, too, so for solar installers in the business of ground-mounted systems, it’d be most wise to check out Section 1204.4 of the IFC. 
+The IFC is in use or adopted in 42 states, the District of Columbia, New York City, Guam, and Puerto Rico. Click here to learn more about IFC adoption by jurisdiction. 
+How fire setbacks affect solar design
+No installer can ignore solar roof setbacks and pass inspection, but uninstallable solar designs are sold to customers all the time. Ignoring fire setbacks in designs unfortunately misleads customers, causes delays, and costs money. 
+Accurate, built-in fire setbacks prevent change orders and help your business complete more deals.
+It’s best not to sacrifice due diligence when it comes to roof setbacks. Incorporating local fire setback requirements into solar plans from the start pays dividends as it helps ensure a seamless installation and satisfied solar customers in the long run. The code legally has to be met anyway, so planning it from the beginning prevents backtracking on the project and creating customer service issues.
+Fire code varies significantly from state-to-state, and even town-to-town. If the IFC isn’t in use across an entire service area, it’s up to the solar installer to make sure the project is in compliance with its local authority having jurisdiction (AHJ). 
+Keep in mind, though, that even if solar installers follow the best practices of the IFC, they still might not get a permit from their jurisdiction. For example, New York’s strict fire code makes it exceedingly difficult for the city to scale rooftop solar, and Palo Alto, CA has regulatory hurdles so cumbersome that many solar installers have packed up shop. 
+Though the IFC is adopted by many states and municipalities, solar fire code is still largely determined by individual towns, cities, and other local governments. Some localities don’t even have solar setback requirements. 
+If you work in multiple jurisdictions with different fire codes, keeping track of them can be a daunting process. What’s more, designing multiple systems across different code jurisdictions is a design error waiting to happen. See how Aurora lets you navigate this complex code ecosystem quickly and easily.
+How ignoring fire setbacks can lead to unhappy solar customers
+Acknowledging the significance of solar panel roofing setbacks for local jurisdictions is a key piece of understanding what solar sales teams need to ensure solar customer success with their prospects.
+It’s understandable for solar designs to try and maximize every square foot of roof space, especially to please an indecisive solar prospect. But, if solar projects are sold that don’t acknowledge solar setback requirements, a solar client is likely to be disappointed. 
+Click the image to get a quick demo on how it’s done.
+Money is lost and trust is broken if solar sales teams overpromise a solar design output at the expense of not considering solar panel roof setbacks. In the case of a solar customer being given false expectations, these clients will get the bad news of change orders, installation delays, and lower-than-advertised solar output. 
+Regardless of where a sales team gets solar designs, the plan that they sell to their customers must take into consideration a host of regulatory factors, including setbacks. 
+How can you make this happen? Glad you asked. 
+How Aurora Solar’s software considers fire setbacks
+Aurora lets you add your jurisdictions’ setback requirements into your solar panning database (see this article for step-by-step instructions), and these setbacks will be displayed as your employees design individual projects. You can even add extra space to setbacks to be 100% confident your design will pass code. 
+When you start in a new municipality or jurisdiction, simply input the setback requirements into Aurora’s interface. When you design a system, the setbacks will be automatically overlayed in your design. If any errors are detected, Aurora generates a report so you’re sure to catch it. 
+Juggling the confusing world of solar fire code and setback requirements is a hassle, for sure. We think our setback interface makes it pretty simple, but don’t take our word for it. Get your questions together, schedule a demo, and put us to the test. 
+Click the image to tour more of the features Aurora provides.
+Want to learn more about all of our products? Watch our Sunrise Demo Day presentations on-demand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Related Posts                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Products & Features                
+
+
+            1 min read        
+
+
+
+            The Top 10 Things You Didn’t Know Aurora Can Do: All In One Place        
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Products & Features                
+
+
+            4 min read        
+
+
+
+            Top 10 Things You Didn’t Know Aurora Can Do: #2 — Advanced User Roles & Permissions        
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Products & Features                
+
+
+            3 min read        
+
+
+
+            Top 10 Things You Didn’t Know Aurora Can Do: #10 – Code and Setback Requirements        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

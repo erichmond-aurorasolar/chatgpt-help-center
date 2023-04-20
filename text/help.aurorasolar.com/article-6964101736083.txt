@@ -1,0 +1,42 @@
+Enabling Solar Components - Account Configuration
+
+Aurora allows you to favorite regularly used solar components, such as modules, inverters, DC optimizers, and batteries for easy use on the projects created within your account. Most equipment should already exist in our database and just needs to be ‘enabled’ by an account Admin within your Database.
+Please note that you must be an Administrator to configure your account.
+ 
+To get started, click on the Database button to access the Solar Components:
+
+ 
+ 
+Start by toggling the button displayed below to "Restrict generation components" to your team. We recommend enabling specific solar components that your company offers for easy access by your team when creating projects. 
+If you choose to leave the "Restrict generation components" disabled, the entire database of all components will be displayed without any indication of which components your sales reps should choose from. 
+
+ 
+How to Enable Solar Components in your Database
+Start by selecting the component type you are looking for in the left hand menu. For example, click on "Modules" in the left hand menu to search for modules you wish to enable. 
+ 
+You can search for solar components within each component type by entering a model number, keyword, or a name in the search box on the right hand side of the screen.  The search box is rather specific so if you aren't seeing the results you expect, try searching by broader terms such as the manufacturer's name.
+ 
+
+ 
+Step 1: Enter model number, keyword, or name in the search box.
+Step 2: Click on the toggle next to the component that you wish to enable.  You may see that component move to the top of the list depending on your sorting order. 
+Repeat until you have found and enabled all of the solar components for each component type in the database. 
+Step 3: You can click on the "Enabled for My Team" tab to view all of the components within that given section that you have enabled for your team to choose from when creating projects. 
+ 
+Misc. Tips on Solar Components 
+Click here to learn more about Solar Component types that can be modeled in Aurora. 
+
+Focus on enabling Modules, Inverters, DC Optimizers, and Batteries. These are the most important components to enable within your account for basic designs.  Other components are less frequently used or for visual layout purposes only but may be necessary for services like Aurora's Plan Sets.
+
+Please note that New Aurora does not support component based pricing, but rather pricing is handled through your default base cost/watt + adders and discounts. 
+
+
+Batteries are the only component where pricing can be added in the Database.
+
+Within the Database, enter the price of a single battery and create an adder for any marginal installation cost associated with the 1st battery if necessary.  This adder will need to be selected manually on a project by project basis. 
+
+
+
+
+If you are certain that Aurora doesn't have a specific component in the database, please submit a component request form and our Support team will add that component to the database for you and all other Aurora users to access. 
+

@@ -1,0 +1,522 @@
+
+
+
+
+
+
+
+
+
+
+
+
+What Is a Virtual Power Plant & Why Does It Matter for Solar? | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            What Is a Virtual Power Plant & Why Does It Matter for Solar?                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The solar industry—and the energy sector more broadly—is changing fast. Virtual power plants are one example of how technology and policy developments are enabling new business opportunities.
+Using software, a virtual power plant (VPP) combines power from a number of independent sources located at numerous sites, creating a network that supplies power 24/7.
+Because much of the focus of virtual power plants is to provide clean energy, solar companies have opportunities in this market—which expected to yield a compounded annual growth rate of more than 20 percent during 2017-2023 according to one market research report.
+VPPs Depart from the Centralized Plant Model
+Until recently, the U.S. has focused on large centralized plants, often fossil-fuel plants, to provide power to the grid. Power has flowed from the utility to the business or customer.
+But now, small and independent producers are producing solar, wind, and other renewable resources from many different locations all over the U.S. and feeding some or all of that power to the grid. (As discussed in some other Aurora Blog articles, the energy produced by grid-tied solar PV systems can provide a valuable revenue stream for customers with net metering.)
+The increased production of these distributed resources has disrupted the centralized power model (one reason utilities are changing their compensation policies for solar customers) and there is a need for new ways to integrate these distributed resources. A virtual power plant can do just that, often providing reliable power by utilizing renewable energy and batteries that store the solar.
+How the Solar Industry Benefits
+Virtual power plants are part of a future trend that will include solar energy. With a VPP, rooftop solar PV systems on homes and businesses, coupled with batteries, can be aggregated and deployed in an optimal way using software to meet energy needs on the grid.
+“As subsidies for solar PV decline over time, customers will be seeking new ways to maximize the value from their solar PV systems. Being part of a VPP is a key way to achieve that goal,” says Peter Asmus, research director, Navigant Research.
+Important Milestones for Solar-Powered VPPs
+Earlier this year, the solar industry experienced a notable milestone with regard to virtual power plants. Sunrun set a precedent for the industry when it became the first company awarded a contract to supply capacity to a wholesale power market from a VPP. Under the contract, Sunrun will provide solar energy and storage aggregated from a number of homes.
+What’s exciting about this contract was Sunrun’s ability to compete with other power generators in ISO New England’s Forward Capacity Market, which is designed to ensure the New England power system has enough resources to meet its future demand.
+Operators of energy resources such as solar compete in these markets to receive a commitment to supply capacity in exchange for a capacity payment. This VPP contract shows that local solar resources can compete with centralized power in price-sensitive power markets.
+Independent system operators like ISO New England are independent, federally regulated entities created to coordinate regional transmission in a way that’s non-discriminatory while ensuring the reliability of the electric system. Sunrun garnered a contract to provide 20 MW of capacity from its home solar and battery systems to the ISO beginning in 2022.
+Sunrun offered the power as a “hybrid” resource. That means it will aggregate solar from panels on thousands of houses, instead of from a single facility. New federal requirements calling for a level playing field for all resources made the breakthrough possible.
+In another solar industry example, Tesla is working to establish a VPP in South Australia. The plan calls for installing Powerwall 2 battery units and solar panels in homes, and calls for 50,000 connected homes, each with a 13.5-kilowatt-hour (kWh) Tesla Powerwall 2 battery and a 5-kW rooftop solar system.
+The Bottom Line for Solar Companies
+“I would advise solar companies to do their homework about regulations in their specific territories and monitor policy and regulations, supporting changes that enable VPP deployments,” says Navigant’s Asmus.
+Virtual power plants, while still in their early stages, can provide a valuable mechanism for aggregated energy from distributed solar PV systems to compete against traditional fossil fuel resources to meet energy needs on the grid. For solar companies with the resources to manage and aggregate many PV systems, virtual power plants can present new and exciting business opportunities.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

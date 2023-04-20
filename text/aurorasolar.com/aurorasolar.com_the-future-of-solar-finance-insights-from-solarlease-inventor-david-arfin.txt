@@ -1,0 +1,542 @@
+
+
+
+
+
+
+
+
+
+
+
+
+The Future of Solar Finance: Insights from SolarLease Inventor, David Arfin | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            The Future of Solar Finance: Insights from SolarLease Inventor, David Arfin                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+David Arfin is the inventor of SolarCity’s groundbreaking SolarLease, which revolutionized the U.S. residential solar market. This unprecedented solar financing program has enabled over 300,000 residential, commercial, and government customers to adopt solar power and save money, without having to make a large upfront payment. In November 2009, the SolarLease was named by Scientific American as the first of twenty world-changing ideas to build a cleaner, healthier, and smarter world. Arfin also received the first ever Innovation in PV Financing Award from the Solar Energy Industry Association in 2009.
+  
+Today, Arfin continues to create innovative financial solutions and structures to accelerate the adoption of clean energy technologies. He is the co-founder of Certain Solar , a cleantech startup harnessing the power of big data and behavioral economics to make solar energy more affordable. He is also the founder and CEO of First Energy Finance , which provides products and services to accelerate the growth of renewable energy-generating projects. 
+We had the pleasure of sitting down with David Arfin to learn from his years of experience in the industry. In today’s post we’re excited to share his take on where solar financing is today—and where we may see innovations in the future. In the second article in this series, we continue our exploration of solar finance by sharing Arfin’s advice for solar companies on financing best practices.
+  David Arfin
+How has solar finance evolved since you created the first lease at SolarCity?
+Solar financing has evolved in a few small ways, but today’s product does not look all that different from what we had in 2008. I think that’s a shame. There are still evolutions of the product that we need to see.
+
+“…there is still asymmetric information between the solar provider and the solar adopter. Very few people know much about how electricity rates work, where their rates have been, or where they likely to go…”
+
+Third-party financing grew at an exceptional rate for several years. It proved that there is a large appetite for homeowners to adopt solar if you make it easy and affordable for them, and if they believe that they will save money by going solar.
+Other products have come into the markets, like solar loans and Property Assessed Clean Energy (PACE) loans, but they are still not priced very well and pass off a lot of risk to homeowners. I don’t think we’ve hit the “Holy Grail” yet for solar.
+Why do you think we haven’t yet hit the “Holy Grail?”
+Good question. I think it’s partly that current product pitches still sell reasonably well. Leases, PPAs, and loans are still moving the quarterly needle for sales teams’ objectives so the installers and developers don’t have a great incentive to reinvent their offerings.
+The other reason is that there is still asymmetric information between the solar provider and the solar adopter. Very few people know much about how electricity rates work, where their rates have been, or where they likely to go over a period of decades. That makes homeowners subject to believing whatever representations a zealous solar salesperson chooses to present to them in the sales process.
+I think we need adopters to become much better educated about what they are signing up for—much in the same way that other industries evolved. If you look at car loans, home loans, and credit cards—they have all gone through cycles whereby poorly informed buyers get oversold on the offering, followed by a backlash, which in turn is followed by investigations and data gathering initiatives. This may lead to consumer advocacy, followed by truth-in-selling regulations that end with improved consumer-facing offerings. Sometimes these can crush companies and even industries.
+As an advocate for proliferation of solar and other forms of Distributed Energy Resources (DER), I’d like to see the industry short circuit the process by self-regulating its selling practices and coming up with better consumer offerings.
+Where do you think we are in that arc that you see in other industries?
+We are still really early and I hope we are still on the upward trajectory of adoption of all DER. We are no longer in the phase of the earliest adopters, as there are a million American homeowners that have already adopted solar. A lot of these adopters can look at precisely how much energy their PV system has produced, but it’s very hard to do the math to know whether they are actually saving money by having gone solar.
+
+“To use a baseball analogy, we’re in the top of the third inning for innovative solar financing. A million U.S. homes that have adopted solar, but there are 60 million or more residential dwellings that are ripe for switching to clean energy.”
+
+As an industry, we have to be very careful of overzealous selling. For example, Aurora’s software enables one to accurately know how much solar radiation there is going to be on every panel, on every spot… and you’re only going to be off by a couple percentage points. But when it comes to the other side of the equation, which is not how much systems generate but the economic value of the energy generated—which is dependent on local policy makers’ decisions 15–20 years into the future—it’s not possible know what that’s going to be for any net-metered system.
+What evolutions in solar finance would you like to see?
+I would like to see shorter-term obligations. I think 20 years is a terribly long time for someone to sign up for an obligation like a solar installation. I would like to see solar installers and developers–and I will disclose that I have an interest in this—guarantee savings to homeowners who sign PPAs, loans, leases or make cash purchases. It’s a very different sale if you said to the customer, “Sign this contract and we hope that over 20 years you’re going to be saving money.” It would be much better to say, “We guarantee you’re going to be saving money.”
+One company that I’m involved in called Certain Solar, which has a grant from the U.S. Department of Energy’s SunShot program, is looking to do just that. By using unique data and analytics, it allows financiers to be comfortable with the risk of having long-term cash flows from a portfolio linked to future utility rates. Today homeowners take on risk when they sign a 20-year agreement to lease or purchase and they cannot have a very good visibility of future electricity prices. However, this risk could be shifted to investors with the benefit of good data and analytics.
+What we want to do is transfer utility rate risk from homeowners to investors who have the data to understand how prices are going to move and can also invest in a large national portfolio—whereas every homeowner makes one decision at one point in time for their roof within their utility.
+In addition to shifting the utility rate risk, energy storage is going to become an important part of the story. We are going to see more time-of-use rates apply to when one is generating and consuming electricity. I think there are still a lot of interesting services and contracts that will be built as a result of these changes.
+
+“I think you will see PV generation, storage, smart meters, demand response, and EV financing starting to blend together in creative ways. It’s an exciting time to be in cleantech…”
+
+To use a baseball analogy, we’re in the top of the third inning for innovative solar financing. A million U.S. homes that have adopted solar, but there are 60 million or more residential dwellings that are ripe for switching to clean energy.
+Where do you see the future of solar financing over the next 5 years?
+There will be a lot more and better data. Hopefully there will be better consumer education and better consumer protections. I think you will see PV generation, storage, smart meters, demand response, and EV financing starting to blend together in creative ways. It’s an exciting time to be in cleantech—especially on the business model side to create and deliver innovative “energy as a service” offerings.
+On the challenging side, energy is delivered within a regulatory environment and mere humans are making a series of policy decisions; politicians and regulators are motivated by different political agendas. A key enabler for solar and DER adoption will be having a positive and stable regulatory environment. Without this regulatory stability investment in clean assets will suffer and so will our transition to a cleaner energy world.
+Any other final thoughts about solar financing?
+I’m a born optimist. We’ve seen game-changing successes in the United States as we evolved from “solar as a sale” to “solar as a service” and I think that will turn into “distributed energy as a service,” “storage as a service,” “EV-by-the-mile,” etc.
+As costs to manufacture and deliver systems decline, while data, software and analytics improve, we will create an ecosystem that will make it easier for energy consumers, investors and financiers to be able to invest in solar and other DER. All of that then generates more data and innovation, which further de-risks adoption. It’s a virtuous circle.
+
+Want to be in the loop on our latest articles? Click here to subscribe to our blog!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+Difference between monthly and annual billing
+
+Monthly and Annual billing options are available in the financing page to represent the diverse range of utility billing behavior. In the financing page, the user can specify whether the utility bills are on a monthly basis or on an annual true-up cycle, and when the relevant billing cycle ends. 
+Not sure what to fill in? Consult this handy table with some of the most popular utilities. If you need help finding additional information please contact support.
+ 
+Monthly Billing
+A customer without solar pays their bills each month, based on the amount of energy (kWh) that they consume. 
+When a customer has solar panels installed, they typically switch to a Net Energy Metering (NEM) program. Each month, the customer’s meter keeps track of the amount of energy consumed from the grid and the amount of excess solar production sent to the grid. The customer is billed at the end of each month on the difference, known as the net consumption. If the customer produces more energy than they consume (typically in the summer months), they receive an “excess generation credit” that carries forward into future months and offsets production.
+Most NEM programs have an expiration date for the credits, which varies by utility. An example is Rocky Mountain Power, which has a credit expiration date at the end of March. If the customer has excess generation credits at this point, they are assigned a dollar value at a Net Surplus Compensation Rate that varies from year to year but is usually in the range of $0.02 - $0.04 per kWh, representing the avoided cost of generation for the utility. This credit is then given to the customer as a check or it can be applied to future bills.
+Some utilities do not have expiration of accrued credits. In these cases, Monthly Billing with the End of Billing Cycle as 1 year from the install date will give an accurate reflection of the customer’s Year 1 monthly bills. If you wish to instead show the typical bills beyond Year 1, Annual Billing reflects the rolling of credits accurately. In either case, Net Surplus Compensation should be set to $0.00
+Annual Billing
+
+A few utilities, primarily in California, have annual billing, in which charges for net consumption are added to a running total during the customer’s “True-Up Period”. During the True-Up Period, excess generation is used to offset consumption in prior or future months, and at the end of the True-Up Period the customer receives a bill for any remaining charges that were not cancelled out. If the customer was a net producer they also receive Net Surplus Compensation. The main advantage to a customer with an annual billing cycle is that excess generation credits can be applied to prior months in the period, unlike the monthly scenario. 
+Note: In annual billing, the True-Up month is usually 1 year after the installation comes online. The timing of the month does not affect the customer’s bill savings since credits are applied to the whole year. The month selection is provided for cosmetic purposes.
+ 

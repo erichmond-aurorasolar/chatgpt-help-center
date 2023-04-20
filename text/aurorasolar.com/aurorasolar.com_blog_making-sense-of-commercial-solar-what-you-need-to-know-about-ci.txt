@@ -1,0 +1,563 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Making Sense of Commercial Solar: What You Need to Know About C&I | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Making Sense of Commercial Solar: What You Need to Know About C&I                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commercial solar is something of an enigma. Falling between the better-known residential and utility-scale solar industry sectors, commercial solar — or C&I solar as it’s often called, referring to commercial and industrial scale — encompasses a wide variety of customer types, solar designs, and project sizes. It also differs from residential solar in some key ways.
+As Ian Clover, Manager of Corporate Communications for Hanwha Q Cells explains, “In the jargon-heavy world of solar-speak, C&I handily condenses Commercial and Industrial into a snackable sub-section of the PV industry. But as subsections go, the C&I space has perhaps the greatest scope for flexibility, offering a raft of possibilities from ground-mount through to ingenious use of rooftop space.”
+What This Article Covers
+For a variety of reasons we’ll touch upon in this article, commercial solar has been slow to take off, but there are signs that this sector is poised for significant growth. And, for those who learn to navigate the complexity of these projects, the rewards can be big.
+This article is part of a series, in which we delve into a variety of aspects of commercial solar to help solar professionals understand the dynamics of this unique sector.
+In today’s article, we offer a brief intro on what commercial solar is, the scale of this sector, and some of the factors that have constrained its expansion, as well as forecasts for future growth. 
+In other articles, we discuss the different players involved in commercial solar projects, how to sell a commercial solar project, and what financing for these projects may look like.
+
+An example of a large, multi-megawatt commercial solar project design in Aurora.
+
+What Is Commercial Solar?
+Commercial solar may seem straightforward — solar for businesses as opposed to residential solar for homes. However, commercial solar encompasses a variety of different types of customers and projects. In addition to businesses of different sizes, from large corporations to local small businesses, “commercial” solar customers can also include governments, schools and universities, and even nonprofits.
+Commercial solar projects may take the form of rooftop arrays on buildings or ground mounts, and can range widely in size from kilowatts to megawatts. According to Joe Naroditsky, Director, Solar & Operations at the Community Purchasing Alliance (CPA), an organization that connects nonprofits with solar bids, the C&I solar projects his organization facilitates can range in size from 50 kilowatts (kW) for small churches and synagogues to 300-400 kW for large schools.
+And that’s just the tip of the iceberg.
+
+Commercial Solar Opportunity
+With the help of Aurora solar software, researchers at UC Davis have examined the real-world solar potential of some of the largest commercial buildings in the United States. 
+Their review of the largest commercial building in the U.S., a Texas-based aerospace company with 770,000 square meters of rooftop, found that it could generate 88 million kilowatt hours (kWh) of clean energy! As explained in the Washington Post, “That’s enough to power nearly 5,200 homes for a year, offset 47,800 metric tons of CO2, and spare up to 388 acres of land.”
+Obviously, this is the extreme end of the spectrum, where building rooftops rival the scale of utility-scale projects, and this site has not been developed with solar. However, it serves to illustrate the variation in potential project sizes in a sector where the buildings and customers differ widely.
+Constraints on the Commercial Solar Market
+As you begin to read up on the commercial solar sector, one of the common refrains you’ll see is that this market has not grown nearly as rapidly as residential or utility-scale solar. As noted in PV Magazine, “The commercial and industrial (C&I) solar markets have been a relative challenge for solar developers to exploit.”
+Cost of Commercial Electricity vs Residential
+There are a number of factors that have contributed to C&I lagging behind residential solar. For one, commercial electricity prices are historically lower, which can make the economics of solar a little trickier. 
+As Mark Berger explains in PV Magazine: “The C&I sector has trouble competing against an average 15% or more lower price per kilowatt-hour rate than residential electricity prices, according to the U.S. Energy Information Agency. ”
+According to the U.S. Energy Information Administration, in February of 2021 the average cost of electricity for U.S. residential customers was 13.3 cents per kilowatt hour (kWh), while the cost for commercial customers was 11.9 cents per kWh.
+Convincing building owners to purchase
+Another barrier relates to the fact that in many commercial buildings the occupant is not the building owner. This “split incentive” means that the building owners who would make the decision to install solar are often not the ones paying the utility bills, making solar energy savings less of an incentive for them.
+Complex commercial financing
+Financing is also more complex in the C&I solar space, and according to some contractors we’ve spoken with, less accessible. That is beginning to change, however, as financing mechanisms for this space become better understood by financial actors and there are more successful projects for financiers to look at to assess risk.
+Financial viability is the first major hurdle in solar sales, as any solar installer knows. Commercial solar systems can therefore be a trickier sell. 
+However, as explained in Solar Power World, “Commercial solar and now community solar are advancing beyond bureaucratic budgetary boundaries by systemizing structures for the private sector, consumers and third parties to partner and invest in energy infrastructure assets.”
+One of the major things easing financing is the introduction of power purchase agreements (or PPAs). PPAs have allowed investors to take on the pressure of large upfront commercial solar costs, with the consumers paying off the system a little bit at a time.
+Other barriers
+Other barriers include, “contracting challenges, the mismatch in building lease and PV financing terms, and high transaction costs relative to project sizes,” according to a National Renewable Energy Laboratory (NREL) report.
+Solutions to Commercial Solar Barriers
+Many of the challenges in this sector are already being surmounted. A white paper by the Solar Energy Industries Association (SEIA) and SolarKal highlights the fact that commercial solar projects can be structured in a variety of ways that split the costs and benefits across building owners and tenants to meet different criteria. They also emphasize the variety of financing structures available to fit the needs of the parties involved, and the fact that solar is cost-competitive with utility energy.
+As discussed above, commercial PPAs are a great option for small businesses and nonprofits that want the benefits of solar but are unable to cover the upfront costs — despite the fact that the upfront cost is often almost negligible considering the offset of reduced energy bills. 
+Schedule a demo to learn more about Aurora’s commercial solar capabilities.
+Commercial Solar’s Current Scale
+According to a Solar Energy Industries Association report, 1,286 megawatts (MW) of commercial solar were deployed in 2019, with two-thirds of all corporate capacity installed just since 2015.  The report now tracks more than 8,300 megawatts (MW) of commercial solar projects in the U.S. — over 38,00 projects across 43 states — representing approximately 70% of all installed commercial capacity.
+Put another way, there is enough installed commercial solar to power 1.6 million homes. 
+Still, commercial trails behind the residential market, despite larger project sizes, and is even far behind the utility-scale market. As of 2016, NREL reported that non-residential solar (another term often used for this market) comprised 24% of the total installed capacity in the U.S. 
+In March 2021, SEIA reported that the 2020 pandemic affected commercial more than residential solar installs, with the numbers coming in at 4% less than in 2019. 
+Installed PV capacity in the U.S. by sector through 2020, according to SEIA.
+Despite this relatively slow start, there are a number of indications that this market is poised to take off.
+Potential for Growth in Commercial Solar
+Given the scale of many of the buildings in this sector, you can imagine that as barriers are knocked down, the potential for installed commercial capacity is significant.
+In a 2016 report, NREL examined the potential size of the C&I solar sector if certain challenges were overcome. They concluded that, at the U.S Department of Energy’s “SunShot 2020 targets,” the “techno-economic” potential for offices was 54 GW, for hotels 16 GW, and for warehouses 34 GW for a combined potential across these building types of 104 GW in the U.S.!1
+For context, at the end of 2017, the DOE reported that the combined capacity of all installed solar PV and wind power in the country was 144 GW.
+Commercial Solar Benefits
+Commercial solar can offer many benefits — to building owners, commercial tenants, financiers, installers, and the environment. 
+For building owners, benefits include increased operating income and cash flow and longer lease terms, as the SEIA/SolarKal white paper notes. 
+For tenants, reduced operating costs through utility bill savings are an obvious, and very real, benefit.
+Of course, there are also benefits for solar contractors that successfully navigate this sector. Commercial solar projects are often a tough sell, but they can have a great impact on overall numbers for solar companies.
+The economies of scale at play in these larger projects can make them more lucrative, and that’s on top of the significantly larger total project price tags compared to residential projects.
+Be sure to check out the other articles in this series to learn more about the ins and outs of the C&I space. Whether you’re already actively involved in commercial solar, interested in transitioning into this space, or just want to increase your understanding of the industry, our goal with this series is to provide helpful perspectives on how the commercial solar sector works. 
+In our other posts, we delve into the various players involved in commercial projects, how to sell C&I solar projects, and some of the financing structures for commercial solar projects.
+We’re excited for the potential of C&I solar as another key pillar in the growth of solar energy more broadly and hope you are too!
+ 
+
+ 1 – For context, DOE’s Sunshot Initiative was established with the goal of driving down the cost of solar energy. Its solar cost targets for 2020 were: “$0.10 per kilowatt hour for residential solar, $0.08 per kilowatt hour for commercial solar, and $0.06 per kilowatt hour for utility-scale solar.” Sunshot’s target for utility-scale was reached in 2017. A Q1 2018 analysis by NREL reported that commercial solar cost per kWh in the U.S. had fallen to 91% of the 2020 target, so the conditions upon which these estimates are based are not far from reality.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

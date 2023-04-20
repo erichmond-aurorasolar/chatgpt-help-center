@@ -1,0 +1,569 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Getting to 100% Renewable Energy: An Interview with David Hochschild of the California Energy Commission | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Getting to 100% Renewable Energy: An Interview with David Hochschild of the California Energy Commission                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commissioner David Hochschild serves on the California Energy Commission (CEC) , the state’s primary energy policy and planning agency. The CEC’s responsibilities include promoting renewable energy development; advancing energy innovation through investments in energy research, development, and demonstration programs; advancing energy efficiency; and promoting affordable, reliable, and environmentally sound transportation energy infrastructure. The California Energy Commission is one of California’s three governing institutions for energy, along with the California Public Utilities Commission and the California Independent System Operator.
+  
+Appointed by Governor Jerry Brown in February 2013, Commissioner Hochschild fills the environmental position on the five-member Commission, where four of the five members by law are required to have professional training in specific areas. Hochschild’s career has spanned public service, environmental advocacy, and the private sector.
+Prior to being appointed to the Commission, Hochschild served as a Special Assistant to San Francisco Mayor Willie Brown in 2001, where he launched a citywide $100 million initiative to put solar panels on public buildings. He went on to co-found Vote Solar, an advocacy organization working at the state level across the country to make solar affordable and accessible to more Americans. He served as executive director of a national consortium of leading solar manufacturers and worked for five years at Solaria, a solar company in Silicon Valley. From 2007-2008, he served as a commissioner at the San Francisco Public Utilities Commission. For his work to advance clean energy, Commissioner Hochschild was awarded the Sierra Club’s Trailblazer Award and the Department of Energy’s Million Solar Roof True Champion Award.
+Recently, Aurora Solar’s Chief of Staff, Sunny Wang, and Content Marketing Analyst, Gwen Brown, had the privilege of speaking with Commissioner Hochschild—fresh off his recent TEDx talk —to get his take on the current state of solar and clean energy policy, here in California and beyond, and on trends and future developments in the industry.
+Do you think that California is feeling an added pressure to double-down on its climate and clean energy efforts?
+Oh, absolutely. I think the will has never been stronger than it is right now. California has the sixth largest economy in the world and is home to 40 million people—we’re larger in many metrics than most countries in the world. I think particularly given recent events, leadership on renewables has shifted to the states.
+
+Fortunately, most of the policies that really matter—in terms of accelerating renewable energy—are actually still made at the state level.
+
+By that I’m referring to renewable portfolio standards, net metering, interconnection standards, rate design, state tax credits, etc. that really dictate the markets for clean energy around the country. I think the will is very strong to continue what we’ve started, and I have actually seen an increase in activity and interest here in California.
+Speaking of renewable portfolio standards (RPS), California’s RPS sets the ambitious goal of obtaining 50% of the state’s electricity from renewable sources by 2030. For those who haven’t been closely following California’s progress, can you provide a quick update on where we are? Are there major hurdles for California to overcome in order to achieve this target sustainably?
+Today, 27% of the state’s electricity is from renewable sources; that’s up from 12% renewables in 2008. And, we’re on a path not just to hit 50%, but to exceed it.
+There are hurdles to overcome, however. One of these issues is renewable energy integration. That involves a number of different levers, including energy storage, regionalization, and load control options. Regionalization—having a broader balancing area to be able to draw on and send renewable energy to—gives you more flexibility. Load control enables us to better align electricity demand with times of high renewable energy production. This includes demand response measures, as well as electric vehicles that are designed to charge intelligently and at times of the day that support the needs of the grid.
+You could think of the process of achieving high levels of renewables as having two phases. The first chapter of this work was really bringing down the cost of renewable technologies. That work has largely been successful, particularly with solar and wind. The prices of solar and wind have both fallen about 80% in the last decade, so we’ve seen really substantial cost reductions which are very good for the future of the market. The second chapter is integrating renewables successfully onto the grid.
+Another related challenge that goes hand-in-hand with renewable integration is electrification. We want to see a migration of services that are now fueled by natural gas, diesel, and gasoline to being powered by this new, clean electric grid. That’s everything from vehicles—we have 275,000 electric vehicles on the road today (a trend I am happily now participating in as of about a month ago)—to all-electric homes, electrified rail, etc.
+Continuing on the topic of California renewable energy policy, part of the California Solar Initiative that the Energy Commission is advancing is the New Solar Homes Partnership program . Can you share some updates on the program and its successes?
+The way to understand this program is that it’s really the glidepath for California to reach zero net energy in [building] code. The goal originally was 2020 as our date to mandate zero net energy in code and you don’t want that to be an abrupt change. You want homebuilders already building a significant number of homes with solar before that becomes a mandate. This incentive program was created to help get that going.
+One of the main challenges with new construction is that the homebuilder is not the occupant of the home. The builders’ main goal is typically to contain costs so adding extra features is often not what they are seeking to do.
+
+This program helped kickstart that market, and in Southern California about a quarter of the new homes being built today are being built with solar.
+
+Our energy markets to date have been built around fossil fuels–which differ significantly from renewables. From a market perspective, what will need to change about how we buy and sell electricity in order for our energy markets to function with higher levels of renewables on the grid?
+Well, I think the first realization is that along with renewables comes distributed generation and a distributed model. Where California used to have just a couple hundred power plants providing all the electricity, today we have roughly 600,000 when you count all the rooftop solar.
+
+As a result, intelligent infrastructure that’s designed to allow for a friction-free market for distributed generation is essential.
+
+That includes having the ability to meter distributed generation. It also includes having smart inverters that have telemetry and voltage regulation capabilities. So, for example, we can send signals to rooftop solar systems to tell them to adjust voltage to help support the grid. I think that’s one of the main changes that is needed.
+I also think you’re going to increasingly see a movement among utilities towards more of a “pipes-and-wires” model, where their focus shifts from generation to managing the interactivity of all these other generators and consumers.
+
+We need the utilities to succeed—I want to be clear about that. I think it’s really in everybody’s interest to have the utilities succeed, but what they are doing is going to change.
+
+I also think that, increasingly, the role of utilities is going to shift towards transportation. I believe the electrification of the vehicle fleet is one of the single most exciting potential developments in the next few years. It offers great promise—not just to reduce greenhouse gas emissions from our transportation sector, which is California’s greatest source of emissions right now—but also to help facilitate higher penetration of renewables.
+Do you believe it’s possible to supply 100% of our electricity from renewable sources?
+I absolutely believe it is possible. I think it’s actually inevitable. The real question is whether we get there fast enough to make a meaningful difference on climate change.
+Here’s the big picture. Over the long haul, basic laws of economics hold that as reserves of finite resources like fossil fuels—whether they are reserves of coal, or petroleum, or natural gas—become constrained, the prices go up.
+Technology, on the other hand, as it scales, prices go down—whether we’re talking about cell phones, flat screen TVs, electric vehicles, or solar panels.
+
+The foundational technologies of the clean energy future are all going down very steeply in price: solar PV, wind, energy storage, LED lights… that is reason for great optimism about our ability to achieve this future.
+
+There will be a lot of adjustments to be made. We’re going to have to be much more nimble about things like load control, for instance. The traditional model has been that electric load (electric demand) drives electric generation… your factory turns on, and you have to turn on a fossil-fuel burning power plant.
+Now, for some subset of that load, it’s actually going to switch; renewable generation is going to drive electric demand. For instance, if you have a fleet of electric vehicles and you have some flexibility in the time of the day you charge them, or you have a building that needs to be cooled but you can do some pre-cooling, you have windows of time for electric demand that can be aligned with renewable generation. That will become a much more refined science.
+
+There are plenty of other technology hurdles to cross as well—but there is nothing about the transition to 100% renewable energy itself that is outside the realm of a solvable problem.
+
+It’s all solvable; it’s just new types of problems, and our ability to solve these problems has gotten infinitely better.
+I look at our capabilities and where we are in our technology development at the moment, and even if innovation were to basically halt and we were just working with current pricing and current technology, we could get to 100%.
+The good news is it’s actually getting better. Every year, we’re getting larger and more efficient wind turbines, more efficient solar panels, and cheaper batteries with longer duration. The technologies are all getting incrementally better every year so I have no doubt we will get there.
+And, now there are cities, like San Diego, and whole states, like Hawaii, that have mandated 100% renewable energy. San Diego is the first major city in the United States to mandate 100% renewables by 2035, and Hawaii has mandated it by 2045. That’s already underway.
+The solar industry requires cooperation between different actors, such as businesses, utilities, and policymakers. In your career, you’ve worked in the solar energy space from many different perspectives—including public, private, and non-profit. What are your thoughts on the state of cooperation among key solar players?
+Well, I think there is room for greater coordination in the industry. Early on, the solar industry was fractured in terms of industry associations; there were multiple overlapping associations. That has gotten somewhat better but it is not entirely resolved. The parallel is made, for example, to the NRA. There’s not a National Pistol Association and a National Shotgun Association, right? And the NRA is pretty effective.
+I think there is more maturing necessary, and I would like to see more “pan-renewables” advocacy and collaboration where everyone unifies around the vision of 100% renewable energy and the electrification of almost everything. I think there’s a role for all technologies that serve that purpose, whether it be geothermal, solar, wind, or biomass energy, energy storage, or electric vehicles.
+Where do you think we can expect to see new or significantly refined policies encouraging solar adoption in the next few years—either within or outside the United States?
+One area is Mexico, which the California Energy Commission has been working with quite a bit on promoting clean energy policy and sharing best practices. The CEC has signed Memorandums of Understanding (MOUs) with the Mexican states of Aguascalientes  and Jalisco  to cooperate around clean energy, and collaborates with Mexico’s Ministry of Energy under a 2014 MOU signed by California Governor Brown  and Mexican Secretary of Energy Pedro Jaoquín Coldwell. We’ve seen some very exciting developments in renewable energy pricing, and as a result, we’re now seeing Mexico think seriously about renewables.
+For example, they’re now looking closely at energy storage—what its role should be in the future of Mexico and what policies they should adopt. These are things that weren’t under serious consideration about two or three years ago because renewables were seen as too expensive.
+ Commissioner Hochschild signs a Memorandum of Understanding with the state of Aguascalientes Mexico on behalf of the California Energy Commission. Photo credit: California Energy Commission.
+What developments under these MOUs are you particularly excited about?
+One of the most exciting things is how greater participation in clean energy markets is leading to financial innovation. Banks and other financial institutions have to think about how to finance renewables and that has a cascading effect, even to educational institutions. Until recently in Mexico, you could not get a master’s degree in renewable energy, now a university in Guadalajara, Jalisco just launched the country’s first renewable energy master’s degree program.
+All of these changes are happening right now before our eyes. It’s changing so quickly it’s hard to track. For example, the states of Jalisco and Aguascalientes, which the California Energy Commission has signed MOUs with, have both recently adopted fleets of electric vehicles. Those are the some of the first states in Mexico, if not the first, to formally adopt fleets of electric vehicles and that is thanks to some of the collaborative efforts between the Commission and Mexico.
+What is the most innovative solar design you have ever come across?
+That’s a good question… there have been many of them. I’ve been involved in solar for my whole career, and some of the most innovative things I’ve seen were things that didn’t ultimately work in the market.
+
+But, the truth is, the things that I’m most excited about are not what I’d call revolutionary innovation, but rather what I’d call evolutionary innovation.
+
+It’s things that are not particularly sexy or noteworthy, but which are the incremental improvements driving the whole market.
+Every year the efficiency of solar panels and inverters has been going up. The early solar panels had 5% efficiency, right? Now they’re roughly 20%. The early inverters had about 60% efficiency—so you would lose over a third of the power just converting it from DC to AC. Now, utility-scale inverters are at 99% efficiency. It wasn’t an overnight change; literally every year they became 1 or 2 % more efficient, with little tweaks and improvements.
+That evolutionary progress is what I find most exciting. That’s what’s been working and I’m optimistic that will continue.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

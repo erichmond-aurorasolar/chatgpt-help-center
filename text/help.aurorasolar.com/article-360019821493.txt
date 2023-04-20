@@ -1,0 +1,6 @@
+Video: How to Use the Street View Ruler Tool
+
+
+The Street View Ruler tool can be used to get 3D measurements of trees, building heights, obstructions, and roof pitches that are visible in Street View . These measurements can help refine 3D measurements from LIDAR or provide accurate measurements where LIDAR is not available.
+You can use the tool to measure pitch, height, or distance.
+For a step by step guide on how to use the Street View tool, click here. 

@@ -1,0 +1,33 @@
+9/29/2022 - Release Notes
+
+
+
+
+Borealis Updates: Preview Bills Graph
+The Preview Bills graph in on the Bill Overview page of Sales Mode has been redesigned and now includes monthly savings values and loan term.
+
+
+Show/Hide Environmental Impact Page
+Admins are now able to toggle whether to show the Environmental Impact page in Sales Mode under Settings > Sales Mode customization > select Environmental Impact page > Edit.
+
+
+Savings Narrative in the Web Proposal
+Savings numbers are now consistent across Sales Mode and the Web Proposal. Admins are also able to change this depending on their preferences specified in their tenant settings (see Internal Documentation and the linked demo video).
+
+
+Duplicate Design API
+With the new Duplicate Design endpoint, you can create a copy of a design in the same project via API. The copied design will include both the 3D model and the PV system.
+
+
+API Version 2022.09
+A new version of Aurora’s APIs introduces performance and usability improvements, including removing extra fields, rate limiting, and improving error code formats. Developer resources are required to upgrade.
+
+
+Customer Information in System Summary
+The downloadable System Summary in Sales Mode now includes: - Customer name - Customer address - Customer contact information (email & phone number)
+
+
+CC in Contract Manager
+Contract Manager users can now CC non-signing parties on a document. (note: templates must be reconfigured to include this functionality – see Internal Documentation)
+
+

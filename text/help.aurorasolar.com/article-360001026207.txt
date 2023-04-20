@@ -1,0 +1,9 @@
+4/13/18 Release Notes
+
+
+Added Nearmap imagery
+Added 'financing type' field on financing and proposal page.
+Added ability to rename financing index ( 1, 2, and 3) in the proposal template settings.
+Added ability to set a specific type of financing (ie cash, loan, any) to a financing index.
+Changed the 4 financing option buttons into a drop down menu on the financing page. 
+

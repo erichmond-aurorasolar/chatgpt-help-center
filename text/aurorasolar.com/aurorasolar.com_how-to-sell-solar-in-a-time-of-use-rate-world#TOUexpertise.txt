@@ -1,0 +1,544 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How to Sell Solar in a Time of Use Rate World | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How to Sell Solar in a Time of Use Rate World                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Think time of use rates don’t affect you? Think again!
+  
+While the shift to a time of use rate structure may not have happened in your area, as solar development grows around the country, more and more utilities are adopting this approach as part of their energy payment structure. That means it’s time to get smart about how you approach solar sales conversations when time of use rates apply.
+Customers on time of use rates are charged different prices for their electricity depending on when they use it, with higher prices during times when there is higher demand. (Typically, for net metered solar customers, this means the value of the energy their PV system produces also varies depending on the time it is sent to the grid.)
+In California, all commercial, industrial, and agricultural customers are already required to be on a time of use plan. And starting in 2019, all residential customers will be defaulted to time of use rates unless they actively choose a different rate. But time of use rates are not just a California phenomenon.
+A review of Aurora’s extensive database of current rate plans around the country revealed nearly 2,000 different time of use rate plans across the country for different types of customers. While California has the most pervasive application of time of use, we found multiple utilities in almost every state in the country with some kind of time of use rate structure.
+Whether time of use rates are already common in your area or you want to be prepared for future developments, it’s a good idea to learn how to adapt your solar sales conversations to account for time of use rate structures. In today’s article, we discuss five tactics that can help solar contractors effectively address time of use rates in solar sales conversations.
+1. Make sure your prospect understands time of use rates.
+First, it’s important to ensure that your customer understands what time of use (TOU) rates are and how they impact their bill. For many customers, making sense of the different parts of their electric bill can be complicated–so an unfamiliar billing structure like TOU seem daunting to understand.
+TOU rates don’t have to be confusing, however. When you explain them to a homeowner look for opportunities to relate them to something they already understand. They’re probably already familiar with time-dependent pricing in other contexts, like parking rates coinciding with a big event. 
+In Aurora’s primer on how TOU rates work, we liken them to movie ticket pricing. Moviegoers pay less for a matinee show when there is lower attendance, just as TOU customers pay less at times when during periods when there is typically less energy demand. Explore different analogies to see what explanation resonates best with your customers.
+Relating TOU rates to other time-variable pricing customers may already be familiar with–like movie tickets–can help make them easier to understand.
+The key point to emphasize is that the price the utility charges for each kilowatt-hour (kWh) of energy consumed will now vary according to the time of day it is consumed. Each TOU rate designates different periods of the day when different rates apply; there will be specified peak demand times where the rate will be higher than during the off-peak demand times.
+2. Set yourself apart with TOU expertise.
+Giving your customer insights into how TOU rates can affect them given their usage can help you distinguish yourself from the competition. Insight selling, the ability “to leverage a deep understanding of customers to establish trust and rapport,” positions you as a source of value for them during the initial selling process and beyond.
+Demonstrating a comprehensive knowledge of your customer’s specific TOU program and how it applies to their unique situation will go a long way towards establishing yourself as the trusted advisor during the sales process.
+For example, you’ll want to be able to explain to your customer exactly when different electricity prices apply. You should also know if their rate structure varies depending on the season or day of the week (many TOU rates have different schedules for winter and summer or between weekends and weekdays).
+
+An example of a time of use rate structure from California utility PG&E (E-TOU rates option A during the summertime). As you can see, this rate structure applies for the summer season, while another structure applies in other months.  Source: PG&E.
+(Relatedly, you’ll also want to be prepared to explain how their net metering credits are treated under their particular utility rate and state policies–and these policies are often in flux, so stay up to date!  For example, under California’s NEM 2.0 policy, credits from solar energy can only offset part of their energy charges–regardless of the value of that energy based on the TOU period when it was produced.)
+3. Offer insight on what to expect given their energy usage patterns.
+A customer’s bill on a TOU rate is highly dependent on when they consume energy throughout the day, but many customers may not have a clear picture of how their energy consumption varies at different times. Another powerful way you can add value for the customer and demonstrate your company’s expertise is to give them a better understanding of their current energy usage patterns. Aurora provides a number of ways you can do this.
+Aurora offers multiple ways to model your customer’s energy load profile. Sharing that load profile with customers can offer valuable insight into their current energy consumption patterns and how TOU rates may affect them. 
+First, if your customer’s utility company provides green button (i.e., interval) data for customers–which provides a granular view of how much energy they consumed during every 15-minute interval in the billing period–you can upload that data into Aurora. Aurora will then construct a load profile for the customer based on their actual usage at specific times throughout the day. 
+ 
+An hourly load profile showing the actual amount of energy a customer used at different times of day during the summer months, constructed with Green Button data uploaded into Aurora.
+Second, even if green button data isn’t available, Aurora can model customers’ hourly load profiles based on their electricity bill(s) or monthly kWh consumption. Aurora extrapolates a load profile for residential customers by taking into account local weather data, as well as building characteristics–like whether they have air conditioning, electric heat, or energy-efficient lighting. (For commercial customers Aurora develops load profiles based on the typical usage for that building type.)
+This can be a great way of helping your customer understand how they currently use electricity. (And, paired with data on how much energy their solar PV system will produce at different times this also allows you to show how much solar will help them save, as we discuss below.)
+An example of an estimated residential load profile created in Aurora. The different colors represent energy consumption from different building characteristics, like air conditioning and lighting. 
+You could also offer insight into future energy decisions that might coincide with their solar purchase. For instance, if your customer is considering buying an electric vehicle to go along with their new solar installation, you could use Aurora’s energy consumption tools to show how their load profile would change (you could even enter the specific EV model).
+4. Use financial analysis tools that clearly show the impacts of TOU rates.
+Perhaps the most important element of selling a solar installation in an area with TOU rates is to be able to clearly show how your customer’s solar savings will be impacted by their particular utility rate.
+Aurora’s financial analysis tools make it easy to show prospective customers how much they’ll save by installing solar. 
+Make it clear to your customer that, under TOU rates, the value a solar design provides depends on more than just how much total energy it produces. They have to consider the value of that energy based on when it’s produced. Aurora’s performance simulation tool calculates how much a particular solar design will produce at different times of the day and year.
+Aurora also has a database of over 3,000 of utilities and over 17,000 utility rates around the world (and if your particular rate isn’t present, you can easily add a new one). The customer’s specific utility rate is taken into account in Aurora’s financial analyses, allowing you to accurately calculate their pre- and post-solar bills. If a TOU rate is selected, Aurora will take into account the customer’s net usage at different times (based on the system’s energy production and the customer’s energy usage) to determine their post-solar utility bills.
+Plus, if there are multiple utility rates that the customer could qualify for after installing solar, you could run analyses to show them which would save them the most. If TOU rates are optional in your area, you can advise them on whether opting-in makes sense.
+5. Highlight how your design is better.
+It’s one thing to talk about the difference a design can make and another to show it (show, don’t tell). You can experiment with different solar designs and analyze how much they save the customer to find the best option given their rate. This will allow you to show your prospect why the design you propose saves them more.
+Design changes can have a big impact. For instance, in a rigorous study of over 600 solar projects designed in Aurora and over 900,000 design variations, Aurora researchers demonstrated that adjustments to the orientation (west-facing because panels receive more late afternoon sun, which coincides with peak energy prices under many TOU rates) and size (larger systems mean better net present value) can help improve the financial returns of systems on a TOU rate structure.
+With Aurora solar design and sales software, you can model a variety of designs for your customer and see which offers the best savings given their utility rate. This is particularly helpful for customers on TOU rates who may save more with a design that produces more energy during hours with peak pricing.
+
+Given the steady growth of solar and the accompanying adoption of time of use rates, it’s wise to prepare yourself for a post-TOU solar market. The better you are at explaining TOU rates in your sales conversations, the easier it will be for customers to see the value your proposed solar installation will provide. And although TOU rates can be complex, for the solar salesperson who is prepared, they can present an opportunity to demonstrate expertise and stand apart from the competition. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,549 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Is Your Solar Design Process Missing These Key Technologies? | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Is Your Solar Design Process Missing These Key Technologies?                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software tools that enable remote solar design are transforming the solar industry—cutting industry soft costs by eliminating the need for truck rolls and reducing design time from days to minutes. However, remote design tools are developing rapidly, aided by advances in fields like mathematics and computer science, and it can be hard to keep up with all of the new technologies available to increase design speed and accuracy.
+  
+Many of these technologies once required a supercomputer to access, but today they are becoming accessible to everyone. This means that small and medium-sized solar sales, design, and installation companies—those without million-dollar budgets—can now access these technologies to improve the efficiency and quality of their design process and, ultimately, serve more customers.
+As the solar industry becomes increasingly competitive, contractors need to take advantage of every tool at their disposal to produce the best designs as quickly and easily as possible. In today’s article we examine the practical implications of key technology advances that fundamentally change the solar design process.
+
+What technology developments are most important for remote solar design?
+
+New imagery tools, including LIDAR and drone imagery, enable more accurate remote solar design.
+Computer vision, using computers to interpret images, enhances accuracy and reduces design time. 
+New applications of mathematical algorithms—“Optimization algorithms” are enabling software to automate solar design (as detailed by Cornell University Professor Madeleine Udell ), and enhancing the process of creating a 3D site model.  
+
+Many of these advances are not widely understood outside of their respective fields (particularly mathematics and computer science), yet they can be transformative for solar contractors who take advantage of them. Let’s explore how: 
+Advances in Imagery
+Imagery is one of the main areas in which technological advances have transformed solar design. The increased availability of diverse types of imagery, such as satellite imagery and LIDAR, makes it possible to accurately design a solar installation without physically visiting the site. 
+Satellite Imagery
+Although satellite imagery has been readily accessible for some time, through tools like Google Earth, it is worth acknowledging because this technology is at the heart of remote solar design. Combining this imagery with software solutions for solar design, it is no longer necessary for installers to visit each project site to measure solar access values and the available roof area.
+With imagery of sufficient resolution to clearly identify buildings, trees, and other structures, it is possible to remotely assess the suitability of a project site for solar. This also supports the creation of representative 3D models of project sites, which enable highly accurate estimates of solar energy production by taking into account the shading impacts of trees and other obstructions.
+LIDAR
+LIDAR data adds greater accuracy to remote solar design. This is because LIDAR data provides a means to verify the height and position of different parts of a building or surrounding objects like trees.
+An example of LIDAR data for a solar project site, which can help verify the accuracy of a site model.
+LIDAR (an acronym for Light Detection and Ranging) operates much like similarly-named SONAR and RADAR. But instead of pulses of sound or radio waves, a LIDAR scanner emits laser beams and measures the time that they take to return in order to map the location and elevation of objects in the surrounding area.
+In the case of the LIDAR data used in solar design, the scanner is typically outfitted on a plane to map the topography of the land below, but LIDAR has other applications as well. For instance, LIDAR is what allows self-driving cars to “see” what’s around them.
+Drone Imagery
+The emergence of consumer-affordable drones offers yet another valuable imagery source. Where high resolution satellite imagery is unavailable—or not current enough to show recently constructed buildings, drones offer an option for solar contractors to access useful imagery for remote solar design.  
+Drones now offer an additional option for solar designers to access improved imagery of project sites. Software like Aurora allows solar contractors to upload their own imagery to take advantage of these options.
+Computer Vision
+Computer vision is the use of computers to interpret images. There are many applications of computer vision, but in the field of solar design it offers a number of ways to make solar design faster and more accurate.
+Computer vision can dramatically speed up the design process by automating the process of modeling obstructions on a roof. In Aurora, a designer can identify one obstruction, like a skylight or a vent, and then computer vision can be used to automatically find all of the other obstructions of the same type. The resulting time savings can be significant, particularly for commercial sites with many repeating obstructions.
+Satellite imagery showing obstructions on a commercial roof (left) and Aurora’s automatic identification of similar obstruction instances (right).
+Computer vision can also enable solar designers to measure distances and angles on the project site, such as the height of a tree or the pitch of a roof, with just an image. This ensures that models are true to life so the design and energy production estimates will be error-free.
+Aurora’s 3-D Metric Estimation tool gives solar designers the ability to take measurements of a project site using aerial and streetview imagery. Click on the image to be directed to a video of this feature in action. 
+Algorithms Helping to Automate Solar Design
+Computer science and mathematics are providing a number of other technological advances that are making remote solar design more automatic, while offering improvements in accuracy.
+Optimization Algorithms
+Particularly exciting for any solar contractor who’s ever struggled to find the optimal design configuration for a particular location is the emergence of tools that can automate the solar design process.
+Drawing from the fields of optimization and computational mathematics, Aurora developed an algorithm that iterates through thousands of potential solar designs to find the most cost-effective design that achieves a particular energy offset or bill savings target.
+Aurora’s “AutoDesigner” feature evaluates thousands of potential solar designs to recommend the best solution.
+There is significant value in automating the solar design process. The number of possible designs for a site is vast—in fact, if every possible design configuration were accounted for it would take a human many lifetimes to evaluate them all! Relying on a computer program to do the heavy lifting of evaluating the multitude of designs can reduce error while freeing up time time for other responsibilities, like ensuring customer satisfaction.
+
+Geometric Modeling Algorithms
+Another area where mathematical approaches provide advances in remote solar design is in the process of creating a 3D site model. Creating an accurate model of a customer’s roof can be very challenging, depending on the site, presenting a common trade-off between developing a site model quickly and getting every detail right.
+With recent algorithmic advances, however, solar design software can make smart inferences about the structure of the site. For instance, SmartRoof, a roof modeling tool released by Aurora in 2017, can use just the perimeter of a roof to infer the internal structure of the roof and how the planes of the roof intersect. The designer can then make slight adjustments, such as removing or adjusting certain roof planes, but is saved significant time in creating the model.
+ “SmartRoof” infers the internal lines and planes of a roof based on its perimeter.
+Yet another computational technique being integrated into solar design software draws from geometric modeling approaches to enable the creation of complex shapes through the merging of simpler shapes. SmartRoof includes this functionality to allow designers to draw a house in multiple parts and have them automatically integrated into a single building model. This makes complicated buildings much less daunting to model.
+
+While the science behind many of these tech developments is complex, the integration of these innovations into software programs means anyone can access them without special knowledge. With these tools, it is easy to remotely design a solar installation, which the National Renewable Energy Laboratory found can save as much as $850 for a 5kW system. These advances are also lowering barriers to solar design, so anyone on your team—from engineers to salespeople—can create an accurate site model and design.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

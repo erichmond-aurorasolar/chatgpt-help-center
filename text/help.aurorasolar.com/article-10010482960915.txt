@@ -1,0 +1,72 @@
+User Management: Teams
+
+Teams in Aurora enable scaling solar businesses to create and manage user groups and projects. When users are assigned to a team, they can only access the projects assigned to that team; they are unable to access projects assigned to other teams. Admin users are able to view all projects across all teams.
+
+Note: Only admin users are able to manage and edit Teams.
+In this article, we’ll cover:
+
+Creating and Editing Teams
+Assigning Projects to Teams
+Frequently Asked Questions
+
+ 
+Creating and Editing Teams
+Available under the Settings page in the Aurora application, navigate to the “Teams” tab to create, manage, and delete Teams in Aurora. 
+
+To create a team, follow these steps:
+
+Click “Create” on the Settings > Teams page
+Enter a Team name
+Select users to include in the team
+When you’ve selected all users you want in the team, click “Save”
+
+After you’ve created a team, you can Edit or Delete the team from the Teams page.
+ 
+Assigning Projects to Teams
+After you’ve set up your teams, there are a few ways to assign projects to teams:
+
+Assigning a project to a user on a single team will automatically assign the project to the team
+From the New Project page
+From the Project Index page
+
+Assigning Teams on Project Creation
+
+On the New Project page, you can select a team assignment upon project creation. Simply select the team from the dropdown menu.
+Assigning Teams from the Project Index
+From the Project Index page, you can select one or more projects to assign (or re-assign) them to a team
+
+To assign projects from the Project Index page, follow these steps:
+
+Select one or more projects using the checkboxes on the left side of the table
+Click “Reassign” on the top right of the table
+Use the dropdown menu to select the team to assign the project to
+Click “Done”
+
+Frequently Asked Questions
+Can I customize settings, database, and Sales Mode by team?No, Teams does not support team-based customization in Aurora.
+Do I have to assign all of my users to a team?No, team members do not have to be a team. Team member users that are not assigned to a team will only be able to see projects that are unassigned to a team.
+Can a user be in more than one team?Yes. Users can be in any number of teams. Admins automatically can see all projects. . 
+Can a project be assigned to more than one team?No, projects can only be assigned to one team.
+What if I assigned a project to a user? Does it automatically assign the project to all the teams that user is a part of?Projects are only automatically moved into a team when a user is added to a team if the projects don’t already have an existing team. For example, if  a user is on team A and all their projects are also assigned to team A, and the user is then added to team B, then the projects will stay on team A. 
+However, if a user is on no team, then their projects will be assigned to the new team. For example, if a user was unassigned to any team, and they had projects that also were not assigned to any team, and the user is then added to team A, then the projects will also be added to team A. 
+If a user is on multiple teams, then the team for their projects must be selected at project creation. 
+Projects can be assigned to teams without being assigned to an individual. Once a project is on a team, it can be  assigned to an individual on that team or remain unassigned on the team.
+What happens if a project is not assigned to a team? Who can view the project?If a project is not assigned to a team, then only admins and team members who have not been assigned to any team will be able to view them. Users assigned to a team will not be able to view unassigned projects; they can only view projects assigned to that specific team.
+What if I need to move a project to another team or another user?Admins in Aurora can re-assign projects to another team or to users on another team.
+Team members can assign their own projects to other members on their team; they cannot assign projects to users on another team. Team members on multiple teams can change the team that their project belongs to.
+What happens if a user is deleted or removed from a team? What happens to their projects?If a user’s account is deleted from Aurora or they’re removed from a team, their assigned project(s) stay on the teams the projects are in, but the projects are no longer assigned to that user. 
+What happens if a team is deleted?When a team is deleted, the projects and the users on that team will no longer be associated with the team. For all user-assigned projects, the user will still be assigned to that project.
+Team members who don’t belong to any team will be able to see projects that are not assigned to any team. 
+How is Secure Mode impacted? Do visibility and access rights differ between Team Member and Limited Team Member roles?Teams in Aurora does not impact visibility and access rights in Secure Mode.
+Limited team members will only be able to see projects assigned to them; they are unable to view other projects assigned to their team. Team members can see all projects assigned to the team(s) they belong to.
+Is Teams supported by the API?Yes, Teams is supported by the Sync API. Please review the following documentation to learn more:
+
+List Teams endpoint
+New User Object field in:
+
+Create User endpoint
+Invite User endpoint
+Update User endpoint
+Create Project endpoint
+Update Project endpoint
+

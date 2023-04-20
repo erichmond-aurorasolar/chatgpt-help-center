@@ -1,0 +1,538 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Project Modeling Can Energize the Community Solar Market | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Project Modeling Can Energize the Community Solar Market                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Community solar programs have the potential to greatly expand the market for solar energy and make the benefits of solar more accessible. However, growth of this sector is currently inhibited by uncertainty in project delivery costs.
+
+We sat down with Dr. Joseph Goodman of the Rocky Mountain Institute to understand this challenge—and how detailed design modeling capabilities can help overcome this barrier.
+What is Community Solar?
+By now you’ve likely heard about community solar – also known as shared solar or solar garden—one of the solar industry’s fastest-growing  sectors in 2016. Community solar provides a way for customers to share in the energy produced by a solar installation in their community. The solar installation, which may be community-owned or third-party owned, provides electricity to community members who choose to participate. An important appeal of community solar programs is that, if designed correctly, they save participants money compared to what they would otherwise pay their local utility.
+Community solar allows homeowners that do not have ideal building conditions to enjoy all the benefits of solar ownership, such as lowered utility bills and the knowledge that they are contributing to a cleaner environment. Factors like having a shaded roof, being a renter, or living in an apartment building, may limit one’s ability to switch to solar. In fact, the National Renewable Energy Laboratory (NREL)  has found that these issues affect 49% of households and 48% of businesses! Accordingly, community solar has a critical role to play in the development of the solar industry and in ensuring that the clean energy economy is inclusive and equitable.
+How Does Community Solar Work?
+The Solar Energy Industries Association (SEIA) identifies four different models  for community solar. A utility may provide its customers with the option to purchase a set amount of solar energy from a shared facility- typically at a fixed rate for a long term, such as 20 years (a utility-sponsored model). An on-bill crediting model allows residents and businesses to invest in a portion of a shared solar installation and receive a proportional credit on their utility bill. Individuals can create a business entity to develop a shared solar project, a Special Purpose Entity (SPE) model. Finally, in a non-profit (or “buy-a-brick”) model, donors may contribute to support the development of a shared solar installation that will be owned by a non-profit. The availability of community solar projects depends on state-level policies; the option is not yet available everywhere but 26 states  currently have community solar projects.
+
+Four different business models for shared solar. Photo Credit: U.S. Department of Energy.
+Cost Certainty: The Secret Ingredient for Community Solar Success?
+The Rocky Mountain Institute was founded in 1982 to transform global energy use to create a clean, prosperous, and secure low-carbon future. RMI engages businesses, communities, institutions, and entrepreneurs to accelerate the adoption of market-based solutions that cost-effectively shift from fossil fuels to efficiency and renewables. They are pioneers of community solar, developing innovative community-scale solar pilot projects to make solar energy affordable and accessible for all. Their analysis looking at community-scale solar  (both shared solar systems and other mid-size arrays), estimates that the community solar market could reach 30 GW by 2020!
+
+Dr. Joseph Goodman, Principal with Rocky Mountain Institute’s electricity practice.
+Dr. Joseph Goodman  is a Principal with Rocky Mountain Institute’s electricity practice. He leads RMI’s work to accelerate the deployment of community solar, with a focus on providing practical support to communities transitioning to shared solar. We sat down with him to understand what it will take for community solar to reach its full market potential, based on his work with community stakeholders.
+We asked Dr. Goodman about some factors that affect the expansion of community solar. He highlighted uncertainty when evaluating the cost of a potential project as a major issue. Even among otherwise comparable community solar projects from the same company, there is often significant variation in what it costs to develop a community-scale solar project. This ambiguity in actual delivery costs means that companies must price projects on the higher end of the spectrum to avoid losses.
+“[Community solar projects] basically live or die based on… incremental costs in the way the system is developed, designed, sourced, and deployed.”
+Why is this so significant for community solar in particular? While uncertainty in project cost exists across solar project types, the impact on project viability is particularly significant for community solar. Slight variations in project cost can make the difference between whether or not a project will save members money compared to utility rates, and thus whether communities see it as a good option. As a result, the expansion of community solar on a large scale hinges upon increased certainty and transparency in project costs.
+As Dr. Goodman explained, “[community solar projects] basically live or die based on those incremental costs in the way the system is developed, designed, sourced, and deployed.” Additionally, he noted that when people don’t have the right information to make a decision, the common reaction is to do nothing—so until there is greater transparency in these costs, community adoption is likely to be slow.
+There is a great potential to reduce this uncertainty, however, and RMI is working to provide solutions. “Based on the analyses that we’ve been able to conduct, there is tremendous opportunity to reduce the cost of installation and improve total cost of [community solar] ownership. There’s also room to decrease your construction project cycle, and to eliminate much of the variance of projects…”
+Delivering Cost Certainty with Prototyping
+One solution that Dr. Goodman and the Rocky Mountain Institute have been working on is the use of standardized project design prototypes to eliminate this uncertainty. The development of prototype designs—for which the total cost of ownership has been analyzed and established with certainty—allows communities considering shared solar projects to make informed decisions.
+“There are other variables at play in finance, but I think the two dominant ones are: ‘Will this asset produce what you said it will produce?’ And ‘Will you be able to sell the energy it produces at the rate that we’re banking on?’”
+But how do you arrive at a trusted cost evaluation for a particular solar project prototype? One option would be to actually build out a particular design, documenting the costs in detail. Of course, that’s a significant investment!
+But, as Dr. Goodman explained, “Before you’ve got that luxury, you’ve got to [do this] through more efficient means- and Aurora’s enabled that.” With a solar software design platform that can make accurate projections of project costs and performance, researchers can develop hypotheses on how to effectively reduce project costs and test them without physically developing the projects. These experimental capabilities have the potential to be a major game changer for the community solar sector.
+Dr. Goodman and his team use Aurora’s design capabilities to run experiments evaluating how different community-scale design scenarios perform based on total cost of ownership. “We’ve found huge savings, savings that are so significant that the total cost of ownership goes from being higher than buying from—either wholesale or retail, depending on the customer—to below.”
+ Aurora’s application enables the development of detailed designs for solar installations, including industry-leading energy performance simulations.
+Being able to evaluate multiple design solutions that meet diverse project needs provides great value to the industry. “I want to really underscore the magnitude of it…. with a software tool that allows us to search the design space, we can have a step change in the value proposition. It goes from ‘out of the money’ to ‘in the money.’”
+Dr. Goodman also discussed how this change in the value proposition will expand access to financing for community solar. “There are other variables at play in finance, but I think the two dominant ones are: ‘Will this asset produce what you said it will produce?’ And ‘Will you be able to sell the energy it produces at the rate that we’re banking on?’ And that’s a much more believable story when you’re providing real savings- rather than marketing against inflated utility costs…”
+ An example of a ground mount typical of a community solar project. Photo credit: John Thornton / NREL.
+A Bright Future for Community Solar
+Despite the current challenge that cost uncertainty creates, Dr. Goodman is optimistic about the growth of community solar across the U.S. “We… foresee getting to play a significant role in the creation of this industry at RMI—through working with industry, and with [community stakeholders] who are really willing to represent the best interests of their communities.” His outlook is echoed by NREL estimates that community solar could comprise up to 49% of the U.S. distributed PV market by 2020 with supportive policies.
+Goodman stressed that we are at an exciting time for the growth of community solar: not only do we have the right technologies and business models, but there is growing political will within communities at all scales, from local to international, to reduce carbon emissions through the expansion of renewables.
+~~~
+Want to be in the loop on our latest articles? Click here to subscribe to our blog!
+Background Photo Credit: U.S. Department of Energy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

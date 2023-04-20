@@ -1,0 +1,7 @@
+10/31/2019 Release Notes
+
+Features Added
+
+
+Horizon shading is now live
+Three new proposal templates have been added (Einstein, Einstein (short), and Commercial Template Pro

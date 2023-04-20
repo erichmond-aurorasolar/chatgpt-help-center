@@ -1,0 +1,64 @@
+How Projects Are Classified
+
+Classification of New Projects
+With the release of Aurora’s commercial financing features, you must now indicate project type (residential or commercial) when creating a project. 
+Select either the residential or commercial button when creating a project:
+
+You will now see the project type in the project description at the top of the screen:
+
+It should be noted that a project’s classification cannot be changed once the project has been created (i.e., you cannot change a residential project to a commercial project or vice versa). Please make sure that your project is correctly classified before starting as some features are specific to project type.
+Features Specific to Project Type
+
+
+
+
+Residential
+
+
+Commercial
+
+
+
+
+Residential Financial Analysis
+
+
+Commercial Financial Analysis
+
+
+
+
+Residential Utility Rates
+
+
+Commercial Utility Rates
+
+
+
+
+AutoDesigner
+
+ 
+
+
+
+In lieu of the AutoDesigner in commercial projects, please use Fill Zones to place modules.
+Classification of Past Projects
+In order to make commercial financial analysis available to relevant existing projects, as part of the launch of this feature, Aurora has classified existing projects as either “commercial” or “residential.” 
+The following criteria were used to reclassify projects in our system:
+
+
+Systems larger than 25kW have been classified as commercial, with the following exceptions:
+
+
+
+Projects with existing load profiles and/or financial analysis have not been reclassified as commercial, as those load profiles and financial analyses are incompatible with new commercial load profiles and financial analysis.
+
+The projects with existing load profiles and/or financial analysis will remain classified as residential.
+
+
+Systems smaller than 25kW are classified as residential (no change). 
+
+If you are encountering difficulties due to the retroactive classification, please email support@aurorasolar.com
+ 
+ 

@@ -1,0 +1,584 @@
+
+
+
+
+
+
+
+
+
+
+
+
+SDG&E’s New Time of Use Rates: How Solar Savings Are Changing, Backed by Data | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            SDG&E’s New Time of Use Rates: How Solar Savings Are Changing, Backed by Data                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the last few months, utility rate changes have gone into effect with important implications for current and prospective solar customers in the San Diego area. San Diego Gas & Electric’s new rates became active on December 1, 2017 (right on the heels of standard rate increases implemented on November 1). The most notable of these changes are SDG&E’s new hours for peak pricing in time of use (TOU) rate schedules: 4pm – 9pm, adjusted from previous peak hours of 11am – 6pm.
+  
+This is significant for solar customers because it shifts the peak cost of electricity from the middle of the day, when many solar customers are exporting energy to the grid, to the afternoon and evening when PV systems are shutting down for the night. This will cut bill savings from installing solar—but by how much?
+In today’s article, we explain what’s new under these rate changes, and dig into what this means for solar savings. Using hundreds of SDG&E territory solar projects designed in Aurora, we analyzed the financial implications of these changes and identified the key takeaways that San Diego area solar contractors and their customers need to know.
+
+Even if you aren’t in SDG&E territory, getting a sense of these time of use schedule changes may be a good idea. With the highest levels of solar capacity in the U.S., California is grappling with grid management challenges that other states may eventually face as they approach higher levels of solar.
+Because solar installations produce energy during daylight hours but not in the evening as people are coming home, there is high demand for energy in evening hours. (This phenomenon is known as the duck curve , because of the duck-like shape exhibited in graphs of net electricity load, as illustrated in Figure 1 below). As a result of changes in energy consumption and production patterns as more solar is added to the grid, utilities like SDG&E are implementing changes to time of use rates  to price electricity higher when there is higher demand.  
+Figure 1. The increasing duck curve in California, from 2012 to 2017, as more solar has been added to the electric grid. Source: U.S. Energy Information Administration.
+What’s Changing Under SDG&E’s New TOU Rates?
+
+These changes are the first implementation of SDG&E’s General Rate Case Phase 2  (a process with the California Public Utilities Commission to determine adjusted rate schedules for different classes of customers).
+The new TOU periods reflect changing trends in the times when there is the greatest electricity demand on the grid. Specifically: 
+
+The higher “Summer Season” rates now run from June to October rather than May to October
+Peak TOU Pricing is now from 4pm – 9pm
+
+The following residential electric rates have revised TOU periods:
+
+TOU-DR
+DR-SES
+EV-TOU
+EV-TOU-2
+
+The following commercial electric rates have revised TOU periods:
+
+A-TOU
+TOU-A
+AL-TOU
+A6-TOU
+DG-R
+OL-TOU
+
+For existing solar customers: residential customers can keep their existing time of use schedule (e.g., summer peak hours of 11am – 6pm for DR-SES) for five years after permission to connect, and commercial customers can keep their rates for ten years; however, the cost of electricity in different time periods is changing (see below).
+
+To more clearly understand the financial implications of these changes, let’s look at the case of summer rates under DR-SES, the special TOU rate for solar energy systems. In the original rate schedule (Figure 2 below), peak hours were from 11am – 6pm, and the cost of electricity during peak hours was a little more than twice semi-peak pricing.
+
+Figure 2. Time of use periods and corresponding electricity prices under SDG&E’s DR-SES rate (a special time of use rate for solar customers) prior to changes implemented December 1, 2017. (Note that $/kWh rates are rounded to the nearest cent.)
+Under the new changes, both new solar customers and existing, grandfathered customers are affected. The DR-SES for new customers keeps a similar price difference between peak and semi-peak hours, although the peak hours are shifted later in the day when less PV production occurs (see Figure 3 below).
+
+Figure 3. Revised time of use periods and corresponding electricity prices under SDG&E’s DR-SES rate, effective December 1, 2017 for systems permitted after March 2017. (Note that $/kWh rates are rounded to the nearest cent.)
+For grandfathered customers, the hours for each time period remain the same, but the cost of energy during these time periods has changed (see Figure 4 below). SDG&E has slashed peak pricing, meaning customers get less for exports. SDG&E has also increased semi-peak pricing to just a few fractions of a cent less than peak pricing, meaning customers have to pay more for electricity imported.
+
+Figure 4. Updated electricity prices for existing SDGE&E solar customers who retain their existing time of use periods under the DR-SES rate as a result of grandfathering policies. (Note that $/kWh rates are rounded to the nearest cent.)
+How Are Solar Savings Impacted by These Changes?
+In order to examine how the proposed rate changes impact the utility bills of existing solar customers, we looked at ~200 solar projects designed in Aurora that used customer’s green button data and a reasonably sized PV system.
+Using Aurora’s solar financial analysis features, we assessed how customers bills would change under the new utility rate structures (a similar methodology to our analysis of NEM 2.0 policies).
+Impact on Savings for New Solar Customers
+Let’s first look at the impact of the delayed peak hours for new systems that are not eligible to be grandfathered in under the old time of use schedule:
+ Figure 5: Annual bill increases for solar customers on SDG&E’s DR-SES rate as a result of new time of use rates implemented December 1, 2017 (based on financial analysis of real solar designs created in Aurora). The average bill increase is shown for different ranges of net energy consumption.
+Figure 5 shows the average annual bill difference for solar customers with different energy offset levels (each bar represents a certain range of net energy consumption). Systems on the left tend to produce more power than they consume, while systems on the right offset less of the owners’ energy consumption.
+
+What this shows is that new systems designed to meet or exceed the customer’s energy usage will continue to have similar bill savings under the new DR-SES rates. However, designs that don’t entirely meet the customer’s energy needs may be a harder sell, since the bill savings could be $100 to $500 less per year.
+While that does sound bad, it isn’t going to make it impossible to sell a PV system to a homeowner even if you can’t fit enough solar to fully offset their energy consumption. Of the proposed systems that would see a reduction of $250 or more in utility bill savings, the pre-solar utility bills were typically at least $2,500 per year; this means that these PV systems’ returns are decreased by about 10% or less. So, even with these less favorable utility rates, a new solar customer will still see at least 90% of the savings that a customer who signed up a year ago will be getting.
+Impact on Savings for Existing Solar Customers
+Existing customers who received permission to operate (PTO) before July 31, 2017 are allowed to keep their existing TOU periods for five years after their PTO date. After five years, they will be transitioned to the prevailing TOU schedule. However, the utility may change the relative value of energy in each TOU period, as they have done in this case. 
+Existing SDG&E customers on DR-SES will now have almost identical electrical rates of $0.429/kWh during peak and semi-peak periods  (semi-peak is 0.014 cents/kWh less), rather than $0.26 for semi-peak and $0.53 for peak hours. This means that DR-SES customers will receive less money for exported energy in the middle of the day, and pay more in the “shoulder hours” for any imports.
+We analyzed the same 200 systems, comparing their bills under the existing DR-SES to the new DR-SES for grandfathered systems. Here’s what we found:
+Figure 6: Annual bill increases for existing solar customers on SDG&E’s DR-SES rate, who retain the same time of use hours, but with new electricity prices for each time period, effective December 1, 2017. The average bill increase is shown for different ranges of net energy consumption.
+Once again, customers using less than 500 kWh / year with solar should see no change in their bill, and likely won’t see much of a change at the end of their five-year grandfathering period. However, customers with larger amounts of consumption will see their bill increase by about $120 for every 1000 kWh of net consumption. For many of these homes, that amount is small compared with their pre-solar utility bills.
+There are also a few notable sites that have a high annual net energy consumption but would not see a change in their utility bill. Most of these are relatively small systems that only offset 40-60% of their annual energy usage with solar. The reason that these don’t have very large bill increases is because the amount of net exports they have during the day tends to be low, so they aren’t hit as hard by the decrease in credits for export during peak hours.
+
+Although these time of use rate changes are not favorable for solar customers, it is good to know that the impacts will be minimal for systems that offset all of a customer’s electricity usage. Where possible, this means that San Diego area solar contractors should design systems that offset as much of a customer’s energy load as possible in order to maximize their solar savings. One benefit of using Aurora is that you can easily analyze the financial impact of different solar designs based on the customer’s utility rate so you can be sure you’re offering prospective customers the best option. 
+With utilities increasingly exploring rate changes for solar customers, these SDG&E changes may offer insights relevant to customers in other regions as well. Keep following the Aurora Blog (or subscribe for weekly updates!) to stay in the loop on other significant utility actions. 
+Is there another rate change you want to understand better? Let us know in the comments below!
+
+Key Takeaways
+
+The new rates won’t drastically change the returns for systems that offset all of the customer’s energy usage. 
+New solar customers whose energy consumption is not fully offset by the solar system will see a 5 – 10% reduction in their bill savings. Solar will still have a positive financial impact but systems will take longer to pay off.
+For existing PV customers, those using less than 1000 kWh/year will likely not see a change in their utility bill. For customers that are still large net consumers of power, utility bill might increase by around $0.12/kWh of net consumption. It will take longer for those customers to pay off the investment. 
+The impact is mitigated for small homes that only offset 50% of their energy usage since the rate change really hurts on exports and evening consumption – small homes have fewer exports during the day.
+To mitigate rising energy costs, customers should try to move energy consumption from the evening to the middle of the day if possible, or move energy consumption to 12am – 6am. 
+The new rates may make energy storage options more popular, but it would still be a big investment for the homeowner. 
+
+Additional Resources
+
+SDG&E’s Advice Letter indicating new utility rate periods and grandfathering clauses can be found here .
+SDG&E Advice Letter Attachment indicating new utility rates within the new TOU periods can be found here .
+California Public Utilities Commission Decision D-17-01-006  details the Commission’s grandfathering policies.
+Additionally, our previous blog post about SDG&E rate changes  includes additional background on SDG&E’s allowing solar customers to keep their DR-SES time of use rate for five years (grandfathering).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

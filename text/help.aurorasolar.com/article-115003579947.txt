@@ -1,0 +1,10 @@
+2/28 Release Notes
+
+
+Added the 45 deg / satellite map view to the 2D Site Model page.
+Added the ability to easily move the satellite map's green marker, and correspondingly adjust the image tile in your design area.
+
+Details:To access the 45-degree view, click on Map located in the top toolbar (see the red box in Figure 1). You have the ability to change the 45-degree view to a top-down view by clicking on the Tilt button (see the orange box in Figure 1).
+                                                                     Figure 1
+You can move the green marker by left clicking/dragging the icon around. The image on the right will move based on the green marker. Click on the Refresh Map button at the top once you have found the correct location (see the red boxes in Figure 2).                                                                       Figure 2
+Once refreshed, your satellite image will re-center on the green marker (see Figure 3).                                                                       Figure 3

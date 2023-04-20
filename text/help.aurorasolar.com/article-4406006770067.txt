@@ -1,0 +1,73 @@
+Sales Mode Overview
+
+Aurora’s Sales Mode is an interactive, iPad-friendly solar proposal software designed for the modern sales team. With Sales Mode, solar reps can follow a simple, guided design workflow to deliver an engaging homeowner experience that closes deals. Sales Mode takes the guesswork out of solar quoting to help your sales team sell with confidence and ease. 
+Note: Sales Mode is available to all customers using the New Aurora.
+
+11/15/22 Update: Check out the new features in Sales Mode with this quick tour!
+ 
+Table of Contents:
+
+Launching Sales Mode
+Enter Customer Contact Info & Energy Usage
+Create a Site Model
+Adding Solar Modules & Assessing Shading Threats 
+The Storage Overview Page 
+Environmental Impact Page 
+Adjusting Pricing and Financing 
+The Bill Overview Page
+Send your Proposal
+Using Contract Manager for e-Signature
+
+ 
+Launching Sales Mode
+To launch Sales Mode simply click on 'Sales Mode' from within the Project Dashboard and select an existing design or you can create a new one.
+
+ 
+Enter Customer Contact Info & Energy Usage
+Enter your customer’s contact information and energy usage.  If you’ve already entered this information on the Project Dashboard it will be auto populated on these initial pages of Sales Mode.
+
+ 
+Create a Site Model
+Within Sales Mode, you'll want to create your site model either using Aurora AI* or with a design that has already been created manually, (either by our Expert Design Services team or one that you've drawn yourself using our Smart Roof tool in Design Mode).  
+*Note: Aurora AI and Expert Design requests are add on products/services 
+
+ 
+Adding Solar Modules & Assessing Shading Threats
+Once you’ve created your 3D site model you'll place panels on the design and can use our shading analysis tools to determine any shading threats and optimal panel placement for that design.
+
+
+
+Built In Shading Analysis Tools:
+
+LIDAR
+Sun path
+
+Irradiance
+
+
+ 
+Please note that if you need to make any further adjustments to the site or system, you can always do so in Design Mode.
+ 
+The Storage Overview Page 
+Select a battery storage option for your system on the next page and show the homeowner the backup potential of the system.
+
+ 
+Environmental Impact Page
+The Environmental impact page shows certain key figures to help your customer understand how they will be benefiting the environment by going solar. These calculations are based on EPA studies which can be found here.  This page can also be turned off by account admins if you’d prefer not to show this information.
+
+ 
+Adjusting Pricing and Financing 
+On the Financing Page in Sales Mode, you'll have the option to pick adders and discounts and can select the financing option that your client is interested in.
+ 
+
+ 
+The Bill Overview Page
+Compare pre- and post-solar bills on the Bill Overview page. Review the impact this system will have on the customer's bottom line. Click on the Preview Bills button to see future cash flows of the project.
+ 
+Send your Proposal
+Send the homeowner a link to an interactive Web Proposal, or download the Print Proposal with all of your project details.
+
+ 
+Using Contract Manager for e-Signature
+If you've purchased Aurora's Contract Manager as part of your account plan, you'll be able to send out documents for e-signature right from Sales Mode as well.
+Learn more about setting up Contract Manager 

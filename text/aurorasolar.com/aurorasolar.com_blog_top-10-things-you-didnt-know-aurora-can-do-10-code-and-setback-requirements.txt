@@ -1,0 +1,528 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Top 10 Things You Didn’t Know Aurora Can Do: #10 - Code and Setback Requirements | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Top 10 Things You Didn’t Know Aurora Can Do: #10 – Code and Setback Requirements                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As the solar industry grows, installers face an ever-changing and extremely competitive environment, not to mention a complex web of regulations and incentives. To succeed and grow in this challenging, but fulfilling industry, you have to be able to solve potential problems and respond to customer requests quickly, efficiently, and accurately.
+Using all the features of your solar design and sales software is a key part of this equation. Of course, it can be difficult to know everything it can do, and in the heat of the moment it can be tempting to just do things manually. 
+In this series, we’ll count down the top 10 things installers don’t know Aurora can do, and the issues they can help solve once and for all — complete with step-by-step screenshots and GIFs so you can take action immediately. 
+Feature #10: Code and Setback Requirements
+Fire setbacks (or, specifically, lack thereof) are the most telltale sign of a novice solar designer. Neglecting to factor them in can result in an overly aggressive design, change orders, and a disappointed customer. 
+Why They’re Important
+Sometimes it can seem like every town has its own special requirements when it comes to setbacks for fire codes and other issues. That’s because in many cases it’s true. 
+Ignoring these requirements or getting them wrong can lead to inaccurate proposals that require change orders, re-work, and even production issues. 
+Additionally, training every employee on every different code and setback requirement is extremely time consuming, and doesn’t remove the possibility of error. Having to remember this step and account for it in every design is inviting mistakes. And we all know, getting a setback wrong in a design is a surefire ticket to change orders, extra truck rolls, and ultimately delays and added costs.
+How Aurora’s Jurisdiction Setbacks Help
+Aurora lets you input setback requirements by jurisdiction into your database, and they’ll be displayed as your employees design individual projects. You can even add extra padding to the dimensions to be 100% confident your designs will work even if the satellite image is slightly off. As an added layer of certainty, the Validation Report will alert the designer if any modules violate those parameters.
+This not only eliminates a potentially confusing part of employee training, but also eliminates the possibility of manual errors creeping into designs.
+How Jurisdiction Setbacks Work
+When you start doing business in a new jurisdiction, simply enter the setback requirements into the interface:
+
+Then, when you’re designing a system, the fire code setbacks are clearly displayed:
+
+Finally, if an error still sneaks through, you’ll be alerted in the Validation Report:
+
+Using these simple steps in Aurora, you start using Jurisdiction Setbacks to eliminate an extremely manual, error-prone process, and change it into something that designers don’t need to think twice about. And with the double-check at the validation phase, you can be sure one more potential cause of change orders is eliminated.
+If you’d like to learn more about the details, click below to sign up for a demo.
+ 
+
+This is the first post in our countdown of the Top 10 Things You Didn’t Know Aurora Can Do (and how they can help solve common issues). Check out our Aurora Top 10: All In One Place page to see all the other features highlighted in this series and look at the schedule for the remaining posts.
+Do you have suggestions for an issue or feature you’d like to see covered? We’ll have some Aurora gifts for any ideas we use. Email us here.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

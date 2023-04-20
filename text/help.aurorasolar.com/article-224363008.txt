@@ -1,0 +1,92 @@
+Incentives
+
+There are several types of incentives available to subsidize the cost of a solar installation. Aurora offers you the flexibility to compute any type of national or local financial incentive.
+ 
+Cost Based Incentives (CBIs)
+These are incentives that are calculated based on the system's cost to the consumer. There are two categories of CBIs: 
+
+
+National CBIs: In the US, input the 30% Investment Tax Credit (ITC) here.
+
+
+Local CBIs: Input any state or local rebates here. 
+
+
+Local CBI cap: Often local CBIs have a specific dollar max amount - input it in this field.
+
+
+The Investment Tax Credit (ITC) is a type of CBI. Here is how to add a Cost Based Incentive within your Database. First click on your Database button at the top left of your screen. 
+
+
+Next go ahead and click on Incentives button on the left side of your screen within your Database.    
+
+
+Click on the Add Incentive button at the top right corner of your screen. 
+
+
+ 
+
+
+ When the New Incentive box appears type in the name of the Incentive that you want to create. Click the Create button to continue. 
+
+
+ Once your Incentive page opens, go ahead and select if this a National or Local incentive. 
+
+ Next if tax rates applies check the box.
+
+ Next select the correct incentive type, from this example we will choose Cost. 
+
+
+ Next type in the correct % amount that is to be awarded based upon the system cost from 1-100% for this Cost Based Incentive type. For this example 30% is used.
+
+
+Performance Based Incentives (PBIs)
+These are incentives that are calculated based on the system's production. PBIs are applied as they are earned (i.e. as your system produces energy). 
+
+
+National PBI: Input a $/kWh rate for any national Performance Based Incentives. There are currently not any performance based incentives in the US at a national level.
+
+
+Local PBI: Input a $/kWh rate for any local Performance Based Incentives. Solar Renewable Energy Certificates (SRECs) are the most common of these (we are assuming $.19/kWh in our example). 
+
+
+PBI Duration: The number of years for which you will be receiving the performance based incentive (we are assuming 10 years in our example).
+
+
+PBI Taxable: Specify whether income from PBIs are taxable. If they are taxable, the PBI will be taxed at the input (National or Local Tax Rate). In the US, PBIs are almost never taxable.
+
+
+PBI Escalation Rate: At what rate are PBIs expected to increase each year.  If PBIs are expected to decrease, input a negative number in this field if they are expected to decrease. We are assuming 2% increase.
+
+
+Some states offer Solar Renewable Energy Credits (SREC s). Here is how to add an SREC to a financing template:
+
+
+ Click on Add Incentives button on the top right corner of your screen within your Database. 
+
+
+
+
+ When the New Incentive box appears type in the name of the Incentive that you want to create. Click the Create button to continue. 
+
+
+ Once your Incentive page opens, go ahead and select if this a National or Local incentive. 
+
+ Next if tax rates applies check the box.
+
+ Next select the correct incentive type, from this example we will choose Performance 
+
+ Next type in the incentive rate for example $0.19/ per kWh 
+ Next type in the escalation %/year, for this example we’re using 2% 
+ Next type in the duration value in years, for this example we’re using 10. 
+
+
+Grants
+These incentives are applied as reductions to the system cost. For financial analysis purposes, these are applied in month zero - i.e. even before the project is commissioned. 
+
+
+Fixed Amount: Input an amount for the rebate (we are assuming $6,500 in our example). Here is how to add it to you Incentive list. 
+
+There are also grants whose value are are based on the DC system size (we are assuming $.5/W in our example), and that have a cap. Most system DC system size based grants have a nominal limit (we are assuming $2,500 in our example). Here is how to add it to a financing template: 
+
+ 

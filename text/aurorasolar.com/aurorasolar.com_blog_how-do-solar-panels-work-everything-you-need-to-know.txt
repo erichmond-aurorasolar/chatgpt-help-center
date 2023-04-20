@@ -1,0 +1,630 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How do solar panels work? Everything you need to know | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How do solar panels work? Everything you need to know                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+How Do Solar Panels Work?
+What Components Make up a Solar System?
+How Are Solar Panels Made?
+How Are Solar Systems Designed?
+Learn more about the fundamentals of solar by subscribing to our blog.
+ 
+From fossil fuels to hydro, most energy begins with the sun. Solar panels harvest power directly from this incredible resource by converting photons into electricity.
+Solar panels can power an incredible range of energy applications. Solar generation can provide power for a remote cabin and keep the lights on in the International Space Station, but we all know solar isn’t just for providing remote power needs. 
+As solar panels have gone down in price, they’ve become a competitive energy option for homes and businesses. Aside from saving some green, going solar is one of the best ways a consumer can green their energy consumption. Solar panels provide extensive environmental benefits, potentially eliminating dependence on carbon-emitting fossil fuels and improving air quality.
+For these reasons, millions of homes and businesses have “gone solar.” Here are just a few interesting examples:
+
+A Rhode Island home installed a 9.5 kWh system in 2016. The array saves the homeowners $3,845 a year, and will pay for itself by 2022.
+
+California’s Lake County Sanitation District installed nearly 9,500 solar panels in 2008 to power three sanitation facilities. The project is on track to save taxpayers $5 million over the system’s 20-year lifespan, and provides enough power to decrease grid electricity loads from the plant by 90 percent.  
+
+Vintage Wine Estates in California’s Napa Valley installed a 945 kWh solar system that will provide $10 million in energy savings over 30 years. 
+
+
+How Do Solar Panels Work?
+Here’s a rundown of what happens from sun-to-plug in a photovoltaic system:
+
+Photovoltaic cells absorb photons from the sun and converts them to direct current (DC) electricity
+
+An inverter transforms direct current to alternate current (AC) to power appliances  
+
+AC current travels via wire to a breaker box for distribution throughout the building
+
+Any unused electricity flows back into the utility grid or into solar energy storage
+
+
+Understanding Solar Energy
+Solar energy is radiant light and heat emitted from the sun. It’s harvested in myriad ways, such as photosynthesis in plants and solar heating.
+Solar energy for electrical production relies on subatomic particles called photons. These particles start their journey in the center of the sun, traveling through the various layers before careening into space. A journey from the center of the sun to the surface can take anywhere between 100,000 to 50 million years to complete.
+Once photons escape the sun, they take a little over 8 minutes to reach earth, where they collide with solar panels and initiate the photovoltaic effect.
+The Photovoltaic Effect (How solar panels generate electricity)
+A solar panel’s secret sauce lies in its ability to convert photons into electrons. In a nutshell, a solar panel converts photons into direct current, which is then converted to alternate current for use in home and business applications.
+Solar cells are typically constructed of silicon, a semiconductor capable of producing electricity. When sunlight strikes the panel, photons interact with silicon atoms, releasing electrons in a phenomenon called the photovoltaic effect.
+A solar cell is manufactured with a positive and negative silicon sheet sandwiched together. An upper silicon layer is infused with phosphorus for a negative charge, and a boron-infused bottom layer maintains a positive charge. The resulting field funnels electrons towards conductive metal and out of the panel.
+Grid Connection
+Once the photovoltaic process produces a current, the electricity has to flow somewhere. Since the current produced by a solar panel is DC, it needs to be converted into AC before it can be used in most situations. Once converted to AC, energy from solar can be used in multiple ways.
+The most common method is entry into a grid-tied system. A grid-tied system draws a significant portion of its energy needs from solar panels during the day. Depending on the size of the system, more energy may be produced than the site needs, so surplus electricity is sent back to the grid. When the sun goes down, the consumer draws supplemental energy from the utility.
+While grid-tied systems aren’t completely self-sufficient, they’re an effective way to lower energy bills and do good for the environment.
+Net Metering
+A major advantage of a grid-tied system is the ability to sell surplus solar energy back to the utility through a process called net metering. On cloudy days and during the night, a solar system may not produce enough energy to meet demand. The opposite is true for very sunny days: When energy use is low but production is high, panels will collect surplus energy, usually more than enough for a customer’s energy needs.
+Net metering measures electrical flow in both directions: How much energy a system draws from the utility, and how much is put in. When a solar system is overproducing, the meter actually runs backward, resulting in the utility company rewarding credits for the surplus power.
+These credits can be used to purchase energy from the utility when a solar system isn’t able to meet demand.
+
+What Components Make up a Solar System?
+Solar panels are the most obvious components of a photovoltaic system, but only represent about 30% of the total system’s cost. The high-tech shimmer of a solar panel is just the tip of the iceberg that a photovoltaic system uses to harness renewable energy from the sun.
+Let’s take a closer look at the important components that make up a solar system. 
+Solar Photovoltaic Panels
+A typical solar panel consists of silicon cells, a metal frame, wiring elements, and glass. An insulative layer and a protective back sheet protect the panel from excessive heat and humidity.
+While the general construction of solar panels is pretty standard, the silicon cells are manufactured in two distinct formats:
+
+Monocrystalline cells are one solid silicon crystal. Mono cells provide more space for  electrons to flow, resulting in a smaller, more efficient panel. The downside is they tend to be more expensive.  
+
+Polycrystalline cells are constructed of many individual shards of silicon melted together. While not as efficient as mono cells, poly cells have a lower price point.
+
+Mono and poly cells serve the same purpose. Aesthetics and budget will help you determine which is right for your next project. Mono panels tend to have a darker, more uniform color, while poly panels are lighter (usually blue). If the site is space-limited, mono panels may be the way to go thanks to their higher efficiency. But if space isn’t an issue or you’re up against a tight budget, poly panels are still an excellent choice. 
+Inverters
+Solar energy comes right off the panel as direct current. But the energy needs to be converted to alternate current before it can be used in a commercial electrical grid. Thankfully, DC is easily converted to AC, a job left to an inverter.
+Inverters are classified into 4 broad categories:
+
+Stand-alone inverters draw  DC energy from batteries charged by solar panels and don’t interact with the grid.
+
+Grid-tie inverters match electrical current from solar panels to those of the utility.  Grid-tie inverters shutdown during power outages, so they can’t be relied on for backup power.  
+
+Battery backup inverters draw energy from a battery and export surplus energy to the grid. Battery backup inverters are capable of delivering AC energy during a power outage.  
+
+Intelligent hybrid inverters are all-in-one solutions that can be used for grid-tie, stand-alone, or backup applications. Intelligent hybrid inverters are often attached directly to solar arrays and manage solar load, battery storage, and grid interaction. 
+
+Racking and Mounting System
+Racking and mounting hardware do far more than secure panels to a roof or the ground — they provide the correct positioning for maximum exposure to the sun. Selecting the right mounting configuration and position is essential for ensuring maximum output from any system.
+
+Solar racking and mounting systems fall into 3 categories:
+
+Ground mount systems. Traditional ground mount systems anchor stacked panels to the ground, often two to four panels high. Two rails generally support each panel, which can be oriented in a portrait or landscape position. These systems are anchored to the ground with steel rods, screws, or ballasts such as concrete blocks.  
+
+Tracking systems. Motorized tracking systems follow the sun throughout the day, maximizing sunlight exposure. Tracking systems are classified as single axis or dual axis. Single axis systems follow the sun from east to west in a straight line. Dual axis systems track the sun in a circular pattern for improved sunlight exposure.  
+
+Roof mounting systems. The most common roof mounting systems utilize rails anchored securely to a roof. Other roof-mounted systems attach panels directly to bolts  or screws anchored into the roof, eliminating the use of rails and providing a more sleek aesthetic and lighter load. Ballasted and non-penetrating systems are usually used on flat roofs or roofs that can’t support mounting hardware. 
+
+Performance Monitoring Systems
+A performance monitoring system is a dashboard that provides a complete picture of your system’s performance. Aside from the fuzzy feelings of seeing your meter spin in reverse, a solar performance monitoring system offers valuable insights into a photovoltaic system.
+A performance monitoring system offers information about energy output and consumption, optimizes energy usage, and can inform you about problems in your solar system. Solar monitoring systems work through inverters, usually through monitoring software that runs liaison between the inverter and other devices.
+Performance monitoring systems gather information as the inverter converts direct current to alternate current, and make that information accessible to the homeowner through companion apps and smart home devices. The best performance monitoring systems collect data through a central inverter or from individual microinverters affixed to each solar panel. The later option provides greater insight into individual solar panel performance, and allows faster diagnosis of potential problems.
+
+How Are Solar Panels Made?
+Basic solar panel constriction hasn’t changed much in recent decades. Like the arrays that first started showing up on houses decades ago, most modern solar panels are still constructed of a silicon matrix between a front glass plate and rear polymer sheet.
+Solar panels have to stand up to severe weather conditions over the course of their 25-plus year lifespan. The best solar panels are engineered to stand the test of time, which requires a few basic materials and meticulous manufacturing standards.
+Materials
+Solar panels are best pictured as a silicon and glass sandwich. The materials that go into solar panels are relatively straightforward:
+
+Silicon cells
+
+Metal frame  
+
+Glass  
+
+12 volt wire
+
+Bus wire
+
+Plexiglas
+
+Silicon, the element that gives solar panels their electricity-generating magic, is the active ingredient in the solar-panel-sandwich recipe, and also the most energy intensive to produce. Silicon is one of the most abundant elements on earth, and is the main component of beach sand. But converting sand into pure silicon suitable for solar panels is an energy-intensive process requiring refinement in high temperature arc furnaces.
+Once silicon is refined, the raw product is ready to be manufactured into a solar panel.
+Manufacturing
+Isolated silicon chunks are shaped into cylindrical ingots, with special attention given to proper atomic orientation. At this stage, boron is added to give the silicon a positive charge. Ingots are then cut into thin wafers the thickness of paper, then treated with an anti-reflective coating to help better absorb sunlight.
+Next, conductive metals are added to the surface of each wafer. Phosphorus is diffused across the surface, providing a negative charge to balance the positive charge of the boron and allow controlled flow of electrons.
+At this stage, an individual solar cell is complete. Next, cells are soldered with metal connectors into a matrix. This assembly is sandwiched between a protective back sheet and glass covering and finished off with a junction box and frame.
+
+How Are Solar Systems Designed?
+Two important factors are considered when designing solar systems: available space and energy demand. All the nuts and bolts of solar system design hinge on these two factors, so a thorough understanding of them is essential to a well-planned solar installation.
+To get started, a solar designer will calculate daily energy needs, usually by taking a look at the location’s utility bill. Next, the designer will determine the ideal number of solar panels for the project and available space to accommodate them. With energy needs and available space determined, a designer can start shopping for components.
+Designing a solar system can be complicated. A designer must determine space requirements, potential shade, optimal panel pitch/angle, necessary permits, and more. Software solutions can help estimate solar energy needs and plan the best solar system.
+Aurora Solar’s design software.
+For example, with just an energy bill, Aurora Solar’s design software automatically renders high-quality designs and materials recommendations for any location. Aurora also provides multiple planning and design tools into one intuitive package, including site design, load profiles, shade analysis, automatic system design, sales proposals, permit templates, and more.
+Conclusion
+Of course, the ins and outs of how solar panels work are just the first step. If you’re looking to learn more about solar and the solar industry, here are some additional resources:
+
+Now that you know how solar panels work, check out the different types of panels on the market
+See how solar panels are connected together — called “stringing” — to deliver power where it’s needed
+Interested in battery storage? Here’s a primer on everything you need to know about storing solar energy
+
+The Solar 101 section of our blog has a number of other resources, as well, to help answer all your solar-related questions.
+Schedule a demo today and fast-track your next solar installation project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

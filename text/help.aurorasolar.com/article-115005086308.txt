@@ -1,0 +1,104 @@
+System Design
+
+The Design section is where you model your site, place equipment on the structure, generate your irradiance map, and see a 3D visualization of the system you have created. It provides a visual, CAD-like interface that makes it easy and fast to put together even complex system designs.
+
+1. Imagery
+
+
+Toggle Map Imagery(G): Click on the mountain icon to toggle satellite imagery on and off. 
+
+Enable HD Imagery: Click on the HD mountain icon to toggle Nearmap imagery. Learn more about Nearmap here.
+
+Google/Bing: Toggle between Google, Bing, HD Imagery (Nearmap), or uploaded custom imagery.
+
+2. Design Options
+Site:
+
+
+SmartRoof: Select Pitched or Flat roof to start outlining your roof edges (R).
+
+Add Obstruction: Select a Polygon (Q), Rectangle(W), or Circle (E) and drag to size.
+
+
+Draw Tree: Click and drag the tree to define its radius. You can make adjustments to the tree size in the toolbar on the right or in 3D view.
+
+System:
+Insert Panels: You can add Solar Panels to a design using the following options:
+
+
+Fill Zone (Z): Once selected, move your cursor over to the roof area and either double click to select the entire roof area or single click and place nodes on the corners of a polygon shape. Once you complete the perimeter click Place Panels in the right toolbar. Learn more about creating a Fill Zone here.
+
+Modules (M): Once you click Modules a pop-up window appears where you can specify the module, number of rows and columns, orientation, tilt, row spacing, as well as whether you would like to attach a microinverter or a DC optimizer. You can select Manually Place or Fill Roof Face. Learn more about these options here. 
+
+Ground Mount/Carport (P): Add a rack or carport assembly. In the resulting pop-up window you can specify the module, number of rows and columns, orientation, tilt, height, X and Y module spacing, as well as whether you would like to attach a microinverter or a DC optimizer.
+
+Add Components:
+
+
+Inverter(V): Select one of your saved inverters or search for the inverter you would like to use for your design.
+
+Combiner Box(B): Places a Combiner Box
+
+
+Load Center: Places a Load Center
+
+
+Service Panel: Places a Service Panel. You will be able to specify whether the service panel is the main service panel and whether it already exists, or whether it will be installed. Existing service panels will not show up in the Bill of Materials and the Cost Breakdown.
+
+
+Meter: Places a Meter. You will be able to specify, whether this meter already exists (for example if you want to model a pre-existing utility meter) or whether it will be installed. Existing meters will not show up in the bill of materials and the cost breakdown.
+
+Disconnect: Places a Disconnect.
+
+String/Connect(C): Click String/Connect to string the panels and connect to an inverter. Check out this How to Guide to learn more about stringing.  
+Walkway(K): Select Walkway to create a new walkway. Set the width and cutouts and click ok. Click on the roof area to place the walkway.
+3. Design/Map View Toggle
+
+
+Map Split: Splits the screen vertically to show a Map/Street view of your site on the left. Here you can rotate, adjust the viewing angle, and zoom in and out.
+
+Animate: Generates an animation of the sun’s path across your site.
+
+Ruler Tool: Measures in 2D and 3D. Learn more about the Rule Tool here.
+
+4. Editing Options and Information About the Site/Design
+Select an object in the design and this menu populates with the objects specifications and dimensions i.e. If you double click on a roof surface, the menu on the right will allow you to adjust the roof pitch, slope, height, and edge length. If you click on a module the right menu will show you the module type and allow you to add a power optimizer, adjust the orientation, rotate the module, or add a tilt.
+5. Production
+Click the Simulate to run a performance simulation. If you click the down arrow next to the Simulate button you can view the system size, production, energy offset and system losses. Click the gear icon next to the simulate button to make adjustments to the system losses.
+6. Settings/Validation
+
+
+AutoDesigner(A) (Residential only): Allows you to generate a design based off of target energy offset or savings by comparing multiple components and automatically designing the most optimal configuration.
+
+Validation: Runs a sequence of error checks on your design and opens a window with the Validation Report.
+
+
+Download: Here you can download a Screenshot or DXF. You will be prompted to specify which layers (e.g. modules, connections) you would like to export.
+
+Settings: Here you can apply Setbacks, adjust the temperature, and Module Spacing.
+
+7. Data Shading and View Options
+
+
+LIDAR(L): Generates a 3D visualization showing accurate measurements of objects located on your site using LIDAR data. Learn more about LIDAR here. 
+
+Irradiance: Generates a map with shading values then allows you to toggle on and off. This will automatically generate a new irradiance map if none has been generated yet or if the site has been changed.
+
+View: Here you can toggle Setbacks, Measurements, Rulers, Azimuths, Project Location, and System Items (H). Toggling Azimuths will toggle on azimuth arrows, that you can drag and rotate to change the snap grid for modules. This way you can specify which way modules will be oriented when you move them or when you fill in a roof face. Toggling Setbacks will toggle the visibility of any setbacks you have previously defined.
+
+8. 3D Compass
+
+
+3D Cube: Left-click the 3D cube, hold while moving your cursor up and down to toggle from a 2D view to a 3D view. Move your cursor left and right to rotate horizontally.
+
+Compass Ring: Click anywhere on the ring diameter to rotate the view horizontally. If you click the red triangle it will orient the view due north.
+
+Vertical Bar: Similar to the compass ring, clicking on the vertical bar will shift the view vertically and toggle from 2D to 3D.
+
+Zoom in/ Zoom Out: Click the + and - buttons to zoom in and out.
+
+Pan Button: Click and hold the pan button to move horizontally.
+
+ 
+Note that most commands in the toolbar have a corresponding keyboard shortcut. To learn more click here.
+ 

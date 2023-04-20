@@ -1,0 +1,651 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Can You Use The Investment Tax Credit (ITC) For Battery Storage? (IRA UPDATE) | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Can You Use The Investment Tax Credit (ITC) For Battery Storage? (IRA UPDATE)                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Monday, August 15, 2022 UPDATE:
+YES YOU CAN!
+With the passage of the Inflation Reduction Act, the solar investment tax credit (ITC) has been upped back to 30% (including direct pay for non-profit and government entities), extended for 10 YEARS (with steps down after that), and now includes standalone (i.e. battery) storage.
+What does it mean for those of us in the solar industry?
+This is great progress. It will help make storage more affordable and put it within reach for more people. And it doesn’t just mean those deciding to go solar now, either. Current solar customers who didn’t add storage at the time of their install because it wasn’t financially feasible now have another incentive. 
+Here are a few resources to help you help customers take advantage of these new storage incentives:
+
+How to grow your solar business with storage (backed by data)
+The step-by-step guide to selling storage
+The pocket guide to selling storage
+
+Click the image to download our comprehensive guide to selling storage.
+EDITOR’S NOTE: We’ll keep the rest of the blog here for posterity, but the answer to the question posed in the headline is now unequivocally YES.
+Material below this line reflects the conditions prior to the passing of the IRA.
+
+The Federal Investment Tax Credit (ITC) is arguably the most significant financial incentive for installing solar in the U.S. today. This tax credit has also helped the industry grow by more than 10,000% since it was implemented less than 15 years ago.
+The ITC is currently 26% through  the end of 2022 for residential solar, thanks to Congress delaying the phase down for two years. As of now, it is scheduled to drop to 22% for 2023, and 0 for residential solar in 2024. If you’re wondering if the ITC savings also applies to home solar battery storage, this article will walk you through everything you need to know.
+What is the Federal Investment Tax Credit?
+The Federal Investment Tax Credit (or ITC) allows homeowners who buy and own their new solar PV system, and “commence construction” before December 31, 2022, to recoup up to 26% of the total cost of their solar installation through a deduction in their federal taxes (tax liability). (For more about what “commencing construction” means, see this article from SEIA.)
+Is Solar Battery Storage Eligible for the ITC?
+Solar installations are definitely eligible for the ITC, but what about solar battery systems? If a homeowner installs both a solar PV and a battery storage system, the savings does extend to storage! However, there is one very important caveat: the energy used to charge the battery storage system must come 100% from solar, and not at all from the grid.
+Although energy storage devices were not written into the ITC and batteries themselves are not “solar energy properties” (equipment that generates electricity from the sun), the Internal Revenue Service (IRS) has interpreted the tax code in the past to include residential solar storage if it is charged exclusively from solar.
+Note: Tax codes are complicated! We at Aurora Solar are solar experts, not tax experts. Please consult a tax professional for your specific situation.
+
+What About Adding Storage to an Existing PV System?
+
+If a homeowner wants to add storage to their existing PV system, it may still qualify for the ITC! In a 2018 private ruling, the IRS clarified that the ITC can still be applied to a battery storage system if it is added within a year of the qualified solar installation.
+Important Things to Keep in Mind
+
+
+Technically private rulings only apply to that specific case addressed by the IRS, but because the IRS has ruled on multiple occasions that solar energy storage (when met by certain conditions) are eligible for the ITC, it’s widely accepted that storage is eligible.
+Energy storage systems without a qualified renewable energy source are not eligible for the ITC.
+There may be other financial incentives available for solar storage. State and/or local energy providers may also offer storage incentives. If they do, you can couple that with the ITC for additional savings.
+Unless Congress renews the ITC, 2023 is the last year residential solar and storage are eligible for this incentive.
+
+Additional Resources
+
+We’ve written about the ITC extensively in the past; most recently in an article about solar incentives in California and how the ITC step down will work for residential and commercial solar projects. If you want to dig even deeper, we have a beginners guide to financial incentives for installing solar and a 5-part article series on solar finance 101.
+If you’re looking for resources to brush up on your solar and storage sales, check out our solar sales articles. Here are a few we’d recommend starting with:
+
+3 Ways to Market and Sell Solar Storage More Successfully
+Getting Started With Remote Solar Sales
+How to Unlock More Remote Sales Opportunities According to Remote Sales Expert J.P. Gerken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Learn more...                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Sales                
+
+
+            5 min read        
+
+
+
+            3 Difficult Battery Storage Objections and How to Overcome Them        
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Marketing                
+
+
+            1 min read        
+
+
+
+            3 Ways to Market and Sell Solar Storage More Successfully        
+
+
+
+
+
+
+ 
+
+
+
+                    Solar 101                
+
+
+
+                    Technology                
+
+
+            14 min read        
+
+
+
+            How to choose the best solar battery for your needs        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

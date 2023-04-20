@@ -1,0 +1,137 @@
+Learn Sales Mode - Video Series
+
+This article provides a step by step video guide through the basic Sales Mode workflow from project creation and design to proposal and e-signature.  
+ 
+Table of Contents
+Sales Mode Overview 
+Navigating Sales Mode 
+The Basic Sales Mode Workflow Overview 
+Creating a Project in New Aurora
+Creating a Site Model in Sales Mode
+Starting a New Design in Sales Mode
+Entering Customer Energy Usage in Sales Mode
+Creating a Site Model Using Aurora AI in Sales Mode
+Requesting a Site Model Using Aurora's Expert Design Service
+Assessing Shading Threats in Sales Mode
+Adding Modules in Sales Mode
+Adding Ground Mounts in Sales Mode
+Adding Battery Storage in Sales Mode
+Adjusting Pricing & Financing in Sales Mode
+Applying for a Loan Through Our Financing Integrations
+The Bill Overview Page in Sales Mode
+Generate and Send a Web Proposal in Sales Mode
+Download a Printable Proposal in Sales Mode
+Sending Documents with Contract Manager
+ 
+Sales Mode Overview
+As the start of this Aurora Solar tutorial series, you'll learn what makes Sales Mode such a valuable and easy-to-use tool to sell solar with confidence.  Sales Mode is easy to navigate, easy to set up, and looks beautiful on any device. 
+Related Articles: Sales Mode Overview
+
+ 
+ 
+Navigating Sales Mode
+Learn the basics of navigating through Sales Mode and how to access the rest of the Aurora app.
+
+ 
+ 
+The Basic Sales Mode Workflow Overview 
+In this video we will cover a high level overview of the steps you’ll take when working through the Aurora Sales Mode Workflow. We’ll dive into all of these steps in more detail in the following videos.
+
+ 
+ 
+Creating a Project in New Aurora
+Learn the basics of creating a project in New Aurora.
+Related Article: Creating a Project in New Aurora
+
+ 
+ 
+Creating a Site Model
+Learn the three main ways to create a site model in New Aurora: 
+
+Create a 3D Site Model Using Aurora AI in Sales Mode 
+Request a 3D Site Model Using Aurora’s Expert Design Services
+Manually Create a 3D Site Model Using SmartRoof in Design Mode
+
+
+ 
+ 
+Starting a New Design in Sales Mode
+Learn how to create a new design and how to enter customer contact information.
+Related Article: Starting a New Design in Sales Mode
+
+ 
+ 
+Entering Customer Energy Usage in Sales Mode
+Learn how to enter customer energy usage from within Sales Mode.
+Related Article: Entering Customer Energy Usage in Sales Mode
+
+ 
+ 
+Creating a Site Model Using Aurora AI in Sales Mode
+Learn how to create a site model in Sales Mode using Aurora AI.
+Related Article: Creating a Site Model Using Aurora AI in Sales Mode
+
+ 
+ 
+Requesting a Site Model Using Aurora's Expert Design Service
+Learn how to request a permit-quality 3D model using Aurora's Expert Design Service in Sales Mode.
+Related Article: Requesting a 3D Site Model Using Aurora's Expert Design Services in Sales Mode
+
+ 
+ 
+Assessing Shading Threats in Sales Mode
+Learn how to find the optimal roof faces to design a solar system using interactive tools like LIDAR, sun path animation, and Irradiance.
+Related Article: Assessing Shading Threats in Sales Mode
+
+ 
+ 
+Adding Modules in Sales Mode
+Learn how to add solar modules to your 3D site model in Sales Mode and edit the system in real-time.
+Related Article: Adding Modules in Sales Mode
+
+ 
+ 
+Adding Ground Mounts in Sales Mode
+Learn techniques for creating Ground Mount PV designs quickly and efficiently in Sales Mode.
+Related Article: Adding Ground Mounts in Sales Mode
+
+ 
+ 
+Adding Battery Storage in Sales Mode
+Learn how to add one or multiple batteries to your solar proposal in Sales Mode.
+Related Article: Adding Battery Storage in Sales Mode
+
+ 
+ 
+Adjusting Pricing & Financing in Sales Mode
+Learn how to adjust pricing and select a financing option for each of your designs in Sales Mode.
+Related article: Adjusting Pricing in Sales Mode
+
+ 
+ 
+Applying for a Loan Through Our Financing Integrations
+Aurora Solar integrates directly with multiple popular financing platforms, allowing you to perform a credit check and sign loan documents, all within the Sales Mode app.  In this video you'll learn how to select an integrated financing option in Sales Mode. 
+Related Article: Applying for a Loan Through Our Financing Integrations
+
+ 
+ 
+The Bill Overview Page in Sales Mode
+Learn about the Bill Overview page in Sales Mode, which lets you compare bills today vs bills after going solar. Check out your first year savings, or click the Preview Bills button to look further into the future.
+Related Article: Sales Mode Bill Overview
+
+ 
+ 
+Generate and Send a Web Proposal in Sales Mode
+Learn how to generate a compelling proposal for your PV Designs, and send it to your clients with just a few clicks. This customizable proposal looks great both on your computer and on your phone. 
+Related Article: Generate and Send a Web Proposal in Sales Mode
+
+ 
+ 
+Download a Printable Proposal in Sales Mode
+Learn how to access and download a PDF, printable version of the proposal with all of your system details.
+Related Article: How to download the Proposal Summary in Sales Mode
+
+ 
+ 
+Sending Documents with Contract Manager
+Learn how to generate documents and send them to the homeowner for e-signature directly in Sales Mode using Contract Manager.

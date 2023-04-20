@@ -1,0 +1,590 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding PV System Losses, Part 4: Solar Panel Tilt, Solar Incidence Angle, and More | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    9 min read                                
+
+
+                            Understanding PV System Losses, Part 4: Solar Panel Tilt, Solar Incidence Angle, and More                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Being able to give your solar customers accurate estimates of how much their solar installation will produce is essential. But there are many factors that impact how much the PV system will produce–from physical characteristics of the components and design to environmental factors like shade and dust.
+In order to deliver accurate production estimates, it is crucial to understand what factors reduce the energy production of your installation (PV system losses)–and by how much. In today’s article, the latest installment of Aurora’s PV System Losses Series–in which we explain specific causes of energy production loss in solar PV systems–we explore losses from tilt and orientation, incident angle modifier, environmental conditions, and inverter clipping. Unlike the previous three articles, these values are automatically computed rather than manually entered, but we will discuss methods to mitigate them.
+About This Series
+In this series, we provide an overview of various causes of energy production loss in solar PV systems. Each article will explain specific types of system losses, drawing from Aurora’s Performance Simulation Settings, and discuss why they affect system performance.  
+For Aurora users, this series will provide tips for improving the accuracy of your performance simulations by sharing research-backed recommendations for what values to input in your Simulation Settings for different loss types. While Aurora provides default values for these fields that fit most use cases, this series will also highlight cases in which you might want to use different values depending on the specifics of your design. (For a quick summary of system losses, and how to configure your account settings in Aurora, see the Aurora Help Center.)
+This guide for picking better loss values will help you give your customers the most accurate estimate of how much their system will produce and how much they can save by going solar.
+Click above to download our full guide to PV system losses.
+Solar Panel Tilt & Orientation
+The placement angle of the solar panels impacts the amount of total irradiance received on the system over the course of a year.
+Ideal Solar Panel Tilt
+As a rule of thumb, placing panels at a tilt equal to the latitude of the installation and facing towards the equator will maximize the amount of incident irradiance on the panels over the course of the year.
+How do we know this? Aurora keeps track of the optimal tilt and orientation for each weather station, and we’ve based our advice on this data.
+Looking at the charts below, the maximum output is strongly centered at equator-facing and there is a linear fit between optimal tilt and latitude. The optimal tilt is typically a few degrees less than the station latitude.
+However, the difference between these values increases at higher latitudes so installers at latitudes above 45 degrees latitude won’t be able to use that rule of thumb as effectively.
+Optimal azimuth of projects at different latitudes (frequency refers to the distribution of projects within each latitude, based on the latitude of the local weather station). 
+
+
+There is a relatively linear relationship between station latitude and the optimal tilt for solar panels to reduce tilt and orientation losses. Blue dots are projects in the southern hemisphere and green are projects in the northern hemisphere.
+Takeaway: Where the conditions of the project site allow, setting the tilt of panels close to the latitude of the installation and facing towards the equator helps maximize the incident irradiance, though it’s best to use a modeling software that will allow you to precisely quantify these differences and weigh them against other design considerations and what is practical at the site.
+Solar Incidence Angle
+In the solar world, an incidence angle refers to the angle of the panel’s surface compared to the sun’s rays. Understanding solar incidence angles is important in getting high output from your PV system, as the angle can impact the amount of sunlight that gets through the glass front of your panels.
+Incident Angle Modifier
+Incident Angle Modifier (IAM) loss accounts for lower transmission of light through the glass front of a solar panel when the sunlight enters at an angle.
+Aurora models the Incident Angle for all hours of the year, using the position of the sun and the orientation of each individual module. We use the De Soto model to determine how much of the sunlight hitting the front face of the panel makes it through the glass. Based on the aggregate performance simulations, the typical IAM loss is between 3% and 4.5%, but rarely greater or lower. IAM losses generally increase when tilt and orientation losses increase.
+
+In most cases, IAM losses range from 2-4%.
+
+IAM losses and Tilt and Orientation Losses are correlated.
+Takeaway: Where possible, tilt your modules at a little less than latitude, and orient them towards the equator to reduce Incident Angle Modifier losses (as with Tilt and Orientation losses). However, this may not be practical on residential rooftops.
+Environmental Conditions
+Environmental conditions loss encompasses a range of losses related to the irradiance and temperature on modules. Two major ones are shading mismatch between modules, where fully-exposed modules are hindered by partially shaded modules on the same string, and cell temperature losses where higher operating temperatures can lead to lower panel performance.
+Shade Mismatch — an Example
+Consider a case of a home that has space for modules on two parts of its roof, one which is fully sun-exposed and one which is fully sun-exposed most of the time, but has some shading during part of the year or during late afternoon hours.
+If modules are placed on these two sections and placed on the same string, the partially shaded modules will not only lose some production to the shade, they will reduce the production from the fully-exposed modules.
+
+An example of a solar project site with six modules on one roof face, which receive full sun, and 3 panels on another roof face that are partially shaded. This setup will have shade mismatch if all the panels are on the same string.
+How to Solve Shade Mismatch
+There are a few ways to isolate the effects of shade mismatch: adding DC optimizers to the system, using microinverters, or putting the modules onto a different MPPT on your string inverter. In this example house, adding DC optimizers to the string decreased the environmental loss from 11.2% to 5.7%.
+
+Monthly production values for systems that experience partial shade, with avoidable shade losses noted in the gray and green striped section.
+Takeaway: It’s important to use a PV production modeling program that assesses the hour-by-hour shading on solar panels in order to accurately account for irradiance mismatch between panels on the same string.
+Create the perfect PV system design for your client in 3 hours or less. Schedule a demo to see how.
+Temperature Coefficients
+The hotter a solar panel gets, the less efficient it becomes. The causes are grounded in physics, with a detailed explanation available here. In short, higher cell temperatures reduce the amount of available energy from absorbed photons as they flow through the solar panel.
+Each model of solar panel is tested to obtain temperature coefficients that describe how its efficiency declines as temperature increases. Most silicon crystalline modules have a power coefficient between -0.30% to -0.45% per degree Celsius increase in cell temperature.
+We took aggregate data from Aurora’s performance simulations and examined the trend of environmental loss (including temperature losses and other factors) against the mean temperature during daylight hours.
+The chart below shows the mean loss for solar panels having a coefficient of -0.30% ± 0.05% and -0.45% ± 0.05% respectively, along with the standard deviation. The gap between these two types of modules is around 2% in cooler weather, but grows to about 4% at higher temperatures.
+
+Mean losses for solar panels having a temperature loss coefficient of -0.30% ± 0.05% (blue) and -0.45% ± 0.05% (orange) respectively at different temperatures. Brackets denote the standard deviation.
+Takeaway: If you’re looking to improve system performance in a warm climate, consider using modules that have a lower temperature loss coefficient, or try increasing the amount of space for airflow.
+Inverter Losses & Clipping
+Inverter Losses
+Inverter efficiency describes how well a solar inverter converts DC energy into AC energy. Most inverter spec sheets have a few numbers–a maximum efficiency, and a weighted efficiency value (established by the California Energy Commission or a European agency) that is indicative of how well an inverter performs over a range of inputs.
+Inverters have a variable efficiency based on what amount of capacity they are carrying, often peaking around 20% and falling slightly as the load reaches the maximum input rating.
+Your exact inverter efficiency will change based on the PV system–for example, a system with an oversized inverter will operate at higher efficiencies more often than the same set of panels with a smaller inverter–but the variation is small.
+Takeaway: If you’re worried about inverter losses, consider selecting a device with a higher maximum efficiency and you’ll be set.
+Inverter Clipping
+We previously discussed inverter clipping in depth in another Aurora blog post, but as a refresher, when the output from the direct current (DC) solar panels at their maximum power output (or maximum power point) is greater than the amount of DC power the inverter can convert, the inverter will operate at a non-optimal point on the I-V power curve so that it only outputs its rated maximum power.
+The amount of kWh production lost (or “clipped”) compared to what the system would have produced had it not been limited by the inverter rating is called inverter clipping. (Aurora tabulates these losses in the “Inverter Clipping Loss” section of its system loss diagrams.)
+Inverter clipping is not a constant value across the day–clipping losses tend to occur only when the sun is high in the sky (reducing IAM losses), and on sunny days (less shading from clouds).
+Our Findings
+We analyzed the amount of clipping loss as a function of the DC-to-AC ratio for a variety of commercial systems designed in Aurora, with grouping based on the amount of sunlight on modules throughout the year–that is, the amount of sunlight reaching panels after tilt, orientation, shading, snow, and soiling losses are accounted for.
+The chart below shows that systems receiving more irradiance (sunnier climates, low shade) start experiencing clipping around a 1.25 DC-to-AC ratio, while systems in cloudier climates, non-ideal orientations, or with shade don’t see as much clipping until about a ratio of 1.35.
+The percentage of inverter clipping at different DC-to-AC ratios, depending on the annual irradiance at the project site (denoted by the different colored lines).
+Takeaway: While there are scenarios in which inverter clipping is acceptable (including trying to increase energy output during morning and afternoon hours, reducing inverter costs, or providing a more level energy output during intermittent clouds), if you are trying to design a system to minimize inverter clipping it’s important to understand the conditions at your site and adjust accordingly. Aurora’s quick PV simulations and loss diagram can help you achieve that target faster.
+Key Takeaways
+
+Where the conditions of the project site allow, set the tilt of panels close to the latitude of the installation and face towards the equator.
+Understand the conditions at your site and adjust accordingly to prevent inverter clipping.
+In a warm climate, use modules that have a lower temperature loss coefficient, or increase the amount of space for airflow.
+Use a PV production modeling program that assesses the hour-by-hour shading on solar panels.
+
+
+We hope this synopsis of some important causes of reduced energy production from your solar PV systems–tilt and orientation, incident angle modifier, environmental conditions, and inverter clipping–helps you maximize the output of your systems.
+About Our PV System Losses Series
+This article is part of Aurora’s PV System Losses Series. Each article explains specific types of system losses, drawing from Aurora’s Performance Simulation Settings, and discusses why they affect system performance.
+
+Understanding PV System Losses, Part 1: Nameplate, Mismatch, and LID Losses
+Understanding PV System Losses, Part 2: Wiring, Connections, and System Availability
+Understanding PV System Losses, Part 3: Soiling, Snow, System Degradation
+
+Understanding PV System Losses, Part 4: Tilt & Orientation, Incident Angle Modifier, Environmental Conditions, and Inverter Losses & Clipping
+
+Want all this info in one handy package? Download The Ultimate Guide to PV System Losses.
+Click above to download our full guide to PV system losses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

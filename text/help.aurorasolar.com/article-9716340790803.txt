@@ -1,0 +1,29 @@
+Plan Sets - Account Configuration Requirements
+
+To ensure that you are set up for success when submitting Plan Sets, be sure that you've completed the items below in your Aurora account. For more information on Aurora's Plan Sets service, check out our comprehensive help article on Plan Sets.
+ 
+Account Configuration Requirements for Plan Set Submission
+Enable Solar Components
+Enable the solar components that you plan to offer for quick and easy access when designing. In order for Aurora to be able to successfully create AHJ-ready plan sets, the submitted request must include the following applicable components:
+
+
+
+Modules 
+Inverters
+DC Optimizers
+Combiner Boxes
+Load Centers 
+Disconnects
+Service Panels
+Meters
+
+
+
+Create Jurisdiction Setbacks
+Establish and enable the unique setback regulations for the locations where you do business so that your final engineering design is accurate and buildable.
+
+
+
+Create State or Local Setback Regulations
+
+

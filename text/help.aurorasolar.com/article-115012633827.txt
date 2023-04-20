@@ -1,0 +1,9 @@
+How to Add and Change Rooftop Setbacks
+
+Defining Setbacks
+Roof setbacks define how much distance there must be between the system and the edges of the roof. This could due to a jurisdictional requirement, a fire code requirement, or a company design guideline.
+You can easily define roof setbacks by clicking on Settings in the top right hand corner of your Site Model. In 2D mode, you are able to specify a setback for each of the following edge types: Eave, Ridge, Valley, Hip, and Rake. Additionally, you can specify setbacks around Obstructions, as well as a general setback that will be applied to all edges that have no edge type specified.
+                     
+Aurora can also auto-detect edge types for you. To do this, double click outside of the structure you have drawn. This will take the pre-set jurisdiction values the account administrator has entered in the account settings and apply them to the site.
+                   Once you have defined your setbacks, Aurora will respect these setbacks in all assisted design steps (e.g. when filling a roof face with modules). Furthermore, the Validation Report will alert you, if any modules violate your setback requirements.
+ 

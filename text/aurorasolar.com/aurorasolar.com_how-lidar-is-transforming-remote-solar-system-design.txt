@@ -1,0 +1,530 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How LIDAR is Transforming Remote Solar System Design | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How LIDAR is Transforming Remote Solar System Design                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What do self-driving cars, the Mars rover and remote solar site assessment have in common?
+All three technologies use Light Detection and Ranging (LIDAR) data to quickly and accurately assess the environment in which they perform their operations. Since the 1960s when LIDAR was first used by NASA scientists for research purposes, it has quickly captured the imagination of professionals that want to remotely make precise measurements or three-dimensional models of an area.
+Over the last 15 years, technological improvements and cost reductions have greatly increased the accessibility of LIDAR data, which is having a beneficial effect on the solar industry.
+How LIDAR data is gathered
+LIDAR scanners emit pulses of light energy (using a laser) at buildings and other objects in an area, and measure how long it takes for the pulse to return. The laser pulse travels at the speed of light. Accordingly, the distance it travels can be calculated by multiplying the amount of time it takes for the pulse to arrive back at the scanner, with the speed of light, and dividing that figure by two (since the pulse makes a round trip).
+In the case of solar, the LIDAR scanner is typically fitted on a plane, which also contains a global positioning system (GPS) and an inertial measurement unit (IMU). The GPS unit measures the elevation, and the location (latitude and longitude) of the plane. The IMU measures the tilt and other data about the plane and scanner position in order to adjust the distance calculations.
+
+Illustration of LIDAR capture. Source: LIDAR-America.com.
+How LIDAR data is used
+Combining location and distance LIDAR data recorded by the scanner, software packages can generate a 3D model of the location. In the case of a self-driving car or the Mars rover , the vehicle uses this 3D LIDAR model to autonomously navigate without colliding with any obstacles.
+In the context of solar, 3D LIDAR models can be used to calculate building heights, roof slopes, and tree heights. LIDAR data is also used to calculate how much irradiance (sunlight) and shading is cast on a rooftop by objects such as trees, chimneys and buildings. By combining the resulting 3D LIDAR model with local weather data, software applications can calculate irradiance and shade metrics, such as solar access and total solar resource factor (TSRF) values.
+
+LIDAR can be used to generate a 3D model of a house.
+How accurate is LIDAR modeling?
+Aurora LIDAR shading values have been proven by the National Renewable Energy Lab (NREL) to be statistically equivalent to onsite measurements. An NREL study  funded by the US Department of Energy (DOE) found that remote shading engines that implemented LIDAR were within 3.5% of on-site measurements.
+On the basis of the NREL study, and their own independent assessments, several financing entities and rebate authorities such as the New York State Energy Research and Development Agency (the United States’ largest rebate authority) now accept Aurora’s Shading Reports in lieu of on-site measurements.
+The bottom line: LIDAR makes solar quicker and cheaper
+According to the DOE, the customer acquisition cost for a typical 5kW residential system is $1,100. This is largely due to costs associated with site visits, wasting time and money by marketing to homes that are not a good fit for solar, and educating the homeowner about the economic benefits of them going solar.
+LIDAR modeling helps address many of these problems. Sites can quickly be identified and screened for their solar potential. Accurate system design and bankable shade reports can be generated remotely. The homeowner can easily see how much irradiance their roof receives, making it easy for installers to explain their solar design decisions. Most importantly, LIDAR modeling can be performed quickly: a remote shade report takes less than 15 minutes to generate. See how to use it in Aurora. 
+Integrating LIDAR into the solar design process offers the prospect of faster and cheaper solar, without a meaningful loss in accuracy. NREL estimates that remote site assessment has the potential to reduce industry soft costs by $0.17/W. To put that in context, remote site assessment could save you the equivalent of half the cost of an average string inverter.
+The land area covered by LIDAR is constantly increasing, and as the technology finds more commercial applications, the cost of acquiring LIDAR is falling. This is good news for the solar industry. LIDAR based remote site assessment provides an accessible mechanism to dramatically lower the soft costs of the industry.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+How does Aurora model NEM 2.0?
+
+Net Energy Metering (NEM) is a remuneration mechanism whereby renewable energy generators are compensated at the prevailing electricity rate for the energy they export to the grid. Under NEM 2.0, the whole electricity rate is split into two components: energy charges, which behave the same as NEM 1.0 and can be offset by future production, and non-bypassable charges (NBC) which can not be reversed. These NBCs are typically around $0.03/kWh, and accrue throughout the true-up period. Excess production is only compensated at the energy charge rate, so the value which a customer receives for exported electricity is the whole rate penalized by the NBC rate.
+Non-Bypassable Charges are included in the utility rate located in Aurora's Database. Need to learn how to model NEM 2.0 in a custom rate? Follow steps here.

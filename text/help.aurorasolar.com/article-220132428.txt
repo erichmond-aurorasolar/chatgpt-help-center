@@ -1,0 +1,12 @@
+Cost Breakdown
+
+Before running a financial analysis of the system you designed, you will need to price the system. Aurora offers two ways to do this: Cost/Watt or Line Items. You can select these options by going to your Design, then to the Pricing section.
+Cost/Watt
+Cost/Watt pricing is the simpler of the two pricing mode. Its benefit is its simplicity and the fact that it requires no setup. You should input the Cost/Watt as the cost to the homeowner.
+The total System Price is calculated as System Size x Cost/Watt and this number will factor into the financial calculations.
+Line Items
+If you select Line Items, you will price the system on a line-item basis. This means that Aurora will automatically generate line items for all of the components in the design you created (with the exception of components that have been marked as existing) and automatically calculate the quantity and pull in the cost (to the customer) of each of the components, as specified in the database.
+You are free to override the component price and cost in the cost breakdown table. Aurora will automatically calculate the markup for each line item, as well as System Cost and Cost/Watt. 
+System Cost will be used in the financial calculations.
+If you would like to use the Line Item pricing mode, it is advisable to set up costs for the components you use on a day-to-day basis in your Database. Once you have set this up, these costs will be available to all users in your organization and will be pulled into the cost of any designs they create.
+ 

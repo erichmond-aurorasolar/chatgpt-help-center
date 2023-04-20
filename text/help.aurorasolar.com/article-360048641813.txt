@@ -1,0 +1,5 @@
+5/7/2020 Release Notes
+
+
+Added currency support for Vietnam and Honduras
+Improved UI around hiding/unhiding proposal template pages

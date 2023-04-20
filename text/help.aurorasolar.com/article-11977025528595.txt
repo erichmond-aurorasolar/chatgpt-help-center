@@ -1,0 +1,17 @@
+Panel Overlap Validation
+
+Overview
+As panels are placed in a design, this feature provides persistent visual feedback when the panels overlap other panels, objects, or setbacks. This feature allows you to QA your system in real-time. 
+
+What do the different validation warnings look like?
+The warnings are color-coded by the type of object a module overlaps to indicate the severity:
+
+Panels are yellow when overlapping setbacks
+Panels are red when overlapping other panels or obstructions
+
+
+Note: If there are panels violating validations, you will still be able to finish your design and simulate if you choose. 
+Where will this validation appear?
+This validation is available only for residential designs and will appear only in Design Mode and not Sales Mode. 
+How to turn off Overlap Validation
+Panel Validation can be turned off or on as needed from the View Setting Menu in Design Mode. 

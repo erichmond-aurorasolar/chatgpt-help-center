@@ -1,0 +1,753 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Comprehensive Guide to Solar Panel Types | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Comprehensive Guide to Solar Panel Types                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The push for renewable energy sources has led to a surge in solar energy use. In the past decade alone, the solar industry grew by almost 50%, buoyed by federal support such as the Solar Investment Tax Credit and strong commercial and industrial demand for clean energy. 
+As the solar sector continues to rise, it’s worth studying the backbone of the solar industry: solar panels.
+This guide will illustrate the different types of solar panels available on the market today, their strengths and weaknesses, and which is best suited for specific use cases.
+ 
+What is a Solar Panel?
+Solar panels are used to collect solar energy from the sun and convert it into electricity.
+The typical solar panel is composed of individual solar cells, each of which is made from layers of silicon, boron and phosphorus. The boron layer provides the positive charge, the phosphorus layer provides the negative charge, and the silicon wafer acts as the semiconductor. 
+When the sun’s photons strike the surface of the panel, it knocks out electrons from the silicon “sandwich” and into the electric field generated by the solar cells. This results in a directional current, which is then harnessed into usable power. 
+
+The entire process is called the photovoltaic effect, which is why solar panels are also known as photovoltaic panels or PV panels. A typical solar panel contains 60, 72 or 90 individual solar cells.
+ 
+The 4 Main Types of Solar Panels
+There are 4 major types of solar panels available on the market today: monocrystalline, polycrystalline, PERC, and thin-film panels.
+Monocrystalline solar panels
+Also known as single-crystal panels, these are made from a single pure silicon crystal that is cut into several wafers. Since they are made from pure silicon, they can be readily identified by their dark black color. The use of pure silicon also makes monocrystalline panels the most space-efficient and longest-lasting among all three solar panel types.
+However, this comes at a cost — a lot of silicon is wasted to produce one monocrystalline cell, sometimes reaching over 50%. This results in a hefty price tag.
+Polycrystalline solar panels
+As the name implies, these come from different silicon crystals instead of one. The silicon fragments are melted and poured into a square mold. This makes polycrystalline cells much more affordable since there is hardly any wastage, and gives them that characteristic square shape.
+However, this also makes them less efficient in terms of energy conversion and space, since their silicon purity and construction are lower than monocrystalline panels. They also have lower heat tolerance, which means they are less efficient in high-temperature environments.
+
+Passivated Emitter and Rear Cell (PERC) panels
+PERC solar panels are an improvement of the traditional monocrystalline cell. This relatively new technology adds a passivation layer in the rear surface of the cell that enhances efficiency in several ways:
+
+It reflects light back into the cell, increasing the amount of solar radiation that gets absorbed.
+It reduces the natural tendency of electrons to recombine and inhibit the flow of electrons in the system.
+It allows greater wavelengths of light to be reflected. Light waves over 1,180nm can’t be absorbed by silicon wafers and simply pass through, so they end up heating the cell’s metal back sheet and reduce its efficiency. The passivation layer reflects these higher wavelengths and stops them from heating up the back sheet.
+
+
+PERC panels allow greater solar energy collection in a smaller physical footprint, which makes them ideal for limited spaces.  They are only slightly more expensive to produce than traditional panels, due to the added materials needed, but they can be manufactured on the same equipment, and can end up having a lower average cost per watt due to their efficiency.
+To get a better feel for the benefits of PERC panels, check out our blog 5 Important Benefits of PERC Solar Panels You Need to Know.
+Thin-film solar panels
+Thin-film panels are characterized by very fine layers that are thin enough to be flexible. Each panel does not require a frame backing, making them lighter and easier to install. Unlike crystalline silicon panels that come in standardized sizes of 60, 72, and 96-cell counts, thin-film panels can come in different sizes to suit specific needs. However, they are less efficient than typical silicon solar panels.
+ 
+Thin-Film Solar Panel Variations
+Unlike crystalline panels that use silicon, thin-film solar panels are made from different materials. These are:
+
+Cadmium telluride (CdTe)
+Amorphous silicon (a-Si)
+Copper indium gallium selenide (CIGS) 
+
+Cadmium telluride (CdTe)
+CdTe has the same low-cost advantage as polycrystalline cells while possessing the lowest carbon footprint, water requirement, and energy payback time of all solar panels types. However, the toxic nature of cadmium makes recycling more expensive than other materials.
+Amorphous silicon (a-Si)
+Amorphous silicon panels (A-Si) derive their name from their shapeless nature. Unlike mono-and polycrystalline solar cells, the silicon is not structured on the molecular level. 
+On average, an a-Si cell requires only a fraction of the silicon needed to produce typical silicon cells. This allows them to have the lowest production cost, at the expense of efficiency. This is why a-Si panels are suited for applications that require very little power, such as pocket calculators.
+Copper indium gallium selenide (CIGS) 
+CIGS panels use a thin layer of copper, indium, gallium, and selenium deposited on a glass or plastic backing. The combination of these elements results in the highest efficiency among thin-panel types, though still not as efficient as crystalline silicon panels.
+ 
+Solar Panel Types by Efficiency
+Among all panel types, crystalline solar panels have the highest efficiency.
+
+Monocrystalline panels have an efficiency rating over 20%.
+PERC panels add an extra 5% efficiency thanks to their passivation layer. 
+Polycrystalline panels hover somewhere between 15-17%.
+
+In contrast, thin-film panels are usually 2-3% less efficient than crystalline silicon. On average:
+
+CIGS panels have an efficiency range of 13-15%.
+CdTe ranges between 9-11%.
+a-Si have the lowest efficiency at 6-8%.
+
+
+
+
+Panel type
+Efficiency
+
+
+PERC
+Highest (5% more than monocrystalline)
+
+
+Monocrystalline
+20% and up
+
+
+Polycrystalline
+15-17%
+
+
+Copper indium gallium selenide (CIGS) 
+13-15%
+
+
+Cadmium telluride (CdTe)
+9-11%
+
+
+Amorphous silicon (a-Si)
+6-8%
+
+
+
+ 
+Solar Panel Types by Power Capacity
+Monocrystalline cells have the highest power capacity, thanks to their single-crystal construction that allows a higher output rating in a smaller package. Most monocrystalline panels can generate up to 300w of power capacity.
+Recent advances in solar technology have allowed polycrystalline panels to bridge the gap. A standard 60-cell polycrystalline panel is now capable of producing between 240-300w. However, monocrystalline panels still beat polycrystalline in terms of power capacity per cell.
+Because thin-film panels don’t come in uniform sizes, there is no standard measure of power capacity, and the capacity of one thin-film panel will differ from another based on its physical size. In general, given the same physical footprint, conventional crystalline panels output more power than a thin-film panel of the same size.
+ 
+Solar Panel Types by Cost
+Monocrystalline panels (or modules as they are technically known) carry a hefty price tag, due to its energy-intensive and inefficient manufacturing process with only a 50% yield for every silicon crystal. 
+Polycrystalline modules are cheaper because they make use of the crystal fragments leftover from monocrystalline production, which results in a simpler manufacturing process and lower production costs.
+Among thin-film solar panels, CIGS is the most expensive, followed by CdTe and amorphous silicon. Apart from the lower acquisition cost, thin-film modules can be easier to install thanks to their lighter weight and flexibility, which lowers the cost of labor.
+While the total cost of residential systems has declined by more than 65% over the last decade, the soft cost of a system has actually risen from 58% of total system cost in 2014 to 65% in 2020.
+For more information about soft costs, check out our article on the soft costs in the solar industry, and what’s being done to reduce them.
+
+
+
+Panel (Module) type
+Average Cost per Watt
+
+
+PERC
+$0.32-$0.65
+
+
+Monocrystalline
+$1 – $1.50
+
+
+Polycrystalline
+$0.70 – $1
+
+
+Copper indium gallium selenide (CIGS) 
+$0.60 – $0.70
+
+
+Cadmium telluride (CdTe)
+$0.50 – $0.60
+
+
+Amorphous silicon (a-Si)
+$0.43 – $0.50
+
+
+
+Note that these figures don’t include the cost of installation and labor. With labor and other overhead factors, the total can rise to $2.50 to $3.50 per watt.
+ 
+Other Factors to Consider
+Temperature
+The temperature of a solar panel can affect its ability to generate energy. This loss of output is reflected through the temperature coefficient, which is a measure of the panel’s decrease in power output for every 1°C rise over 25°C (77°F). 
+Monocrystalline and polycrystalline panels have a temperature coefficient between -0.3% / °C to -0.5% / °C, while thin-film panels are closer to -0.2% / °C. This means that thin-film panels can be a good option for hotter environments or places that experience more sunlight throughout the year.
+Fire rating
+The updated International Building Code of 2012 requires solar panels to match the fire rating of the roof where they are installed. This is to ensure that the modules do not accelerate the spread of flames in the event of a fire. (California goes one step further by requiring the whole PV system, which includes the racking system, to have the same fire rating).
+As such, solar panels now carry the same classification rating as roofs:
+Class A
+
+effective against severe fire test exposure
+flame spread should not exceed 6 feet
+required for wildland-urban interface areas, or areas with high fire severity and wildfire risk
+
+Class B
+
+effective against moderate fire test exposure
+flame spread should not exceed 8 feet
+
+Class C
+
+effective against light fire test exposure
+flame spread should not go beyond 13 feet
+
+ 
+Hail rating
+Solar panels are also tested for hail impacts. 
+UL 1703 and UL 61703 standards address hail storms, by dropping 2-inch solid steel spheres on solar panels from a height of 51 inches, and by firing 1-inch ice balls on PV panels with a pneumatic cannon to simulate hail impacts.
+Because of their thicker construction, crystalline panels can withstand hail hitting at speeds of up to 50mph, while thin-film solar panels carry a lower rating due to their thin and flexible nature.
+Hurricane rating
+While there is no formal solar classification rating for hurricanes, the Department of Energy recently expanded its recommended design specifications for solar panels to safeguard against severe weather.
+The new recommendations include: 
+
+Modules with the highest ASTM E1830-15 rating for snow and wind loading in both the front and back.
+Fasteners with true locking capability based on DIN 65151 standard
+The use of through-bolting modules with locking fasteners instead of clamping fasteners
+The use of 3-frame rail systems for improved rigidity and support against twisting
+Tubular frames over open-shaped C channels 
+Perimeter fencing around PV systems to slow down wind forces 
+
+Light-Induced Degradation (LID)
+LID is a performance loss commonly seen in crystalline panels during the first few hours of sun exposure. This happens when sunlight reacts with oxygen traces left over from the manufacturing process, which affects the silicon lattice structure.
+The LID loss is directly tied to the manufacturing quality and can range from 1-3%.
+ 
+Summary: Solar Panel Types Compared
+
+
+
+
+PERC
+Monocrystalline
+Polycrystalline
+Thin-film
+
+
+Initial Cost
+Highest
+High
+Middle
+Highest to lowest:
+CIGS
+CdTe
+a-Si
+
+
+Efficiency
+Highest (5% more than monocrystalline)
+20% and up
+15-17%
+CIGS: 13-15%
+CdTe: 9-11%
+a-Si: 6-8%
+
+
+Appearance
+Black with rounded edges
+Black with rounded edges
+Blue with square edges
+Depends on the thin-film variant
+
+
+Advantages
+Requires least space
+Most efficient
+Highest power capacity
+Less expensive alternative to PERC panels without the passivating layer
+Middle option in terms of cost, efficiency and power capacity
+Lowest costEasier to install
+
+
+Disadvantages
+Most expensive initially
+Some earlier panels suffered from light and elevated temperature induced degradation
+High initial cost
+Low yield in the manufacturing process 
+Low heat tolerance, not suitable in hot environments
+Shorter lifespan than crystalline panels requires more space
+Least efficient
+
+
+
+ 
+So, Which Solar Panel Type Should You Use?
+As crystalline and thin-film panels have their own pros and cons, the choice of solar panel ultimately comes down to your specific property and condition settings. 
+Limited Space
+Those living in a dense area with limited space should opt for highly efficient monocrystalline modules to make the most of the physical space and maximize utility savings. If budget permits, going for PERC panels can lower energy generation costs even more in the long run.
+Large Properties
+Those with a sufficiently larger property can save on upfront costs by using polycrystalline solar panels, where a bigger panel footprint can offset the lower panel efficiency. However, a larger footprint could also mean added labor costs, so it’s not necessarily cheaper to get a higher quantity of less expensive panels. While the initial cost may be low, it may eventually be offset by reduced efficiency and higher operating expenses in the long term.
+As for thin-film solar panels, these are best suited for locations where the heavy and labor-intensive installation of crystalline silicon is not feasible. Such locations can include commercial buildings with tight spaces or thin roofs; compact spaces such as recreational vehicles and watercraft; and areas that require flexible installation instead of rigid paneling. 
+Keep in mind that solar panels are designed for long-term installation, which can be as long as 25 years. So whatever type you choose to go with, make sure to do your homework to ensure that it’s the best option for your needs.
+To learn more about solar fundamentals subscribe to our blog.
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

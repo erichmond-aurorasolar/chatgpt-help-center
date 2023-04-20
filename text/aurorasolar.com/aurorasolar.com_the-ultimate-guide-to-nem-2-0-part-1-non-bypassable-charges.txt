@@ -1,0 +1,617 @@
+
+
+
+
+
+
+
+
+
+
+
+
+The Ultimate Guide to NEM 2.0: Non-Bypassable Charges Explained | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            The Ultimate Guide to NEM 2.0: Non-Bypassable Charges Explained                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Net Energy Metering (NEM) has become the standard policy in the United States for compensating solar customers for the energy they contribute to the grid—and it’s a key reason for the dramatic growth of solar energy, particularly in California.
+With the fight over NEM 3.0 — or “net billing tariff — in full swing, we thought it would be a good time to check back in with NEM 2.0. 
+This article reviews the impact and changes that took from NEM 1.0 to NEM 2.0, and delves into how California’s NEM 2.0 policy works and what it means for a solar customer’s bill. Our white paper covers the topic in much more depth, including offering insight into design changes you can make to maximize solar savings under NEM 2.0.
+Background
+Under NEM policies, each kilowatt-hour (kWh) a solar customer produces is valued at the same market rate as kilowatt-hours the customer purchases from the utility. This means a solar customer can produce excess energy during the day, receive a credit for sending it to the grid, and then use that credit to pay for the energy they purchase at night.
+Valuing electricity sold to the grid at the market rate has been a huge boon for solar.
+Formally known as the “NEM Successor Tariff”, NEM 2.0 is a policy created by the California Public Utility Commission which provides a framework for extending the capacity for solar PV projects connected to the grid in California. 
+
+NEM 2.0 — What changed?
+NEM 2.0 brought a few big changes:
+
+A small portion of the electricity charges that a NEM 2.0 customer incurs for buying electricity can not be reversed by future production.
+A NEM 2.0 customer is compensated at a slightly lower rate for the energy they sell to the grid.
+All new NEM customers must enroll in a TOU rate if one is available.
+There is a small one-time interconnection fee (around $150) for new installations.
+
+The primary change from NEM 1.0 to NEM 2.0 is that a small portion of the electric bill can no longer be offset by excess production. This component of the total rate is referred to as “non-bypassable charges.”
+The portion of the bill that can’t be reversed and the amount the compensation is reduced by, comprise what are called non-bypassable charges.
+What are non-bypassable charges?
+Non-bypassable charges (NBCs) are just components of the total electric rate, which are separated under NEM 2.0. If you look through a utility rate schedule such as PG&E’s TOU-A, you will see the total electric rate broken down into a number of different types of charges, as follows:
+
+
+
+Generation
+$0.18232 / kWh
+
+
+Distribution
+$0.10183 / kWh
+
+
+Transmission
+$0.02536 / kWh
+
+
+Public Purpose Programs*
+$0.01501 / kWh
+
+
+Nuclear Decommissioning*
+$0.00149 / kWh
+
+
+Competition Transition Charges*
+$0.00130 / kWh
+
+
+DWR Bond*
+$0.00549 / kWh
+
+
+Total Electricity Rate 
+$0.39336 / kWh
+
+
+
+Table 1: Partial list of the unbundled rate components that make up the total electric rate. Source: PG&E Electric Schedule E-TOU Option A – Summer Peak Rate, Effective March 1 2017
+There are a few more small line items and the table above is for illustrative purposes. The items marked with a (*) are components of NBCs, and total $0.023/kWh for the current utility rate. The other components of the rate are energy charges.
+How are NBCs billed?
+For an NEM 2.0 customer, energy charges and NBCs are tabulated separately. When they buy from the grid, they are billed at the energy rate plus the NBC rate, but when they export to the grid they are compensated at only the energy rate. For residential NEM 2.0 customers, NBCs are assessed on the hourly net energy consumption.
+One way of understanding the difference in how NEM 2.0 customers are billed compared to NEM 1.0 customers is to think of a customer’s energy bill as a bucket of charges that fills over time as they consume energy from the grid. For solar customers with net metering, you can think of this bucket as having a drain; when they feed excess solar energy onto the grid, they offset some of their charges, and the billable amount decreases.
+For NEM 2.0 customers, although the cost of energy they consume from the grid is the same, it is split into two buckets of charges: energy charges and NBCs. The energy charge bucket still has a drain, allowing them to offset their charges with solar energy production. The NBC bucket, however, does not. For each kilowatt-hour of energy they consume, 2-3 cents of charges are added to the NBC bucket and these charges can’t be offset. At the end of the billing period, the NEM 2.0 customer’s total bill will be the sum of the charges in both buckets.
+When NEM 2.0 customers buy from the grid, they are billed at the sum of the energy rate and the NBC rate, but when they export to the grid they are only compensated at the energy rate.
+
+Figure 1: Graphical representation of the differences between NEM 1.0 and NEM 2.0, where the customer’s bill is represented by buckets of charges. 
+By the Numbers: NEM 2.0 vs. NEM 1.0
+To explore this scenario in greater detail, let’s put values to these customers’ bills.
+For this example, let’s assume that the electric rate is $0.284/kWh and that the NBCs total up to $0.023/kWh (for the sake of simplicity, we won’t consider Time of Use rates in this example).
+Let’s say a NEM 1.0 customer purchased 100 kWh of electricity in week 1 and then exports 110 kWh of electricity the next week. After week 1, they have an accumulated energy charge of $28.40. Their credits in week 2 are worth $31.24, which offsets the $28.40 charge leaving a $2.84 credit that they can apply to future consumption.
+The NEM 2.0 customer does the same thing: they have a net consumption of 100 kWh in week 1, and a net production of 110 kWh in week 2. In week 1, they end up with energy charges of $26.10 and NBC charges of $2.30. The total charge is no different than the NEM 1.0 customer.
+In week 2, the NEM 2.0 customer exports 110 kWh, but they are only compensated at the energy charge rate, so they have a $28.71 credit. This offsets the $26.10 giving them an energy credit of $2.61 that can be applied to future energy charges, but they also have a $2.30 NBC charge that they can not offset.
+
+
+
+
+Week 1 Energy Charge
+Week 1 NBCs
+Week 1 Total Charge
+Week 2 Energy Credits
+Excess Credits After Offsetting Charges
+
+
+NEM 1.0
+$28.40
+N/A
+$28.40
+$31.24
+$2.84 (free to offset future bills)
+
+
+NEM 2.0
+$26.10
+$2.30
+$28.40
+$28.71
+$2.61 (these credits can’t offset NBCs)
+
+
+
+Over the course of the year a customer can accrue substantial NBCs, averaging around $150 annually.
+Why It Matters
+A strong understanding of how NEM 2.0 operates allows you to accurately communicate the savings your customers will see from solar — and address any concerns or misconceptions. And even if you don’t operate in California, it’s a good idea to keep tabs on how California’s NEM 3.0 policy develops, and to be aware of what has come before (with 1.0). Having reached higher levels of renewable energy than other states, California is pioneering policy approaches that may inform how other states address solar compensation in the future.
+Understanding non-bypassable charges and the billing changes discussed in today’s article will give you a good sense of the changes going into effect. 
+Again, if you’d like to learn more about the most recent NEM update you can learn all about it in our article on changes to NEM:
+What You Need to Know About CPUC’s Proposed Changes to NEM 
+NEM 2.0 Key Takeaways
+
+NEM 2.0 extended the capacity for solar PV projects connected to the grid in California; without NEM 2.0, new customers would not be able to get market-rate compensation for energy sent to the grid.
+The main change from NEM 1.0 to NEM 2.0 was that a small portion of the electric bill cannot be reversed by excess production. This component of the total rate is referred to as “non-bypassable charges.”
+With NEM 2.0, NEM 1.0, and non-NEM customers on the same rate schedule pay the same amount for electricity consumed from the grid.
+NEM 2.0 customers received slightly less compensation than NEM 1.0 customers for energy exported to the grid.
+NEM 2.0 preserved most of the value of exporting energy to the grid while maintaining revenue for state programs.
+Existing NEM 1.0 customers remain on NEM 1.0 for 20 years.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+05/10/2019 Release Notes
+
+
+
+
+Features Added•New Placeholders including:
+- Loan Payments Before Re-Amortization (Nominal Value, Mthly)- Interest Rate- Financing Term Length
+Features updated• Utility Rate Escalation placeholder no longer rounds up to the nearest whole number.
+
+
+
+

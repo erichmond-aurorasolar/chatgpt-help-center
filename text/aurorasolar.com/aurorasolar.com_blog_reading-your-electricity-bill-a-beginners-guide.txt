@@ -1,0 +1,683 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Reading your electricity bill: a beginner’s guide | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Reading your electricity bill: a beginner’s guide                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the third installment in our six-part series on Solar Installer Basics 101, updated in late 2022. In our previous article, we explored how the photovoltaic (PV) panels you install on customers’ roofs convert sunshine into clean energy. You already know how this process works, but being able to explain it to end-users can help make converting customers much easier.
+Click the image to download the full guide in printable form.
+The same is true when walking customers through their electricity bills. Your ability to explain how their utility statements work — and where the largest savings might reside — will make it easier to close the sale.
+Why every solar project should start with an electric bill
+The average utility customer doesn’t think much about the details of their electricity bills — except to lament how high they might be climbing. However, utility statements actually provide a treasure trove of valuable information to facilitate the solar installation process and help your customers maximize their financial and environmental savings.
+For solar professionals, these bills are an easy way to quickly understand how much energy a customer uses, which is a key factor in determining what size PV system will meet their needs (the topic of our next installment in this series). These bills also show how the local utility company calculates a customer’s electricity charges, which can have important solar design implications.
+For homeowners or businesses considering solar, having a deeper understanding of the information contained in their electricity bills can offer insights into whether installing solar makes sense, as well as whether switching to another billing plan may increase savings.
+In this article, we explain the terms, sections, and calculations in an electric bill — and how these variables change when a customer installs solar on their home or business.
+Rate plans
+An electricity bill is a charge for the grid power a home or business consumes. This consumption is measured in kilowatt-hours (kWh), and customers are charged a per-kWh rate. These rates differ across utility markets and are calculated differently depending on the customer’s “rate plan.” Rate plans specify the rules for how customers’ bills are calculated, with utilities typically offering multiple tiers and types.
+Common rate plans include:
+
+Fixed rates
+Time of Use (TOU) rates
+Tiered rates
+
+While a fixed rate plan charges the same amount for every kWh consumed, under TOU rates and tiered rates, the price per kWh changes depending on the time of day (peak vs. off-peak) or the total amount of energy consumed, respectively. 
+A customer’s rate plan will determine what is displayed in the different sections of their utility bill. It also impacts how much that user pays to their power provider every month, and by extension how much they can actually save by going solar. Depending on their energy consumption patterns, customers may pay more or less for the same amount of electricity under different utility rate plans.
+For a more in-depth discussion on different utility billing approaches, see our Solar Utility Bill series.
+
+Utility bill sections
+An electricity bill is broken down into several different sections, each of which provides important information. While the names and contents often differ depending on the utility, we explain some of the most common sections below.
+
+Account Summary
+The Account Summary generally appears on the front and center of the bill. This section provides an overview of the account status, including:
+
+The customer’s previous account balance
+Any payments made on the previous balance
+The new amount owed for the current billing period
+
+If the customer gets electricity and gas from the same utility, the Account Summary will include charges for both of these services.
+Bill Details
+This section shows the number of kWh the customer consumed during the billing period — and the rate they paid per kWh. The information that’s included (and how it is formatted) will change depending on the utility and rate plan.
+Electricity Charges Breakdown
+The per-kWh rate shown in the “Bill Details” section is made up of many smaller charges. In addition to covering the cost of the energy consumed, some of these charges are used to maintain and upgrade the electric grid and to fund other state-sponsored energy initiatives. The names and amounts of these electricity charges vary by utility market, but generally include a:
+
+Generation Charge: This charge supports the cost of producing the electricity used.
+
+Transmission Charge: This charge supports the cost of transmitting electricity from power plants, over high-voltage lines and towers, to distribution systems.
+
+Distribution Charge: This charge supports lower-voltage system costs stemming from the power lines, poles, substations, and transformers that connect to homes and businesses.
+
+
+If you are interested in your utility’s additional electricity charges, visit their website for further information.
+Usage Profile
+Many utilities provide usage profiles that show a customer’s total monthly consumption over the previous 12 months. This gives a good visual representation of how much energy they consume annually. And some usage profiles even include previous years so that customers can track their consumption habits over longer time frames.
+How electricity bills change with solar
+When a homeowner or business in the U.S. installs solar panels, they typically become a net metering customer. Net metering is a policy used throughout most of the country that credits solar customers for excess solar energy they feed into the electricity grid:
+
+During the day, customers send unused solar power into the utility grid — generating credits that they can use to offset future electricity statements.
+When their PV panels stop producing power (at night, when it’s cloudy, etc.) those customers buy power from the grid. 
+
+With net metering, each solar customer ultimately owes their power provider the “net” difference in grid electricity bought and sold. But with enough PV capacity installed, it becomes possible for a solar customer to eliminate their utility bills entirely — or even be owed electricity or credits from their power provider. 
+This explains why participating in net metering programs often changes the way these customers’ bills are calculated. After installing a PV system on their home or business, a customer’s utility statement may include:
+
+Minimum Delivery Charge: This is a charge that some utilities require solar customers to pay to support the cost of electricity grid upkeep. This charge ensures that enough funds are available to maintain and upgrade the grid in situations where solar customers produce enough energy to pay nothing for electricity.
+
+Net Usage: This represents the total electricity consumption minus the total amount of electricity sent back to the grid by the solar installation. Net usage may be represented differently for customers on a Time-of-Use (TOU) rate plan. This is because the utility separates the day into “peak” and “off peak” hours, and charges different rates for energy used during each time period. In this case, net usage may be split into “Net Peak Usage” and “Net Off-Peak Usage.”
+
+
+Additionally, the timing of bills may change after installing solar, depending on the utility. Some utilities bill solar customers every month, while others bill on an annual basis. This yearly statement is sometimes referred to as a “true-up” and reconciles the customer’s energy production and consumption in a single statement at the end of a 12-month period.
+If you’re new to the solar industry, understanding the nuances of electricity bills can be a helpful when navigating other aspects of the solar design and sales process — like how to size a PV system (which we delve into in the next article in this series). Whether as an installer or a utility customer, understanding electricity bills allows you to quickly identify potential savings and determine whether installing solar makes financial sense.
+About Solar PV Education 101
+This blog is part of Solar PV Education 101, a six-article series that serves as an introductory primer on the fundamentals of solar. We’re updating each piece in late 2022, so be sure to check back often for the most recent information.
+Part 1: The Beginner’s Guide to Solar Energy (Updated 11/9/2022)
+Part 2: How a Photovoltaic System Produces Electricity (Updated 11/10/2022)
+Part 3: Reading Your Electricity Bill: A Beginner’s Guide (Updated 11/15/2022)
+Part 4: How to Size a PV System from an Electricity Bill (Updated 12/9/2022)
+Part 5: Shade Losses for PV Systems, and Techniques to Mitigate Them (Updated 12/12/2022)
+Part 6: The Basic Principles that Guide PV System Costs (Updated 12/13/2022)
+And be sure to download the PDF version to give to reps, installers, and even customers looking to learn more about the basics of solar.
+Click the image to download the full guide in printable form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Design                
+
+
+            1 min read        
+
+
+
+            3 New Tools to Help You Design Solar More Efficiently        
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Sales                
+
+
+            1 min read        
+
+
+
+            4 Ways for Solar Leads to Share the Utility Bill Data You Need        
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Sales                
+
+
+            1 min read        
+
+
+
+            Are Your Load Profiles for Solar Customers as Accurate as You Think?        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

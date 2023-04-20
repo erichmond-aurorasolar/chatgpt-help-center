@@ -1,0 +1,627 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Solar Can Benefit Utility Customers on Tiered Rates | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Solar Can Benefit Utility Customers on Tiered Rates                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The price of movie tickets and the cost of electricity might have more in common than you think. In an earlier article, we explored how the price you pay for electricity may vary depending on the time of day—just like the cost of matinee movie tickets compared to tickets for a Friday night show.
+  
+In today’s article, we will explore another curiosity of electricity pricing: how different rates apply to different customers. Just as movie theaters have different prices for adults, students, and seniors, utility companies also vary energy prices for different classes of customers. We see this in the differences between residential and commercial utility rates, and in rates that vary based on a customer’s level of demand. But there’s more!
+Utilities also charge different prices for energy depending on how much energy a customer consumes. This practice, known as tiered pricing, has important implications for solar customers—both in terms of design considerations for solar installations and for understanding expected savings.
+We will examine how this rate structure works so you can make sense of how it impacts the finances of going solar.
+What Are Tiered Rates?
+Tiered rates are a common utility rate structure that can apply to either residential or commercial customers. At their most basic, tiered rates are defined by having multiple tiers with different prices per unit of energy; the tier that a customer is billed under is determined by the amount of energy they have consumed during the billing period.
+For the purposes of this article, we’ll be examining a type of tiered rate called an inverted block rate. Inverted block rates, which serve to discourage excessive energy consumption, are prevalent today. Under this rate structure, the price of energy increases the more energy a customer consumes.
+(Historically, another form of tiered rates, called declining block rates, was most common. This pricing approach actually sought to encourage energy consumption by reducing the amount a customer paid for energy the more that they consumed.)
+  Figure 1: An example of tiered electricity rates in which the price of energy increases at higher levels of energy consumption (an inverted block rate approach).
+To get a better sense of how this rate structure works, let’s consider a hypothetical utility:
+
+
+
+Tier
+Usage
+Cost ($ per kWh)
+
+
+Tier 1
+up to 650 kWh
+0.0543
+
+
+Tier 2
+next 350 kWh
+0.0989
+
+
+Tier 3
+over 1000 kWh
+0.1423
+
+
+
+Table 1. A hypothetical tiered rate schedule (an inverted block rate).
+The first 650 kilowatt hours (kWh) that a customer consumes is priced at the “Tier 1” rate, which is the cheapest at $ 0.0543 per kilowatt hour (kWh). If a customer’s consumption exceeds 650 kWh, subsequent energy consumed would be priced at the higher “Tier 2” rate of $ 0.0989/kWh. From there, if they exceeded 1000 kWh of consumption, they would be charged the “Tier 3” rate of $ 0.1423.
+Not all utilities have tiered rates, and among those that do, the number of rate tiers, as well as the level of consumption and the cost of electricity under each tier, varies by utility. Some utilities also have different rate tiers depending on the season. (California’s tiered pricing is a bit different than most other places because the level of consumption covered under Tier 1 varies for different customers. Depending on where they live, their heating source, and the season, customers are assigned a Baseline Allowance, and the tiers are defined as percentages of that baseline.)
+How Do Tiered Rates Impact the Finances of Adopting Solar?
+One of the most important impacts of installing solar for utility customers who have tiered billing is that the solar energy produced by the system can offset consumption at the more expensive top tiers. This is because under net metering policies—the prevailing method in the U.S. for compensating solar system owners for the energy they produce—each kWh that the solar system produces is credited against the customer’s utility bill at the retail rate.
+By offsetting the customer’s consumption enough that the remaining energy the customer purchases from the utility is billed at a lower tier (or tiers), the bill savings from solar can be proportionally greater than the amount of energy consumption that is offset. Because of this, some solar customers choose smaller solar installations that offset only their energy consumption at higher tiers, which saves money on system costs.
+To see the impact of tiered rates in action, let’s consider the case of a residential customer on the utility rate discussed above (Table 1), whose average monthly energy consumption is 1,220 kWh. Table 2 shows the customer’s bill for energy consumption and how it is calculated. At this level of energy consumption, their final 220 kWh is billed at Tier 3 rates and they have a monthly bill of about $101.
+(Note that this a simplified example which considers only the consumption charges on customers’ bills; utility bills typically include additional charges like fixed fees and transmission and distribution charges.)
+
+
+
+Tier
+Cost ($ per kWh)
+Usage (kWh)
+Cost ($ per kWh)
+
+
+Tier 1
+0.0543
+650
+$35.30
+
+
+Tier 2
+0.0989
+350
+$34.62
+
+
+Tier 3
+0.1423
+220
+$31.31
+
+
+Total:
+1,220
+$101.22
+
+
+
+Table 2. An example of how a customer’s bill would be calculated under the hypothetical tiered rate from Table 1.
+Now, let’s consider what this customer’s bills would look like if they installed a solar system that produces an average of 900kWh/month. (Solar installations’ energy production varies significantly in different months. For the sake of simplicity, in this example we are just considering the customer’s average monthly energy consumption and production.) The 900 kWh from the solar array offset the majority of the customer’s consumption, leaving only 320 kWh that need to be purchased from the utility.
+
+
+
+Tier
+Cost ($ per kWh)
+Usage (kWh)
+Cost ($ per kWh)
+
+
+Tier 1
+0.0543
+320
+$17.38
+
+
+Tier 2
+0.0989
+0
+$0.00
+
+
+Tier 3
+0.1423
+0
+$0.00
+
+
+Total:
+320
+$17.38
+
+
+
+Table 3: Post-Solar Bill for the Same Customer with a Solar Installation that Produces an Average of 900 kWh per Month.
+After installing solar, the customer has offset all of their consumption under Tiers 2 and 3. Purchasing the remaining 320 kWh on Tier 1 costs the customer only about $17 per month. As Figure 2 below illustrates, reducing their energy consumption by ~74% results in a savings of ~83%.
+ Figure 2: Customer’s average monthly energy consumption and utility bill before and after installing solar, broken down by utility price tier.
+As you can see, the greater the price difference between tiers under a given rate plan, the more exaggerated this effect will be.  Another implication of tiered rates is that customers with higher levels of consumption get more financial benefit more from solar installations than light users who are billed at lower tiers.
+In order to assess the financial benefits of installing solar, and determine what size solar installation will maximize financial return, it is critical to have a clear understanding of the customer’s utility rate structure and whether they are on a tiered rate plan.
+It is also important to evaluate what other rates may be available to a customer. Many utilities offer customers the option to be billed under time of use (TOU) rates, which charge different prices for energy depending on the time of day. These rates may offer a better financial return for solar customers if the times that the solar installation produces a lot of energy coincide with times when energy is more expensive.
+Having familiarity with the rate structures that are available to a potential solar customer will provide the foundation of an accurate assessment of the financial value solar can provide.
+Key Takeaways:
+
+Tiered rates are a common approach that electric utilities use to bill customers. They are defined by having multiple tiers with different prices per unit of energy. The rate (tier) that a customer is billed under is determined by the amount of energy a customer uses during the billing period.
+Inverted block rates are a form of tiered rates that is prevalent rate today; under inverted block rates, the price of energy increases the more energy a customer consumes.
+A solar installation can enable a customer to offset their consumption at the more expensive top tiers, leading to bill savings that are proportionally greater than the amount that energy consumption (kWh) is reduced.
+It is critical to have a clear understanding of the customer’s utility rate structure and whether they are on a tiered rate plan in order to assess the value solar can offer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+How to Add Multiple Financial Options in One Proposal
+
+         
+ Aurora gives you the ability to include up to three different financial options in one proposal. 
+
+Go to the Proposal template page by clicking on your name on the upper right corner of the screen, then clicking on Settings.
+
+
+Open the template you wish to modify, or create a template by clicking on Create New Template.
+
+Click Textbox then click and drag out a box.
+
+Click the edit button (pencil) at the bottom of a textbox, then click on the down arrow icon to open up the list of placeholders.
+
+
+Under the financial placeholder section there is a drop down menu with option 1,2, and 3. Change the drop down menu to the appropriate option then select your placeholder. 
+Each financial placeholder will have a label: F1, F2, F3 which corresponds to a financial simulation.
+
+
+
+Once you have your proposal template setup. Go to a project with a design. Create three financial simulations in the Financing page. Create a proposal using the template on the Proposal page. 
+You will notice that the proposal template will ask for multiple financing simulations.
+
+

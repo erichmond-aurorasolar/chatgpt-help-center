@@ -1,0 +1,653 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Top 10 Things You Didn’t Know Aurora Can Do: #2 — Advanced User Roles & Permissions | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Top 10 Things You Didn’t Know Aurora Can Do: #2 — Advanced User Roles & Permissions                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+These days, running a solar business means having to manage a constantly changing business landscape. Whether it’s adopting a new in-house sales team, managing a growing network of sales dealers, or expanding to a new region, you have a lot to keep track of.
+“When you’re working with hundreds of different sales organizations, it becomes an interesting challenge. At our level of scale, selling an inaccurate system at the top is super painful,” explains Trace Rucarean, CMO of Better Earth, at Aurora’s Empower 2022. “We need to make sure that our sales teams sell exactly what our install and design teams will use to build systems.”
+This is where some of Aurora’s advanced team permissions, like Advanced Roles and Teams, can help ensure that the designs your teams sell are accurate and error free. How?
+How Aurora helps
+In this blog we’ll look at a couple tools administrators have to help organize and control what their sales teams and dealers can see and edit in Aurora designs. This not only helps avoid mistakes, but significantly simplifies the process for sales reps.
+Common mistakes like selecting the wrong component for an install, or changing an existing site model, can have large consequences for your business — from extra truck rolls, to having to redesign sites, and more.
+We’ll cover how to set up configure custom user permissions and organize visibility barriers between teams and dealers.
+How to limit access with User Roles
+User Roles in Aurora empower businesses with growing teams to effectively manage visibility and access rights across internal teams and dealer partners. With both Standard and Advanced Roles, administrators can limit control across users to minimize risk of error and change orders.
+Aurora’s Standard Roles of Admin, Team Member, and Limited Team Member can help smaller organizations manage their different user types. At a glance, they cover the basics:
+
+Admins can view, modify, and change ownership of all projects and permissions of all users
+Team Members can view and modify projects, but they can only reassign their own projects
+Limited Team Members can view and modify only their own projects, and admins can restrict Limited Team Members from editing site models
+
+In addition to these Standard Roles, Advanced Roles allow admin users to create up to four custom roles within the Aurora app.
+Click the image to go to the Help Center article on User Roles.
+Each of the roles created can be configured with different permissions, like limiting project visibility, pricing edit access, and Design Mode access (and we’ll continue to add permissions over time).
+Now, as processes and requirements grow as your business scales, you can count on Aurora to help you easily manage your teams and control their access. For example, you can restrict your sales reps from editing site models, so you won’t have a rogue sales person trying to change the site design. Or, you can limit your contractors to seeing only projects assigned to them, minimizing any risk of exposing projects to your third-party dealers or designers.
+How to limit project visibility across teams and dealers
+Teams in Aurora enables scaling solar businesses to manage user groups and project visibility. Administrators can set up global database settings for all users, and use Teams to create visibility barriers across internal teams and dealer partners to promote privacy and territory controls.
+Click the image to go to the Help Center article on Teams.
+From the Aurora settings, the Teams tab allows administrators to create, manage, and delete Teams in Aurora. From there, every project can be assigned to a team, and only admins and the users on that team are able to view and edit the project.
+Teams are helpful for companies with growing sales teams — internal or external. For example, you may want to organize your internal sales teams by region, like Long Island, Westchester, and Brooklyn (for the New Yorkers out there). When you do this, sales managers can view and track performance by region, and identify areas of improvement across their sales teams.
+Or, as you begin to take on sales dealers to sell your products and services, you can organize these individual dealers into teams. That way, the dealers all have access to the same database settings you use across the organization, but they can only view their own projects. Setting up these visibility barriers minimizes conflicts of interest and ensures dealers are viewing only relevant projects.
+Especially as businesses scale, even the small mistakes add up and can materially affect your bottom line. With Aurora’s administrator tools, solar businesses can customize the software to fit their ever-changing needs.
+Want to learn more? We have a couple Help Center posts with more details:
+
+User Management: Teams
+Advanced Roles
+
+Then, schedule a live demo to learn more about how these features can help your business, in particular.
+And don’t forget to check out our dedicated Aurora Top 10: All In One Place page to learn about other Aurora features you may not know about. 
+Do you have suggestions for an issue or feature you’d like to see covered? We’ll have some Aurora gifts for any ideas we use. Email us here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Related Posts                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Products & Features                
+
+
+            1 min read        
+
+
+
+            The Top 10 Things You Didn’t Know Aurora Can Do: All In One Place        
+
+
+
+
+
+
+
+
+
+
+
+
+                        Industry                    
+
+
+
+
+
+
+
+        Aligning Teams and Processes to Deliver a World-Clas...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Commercial                    
+
+
+
+
+
+
+
+        Creating an Automated Process: Integrate & Scal...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

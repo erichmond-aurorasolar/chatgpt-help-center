@@ -1,0 +1,29 @@
+Sales Mode Bill Overview
+
+
+The Bill Overview page lets us compare expenses and view savings, before and after going solar. There are options for configuring this page in the Settings section of your account. Note that you must have Admin level permissions to change this setting. The two primary options for configuring this page is the choice to "Show Financing on Bill Overview Page" or not.
+ 
+
+ 
+"Show Financing on Bill Overview Page" enabled
+First we will look at the Bill Overview page with this option enabled, which is the default setting:
+ 
+
+ 
+On the left side we see current pre-solar expenses. This is average monthly electric bill for the homeowner, and it also shows the average rate-per-kWh, based on Consumption information we entered on another page.
+On the right side we see what bills will look like after going solar. We combine residual utility company payments & any financing charges, such as loan payments, to find the new average monthly payment for this homeowner.
+We can see the new average rate per kWh, as well as our projected lifetime savings. In the above example, this project will save $34,036 over the lifetime of the system. This includes any applicable incentives applied to the project.
+Note that most of the figures on this page are estimates for Year 1 of the lifetime of the project. To see savings for beyond the first year, click the Preview Bills button on the upper right side of the screen:
+ 
+
+Tap or click anywhere on this chart to see estimated savings for each year in the Project Life. Remember, admins can change the Project Life in the Settings section of Aurora.
+ 
+"Show Financing on Bill Overview Page" disabled
+Next we will look at the Bill Overview page with this option disabled:
+ 
+
+On the left side we again see current pre-solar expenses. This is average monthly electric bill for the homeowner, and it also shows the average rate-per-kWh, based on Consumption information we entered on another page.
+On the right side we see what bills will look like after going solar without any financing charges, such as loan or cash payments. This page now shows only shows the utility bill savings, without any other factors. In the above example, this system will save $11,925 in utility bill payments over the lifetime of the project. This figure does not include any applicable incentives.
+Show Recurring Income for Performance Incentives
+One more option to consider for this page is the option to show recurring income for performance incentives. Some solar incentives, such as SRECs, are paid out over time based on the performance of the system. You may choose to include this income in the Bill Overview by toggling on the option in the Settings section of your account.
+ 

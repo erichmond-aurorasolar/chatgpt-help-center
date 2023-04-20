@@ -1,0 +1,526 @@
+
+
+
+
+
+
+
+
+
+
+
+
+14x Revenue Growth in Solar? Start by Improving and Automating Your Workflows | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            14x Revenue Growth in Solar? Start by Improving and Automating Your Workflows                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you had to guess how much money inefficient processes cost the average solar project, what would you say? $100? $500? $1,000?
+Nope. Inefficiencies cost the average solar project $7,000. That’s $7,000 that could go to expanding your business, or to making a more competitive proposal, or growing your sales team, or… you get the point. But, it’s one thing to recognize that inefficiencies exist, and another to eliminate them. Where do you even start?
+We recently invited the operations and sales experts from Infinity Energy to show us their workflows. While Infinity was trying to grow their business, they were being held back by some recurring issues, including slow lead-to-sale times, inefficient and inaccurate design processes, high change order rates, and unacceptable soft costs. 
+Sound familiar?
+Infinity Energy has achieved impressive results by improving and automating some of their important workflows. The company is growing at two-to-three times the average industry rate, and continues to search for and fix inefficient processes, wherever they are in the business. Let’s look at three areas that have been particularly impactful.
+Cut design time
+Efficient, accurate designs are at the heart of any successful solar project. But, slow processes and design bottlenecks were slowing Infinity’s sales process down. Too often, the company had to get someone on the roof to take measurements by hand. All told, the average design was taking the company about 90 minutes. 
+To remove this bottleneck, Infinity looked at ways to create a more automated process. 
+A LIDAR rendering for solar design.
+Infinity now sends the site information to Aurora’s 3D Modeling Service (3DMS), which generates the site design in 20 minutes. The design is automatically checked for accuracy by LIDAR, then fed into Infinity Energy’s system via API. You can see how this process works in the recorded demonstration they showed here.
+Result: Reduced design time from 1.5 hours to 20 minutes
+Decrease change orders and redesigns 
+Change orders are the bane of solar installers’ existence. Each time a change is needed, it’s money out of your pocket. Infinity Energy faced change orders or redesign requirements in about 10% of their projects, and the costs were adding up.
+Infinity again turned to software tools and automation to solve the problem. The company uses HD imagery, checks it with LIDAR, then checks it even further with irradiance modeling and sun path modeling. The design is then stress tested with a performance simulation to make sure it delivers what Infinity is promising the customer. This hyper focus on accuracy has paid off in spades, reducing change orders significantly.
+Result: Reduced change order and redesign rate by 46%, from 9.78% to 4.49%
+Speed time to proposal
+In solar, speed is key. According to SEIA and the Solar Foundation, every week of delay correlates to a 5-10% cancellation rate. Put another way, cutting wasted time leads directly to more completed projects. 
+Infinity found that the time to proposal was one area where they could also eliminate precious hours from the equation. They now directly export permit-ready DXF files, and they automatically generate multiple payback and financing options for customers, based on their specific site, utility rates, and usage. They then automatically embed these designs and charts into their proposals.
+This has not only reduced time to proposal, but it’s let the sales team do other things like engage over the phone or virtually rather than meeting onsite. All told, Infinity has cut their sales cycle by days.
+Result: Reduced time to proposal by 75%, from 60 minutes to 15 minutes; cut sales cycle time by days
+Get the details
+To learn more about how Infinity accomplished these goals, and see them walk through their processes in detail, check out the full webinar with Infinity’s Austin Seawright (VP of Design & Engineering), Jordan Wise (VP of Inside Sales), and Bill Kennedy (Sr. Technology Manager). 
+Learn more about improving your business with automation in the webinar.
+Featured image by FutUndBeidl.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

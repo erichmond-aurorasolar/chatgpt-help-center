@@ -1,0 +1,24 @@
+How to model Schneider XW Pro Inverters with Conext Charge Controllers
+
+Schneider’s XW Pro series Inverter does not have internal MPPT tracking functionality. Instead, a “Conext MPPT” Charge Controller is needed to add MPPT Functionality. To meet different user use cases, Schneider offers 3 different models of charger controllers that are compatible with the XW Pro Inverter.
+
+Conext MPPT 100 600 has a Max Array power of 7.2kW, a Max input Isc value of 35A, and can accept 2 strings.
+Conext MPPT 80 600 has a Max Array power of 5.76kW, a Max input Isc value of 35A, and can accept 2 strings.
+Conext MPPT 60 150 has a Max Array power of 4.32kW, a Max input Isc value of 60A, and can only accept 1 string.
+
+To use the XW Pro inverter and Conext MPPT charge controllers in your design please follow the following steps:
+
+Set up your site model and solar array as normal
+
+Select and place the inverter model that reflects the system that you are designing from this model list. You can also find these models by going to the “Inverters” section of the Database Tab in the Aurora App. Currently, we have design models available that represent systems using one and two of the above Charge Controllers. (Systems with multiple charge controllers may not mix model types)
+
+
+Select and place the number and type of Charge Controller model from this Model List. You can also find these models by going to the “Combiner Boxes” section of the Database Tab in the Aurora App.
+
+String your system, connecting the PV string first to the Conext MPPT component then to the XW Pro inverter model that you placed in Step #2. Keep in mind that the “100 600” and the “80 600” modules can accept two PV string, while the “60 150” can only accept one.
+
+
+Note: Because of the special coding around the Conext MPPT and XW Pro inverter models, the Auto-Stringing tool will not accurately string modules for designs using the SW Pro Series Inverter.
+ 
+ 
+ 

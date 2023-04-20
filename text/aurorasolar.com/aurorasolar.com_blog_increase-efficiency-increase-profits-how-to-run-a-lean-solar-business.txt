@@ -1,0 +1,660 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Increase efficiency, increase profits: How to run a lean solar business | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Increase efficiency, increase profits: How to run a lean solar business                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right now, the cost of doing business seems to be increasing for everyone — from restaurants, to car dealers, to, yes, solar installers. 
+To keep growing and stay profitable, solar companies have to do everything possible to reduce operating expenses and maximize the value of their existing staff and resources. Said another way, they have to make their processes more lean.
+But how?
+In our recent webinar with Solar Power World, Aurora Solar Product Marketing Manager Sherry Huang and Enterprise Account Executive Jay Choi showcased a few of the best, quickest ways you can use software like Aurora to slim down your processes. 
+Click the image to watch the webinar on-demand.
+In this blog we’ll look at three of the most time-consuming processes, and how technology can help you smooth them out. Make sure to watch the full webinar for many many more tips and tricks to make your business more lean.
+The process: Generating leads
+Finding high-quality leads isn’t easy and often requires a significant amount of time, energy, and budget to identify and qualify new prospects. In fact, according to the National Renewable Energy Laboratory, more than 20% of solar costs are attributed to customer acquisition. 
+Your business likely uses many methods for lead generation, and we’re not getting away from canvassing, buying leads, and working for referrals anytime soon. 
+But there’s more you can do.
+With Lead Capture AI the leads come to you.
+The lean way: Make leads come to you
+To become more lean, you have to make sure you’re using the most cost- and time-effective lead generation channels available. So, while methods like purchasing solar leads from a third-party and canvassing do still have their place, solar companies have to explore other channels to reach potential customers — like making them come to you.
+With Lead Capture AI, solar companies can embed an intelligent widget directly on their website — including branding to match the rest of your business. Site visitors enter their address, contact information, and utility bill information, and Lead Capture AI generates a solar model for their home. 
+You can even add inquiries for items such as roof type, electricity bill expenses, home ownership status, and credit score. This ensures that new leads are only generated and sent to sales reps if the customer is a true fit for solar and can realistically make a purchase. And it’s all done before any time or labor hours are spent setting up a proposal or even picking up the phone. 
+The process: Generating site models
+While it might be nice to employ a dozen of the world’s best solar designers to produce all of your customer proposals, it’s not realistic — or efficient — to always have an expert standing by. And even with a dedicated design team, bottlenecks can occur when you’re trying to sell high volumes.
+The potential inefficiencies don’t end there. Sales reps working with prospective customers often need to make changes to a design quickly and can’t afford to wait around for their turn in the queue.
+Let Aurora AI generate the roof model for you.
+The lean way: AI to the rescue
+There are two ways to improve your design process: using AI or using Expert Design Service.
+With Aurora AI, it’s possible to create an accurate 3D roof model in less than a minute using HD map imagery and LIDAR data to generate a roof’s shape, size, and pitch. It can even automatically detect those pesky obstructions where solar panels can’t be installed. 
+Once your sales rep has the model, they can make changes right in front of the customer based on their feedback. This helps build trust and keep the sale on track.
+For businesses looking to take the next step towards a leaner company, Aurora’s Expert Design Services can do the designs for you. Whether it’s for those tricky designs you need to get right the first time, or just to take some of the load off your team, Expert Design Services delivers accurate 3D models in under 3 hours for any project. 
+The process: Proposals, financing, and contracts
+Everyone who’s sold (or bought) a solar system knows just how error-prone, confusing, and just plain tedious these final processes can be. 
+Once the customer is ready to explore their financing options, we reach another area where there’s a real opportunity to become more efficient: figuring out financing and drawing up a contract. 
+Integrated financing eliminates a huge pain point.
+The lean way: Software does the work, instantly
+This is where intelligent sales tools can lock in your efficiency gains in three critical areas: the proposal, financing, and the final contract.   
+The proposal: With Sales Mode, customers can see all their energy system information in a live, web-based proposal. Interactive, personalized, and instantly responsive to design changes, these proposals allow prospective solar customers to walk through the details of an offer and easily share the information with friends, family, and neighbors.  
+Financing: Integrated financing through Sales Mode takes a lot of the confusion and delay out of what is traditionally every customer’s — and installer’s — least favorite part of the solar process. Homeowners can see their financing options side-by-side, and see how those options affect their energy bills and expected payback periods. All of the information is updated automatically so that customers can more easily decide which financing method best fits their goals. 
+The contract: “OK, I’ll head back to the office and draw up the contract for you.” This simple, previously necessary step adds delay to every project and leads to lost deals. Aurora’s Contract Manager can create a legal agreement in seconds, significantly reducing the time it takes to draw up the documents necessary to close a new deal. Without any manual data entry, Contract Manager populates the contract with the data entered throughout the sales process. Plus, it has e-signature integrations so that the customer is empowered to move forward on the spot.  
+In closing…
+The key to growing a solar business is finding all the possible ways to increase efficiency, reduce manual processes, and become more lean. Every minute saved, every typo avoided, every contract signed in the room increases your efficiency and improves your bottom line.
+To see more ways that Aurora can help your business become leaner watch the entire webinar.
+Click the image to watch the webinar on-demand.
+If you’d like to learn more about how Aurora’s software can help streamline your operations, schedule a quick, customized demo. 
+
+Featured image by Pedro Lopes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Sales                
+
+
+            3 min read        
+
+
+
+            14x Revenue Growth in Solar? Start by Improving and Automating Your Workflows        
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        5 Data-driven ways to increase the ROI of your solar...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        Create an Automated Process for Your Sales Team        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

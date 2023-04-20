@@ -1,0 +1,549 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar for New Construction: Solutions to Enter a Key Emerging Market | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar for New Construction: Solutions to Enter a Key Emerging Market                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Traditionally, for rooftop solar installations, solar is added on to an existing building. But a vast new solar market is emerging in recent years: solar for new construction.
+In fact, in California alone—where the state building code will require solar on all new homes starting in 2020—solar demand is expected to increase by over 800 MW from 2020-2023 due to this market. This regulatory trend is not just limited to California, however.
+Cities from Arizona to Florida have made similar solar requirements. Watertown, Massachusetts moved to require solar on new commercial buildings larger than 10,000 square feet and all new residential structures with ten or more units. Other jurisdictions may roll out similar policies as cities and states around the country make increasingly aggressive commitments to clean energy.
+This is great news for solar contractors. But to access this new class of customers, solar contractors need new solar design and sales strategies. Traditional methods tailored to existing buildings fall short in several key ways.
+In this article, we highlight the ways that solar design for new construction differs from traditional solar design. We also share real strategies and tools for designing and selling stunning solar arrays for new buildings—whether residential or commercial—so you can confidently pursue opportunities in this new market segment.
+How is Solar Design for New Construction Different from Traditional Solar Design?
+Designing solar for a building that’s not yet built differs from traditional solar design in three key ways.
+
+Without an existing building, it can be difficult to know how many solar panels will fit on the roof or other parts of the site and determine the best location for the array.
+To determine how much energy the solar installation will produce—and whether solar is even a viable option—it is critical to understand how much shade will fall on different parts of the site. This assessment is complicated by the lack of an existing building.
+Finally, without imagery of an existing building, salespeople need new options to communicate to the customer what the solar design will look like.
+
+Fortunately, there are solar software tools contractors can utilize to overcome these barriers.
+Designing Solar for New Construction: Overcoming the Challenges
+Let’s explore the three critical differences in solar design and sales for new construction versus existing buildings, and the solutions solar contractors can employ to enter this new market.
+Challenge 1: Determining the Appropriate PV System Size and Location
+How do you determine the best locations for solar panels and the number that will fit on a roof when the building you’ll put them on doesn’t exist yet? Naturally, traditional approaches based on on-site measurements or remote site assessment using satellite imagery are not an option.
+Fortunately, with the right solar software solar contractors can import roof plans or blueprints to serve as the basis of creating a virtual 3D model of the project site. With an accurate site model, contractors can easily determine how many solar panels will fit on different roof faces and get a better sense of where it would make sense to locate an array.
+Aurora Solar allows you to import roof plans of a future building, scale them to an accurate size, and situate them on the property. From there, it’s easy to create an accurate 3D model of the building on which to design a solar installation and accurately estimate it’s energy production. This allows solar contractors to enter the fast-growing market of solar for new homes and buildings.
+In Aurora’s solar software, solar contractors can upload the roof plan as an image and then scale it to the correct size based on the specified dimensions in the building plan. Since there is not yet an address for most of these new construction sites, the contractor can input the geographic coordinates of the project to situate it in the actual location where it will be built.
+One of the things Aurora Solar has pioneered that makes this process much simpler is SmartRoof, a design tool that infers the 3D structure of a building based on the 2D outline of the roof. Adjustments can be made to ensure the inferences match the roof plan, but the manual work needed to create an accurate 3D model on which to design the solar array is significantly reduced.
+Aurora’s SmartRoof tool infers the 3D structure of a roof based on its perimeter, streamlining the solar design process.
+Additionally, Aurora’s ruler tool—which provides measurements of different parts of the project and site model—makes it easy to double-check that the site model matches the construction plans.
+Challenge 2: Assessing shading and solar access values
+Perhaps the biggest challenge of designing a solar installation for a building that has not yet been constructed is getting an accurate understanding of how much solar energy will be available on different parts of the roof or surrounding property.
+As we explain in our blog post on how irradiance is calculated, any structure that may cast a shadow at any time throughout the year—from a chimney to a nearby tree—can impact the solar irradiance on the site. Without accurate solar access values and shade measurements, you cannot accurately estimate how much energy the solar installation will produce. Fortunately, Aurora makes it simple to accurately calculate all of these values.
+ An example of an irradiance map, generated by Aurora. Brighter colors indicate greater solar irradiance.
+Because geographic coordinates are used to situate the site model in its real future location, you can review satellite imagery of the property to identify and model trees and surrounding objects that may impact the amount of sunlight that reaches the roof. Additionally, actual local weather data is used in simulating how much energy the system will produce.
+With the creation of a precise 3D model of the future building and other features of the project site, Aurora can simulate the movement of shadows on the site for every hour of the year and give precise irradiance values for each part of the site. This approach allows you to be confident in the accuracy of your energy production and utility bill savings estimates for the project.
+Challenge 3: Visually showcase the solar design for the buyer
+A further challenge of designing solar for new construction applies at the sales stage. How do you show the customer what the design will look like? The aesthetics of the solar design are likely to be a significant concern for the prospective customer, especially in the residential market.
+An example of a 3D model of a future home as rendered in Aurora solar software. These kinds of visuals can help the customer understand what your solar design will look like and feel more comfortable knowing how it will impact the aesthetics of the building.
+
+
+
+As the home construction and solar markets intersect in California—where new homes will be required to have solar starting in 2020—other players like architects and home builders will also need tools to present solar information including the appearance of the building.
+To see how Aurora makes this easy, sign up for a free demo to see the software in action!
+
+
+
+
+Without being able to visualize how solar will affect the appearance of their future building, the customer may be more hesitant about a solar purchase. Fortunately, creating a realistic 3D model of the project and site makes it easy to showcase and sell your solar design.
+Aurora offers a variety of compelling and customizable solar sales proposal templates. You can include a variety of different views of the solar project to help them feel at ease with the appearance of the project you’ve designed.
+Building upon the approaches we pioneered to enable accurate remote solar design, Aurora Solar is delivering solutions that let solar contractors effectively serve the emerging solar market for new buildings.
+
+To learn more about solar design for new construction, with live demonstrations of the processes discussed above, join our webinar with PV Magazine on March 20, 2019 at 10AM Pacific Standard Time/1PM Eastern Standard Time! 
+You can also check out our past webinar with Solar Power World, which explores this topic from the perspective of California’s Title 24 mandate of solar on new homes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

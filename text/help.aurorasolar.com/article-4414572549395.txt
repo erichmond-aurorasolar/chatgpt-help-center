@@ -1,0 +1,6 @@
+10/14/2021 - Release Notes
+
+Features Updated
+
+Adjusted the color gradient for the sky and ground in design mode to be more aesthetically pleasing. 
+Corrected an issue where adjusting certain performance simulation settings would not invalidate the performance simulation. 

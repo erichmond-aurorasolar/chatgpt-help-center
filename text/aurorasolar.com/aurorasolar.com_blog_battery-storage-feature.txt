@@ -1,0 +1,566 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Introducing Battery Storage for Aurora: Sell Storage with Confidence | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Introducing Battery Storage for Aurora: Sell Storage with Confidence                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the past decade the solar + storage market has seen incredible growth. Decreasing costs, along with favorable incentives, have contributed to a swell in demand.
+
+In fact, according to a recent Aurora Solar survey of installers, over 70% of respondents currently offer storage today. Participants in the survey said that the rise in interest for backup storage is largely being driven by a desire for peace of mind, usually in response to rolling blackouts, natural disasters and emergencies.
+
+But while the demand for storage has grown, solar + storage tools haven’t really kept up. The installers we spoke with, for example, said they were using multiple tools, accounts and subscriptions just to close a single deal.
+While installers already have very refined processes for solar sales, when it comes to selling storage, most installers are still doing back-of-the-envelope guesswork or using Excel for calculations. In other words, installers are using a number of unscalable processes that don’t fit well, or at all, with their solar sales process.
+With this feedback in mind, we knew it would be important for Aurora’s new battery storage solution to serve as a seamless workflow for all solar + storage scenarios.
+And today we’re excited to announce the arrival of Battery Storage for Aurora! Our tool was designed and developed based on feedback and research from our customers and our community.  With the new battery storage tool an installer can:
+
+Analyze load offset
+Calculate system price
+Make battery sizing recommendations
+
+The new tool also includes one of the industry’s most comprehensive databases of inverters and batteries for projects.
+
+
+
+
+“Our new battery storage functionality will significantly reduce the time needed to design the appropriate storage backup system for the customer.”
+Christopher Hopper – Aurora Solar CEO and Co-Founder
+
+
+
+Introducing: Smart Recommendations 
+Battery Storage for Aurora allows you to present a homeowner with a pre-assembled smart recommendation that can be added to your solar design within seconds.
+The new tool comes with 3 pre-assembled smart recommendations: Saver, Average and Power. Each smart recommendation will give you battery sizing suggestions while taking daily storage capacity, backup load percentage, and backup duration into account.
+A few highlights of the recommendation engine are:
+
+Fast: It takes less than 10 minutes to develop custom proposals for your customer based on how much backup capacity they desire, and zero time configuring since smart recommendations are pre-loaded in your account.
+Simple: Explaining battery backup can be technical and tedious. Aurora’s smart recommendations provide an easy-to-understand format so you can clearly explain the setup to the homeowner.
+Scalable: Battery Storage for Aurora is easily added to any existing (or new) solar project you have in your account.
+
+
+Send Your Customers Human-Friendly Battery Storage Proposals 
+In order to sell storage effectively, every installer needs a sales proposal that is simple enough for a homeowner to understand. Our new battery storage proposal compiles the most compelling data that your customer needs to make a buying decision.
+Here are just a few things you can do with the battery storage proposal, inspired by our early beta customers:
+
+Add storage to any existing solar project in Aurora and instantly upgrade your proposals to include solar + storage.
+Show the financial breakdown of the battery system or overall system cost.
+Showcase backup duration as hours, days, or a percentage.
+
+
+
+Unlock Sales with Customized Storage Configuration
+Every consultative solar sale should be built around a customer’s wants and needs. With this in mind, we built our Storage Configuration Page to be flexible so that you can make dynamic changes to your design in real time.
+
+Here’s how some of our early beta participants have used the flexibility of Aurora’s Storage Configuration page and how you can use it to close more deals:
+
+First you can kick off the sales consultation using one of Aurora’s smart recommendations based on your customer’s backup requirements.
+If a customer decides that the price point is too high, or that they require less backup, you can use the Backup Percentage and Backup Load toggle fields to increase or decrease these values. This will dynamically change the system price in real time. 
+
+Finally, you can put the finishing touches by changing the battery and inverter combinations based on your customer’s needs and preferred price point.
+
+
+
+
+
+“We found that installers are looking for an easy way to assess battery capacity, select the best battery configuration for their customers, and include it in the costs. Using Aurora, installers will be able to do just that. They won’t need to stitch together and pay for different tools to include storage in their design or sales proposals anymore.”
+Justin Durack-  Vice President of Product
+
+
+
+Ready to Supercharge Your Solar + Storage Sales? 
+If you’d like to see the new feature in action, you can request a demo here, or you can learn more about the feature in one of our live Product Training sessions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

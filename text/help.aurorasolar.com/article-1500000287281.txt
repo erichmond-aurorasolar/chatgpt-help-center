@@ -1,0 +1,385 @@
+Placeholders
+
+Aurora's customizable proposal template includes Placeholders that dynamically populate information when a proposal is generated.
+
+How to add a Placeholder 
+List of Placeholders 
+
+How to add a Placeholder
+To add a placeholder to your proposal template, please follow these steps:
+
+Use an existing text box where you would like to place your placeholder or create a text box within your proposal document.
+Click on the placeholder icon 
+
+In the pop-up box, choose the placeholder you would like to insert. You can search by category or placeholder name. 
+
+
+List of Placeholders
+The following gives a list of all available proposal and their definition, organized by category:
+
+General
+Customer
+Project
+Design
+Storage
+Utility Bill 
+Financing
+Incentives
+Savings
+PPA
+Lease
+Loan
+Environment
+User
+
+General
+
+
+Date: Today's date
+
+Page No: The current page number
+
+Total Pages: The total number of pages in the proposal
+
+Customer
+
+
+Customer Salutation: The salutation of the customer (e.g. "Mrs." or "Dr.")
+
+Customer First Name: The first name of the customer
+
+Customer Last Name: The last name (surname) of the customer
+
+Customer Address: The address of the customer
+
+Customer Email: The customer's email address
+
+Customer Phone No: The customer's phone number
+
+Project
+
+
+Name: The name of the project
+
+Address: The address of the project. Note that this need not be the same as the address of the customer
+
+Consumption Pre-Solar (Yrly Avg): The average annual consumption of the home before solar in kWh
+
+Consumption Pre-Solar (Mthly Avg): The average monthly consumption of the home before solar in kWh
+
+Design
+
+
+Name: The name of the design
+
+System Size (DC, STC): The system size in kWdc
+
+System Size (DC, PTC): The system size in kWdc
+
+System Size (AC): The system size in kWdc
+
+Number of Modules: The number of modules in your design
+
+Number of DC Optimizers: The number of DC optimizers in your design
+
+Number of Inverters: The number of inverters and/or microinverters in your design
+
+Production (Year 1): The estimated energy production of the system in year 1 in kWh
+
+Production (Lifetime): The estimated energy production of the system over its lifetime in kWh
+
+Production (Yrly Avg): The average annual energy production of the system over its lifetime in kWh
+
+Production (Mthly Avg): The average monthly energy production of the system over its lifetime in kWh
+
+Energy Offset % (Yr 1): The percent of the energy consumption of the home/building that the solar system offsets in the first year
+
+Modules: List of solar modules by manufacturer and panel name used in the design, separated by commas
+
+Inverters: List of solar inverters by manufacturer and inverter name used in the design, separated by commas
+
+DC Optimizers: List of DC Optimizers by manufacturer and name used in the design, separated by commas
+
+Storage
+
+
+Battery Manufacturer: The manufacturer name of the battery selected in storage
+
+Battery Name: The name of the battery selected in storage.
+
+
+Battery Quantity: The number of batteries used in storage of the selected battery.
+
+
+Storage System Capacity: The capacity of the storage system in kWh.
+
+
+Storage System Round-Trip Efficiency: The percent of round-trip efficiency of the storage system.
+
+
+Storage System Backup Duration (in days): The number of days the storage system backup lasts.
+
+
+Storage System Backup Duration (in hours): The number of hours the storage system backup lasts.
+
+
+Storage System Backup Peak Power Rating: The peak power rating of the storage system backup in kW.
+
+
+Storage System Backup Continuous Power Rating: The continuous power rating of the storage system backup in kW.
+
+
+Storage System Backup Percentage: The percent of load backed up in the storage system.
+
+
+Storage System Cost (independent of other costs): The cost of the storage system.
+
+
+Utility Bill
+
+
+Utility Pre-Solar: The name of the utility provider before solar
+
+Utility Post-Solar: The name of the utility provider after solar
+
+Utility Rate Pre-Solar: The name of the utility rate before solar
+
+Utility Rate Post-Solar: The name of the utility rate after solar (in case of a rate switch)
+
+Utility Bill Pre-Solar (Yr 1 Total): The sum of the first year's worth of utility bills before going solar (as entered into the consumption page)
+
+Utility Bill Pre-Solar (Yr 1 Mthly Avg): The average monthly utility bill for the first year before going solar (as entered into the consumption page)
+
+Utility Bill Pre-Solar (Lifetime Mthly Avg): The average monthly utility bill if the customer does not go solar over the life of the PV system (including rate escalation)
+
+Utility Bill Pre-Solar (Lifetime Yrly Avg): The average annual utility bill if the customer does not go solar over the life of the PV system (including rate escalation)
+
+Utility Bill Pre-Solar (Lifetime Total): The sum of all electricity bills over the lifetime of the system if the customer does not go solar (including rate escalation)
+
+Utility Bill Post-Solar (Yr 1 Total): The sum of the first year's worth of utility bills after going solar 
+
+Utility Bill Post-Solar (Yr 1 Mthly Avg): The average monthly utility bill in the first year after going solar
+
+Utility Bill Pre-Solar (Final Yr Mthly Avg): The monthly utility bill average during the final year of the project's life if the customer does not go solar (including rate escalation)
+
+Utility Bill Post-Solar (Final Yr Mthly Avg): The monthly utility bill average during the final year of the project's life after going solar (including rate escalation)
+
+Utility Bill Post-Solar (Lifetime Mthly Avg): Average monthly utility bill after going solar over the life of the PV system (including rate escalation)
+
+Utility Bill Post-Solar (Lifetime Yrly Avg): The average yearly utility bill after going solar over the life of the PV system (including rate escalation)
+
+Utility Bill Post-Solar (Lifetime Total): The sum of all electricity bills over the lifetime of the system if the customer goes solar (including rate escalation)
+
+Utility Bill Savings (Yr 1 Total): The total utility bill savings in the first year after going solar
+
+Utility Bill Savings (Yr 1 Mthly Avg): The average monthly utility bill savings in the first year after going solar.
+
+Utility Bill Savings (Lifetime Total): The total utility bill savings after going solar over the life of the PV system
+
+Avoided Cost % of Electric Bill (Yr 1): The percent of the electric bill of the home/building that the solar system offsets in the first year
+
+Financing
+
+
+IRR: The Internal Rate of Return measures the estimated percentage return from the project using the initial cost of the project and an estimate of the future cash flows to determine the interest rate.
+
+NPV: The Net Present Value of the cashflows of the system. This is the sum of all discounted cashflows of the system.
+
+LCOE: The Levelized Cost of Electricity of the system is the net present value of a kW of electricity produced by the solar installation over its lifetime
+
+Payback Period: The simple payback period of the system in years. This is the time it takes to recover the system cost. Note: Future cashflows are not discounted.
+
+Discount Rate: The rate at which future cashflows are discounted to today's dollars (as set in the financial tab)
+
+Project Life: The assumed project life in years
+
+Electricity Rate Escalation: The assumed annual increase in the electricity rate
+
+Degradation Factor: The assumed annual percent value loss of efficiency of the solar system 
+
+Profitability Index: The present value of future cashflows divided by the initial investment
+
+Price Per Watt: The price per watt of the system
+
+System Cost: The total system cost
+
+FIT Revenues (Year 1): The feed-in tariff revenues in year 1
+
+FIT Revenues (Lifetime): The feed-in tariff revenues over the lifetime of the system
+
+PV of Depreciation Benefit: The present value of the tax benefit received from depreciating the PV system
+
+Incentives
+
+
+National CBI (Nominal Value): The sum of all national cost-based incentives
+
+Local CBI (Nominal Value): The sum of all local cost-based incentives
+
+National + Local CBI (Nominal  Value): The sum of all national and local cost-based incentives. This value is nominal, i.e. future cashflows are not discounted.
+
+
+National + Local CBI (Present Value): The sum of all national and local cost-based incentives. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+National + Local PBI (Present Value): The sum of all national and local performance-based incentives. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+Local PBI (Present Value): The sum of all local performance-based incentives. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+Grants: The sum of all grants
+
+CBI Plus Grants: The sum of all cost-based incentives plus any grants
+
+System Cost Less Grants: The system cost less grants
+
+System Cost Less Incentives: The system cost less any incentives, i.e. CBI, PBI, and Grants
+
+System Cost Less Nominal National + Local CBI: The system cost less any national and local cost-based incentives
+
+System Cost with Adders & Discounts: The system cost with adders and discounts 
+
+System Cost Less Incentives with Adders & Discounts: The system cost less incentives, with adders and discounts
+
+Savings
+
+
+Savings (Present Value, Mthly Avg): The average monthly savings over the lifetime of the system. This measure shows you a monthly average of savings you should expect over the entire life of your solar project. It takes into account all of the financial costs and benefits of going solar. This is a present value, i.e. the cashflows are converted into present-day dollars via the discount rate.
+
+
+Savings (Nominal Value, Mthly Avg): The average monthly savings over the lifetime of the system. This measure shows you a monthly average of savings you should expect over the entire life of your solar project. It takes into account all of the financial costs and benefits of going solar. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Savings (Present Value, Yrly Avg): The net present value of all savings over the lifetime of the system. This measure shows you a yearly average of savings you should expect over the entire life of your solar project. It takes into account all of the financial costs and benefits of going solar. This is a present value, i.e. the cashflows are converted into present-day dollars via the discount rate.
+
+
+Savings (Nominal Value, Yrly Avg): The net present value of all savings over the lifetime of the system. This measure shows you a monthly average of savings you should expect over the entire life of your solar project. It takes into account all of the financial costs and benefits of going solar. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Savings (Present Value, Lifetime): The lifetime savings of the system. This measure shows you how much savings you should expect over the entire life of your solar project. It takes into account all of the financial costs and benefits of going solar. This is a present value, i.e. the cashflows are converted into present-day dollars via the discount rate. 
+
+
+Savings (Nominal Value, Lifetime): The lifetime savings of the system. This measure shows you how much savings you should expect over the entire life of your solar project. It takes into account all of the financial costs and benefits of going solar. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Bill Pre-Solar (Mthly Avg): The average monthly bill before going solar
+
+Amortized Cost Post-Solar (Yrly Avg): The average annual amortized cost after going solar, including the utility bill and all costs relating to the solar installation. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+Amortized Cost Post-Solar (Mthly Avg): The average monthly amortized cost after going solar, including the utility bill and all costs relating to the solar installation. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+Amortized Cost Post-Solar (Lifetime): The total cost after going solar, including the utility bill and all costs relating to the solar installation. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+PPA
+
+
+PPA Price (Yr 1): The cost of electricity (per kWh) for year one of the PPA agreement
+
+PPA Escalation: The annual escalation rate of the PPA price
+
+PPA Payment (Upfront): The upfront sum payment prior to getting solar installed under a PPA agreement
+
+PPA Payments (Nominal Value, Lifetime): The total amount of the PPA payments over the lifetime of the agreement. This value is nominal, i.e. future cashflows are not discounted.
+
+
+PPA Payments (Nominal Value, Yrly): The average yearly PPA payments over the lifetime of the agreement. This value is nominal, i.e. future cashflows are not discounted.
+
+
+PPA Payments (Nominal Value, Mthly): The average monthly PPA payments over the lifetime of the agreement. This value is nominal, i.e. future cashflows are not discounted.
+
+
+PPA Payments (Present Value, Lifetime): The total amount of PPA payments over the lifetime of the agreement. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+PPA Payments (Present Value, Yrly): The average yearly PPA payments over the lifetime of the agreement. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+PPA Payments (Present Value, Mthly): The average monthly PPA payments over the lifetime of the agreement. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+Lease
+
+
+Lease Escalation: The rate at which lease payments will increase every year
+
+Lease Payment (Upfront): The upfront payment prior to getting solar installed using a lease option
+
+Lease Payments (Yr 1 Mthly): The monthly lease payments during the first year of going solar
+
+Lease Payments (Nominal Value, Lifetime): The total amount of lease payments over the lifetime of the system. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Lease Payments (Nominal Value, Yrly): The average yearly lease payments over the lifetime of the system. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Lease Payments (Nominal Value, Mthly): The average monthly lease payments over the lifetime of the system. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Lease Payments (Present Value, Lifetime): The total amount of lease payments over the lifetime of the system. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+Lease Payments (Present Value, Yrly): The average yearly lease payments over the lifetime of the system. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+Lease Payments (Present Value, Mthly): The average monthly lease payments over the lifetime of the system. This is a present value, i.e. the cashflows are converted into present-day dollar via the discount rate
+
+Loan
+
+
+Down Payment: The down payment of the system
+
+Loan Payments (Nominal Value, Lifetime): The sum of all the loan payments over the life of the loan. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Loan Payments (Nominal Value, Yrly): The average annual loan payment over the life of the loan. This value is nominal, i.e. future cashflows are not discounted. 
+
+
+Loan Payments (Nominal Value, Mthly): The average monthly loan payment over the life of the loan. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Loan Payments Before Re-Amortization (Nominal Value, Mthly): The average monthly loan payment before re-amortization. Reamortization occurs when the lender recalculates the monthly payments in the second term of a loan or after a prepayment. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Loan Payments After Re-Amortization (Nominal Value, Mthly): The average monthly loan payment after re-amortization. Reamortization occurs when the lender recalculates the monthly payments in the second term of a loan or after a prepayment. This value is nominal, i.e. future cashflows are not discounted.
+
+
+Loan Payments (Present Value, Lifetime): The present value of all loan payments over the lifetime of the loan
+
+Loan Term Length: The full length of the loan term(s)
+
+Interest Rate: The interest rate(s) associated with the loan
+
+Total Interest Paid Over Loan Term: The total amount of interest that will be paid over the full term of the loan.
+
+Environment
+Environmental placeholders give customers a sense of the positive environmental impact of going solar. These placeholders visualize the CO2 reduction of the solar system. The calculations for these estimates can be found here.
+
+
+Vehicles Per Year: The equivalent number of vehicles taken off the road
+
+Miles Per Year: The number of miles driven that would be offset by the system
+
+Tanker Trucks of Gas: The equivalent number of tanker trucks full of gas avoided
+
+Barrels of Oil: The number of barrels of oil that would have been necessary to produce the energy produced by the system
+
+Trees Planted: The number of trees that would have to be planted for an equivalent reduction in CO2 emissions
+
+Acres of US Forest: The number of acres of US forest that would have to be planted for an equivalent reduction in CO2 emissions
+
+Railcars of Coal: The number of railcars full of coal that were avoided in terms of CO2 emissions
+
+Pounds of Coal: The number of pounds of coal that were avoided in terms of CO2 emissions
+
+User
+User placeholders pull in information about the currently logged-in user (the one generating the proposal). For example, this allows you to populate the proposal with information about the salesperson who has been interacting with the client.
+
+
+User First Name: The first name of the currently logged in user
+
+User Last Name: The last name (surname) of the currently logged in user
+
+User Title: The title of the currently logged in user
+
+User E-mail: The email of the currently logged in user
+
+User Phone No: The phone number of the currently logged in user
+
+Organization Address: The address of your company/organization
+
+Organization Name: The name of your company/organization
+
+ 

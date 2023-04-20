@@ -1,0 +1,525 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How to Optimize Your Solar Designs for New Net Metering Rules | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How to Optimize Your Solar Designs for New Net Metering Rules                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you’re a solar salesperson or contractor in the U.S., you know that net energy metering (NEM) policies—which traditionally pay solar system owners the retail electricity rate for the solar energy they produce—play a key role in providing a strong return on a solar investment.
+But you may also have observed the trend of utilities around the country, modifying and scaling back their net metering rules. We took a close look at this a phenomenon in our recent white paper, Analysis of U.S. Net Metering Policy Changes in the United States, so we could tell you the impact of specific policy changes and how to adapt to them.
+In our previous article, we shared our findings on how some of these common net metering changes impact solar customers’ solar savings and utility bills. This follow-up blog post provides a quick visual summary of how those rules result in new design rules of thumb to maximize your customers’ solar savings. (In our white paper we provide more detailed recommendations for maximizing NPV under specific utility’s policies.)
+Designing Around Export Rules
+NEM rules that reduce the value of exported solar energy will impact all customers who export energy to the grid. One bright side is that customers who self-consume all of the energy their PV system produces won’t be bothered by the change.
+Here’s a convenient way to look at the customer’s annual utility bill against their energy offset level, for a household with moderate energy consumption:
+
+The important points on this graph are where the chart “bottoms out”—this represents where a customer’s bill is comprised only of minimum or fixed charges. Adding more PV panels after this point won’t increase the customer’s solar savings any further. While some customers might see a small amount of cash credit from net surplus compensation, it doesn’t justify the additional cost to increase the system size.
+A second important takeaway is that the reduction in exported value—whether it be from a non-bypassable charge, fixed export rate, or percentage reduction—results in needing a larger system (read: greater energy offset) to reach that level.
+If we look at the Net Present Value of a PV system (essentially the equivalent cash value of all of the costs and savings for the project) it tends to get maximized at the point which the customer’s bill is minimized.
+
+Looking at the curves, it’s clear that these value-reduction rules reduce NPV; however, in many cases, they also move the peak of that curve further to the right: customers need a larger system to maximize their NPV. Installers could use this to try to upsize systems creating a win-win for both themselves and customers, but they should also be careful to not exceed sizing limitations of the customer’s utility. For example, NV Energy has a fairly strict 100% offset limit which puts the target 105% out of reach, but other areas do offer the option to go larger.
+Finding the Best Payback Period
+The payback period of the system is how long it takes for a customer to recoup their investment, in terms of nominal dollars. An interesting case with a tiered rate structure is that a partial-offset system, say around 50%, might offer the minimum payback period because it offsets the more expensive energy in higher price tiers. Adding on more PV after this point is still advantageous in terms of NPV, but it will increase the payback period by a few months to a year.
+However, in the case of utilities that have implemented a flat export rate for solar customers instead of pricing their exported energy based on their current usage tier, you lose this effect. There’s no longer an incentive to sit at the midpoint of energy offset to reduce payback time.
+
+Sizing Guidelines Under Disadvantageous Expiration Policies
+There are several states and utilities that have established expiration times for accrued solar energy credits that are disadvantageous for the solar customer. The seasonal nature of solar makes it so that a credit expiration cycle at the end of summer or early winter forces the homeowner to buy energy in the winter months without the option to offset these costs with credits from their prior solar energy production.
+We found that customers whose utilities do not allow them to carry net metering credits from one month to the next (or who only get wholesale avoided cost compensation) will start to lose credits if their system offset is greater than 70%. That might be a reasonable threshold to target when designing in regions that have this ruleset.
+For customers with a specified annual credit expiration cycle, the decision is a little more complex. Customers with an expiration month in June, July, and August will often see credit loss above a 75% offset threshold. If the cycle ends in April, May, September, or October the threshold is around 85%, and November, December, and January expirations might see losses at a threshold of 90%. February and March expiration months are almost equivalent to a utility policy where the credits aren’t reset every year.
+
+Finding the optimal solar design for your customer can be challenging and utility changes to net metering rules add additional complexity. However, having a solid grounding in these best practices can help.
+To see our full findings on this topic, including specific recommendations for how much of your customer’s energy consumption to offset in different utility regions, download the complete white paper.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

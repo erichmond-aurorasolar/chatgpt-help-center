@@ -1,0 +1,62 @@
+3. Analyze Shading, How to Place Modules, and Simulating Energy Output
+
+After you have completed your site model, you are ready to design a solar installation for the customer. 
+
+Shading Analysis
+
+Click the Irradiance button in the top toolbar.
+Hover your mouse over the roof surface to retrieve point Irradiance, Solar Access, TSRF, and other values.
+
+
+     3. To get interactive monthly charts, click the arrows on the top right corner of the irradiance     summary box.
+The shading analysis confirms the southern roof face is a good fit for solar panels.
+Fill Roof Face Module Placement
+Much of the time, you're interested in fitting as many modules on a roof as possible and removing as necessary. Aurora's Fill Roof Face feature allows you to do this easily.
+
+Click System in the left toolbar. Select Insert Panels and choose Modules (press the M key as a shortcut). 
+
+Next, choose the 'Aurora Sample Solar Panel' from the dropdown, and the 'Aurora Sample Micro-Inverter [250W].'
+Click the Fill Roof Face button. Select a roof to fill the available space with modules.
+
+
+Manual Module Placement
+
+Click the System button in the left toolbar. Select Insert Panels and choose Modules (M).
+
+Fill in the information for the type of module you would like to input. Aurora has a vast database of components that you can star and make available in this list. For now, enter the following:
+
+
+Module: Aurora Sample Solar Panel
+Microinverter: Aurora Sample Micro-Inverter [250W]
+Orientation: Portrait
+
+     3. Click and drag on the roof surface to place your array.
+
+Moving Individual Modules
+
+Click and drag a module to move it.
+Select multiple modules by holding down the shift key as you click on modules. Drag them to move jointly.
+
+Box Selecting Multiple Modules
+
+Click and drag a rectangle that covers part of the array.
+Click and drag to move it over to a different side of the roof.
+
+
+Deleting Individual Modules
+
+Select some of the modules, either by holding down the shift key and clicking, or clicking and dragging to highlight multiple modules.
+Hit the delete key on your keyboard.
+
+
+Click and drag the camera cube/ring to shift the orientation of your layout view. You can also right click and drag to shift the orientation.
+
+Once you have completed your system design, Aurora can simulate how much energy the system will generate over time and then evaluate the financial return of the design.
+Simulating Energy Output
+
+In your design click the Simulate button on the right and wait for the simulation to run.
+Once completed, click on the downward triangle next to the Simulate button to view a bar chart showing how much energy the system generates and efficiency losses.
+
+
+Simulating the energy output paves the way for financial analysis.
+Next: Create a Financing Option and Generate a Sales Proposal

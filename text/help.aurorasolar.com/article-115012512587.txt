@@ -1,0 +1,22 @@
+9/15/17 Release Notes
+
+
+UI improvements
+
+Revamped the placeholder modal in the proposal template
+
+placeholders are placed in categories
+a description has been added for each placeholder
+an example of the placeholder has been added 
+
+
+
+Default 'textured' option to be unchecked when activating LIDAR feature
+Street view automatically activates when selecting the Envision tool (3D measurement and Measure Roof Plane) in the site model
+Increased opacity for rotator node on rectangular obstructions
+Renamed "Rack/carport" to "Ground Mount / Carport"
+Added descriptions to utilities template
+Changed names in the electricity rate section of the financing page from "NEM(Flat)" and "NEM(TOU)" to "NEM(Quick Estimate)" and "NEM(Utility Rate)" 
+Added a confirmation modal before deleting a proposal template
+
+

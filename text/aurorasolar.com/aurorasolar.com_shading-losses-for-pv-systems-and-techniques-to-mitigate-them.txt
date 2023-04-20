@@ -1,0 +1,694 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Shading losses in PV systems, and techniques to mitigate them | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    7 min read                                
+
+
+                            Shading losses in PV systems, and techniques to mitigate them                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the fifth installment in our six-part series on Solar PV Installer Basics 101. In the previous article, we covered how to correctly size a customer’s solar photovoltaic (PV) system based on their energy bills. This analysis offers a useful baseline. But for optimal results, it is important that your solar designs also factor in potential losses stemming from PV system shading.
+Mitigating this problem is the subject of today’s article. Need more information on PV system losses in general? Download The Ultimate Guide to PV System Losses.
+Click above to download our full guide to PV system losses.
+What is PV system shade loss?
+Solar photovoltaic (PV) systems generate electricity via the photovoltaic effect — whenever sunlight knocks electrons loose in the silicon materials that make up solar PV cells. As such, whenever a solar cell or panel does not receive sunlight — due to a shading or nearby obstructions — the entire installation generates less overall solar power. This phenomenon is known as PV system shade loss.
+Shading can come from a variety of different sources, including:
+
+Nearby objects, such as buildings, trees, antennae, or poles
+“Self-shading” from other PV panel rows
+Horizon shading from the terrain surrounding the installation site
+Other factors such as panel orientation, soiling, or differential aging 
+
+
+Understanding the effects of shade on PV output
+Intuition suggests that the power output of the panel will be reduced proportionally by the area that is shaded. 
+However, this is not the case. 
+In his book, Renewable Energy and Efficient Electric Power Systems, Stanford University’s Gil Masters demonstrates how shading just one out of 36 cells in a small solar module can reduce total power output by as much as 75%.
+That’s right.
+Shading just 1/36 of the cells can reduce power output by 75%.
+Click above to download our full guide to PV system losses.
+Why can minimal shading cause severe power loss?
+To conceptualize why shading results in such severe losses, it is helpful to use the analogy of water flowing in pipes. The flow rate of water through the pipe is constant, much like the current through a cell string is constant for a given irradiance level.
+Analogy of a water pipe to a string of solar cells.
+Shading a solar cell is similar to introducing a clog in a water pipe. The clog restricts the flow of water through the entire pipe. Similarly, when a solar cell is shaded, the electrical current through the entire string is reduced.
+This is significant because every PV cell in the cell string has to operate at the current set by the shaded cell. This limitation prevents the unshaded cells from operating at peak performance. In essence, every solar cell is like a link in a chain. The shaded cell is the “weakest link,” reducing all the remaining cells’ power availability. This explains why even partial shading can have such a dramatic effect on the total power output of a solar PV system.
+Similar principles apply to PV modules connected together. 
+The current flowing through an entire string of modules can be heavily reduced if even just a single module is shaded. As a result, the entire PV system underperforms — failing to deliver the energy, savings, and carbon offsets the customer is expecting.
+How to reduce shading losses
+As an installer, there are a number of different solar design strategies you can use to reduce shading losses. These include using different stringing arrangements, bypass diodes, and module-level power electronics (MLPEs).
+1. Stringing Arrangements
+Modules connected in series form strings, and strings can be connected in parallel to an inverter. The electrical current through all the modules of a string must be the same. By contrast, the voltage of parallel strings must be the same. 
+As we saw in the last section, a shaded module in a string can bring down the power output of the string significantly. However, a shaded module in one string does not reduce the power output of a parallel string. Therefore, by grouping shaded modules into separate strings, it’s possible to maximize the total overall power output of the solar array.
+For example, in a commercial system with parapet walls, it can be beneficial to group modules that receive shade from the parapets into strings — and keep modules that do not receive shade in separate, parallel strings. This way, the unshaded strings can maintain a higher current and power output.
+2. Bypass Diodes
+Bypass diodes are devices within a module that allow the electrical current to “skip over” shaded regions of the solar module. By using bypass diodes, the higher current of the unshaded cell strings can flow around the shaded cell string. However, this comes at the expense of losing the solar output of the PV cells that are skipped over.
+In theory, you could install a dedicated bypass diode for each solar cell. But for cost reasons, a typical solar module will have only three bypass diodes, effectively grouping the cells into three series cell strings (see below). For instance, a 60-cell module will typically have one bypass diode for every 20 cells.
+PV module containing three cell strings in series, each with a parallel bypass diode.
+3. Module Level Power Electronics (MLPEs)
+MLPEs are devices that are attached to individual modules to increase performance under shaded conditions (though there are other benefits, such as mismatch mitigation and module-level monitoring). 
+This is done by performing maximum power point tracking at the module level. MLPEs include DC optimizers and microinverters.
+DC Optimizers
+A DC optimizer adjusts its output voltage and current to maintain maximum power without compromising the performance of other solar modules.
+For instance, when a shaded module produces electricity with a lower electrical current, the DC optimizer will boost the current at its output to match the current flowing through the unshaded modules. To compensate, the optimizer reduces its output voltage by the same amount it boosts the current. This allows the shaded PV module to produce the same amount of electrical power without impeding the output of other solar modules. A system using DC optimizers still needs an inverter to convert direct current (DC) electricity into alternating current (AC) power for the home or business.
+Microinverters
+Instead of having a single solar inverter servicing all of the PV panels in a system, each panel can have a small “microinverter” attached to it to convert its output from DC to AC. Since each microinverter has an MPPT, and their outputs are connected in parallel, each panel will operate at its maximum power point — without impacting the other panels in the PV system.
+A simplified schematic of a PV system using microinverters (top) and a PV system using DC optimizers (bottom). 
+Shade loss techniques compared using Aurora Solar
+Using Aurora Solar’s PV design simulation engine, we compared the performance of three different photovoltaic systems under similar shading conditions. 
+As shown in the figure below, we placed a 3.12 kW system near the edge of a roof, which has tall trees next to it. Note that while this design effectively showcases the performance difference of these system topologies in shaded conditions, it is not necessarily an optimal —or even a practical — design. Our findings are summarized in the “Results” table below.
+The system analyzed for this case study featured a 3.12 kW system that is partially shaded by trees.
+Results
+Results from PV system performance simulations on a Palo Alto home using different MLPE components. The difference between the two MLPE outputs is attributed to the differences in their inverters’ efficiencies.
+
+
+
+System Topology
+Annual Yield
+Improvement with MLPEs
+
+
+String Inverter
+2,585 kWh/year
+N/A
+
+
+Microinverters
+3,033 kWh/year
++17.3%
+
+
+DC Optimizers
+3,035 kWh/year
++17.3%
+
+
+
+Our results show that using MLPEs under these conditions increases system output by 17.3% annually. The effective yield of a PV system using a microinverter or a DC optimizer is approximately the same, although there could be small differences (+/- 1%) in some cases due to efficiency curve variations.
+For the same reason that they can mitigate shade losses by decoupling module output, MLPEs can eliminate module-to-module mismatch losses. These losses are typically caused by manufacturing variations that lead to slight differences in the electrical characteristics of two solar PV modules of the same type. Since MLPEs allow the modules to operate independently of one another, these variations will not impact the PV system’s overall performance.
+Solar Installer Basics 101: A Series
+Shade Losses for PV Systems (and How to Mitigate Them) is the fifth installment in Solar PV Installer Basics 101 — a comprehensive 6-part series designed to help installers navigate the industry’s fast-evolving solar terrain.
+Learn more about the fundamentals of solar by subscribing to our blog.
+See the other articles here:
+Part 1: The Beginner’s Guide to Solar Energy (Updated 11/9/2022)Part 2: How a Photovoltaic System Produces Electricity (Updated 11/10/2022)Part 3: Reading Your Electricity Bill: A Beginner’s Guide (Updated 11/15/2022)Part 4: How to Size a PV System from an Electricity Bill (Updated 12/9/2022)Part 5: Shade Losses for PV Systems, and Techniques to Mitigate Them (Updated 12/12/2022)Part 6: The Basic Principles that Guide PV System Costs (Updated 12/13/2022)
+Click above to download our full guide to PV system losses.
+Have more questions? Schedule a quick, no-pressure demo to learn more.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Basics                
+
+
+
+                    Solar 101                
+
+
+            1 min read        
+
+
+
+            How does a PV system produce electricity?        
+
+
+
+
+
+
+ 
+
+
+
+                    Efficiency                
+
+
+
+                    Installation                
+
+
+            1 min read        
+
+
+
+            Four Steps to Optimize PV System Performance in Shaded Conditions        
+
+
+
+
+
+
+ 
+
+
+
+                    Solar 101                
+
+
+
+                    Technology                
+
+
+            8 min read        
+
+
+
+            A Guide to Solar Panel Efficiency        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

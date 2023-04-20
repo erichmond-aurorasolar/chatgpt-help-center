@@ -1,0 +1,49 @@
+Aurora AI in Design Mode
+
+Using HD satellite imagery and LIDAR data, Aurora AI in Design Mode allows users to automatically detect and generate roof faces and obstructions within Design Mode using Aurora’s AI technology.
+*Please note that Aurora AI is an add-on to Custom Plans. To learn more and gain access, reach out to your account team.
+
+Aurora AI automatically detects and generates roof models in about 30 seconds, or even faster for simple roofs. To get started, follow these steps:
+1. In order to enable Aurora AI, the app will first load LIDAR and HD imagery for the site.
+
+If LIDAR or HD imagery are not available, the app will show a warning message that the AI Roof feature will not be accessible. In these cases, you can manually draw the roof faces from Design Mode.
+
+2. When available, select one of the roof options under the Roof section in the Site menu:
+
+
+AI SmartRoof: When selected, Aurora AI will generate a SmartRoof output, which infers the inner faces and allows users to edit and delete faces in the context of the whole roof.
+
+
+To learn more about SmartRoof, see New Aurora: Roof Design Training.
+
+
+
+
+AI Roof faces: When selected, Aurora AI will generate an output of roof faces, which allows users to create and manually edit each face in isolation.
+
+
+3. If there are already roofs in the design, a modal will pop-up with the option to keep or override existing roofs with the AI Roof. Click “Override roofs” to continue running Aurora AI.
+
+4. The app will run AI Roof and generate the roof faces. 
+
+A warning message will be displayed if any issues are encountered during the AI Roof process. If an error occurs, you can manually draw the roof faces in Design Mode.
+
+5. The roof faces can then be edited or modified as necessary. 
+
+ 
+FAQ
+How do I decide to run AI SmartRoof or AI Roof faces?
+When deciding which AI roof option to run, take these considerations into mind:
+
+
+AI SmartRoof: Most designers prefer editing SmartRoof roof models, as it offers a faster and easier way to edit roofs. However, when running AI SmartRoof on more complex roofs, the algorithm may take longer to run, generate a less accurate result, or be more likely to produce an error result.
+
+
+AI Roof faces: The roof faces model offers more flexibility when editing individual roof faces, and may be more reliable in generating a roof.
+
+
+ 
+What type of roof appears when I run Aurora AI in Sales Mode?
+You can configure your account from the Settings page to select which type of roof you’d like Aurora AI to run in Sales Mode: (1) SmartRoof or (2) Roof Faces. 
+
+ 

@@ -1,0 +1,6 @@
+1/06/2022 - Release Notes
+
+Features Updated
+
+Activating and deactivating panels is now easier in Sales Mode. We've added the ability to toggle a particular panel on and off with a single tap or deactivate multiple panels by dragging your finger over your target panels. 
+Double tap a panel within an array to activate or reactivate the entire array.

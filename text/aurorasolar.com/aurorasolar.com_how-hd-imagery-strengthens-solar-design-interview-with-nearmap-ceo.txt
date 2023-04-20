@@ -1,0 +1,534 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How HD Imagery Strengthens Solar Design: An Interview with Nearmap CEO Rob Newman | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How HD Imagery Strengthens Solar Design: An Interview with Nearmap CEO Rob Newman                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here at Aurora, we’re a bit obsessed with how technology can improve the work of solar installers. From reducing site visits through remote solar design to ensuring accurate energy production estimates, we’re all about tools to help solar businesses overcome barriers and lower costs.
+
+The foundation of any good solar design is some sort of georeferenced image. Whether it comes from satellites, drones, a new construction blueprint overlaid on a map, or a low-flying plane, Aurora’s solar design and sales process starts with imagery. That is why we are thrilled to announce a brand new partnership with Nearmap, a leading aerial imagery provider operating in the U.S., Australia, and New Zealand. Nearmap is the 2017 Award Winner of the Esri Partner Conference Best New Content Partner.
+In our unique configuration, Aurora customers can now access high-definition Nearmap images directly in our application by purchasing bundles or by linking Aurora with a Nearmap account. 
+To highlight what this means for solar companies, we spoke with Dr. Rob Newman, CEO of Nearmap.
+Dr. Rob Newman, CEO of Nearmap.
+An engineer by training, Dr. Newman has a unique track record as a successful technology entrepreneur in both Australia and Silicon Valley. He founded two technology companies that successfully entered overseas markets with a combined market value of over $200M. Prior to joining Nearmap, Dr. Newman spent ten years as a venture capitalist, co-founding Stone Ridge Ventures, where he focused on identifying disruptive technologies with global potential.
+For those who aren’t familiar with Nearmap, what does Nearmap do and why are your services important for solar companies?
+What Nearmap does is capture the truth on the ground. So, what does that mean? We have camera systems in planes flying over approximately 400 cities in the U.S. capturing highly accurate aerial imagery. You can think of that aerial imagery as “satellite imagery on steroids.” 
+For a solar company, if you’re developing a quote or planning an installation, the higher fidelity and clarity of the imagery you’ve got, the easier it is to determine things like what roof type it is, what obstructions are on the roof, and whether there are trees nearby.
+The clearer and more up-to-date the imagery, the better it is for the company doing the design.  
+Have you seen Nearmap’s imagery transform the work of solar companies? If so, can you share some insights into how?
+Yes, in fact a big part of our business in the U.S., about 20%, is with solar companies. The reason that they’re using our imagery, combined with tools like Aurora, is that it really does transform their work.
+Often what we hear from solar companies is that they conduct several site visits in the process of quoting and planning a job. By having high-resolution, up-to-date aerial imagery you can remove many of those site visits. 
+One of the most powerful examples we’ve heard of how that is transformative for solar companies is that it improves the likelihood of winning business. Imagine, for example, that you’re on the phone with a potential customer and they say they’re interested in a 5 kilowatt system. If you say, “I’ll come out in three days to look at your roof,” in the meantime, that customer may get cold feet and call another company.
+In contrast, if you’ve got high-resolution imagery in front of you, you can give them an accurate quote over the phone. 
+Catching the customer at that first point of inquiry and having accurate imagery on hand really improves the likelihood you’re going to win their business.   
+You mentioned that you can think of Nearmap as “satellite imagery on steroids.” Can you share some of the features of Nearmap imagery you’re most proud of?
+When we talk about what differentiates Nearmap imagery, we highlight our “4 Cs”: Clarity, Currency, Change, and Consistency. So what do those mean?
+Clarity is: “how clear is the imagery?” In terms of the amount of data you see around a particular site, Nearmap imagery is much clearer. That clarity makes a big difference, for instance, when installers are trying to figure out if there is a vent on the roof or if it’s just a shadow.
+The next one is how current the imagery is; we’re flying very regularly over all the major cities in the U.S. That means if we offer imagery in your area, you’ve got an up-to-date image. [Editor’s note: In Aurora you can see the actual day of capture.]
+This frequency is also useful for seeing change over time. You can look back and see the site in different seasons with leaves on and leaves off. If there are features that are hard to see in one picture because of foliage, you can look at another picture to get the detail you need and see the change over time because we capture imagery multiple times per year. 
+Last is consistency. We always deliver our imagery at the same high-resolution. Other services out there have what one of my colleagues calls a “patchwork quilt.” There is different imagery quality in different areas, whereas with Nearmap it’s always the same consistent quality. 
+Those 4 Cs all matter when you’re relying on accurate imagery to develop your quotes and run your solar business. And here’s one more for you—cloud-based; Nearmap imagery is instantly accessible in the cloud.  
+With your extensive experience as a technology entrepreneur, what are the markers you look for when determining if a technology has the potential to transform an industry? How does that inform your perspective on Nearmap’s potential impacts for the solar industry?
+That’s a really good question. A few years ago, when I was still a venture capitalist, I conducted a retrospective review of every investment or company I had ever been involved with and looked at all the factors that drove success. 
+I found that there are two factors that stand way above everything else: Does the product provide a times ten transformation for the customer? And, is the management team strong? Those two things determine, almost exclusively, the success of a company. 
+In terms of the times ten transformation, a lot of companies provide technology breakthroughs but if those breakthroughs aren’t relevant to the customer then it doesn’t matter. I’m always looking for that times ten value add for the customer’s workflow.
+In the case of Nearmap and Aurora, taking the quoting process from days down to hours and enabling greater accuracy—that’s a transformation that makes a significant difference to our solar company customers. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

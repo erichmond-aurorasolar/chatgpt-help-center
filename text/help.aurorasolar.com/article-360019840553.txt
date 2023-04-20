@@ -1,0 +1,7 @@
+03/15/2019 Release Notes
+
+New Features:
+
+Streetview measurements: The Streetview Ruler tool provides 3D measurements of trees, building heights, obstructions, and roof pitches that are visible in Streetview. These measurements can help refine 3D measurements from LIDAR or provide accurate measurements where LIDAR is not available.
+
+ 

@@ -1,0 +1,8 @@
+03/23/2022 - Release Notes
+
+Features Updated
+
+Corrected an issue causing a delay in updates being delivered to the design_summary API endpoint after a design is updated in the UI.
+Corrected an issue causing walls to disappear from a model if a large number of obstructions were added in a single session. 
+Corrected an issue where adding dormers would invalidate a SmartRoof model.
+Corrected an issue where the System Size (AC) proposal placeholder would populate as 0 for systems using modules with integrated Microinverters. 

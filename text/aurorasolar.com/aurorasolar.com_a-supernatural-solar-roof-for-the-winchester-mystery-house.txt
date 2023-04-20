@@ -1,0 +1,554 @@
+
+
+
+
+
+
+
+
+
+
+
+
+A Supernatural Solar Roof for the Winchester Mystery House | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            A Supernatural Solar Roof for the Winchester Mystery House                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here at Aurora, we spend a lot of time thinking about roofs in our quest to enable any solar professional to design and sell an optimal solar project in minutes. We featured Michelle Meier, who helps roofers go solar, and we paid close attention to Elon Musk’s vision of roofs made out of solar cells.
+
+While there are still gaps in what we know about Tesla’s Solar Roof, one of its benefits could be that it allows solar to fit on some complex roofs that are not well suited to conventional panels. Each solar tile is less than a square foot, which should allow for more flexible design.
+With that in mind, for this edition of our Solar Landmark series, we set ourselves the task of finding an intricately complex home to model in Aurora. We were fortunate enough to come across one in our own backyard: the Winchester Mystery House.
+
+Winchester Mystery House. Source: Google Maps Street View , image capture August 2016. ©2017 Google.
+Winchester Mystery House: A Haunted Building with a Haunting Roof
+Anyone who grew up in the South Bay of California remembers their first time at the Winchester Mystery House. I went on a Friday—Friday the 13th, to be precise—and while my very rational 8-year-old mind reminded me that the doorknob rattling was probably an employee, my skin couldn’t help but crawl.
+Now, decades later, I continue to be spooked by the house; not so much by the ghosts that haunt the halls, but moreso by the complex roof planes that I tried to tackle with Aurora. Still, in the name of our Solar Landmarks series, I persevered (and by that I mean I enlisted Aurora’s customer success star, Victor), and now we can exorcise the ghouls with the power of sunshine.
+For those who don’t know about the Winchester Mystery House, it really is an enigmatic building. Its curious creation and elongated evolution all started with a rifle: the Winchester rifle.
+Though the rifle business boomed, the Winchester family was struck with tragedy. Devastated by the untimely deaths of her newborn daughter and her husband, heiress Sarah Winchester turned to a spiritual medium who counseled her that the family was cursed by the spirits of those killed by the Winchester rifle. Believing that the unceasing construction of her house would appease the ghosts, Sarah enlisted craftsmen to build, alter, and demolish 24 hours a day, 365 days a year for 36 years.
+Now, the Winchester Mystery House serves as a public oddity that haunts to this day. Staircases lead to nowhere. Cabinets the size of apartments share a wall with an inch-deep cupboard. Trap doors open treacherously onto the garden below and doors open to reveal walls.
+But what if it wasn’t just a spooky attraction, but a showcase of solar innovation?
+Assessing the Roof’s Solar Potential
+Fortunately modeling the Winchester Mystery House in Aurora, while complicated, did not take 36 years like the original building. We started out by drawing over the satellite image in our software. We were thankful to have Aurora’s Automatic Edge Detection algorithm, which automatically calculated what direction each of the roof planes faced (the azimuths). There were well over 200 unique azimuths — we couldn’t imagine doing all that by hand!
+
+An aerial view of the site model of the Winchester Mystery House, as designed in Aurora. The arrows indicate the azimuth of each roof plane, automatically calculated by Aurora’s Automatic Edge Detection feature.
+Once we were done with the 2D model, we tailored our model in 3D space. Fortunately, this building has LIDAR data, which allowed us to ensure our model perfectly matched the actual Winchester Mystery House’s roof height and roof slopes.
+
+Aurora’s site modeling capabilities allow you to view satellite map imagery alongside your 3D model, making it easier to ensure accuracy.
+The final step in the process was to assess the energy potential of the roof. It is important to note that at the time of publication, there is a dramatic difference  in the cost of Tesla’s energy-producing Solar Roof tiles ($42 per square foot), versus its non-energy producing tiles ($11 per square foot). Therefore, we wanted to make sure we are only placing the energy producing tiles in the most important locations. The final result was a gorgeous and informative heat map (below) that outlined the building’s solar potential.
+
+Irradiance map showing the solar potential of each part of the Winchester Mystery House’s roof.
+Aurora’s system design portal also provided us with useful information on the available roof surface area. We found that the roof has a surface area of 33,234 square feet. However, we know not all of this area is a good fit for the energy producing roof tiles. For example, the Solar Roof tiles can only be installed on a surface that has at least a 3:12 or steeper slope. This ruled out the entire roof on the north side of the site (shown below) which, despite being relatively shade-free, was completely flat.
+
+Aurora’s irradiance map feature provides solar access and irradiance values for each point on the roof.
+To determine which areas we wanted to place energy producing tiles on, we set the following criteria:
+
+The roof had to have a pitch of 25 degrees or more
+The roof area has to have at least 500 contiguous feet
+The average Solar Access percentage for the roof surface had to be greater than or equal to 80%
+
+After we filtered by this criteria we found only 6,994 square feet of the Winchester Mystery House’s intricate roof were solar eligible, or approximately 21% of the surface area.
+Calculating Solar Roof Returns
+To calculate the financial benefits of the Solar Roof we used Tesla’s online calculator. There are three key inputs into the calculator:
+
+The building’s current average monthly utility bill
+The total roof area
+The percentage of the roof area that will be covered by energy-producing tiles
+
+We used an estimate of 15,000 kWh per month (approximately 15 times more than the average energy consumption of a 2,000 square foot American home). We entered this value into Aurora’s Consumption Profile Tool which gave us an estimated monthly bill of $5,825 (see below).
+
+With the input of energy consumption or bill amount for a given month (or as many as you have data for), Aurora’s Consumption Profile tool can generate estimated monthly utility bill and energy consumption data for the full year. (The tool can also utilize Green Button Data.)
+As discussed above, we have a total roof area of 33,234 square feet, of which about 21% of the surface area is a good fit for solar. The Tesla Solar Roof requires a Powerwall battery which was included in our analysis.
+The final result was an extra $186,600 dollars earned by the Winchester Mystery House over the next 30 years. Apparently, that’s more than enough  money to hire a team of over 300 fully qualified ghost hunters to help resolve the secrets of the Winchester Mystery House!
+
+Tesla’s Solar Roof calculator, reflecting the values of our analysis for the Winchester Mystery House.
+Whether you believe in ghosts, or are more frightened by the thought of the monstrous electricity bills the Winchester Mystery House must have, we hope this landmark solar design makes this spooky landmark a bit brighter.
+If it’s the idea of modeling a roof like this that sends a shiver down your back, sign up today for a demo of Aurora’s solar design and sales software to see how our remote solar design capabilities can save you time, money, and stress.
+
+Have ideas for future solar landmarks? We’d love to hear from you. Tweet @aurorasolar with the hashtag #SolarLandmark to submit your suggestions!
+Acknowledgments: This article is the result of contributions from several members of the Aurora Team. Special thanks are owed to Customer Success Analyst Victor Ionin for modeling the Winchester Mystery House in Aurora’s software, and COO Samuel Adeyemo for analysis of the solar potential of the site and financial analysis of the proposed project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

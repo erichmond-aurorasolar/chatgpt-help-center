@@ -1,0 +1,8 @@
+Bonus: Using LIDAR for Your First Residential Project
+
+
+Congratulations! You have just created a site design and sales proposal from scratch.
+What's next?
+This series covered all of the steps for a basic design in Aurora. If you are an engineer or system designer, we recommend you visit our Engineering Training for further instruction.
+If you are an account administrator, we recommend you visit Configuring Your Account to make available all the components and utility rates that you will use in your projects.
+If you have questions, please email support@aurorasolar.com with questions.

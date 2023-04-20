@@ -1,0 +1,19 @@
+1/26/18 Release Notes
+
+ 
+
+Depreciation adjustment for 2018 Tax Act
+
+Bonus depreciation at 100% or 50%- Existing commercial projects should be at 0% or 50% depending on what they had originally been.
+
+
+
+
+You will see three options to select from: Input Consumption by Bills (US Only), Directly Input Consumption by Bills (for both US and International), and Upload File. 
+
+The first option, Estimate consumption by Bills(US Only), is a quick way to get an idea of what a client’s consumption patterns look like, based on a few months of data, and typical consumption patterns in the area. Please note this option is only available in the United States. The more bill values that are inputted will help provide the most accurate estimate.
+The second option is to Directly Input Consumption by Bills, this allows you to have a more precise calculation of the homeowners energy consumption pattern and bills. Please note that you need to have 12 months worth of data to achieve best results with this option. This is available for all users in the US and internationally.
+The third option, Upload File, allows you to upload a CSV or Green Button Data XML file to input a consumption profile. For each option, you will want to choose the location, your customer’s Utility Provider, Utility Rate, and the Rate Effective Period.
+
+
+Learn more about using the consumption portal, here.

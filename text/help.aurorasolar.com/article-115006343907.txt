@@ -1,0 +1,12 @@
+4/28 Release Notes
+
+
+Added a new search feature for projects. We combined the search options (Project name, Customer name, Owner name, and address) all into "Quick Search"
+
+
+Added default settings for module to modules snapping in General Settings
+
+
+Added taxes to commercial financial analysis for PPA and lease options
+Added ability to pan in 3D viewports in proposals by holding the spacebar key
+Fixed local CBI calculation

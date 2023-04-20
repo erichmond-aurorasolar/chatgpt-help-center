@@ -1,0 +1,715 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How to choose the right size solar power inverter | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How to choose the right size solar power inverter                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Learn more about the fundamentals of solar by subscribing to our blog.
+As you likely know, solar cells produce direct current (DC) electricity, which is then converted to alternating current (AC) electricity by a solar power inverter. Converting energy from DC to AC allows you to deliver it to the grid or use it to power buildings, both of which operate with AC electricity. When designing a solar installation, and selecting the inverter, we must consider how much DC power will be produced by the solar array and how much AC power the inverter is able to output (its power rating).
+
+This article will discuss some critical considerations for solar projects to ensure that the inverters in your designs are appropriately sized. 
+Specifically, we’ll examine the relationship between the amount of energy your solar array produces and the amount of power your inverter can output, and we’ll introduce the concept of inverter clipping.
+Are your customers asking other questions about solar basics? Answer them all by sending them our Solar for Homeowners follow-up kit.
+An educated lead is more likely to become a customer. Click the image to get our ultimate Solar for Homeowners follow-up kit to answer all your homeowners’ questions.
+Understanding the DC-to-AC Ratio
+The DC-to-AC ratio — also known as Inverter Loading Ratio (ILR) — is defined as the ratio of installed DC capacity to the inverter’s AC power rating. It often makes sense to oversize a solar array, such that the DC-to-AC ratio is greater than 1. This allows for a greater energy harvest when production is below the inverter’s rating, which it typically is for most of the day.
+The following illustration shows what happens when the power inverter’s DC/AC ratio is not large enough to process the higher power output of mid-day.
+The power lost due to a limiting inverter AC output rating is called inverter clipping (also known as power limiting).
+Figure 1: Inverter AC output over the course of a day for a system with a low DC-to-AC ratio (purple curve) and high DC-to-AC ratio (green curve). The chart represents an idealized case; in practice, power output varies considerably based on weather conditions.
+How to Prevent Inverter Clipping
+While oversizing the solar array relative to the inverter’s rating can help your system capture more energy throughout the day, this approach is not without costs. 
+“Either spend money on an additional inverter or lose energy harvest to inverter clipping.”
+What Figure 1 also shows is an effect called inverter clipping, sometimes referred to as power limiting. When the DC maximum power point (MPP) of the solar array — or the point at which the solar array is generating the most amount of energy — is greater than the inverter’s power rating, the “extra” power generated by the array is “clipped” by the inverter to ensure it’s operating within its capabilities. 
+The inverter effectively prevents the system from reaching its MPP, capping the power at the inverter’s nameplate power rating.
+To prevent this, it’s crucial to model inverter clipping to design a system with a DC-to-AC ratio greater than 1, especially in regions that frequently see an irradiance larger than the standard test conditions (STC) irradiance of 1000 W/m2 (higher levels of irradiance lead to higher power output). 
+The US Energy and Information Administration (EIA) states, “for individual systems, inverter loading ratios are usually between 1.13 and 1.30.”
+For example, consider a south-facing, 20°-tilt ground mount system in North Carolina (35.37° latitude) with a 100 kW central inverter. If we design the system with a DC-to-AC ratio of 1, it will never clip; however, we will also not fully utilize the AC capacity of the inverter. We have two options. Either spend money on an additional inverter or lose energy harvest to inverter clipping. 
+Knowing how much energy is clipped allows a designer to understand how effective the oversizing scheme is at increasing energy harvest, and ultimately determine what system configuration is the most cost-effective.
+The chart below shows three DC-to-AC ratios and their estimated losses to clipping.
+
+
+
+DC-to-AC Ratio
+Annual AC Energy Production
+Energy Lost to Clipping
+
+
+1.0
+163.06 MWh
+0.0 MWh
+
+
+1.3
+193.86 MWh
+1.8 MWh (0.9%)
+
+
+1.5
+217.24 MWh
+11.0 MWh (4.8%)
+
+
+
+Table 1: Annual energy production out of a 100 kW inverter as a function of DC-to-AC ratio. As the DC-to-AC ratio increases, so does the AC output and clipped energy.
+Aurora’s solar design and sales software automatically takes inverter clipping into account in its performance simulations. Our system loss diagram automatically calculates the amount of energy that is clipped throughout the year and the percentage of total energy that amount represents. Aurora’s NEC validation report ensures designs are code-compliant and appropriately sized so installers can be confident in their work.
+
+Other Factors
+Microinverters
+A microinverter is a device that converts the DC output of solar modules into AC that can be used by the home. As the name suggests, they are smaller than the typical solar power inverter, coming in at about the size of a WiFi router. Microinverters are usually placed under each solar panel, in a ratio of one microinverter for every 1-4 panels.
+Advantages of using microverters include:
+
+Higher yield: The output of string inverters is capped by the least-efficient panel in the string. In contrast, microinverters use a parallel circuit, so they aren’t limited to the least-producing panel.
+More accurate monitoring: Since microinverters are paired to individual or grouped solar panels, users have granular access to production monitoring per panel instead of the whole system. 
+Easier expansion: Scaling up a PV system is as easy as adding one microinverter for every 1-4 new panels added to the system. 
+Rapid shutdown: Microinverters can be rapidly turned off, which is an important requirement in new electrical codes in case of accident or urgent servicing situations. 
+Longer lifespan: Microinverters can have up to 25-year warranties vs. 8-12 years for standard inverters. 
+
+On the other hand, cons include:
+
+Higher acquisition cost: On average, microinverters can be over $1,000 more expensive than string inverters for a typical 5kW residential installation.
+More challenging to service or replace: Fixing or replacing a failed microinverter is more difficult, since you would need to go up to the roof, work the rack, and unbolt the panel to access the unit.
+
+To sum it up, microinverters are best used in sites where the panels face multiple orientations, have shading issues (so that the least efficient panel doesn’t affect the whole system output), have a good chance of being scaled up in the future, and if the local electrical code requires a rapid shutdown capability. 
+To learn more about module-level power electronics, check out our article Module-Level Power Electronics (MLPE) for Solar Design: A Primer.
+Which Input Voltage Do I Need?
+The input voltage of the inverter depends on the inverter’s watt rating. For inverters with a relatively low power rating like 100 watts, there are three input voltages: 12V, 24V, or 48V. You can choose the voltage depending on your electrical usage needs, but note that:
+
+The solar panel, inverter, and battery bank should all have the same input voltage
+There are no 24V batteries on the market, rather they are created by joining two 12V batteries in a series connection
+
+What is Inverter Stacking?
+Inverter stacking is the practice of wiring two or more inverters to increase the output voltage or power. This can only be done if the inverters being stacked are compatible, so it’s vital to check the manufacturer’s specifications to ensure inverter compatibility.
+When wired in a series connection, it increases the system’s output voltage. When wired in parallel, the effect is an increase in power in terms of watts.
+It should be noted that the largest 48V battery-based inverter stacks top out at 60kW. While this is usually more than enough for residential power requirements, going beyond 60kW will require switching to a higher voltage inverter. 
+Key Takeaways
+
+Oversizing a solar array relative to a solar power inverter’s rating (DC-to-AC ratio greater than one) allows for increased energy harvest throughout most of the day, especially in the morning and late afternoon.
+When a DC array produces more energy than the inverter is rated to handle, the inverter clips the excess power and caps its output at its rated power (an effect known as inverter clipping).
+An alternate approach to increase energy production while avoiding inverter clipping would be to include another inverter. When deciding what approach to take, designers must consider the trade-off between the cost of purchasing and installing an additional inverter compared to the value of the energy that will be lost due to inverter clipping if they oversize the solar array.
+When estimating the energy production of a solar project design, it’s important that your performance simulations take inverter clipping into account (as Aurora does automatically), in order to ensure production results accurately reflect the system size of the design.
+
+Want to learn more about solar installations and components? Click here to subscribe to our blog!
+FAQs
+What is a solar power inverter?
+A solar power inverter is an essential element of a photovoltaic system that makes electricity produced by solar panels usable in the home. 
+What does a solar power inverter do?
+A solar power inverter converts direct current (DC) output into alternating current (AC) for use in standard electronics, appliances, and more. 
+How does a solar power inverter work?
+Solar panels produce electricity in direct current (DC). Direct current is basically electricity flowing in one direction. The problem is, homes and businesses run on alternating current (AC), which is electricity reversing directions many times per second. A solar power inverter runs direct current through two or more resistors that switch off and on many times per second to feed a two-sided transformer, creating alternating current usable in homes. 
+How long does a solar inverter last?
+A solar power inverter typically lasts 10-15 years, so you’ll probably have to replace it some time during the life of a solar system. 
+What is a good DC- to- AC ratio?
+A 1:0.8 ratio (or 1.25 ratio) is the sweet spot for minimizing potential losses and improving efficiency. DC/AC ratio refers to the output capacity of a PV system compared to the processing capacity of an inverter. It’s logical to assume a 9 kWh PV system should be paired with a 9 kWh inverter (a 1:1 ratio, or 1 ratio). But that’s not the case. Most PV systems don’t regularly produce at their nameplate capacity, so choosing an inverter that’s around 80 percent lower capacity than the PV system’s nameplate output is ideal. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Learn about how solar software can help make solar design and sales easier                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar 101                
+
+
+
+                    Technology                
+
+
+            3 min read        
+
+
+
+            3 Solar Software Must-Haves For Growing Small Businesses        
+
+
+
+
+
+
+ 
+
+
+
+                    Aurora Updates                
+
+
+
+                    Products & Features                
+
+
+
+                    Sales & Design                
+
+
+
+                    Sales Proposals                
+
+
+
+                    Solar Sales                
+
+
+            3 min read        
+
+
+
+            2-Minute Lesson: Close Solar Deals Quicker With Integrated Financing        
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+            4 min read        
+
+
+
+            Buying solar software is hard, here are 3 questions that make it easier        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

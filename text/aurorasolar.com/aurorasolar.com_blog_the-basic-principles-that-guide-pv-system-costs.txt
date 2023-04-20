@@ -1,0 +1,685 @@
+
+
+
+
+
+
+
+
+
+
+
+
+The basic principles that guide PV system costs | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            The basic principles that guide PV system costs                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to the final installment in our six-part series on Solar PV Installer Basics 101 – a comprehensive guide designed to help installers navigate the industry’s fast-evolving solar terrain.
+This article breaks down the various costs associated with installing solar photovoltaic (PV) systems for customers. Understanding how these expenses work is important for two essential reasons:
+
+Your customers will use these costs to determine whether the potential savings make going solar a worthwhile investment.
+Identifying the expenses in your operations allows you to cut certain costs, which can help make you more competitive while also improving your profit margin.
+
+Click the image to download the full guide in printable form.
+Costs associated with a PV system
+In order to determine a customer’s financial returns, it is important to have a solid understanding of the basic economics that dictate PV system costs. There are two general categories of expenses – capital costs and operations & management (O&M) costs.
+Capital costs
+Capital costs refer to the fixed, one-time expenses associated with designing and installing solar PV systems. These can further be categorized into hard costs and soft costs:
+
+Hard costs cover expenses related to the physical equipment that goes into a solar PV system – including modules, inverters, balance of system (BoS) components, optional batteries, and even electric-vehicle charging.
+Soft costs include intangible expenses stemming permitting, taxes, financing, customer acquisition, and the actual installation labor itself. 
+
+According to the Solar Energy Industries Association (SEIA), hard costs have come down dramatically over the last decade, while soft costs have remained largely constant. However, tools like Aurora Solar lead capture, solar sales, and PV design platforms can help your team drive down these soft costs – allowing you to service more customers using fewer resources.
+
+Figure 1. Cost breakdown of PV systems. Source: B. Fiedman, et al, “Benchmarking Non-hardware BoS Costs for US PV Systems, Using a Bottoms-Up Approach and Installer Survey,” National Renewable Energy Laboratory, Second Edition, December 2013.
+Figure 1 illustrates the relationship between soft and hard costs, with the latter broken down into its components. 
+Operations and management costs
+O&M costs refer to expenses associated with running, maintaining, and repairing a solar PV installation. These can include fuel, repairs, and operation personnel. But with virtually zero moving parts and panels backed with multi-decade warranties, residential and commercial PV systems generally have low O&M costs. Maintenance requirements can change, however, when managing industrial-scale solar facilities.
+Incentives and policies that benefit solar energy
+The high capital costs are one of the biggest factors that discourage people from going solar. To combat this, there are a number of incentives and policies in place to make PV systems financially competitive. Being able to explain how these programs work will allow you to convert more customers. This is especially true if you facilitate the paperwork and applications on their behalf.
+Cost-based incentives
+Cost based incentives, such as the Solar Investment Tax Credit (ITC), allow those who invest in a solar system to apply a tax credit towards their income tax. The incentive is determined by the cost of the system and is independent of its performance.
+The ITC was originally scheduled to expire at the end of 2023. But thanks to a 10-year extension under the 2022 Inflation Reduction Act, PV system owners qualify for a one-time 30% tax credit in the year after their installation becomes operational.
+In addition, some cities and states offer cash rebates for those who go so solar. For a list of potential rebate programs in your service market, visit the Database of State Incentives for Renewables & Efficiency (DSIRE).
+Performance-based incentives
+Performance based incentives (PBIs) encourage PV system owners to install and maintain efficient systems through payments that are based on the monthly energy production of the PV system. These programs are highly regional and might not be available in your service area.
+Net energy metering
+Most states across the country offer some form of net energy metering (NEM) – a mechanism that credits consumers for any unused solar power they send into the electricity grid. 
+For instance, if a residential PV system produces an excess of 100 kWh over the course of the month, the owner will be reimbursed for 100 kWh worth of utility credits (usually at below-market rates). The owner is then free to use these reimbursement credits to “buy” electricity from the grid when solar is not meeting their current energy needs. Therefore, solar customers who enroll in their state’s net metering program are able to significantly reduce their electricity bill.
+Some states offer a similar program know as a feed-in tariff (FiT). Though less common, feed-in tariffs result in cash payments for unused solar power – and not utility credits.
+
+Figure 2. Visualized relationship between PV energy production and household electricity use for a typical home. Source: solarchoice.net.au
+Figure 2 shows the relationship between PV electricity production and electricity consumption during the day. Note that while the PV system can generate more than enough solar electricity during the daytime, it can fail to deliver electricity during peak consumption hours.
+Basic financial calculation for a residential PV system
+In return for a large upfront investment, homeowners that go solar benefit from reduced monthly electricity bills. 
+For instance, assume that upon installing a $10,000 rooftop PV system (after incentives), a customer’s residential electricity bill is reduced by $1,500 per year. In order to calculate the simple payback period, which is the approximate time for a PV system to “break even,” we divide the cost of the PV system by the savings.
+Simple Payback Period = System Cost / Annual Savings
+6.7 years = $10,000 / $1,500/year
+Thus, the payback period for a $10,000 PV system that saves a customer $1,500 in annual electricity bills is 6.7 years.  
+However, a PV system can last much longer than the duration of its payback period. Standard rooftop panels have warrantied lifetimes of about 25 years. This means that for the last 18 years of its life, after it has paid itself off, the hypothetical PV system described above will deliver net returns in the form of additional savings. To calculate these returns, we multiply the annual savings by the remaining lifetime of the system, after it has paid itself off.
+Total Savings = Annual Savings × Years (after Payback Period)
+$27,450 = $1,500/year × 18.3 years
+Based on this simple analysis, the system will generate approximately $27,450 in savings over its lifetime. It is important to note that this is an approximation and does not take into account factors such as maintenance costs or degradation over time. However, as grid electricity prices increase, the value of the PV system increases as well. This is because solar helps to shield the user from rate increases – resulting in a shorter payback period and higher lifetime savings.
+The figure below shows another financial analysis for a hypothetical residential PV system. In both graphs, the y-axis is the dollar amount and the x-axis is the year.
+
+Figure 3. The cumulative (top) and annual (bottom) cash flows of a hypothetical PV system. 
+The top graph, which shows the cumulative cash flow of the project over time, and indicates that the project has a payback period of approximately four years. Additionally, the dollar amount in the 25th year, which is about $25,000, is the cumulative net savings that the system generated. The bottom graph is the annual cash flow of the project. The first year is characterized by a large negative cash flow, due to the large upfront cost required to install the system. But after that, there is positive annual cash flow, except for when the inverter needs replacing in the 14th year. 
+About Solar PV Education 101
+The Basic Principles that Guide PV System Costs is the final installment in our six-part series on Solar Installer Basics 101. In case you missed some of the earlier articles in this guide, they’re listed down below. Together, these articles provide a comprehensive roadmap for navigating the solar landscape – whether as a beginner installer or seasoned veteran. 
+Part 1: The Beginner’s Guide to Solar Energy (Updated 11/9/2022)
+Part 2: How a Photovoltaic System Produces Electricity (Updated 11/10/2022)
+Part 3: Reading Your Electricity Bill: A Beginner’s Guide (Updated 11/15/2022)
+Part 4: How to Size a PV System from an Electricity Bill (Updated 12/9/2022)
+Part 5: Shade Losses for PV Systems, and Techniques to Mitigate Them (Updated 12/12/2022)
+Part 6: The Basic Principles that Guide PV System Costs (Updated 12/13/2022)
+And be sure to download the PDF version to give to reps, installers, and even customers looking to learn more about the basics of solar.
+Click the image to download the full guide in printable form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Design                    
+
+
+
+
+
+
+
+        Designing for Performance: 3 Techniques to Boost Sol...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Industry                    
+
+
+
+
+
+
+
+        How solar software delivers ROI: A discussion with A...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        How to Overcome Objections with Real-time Personaliz...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

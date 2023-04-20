@@ -1,0 +1,545 @@
+
+
+
+
+
+
+
+
+
+
+
+
+reDesigning Aurora for Speed, Simplicity, and Scale | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            reDesigning Aurora for Speed, Simplicity, and Scale                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In 2011, grad school classmates Sam Adeyemo and Chris Hopper discovered a shared interest in advancing solar energy in emerging markets and teamed up to design and install a solar installation for a boarding school in Kenya. Designing a PV system for a site on another continent made it clear how challenging solar design can be–and how how much the design process could be improved with the right tools.
+  
+With the idea of building the solar design software they wished they’d had, one that offered the accuracy to confidently design without site visits, Sam and Chris launched Aurora Solar in 2013. In the five years since that time, Aurora has grown from a small company whose entire team fit at one table to an industry-leading solar design company trusted by top solar firms around the world. We’ve achieved a lot that we’re proud of, from creating the first solar design program to model the electrical behavior of a solar installation down to the cell-string level to bringing new technologies like computer vision and solar design automation to the solar sector. 
+We’ve also learned a lot along the way, listening to customers to understand how we could better serve their needs. As we looked toward the future of the solar industry and how we could help the industry grow, we realized there were opportunities to serve solar contractors better if we reimagined our design tools from the ground up. To deliver a best-in-class solar design experience, we set about rewriting the very code our design software is built on.
+After nearly two years of development, Aurora is thrilled to release its most significant update ever–a new version of our software that hits the sweet spot between accuracy, speed, scale, and simplicity.
+Get ready for Aurora reDesigned.
+Simplicity 
+We’ve heard from customers that they love the accuracy Aurora enables–from constructing a representative model of the project site to precisely determining irradiance and solar energy production, as well as its compelling visuals. But sometimes a high-level of precision can make the design process complex. As we redesigned Aurora, we focused on approaches to maximize simplicity and ease of use. We worked closely with designers to streamline the software interface and improve user experience.
+Drawing from some of the same approaches that enable video games to render incredible 3D visuals, we built a fully 3D design experience that allows solar designers to seamlessly transition from 2D views to 3D views of the project site model and PV design. In addition to viewing the site model and solar installation from any angle, designers can make modifications in 3D making accurate design easier. For instance, you can easily see the height of the roof in comparison to surrounding features like trees, and adjust accordingly, without having to toggle between 2D and 3D tools. 
+With integrated site model and system design tools, as well as the ability to edit both in 3D and view the project from any angle, the latest version of Aurora offers greater simplicity for solar design.
+We also combined our tools for creating a model of the project site and designing the PV system into a single section of the application. This reduces the need to switch between tools if you need to adjust the site model or the design.
+Finally, recognizing that the process of stringing panels to inverters can be quite complicated, with many different stringing configurations to choose from, we developed new tools to simplify the process. With automated stringing functionality, solar designers no longer need to ponder the optimal stringing configuration that will match inverter input requirements (acceptable string lengths and number of inputs) while maximizing the number of panels and minimizing costs. 
+Simplicity highlights of Aurora reDesigned:
+
+Seamlessly transition between views of the project, including moving from 2D to 3D 
+Site model and solar design tools combined into one streamlined section 
+New automated stringing functionality saves designers the headache of identifying the optimal stringing configuration
+
+Speed
+Another key focus for us was delivering speed upgrades to our customers. It takes significant computing power to generate and manipulate hundreds or thousands of elements–like roof obstructions, solar panels, and inverters–while also maintaining accuracy. Yet speed is key to enabling efficient design, particularly when designing large, multi-megawatt commercial solar installations. 
+By rebuilding our CAD functionality and incorporating state-of-the-art graphics technology, we were able to deliver 10x performance upgrades for large solar projects. Discussing the new updates, Matthew Gschwend, Senior Solar Analyst at NRGTree in Boston, says “Even more impressive than all the design tools is the processing power, which allows you to create a site model, lay out your system, and run production simulations quicker than ever.”
+Another change we implemented to reduce design time was integrating Aurora’s performance simulation tools–which precisely calculate the expected solar energy production of the PV system–into the design stage. You can now simulate the energy production of your design as you’re designing, allowing for real-time understanding of the performance implications of different design approaches.
+One way we’ve helped solar designers speed up their workflows in Aurora reDesigned is by making it possible to assess the energy production of a design from within the design tool.
+Speed highlights of Aurora reDesigned:
+
+10X performance upgrades for multi-megawatt, commercial-scale solar projects
+The ability to simulate solar energy production while designing the PV system, allowing real-time assessment of the performance impacts of different design choices
+
+Scale
+When we first started building our software in 2013, we began with a focus on the residential solar market. As we grew, we added both commercial solar design functionality as well as financial analysis tools for commercial customers, allowing us to serve the needs of C&I contractors as well. However, designing massive systems on a platform originally built for smaller projects could sometimes be challenging.
+By rewriting our software code to utilize a new approach optimally suited for rendering 3D graphics on the web, we created a solar design platform that supports the creation and manipulation of large, multi-megawatt solar designs as easily as for smaller residential designs. 
+An example of the multi-megawatt projects easily supported in Aurora reDesigned.
+We also built out a number of new, cutting-edge tools specifically designed for the challenges of large-scale solar designs. For instance, we’ve enhanced Aurora’s automatic obstruction detection, which automatically identifies similar obstructions on a roof and builds them into the site model. Already a significant benefit for sites with hundreds of vents and skylights, we beefed up the power of this tool, allowing it to now quickly detect and model thousands!
+Additionally, we enhanced Aurora’s “fill zone” tool, which makes it possible to specify an area of the project site for Aurora to fill with panels according to the designer’s specifications (row spacing, panel tilt and orientation, etc.). Aurora’s fill zones can optimize panel location to maximize the number that fit within the available space–rapidly producing panel configurations even for massive projects.
+Scale highlights of Aurora reDesigned: 
+
+Support for significantly larger, multi-megawatt solar projects 
+Enhanced “fill zone” functionality which automatically optimizes solar panel locations to maximize the number that fit within an available space
+
+
+Aurora was founded to give solar contractors the tools to easily accurately design solar installations without site visits; but on a larger scale, our goal is to make solar energy more accessible by driving down the cost of delivering a quality system. In the five years since Aurora started, we’ve pioneered accurate remote solar design and developed new tools for solar designers–from 3D measurements with computer vision to solar design automation. But while we’re proud of what we’ve achieved to date, we’re always considering how we can do better. 
+Rather than continuing to build upon the same CAD tools we built in the beginning, we saw an opportunity to deliver an order of magnitude increase in simplicity, design speed, and the scale of projects Aurora supports by incorporating new approaches in web graphic technology. This new version of Aurora–Aurora reDesigned–not only helps us deliver on our mission to bring solar contractors the best design tools, but also provides a more scalable platform on which to continue our work to bring about a solar-powered future.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

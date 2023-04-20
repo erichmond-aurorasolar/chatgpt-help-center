@@ -1,0 +1,9 @@
+How to Align and Select Multiple Proposal Blocks
+
+Placeholder, chart and other proposal blocks auto-snap in half-step increments to the proposal template's underlying grid. You can override the auto-snap and have free-form movements by holding down the Shift key as you move around your proposal blocks.
+                    
+You can select multiple proposal blocks by clicking on the Box select command (shortcut key: "b"), then clicking and dragging a rectangle around the objects you wish to select. You can move the selected object as a group, or even copy / cut and paste them.
+                  
+ 
+ 
+Learn more about what other keyboard shortcuts you have here!

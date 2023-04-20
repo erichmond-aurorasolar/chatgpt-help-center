@@ -1,0 +1,23 @@
+Adjusting Pricing in Sales Mode
+
+
+ 
+Within Aurora each design has a standard starting cost per watt established by your account admins. You'll be able to apply pre-established adders and discounts and fine tune the pricing of each design.
+If you are managing a team, you can set user level permissions to give your team control over pricing or you can keep it locked to your default pricing.
+Click on the $ symbol at the top of the screen to apply adders and discounts. If your user level permissions allow, you'll be to adjust the price on each individual design.
+ 
+
+ 
+From this page, you can see details of your design, and adjust pricing, incentives, adders, and discounts. To adjust pricing, click the Pencil icon:
+
+ 
+From here, if your user level permissions allow, you'll be to adjust the price for this design.
+Adders and discounts may be selected from this page as well. You will need an administrator to set these up ahead of time. 
+Incentives can be toggled on and off as well. Aurora will automatically apply incentives that could apply to your project based on the project's zip code. If these are not to your liking, you may toggle them off, or select new incentives from with the "Add Incentive" button.
+ 
+
+ 
+Your adders, discounts, and incentives will be displayed in an itemized fashion from Sales Mode's "Financing" page. If you would prefer adders and discounts remain hidden, admin users may select that option from the Settings section of Aurora.
+ 
+ 
+ 

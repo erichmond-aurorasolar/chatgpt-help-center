@@ -1,0 +1,92 @@
+How to add custom DC optimizers to your account
+
+
+
+
+Table of Contents
+Optimizer Overview
+Input
+Output
+Cost
+ 
+Navigate to the "Add DC Optimizer" tab by selecting "Database", then click "DC Optimizers", then select "Add DC Optimizer". Once you have selected "Add DC Optimizer" follow the instructions below to create a custom DC optimizer in your Database. 
+ 
+
+List of Fields: 
+The fields starred (*) are required in order for the module to work in Aurora. Use information under Standard Test Conditions (STC) Section in your specification sheet: 
+Optimizer Overview 
+Manufacturer*
+
+Add the manufacturer's name. If the name of the Manufacturer does not stick to the field, you will need to add it to the Manufacturer list in the database. 
+
+Operating Model*
+
+Select the operating model from the drop-down.
+
+Uses Selective Optimization*
+
+Leave this unchecked. 
+
+Has a Global MPPT*
+
+Check this, unless there is an explicit reason not to. 
+
+Input
+Max. Input Power at STC
+
+Add the STC rated maximum input power in Watts. 
+
+Max. Input Voltage
+
+Add the maximum allowable voltage on the DC side of the optimizer.
+
+Max. Input Current
+
+Add the maximum input current in Amps. This is the current which flows through the DC side of the optimizer. Also called maximum short circuit current.
+
+Min. MPPT Operating Voltage
+
+Add the minimum MPPT (Maximum Power Point Tracking) voltage.
+
+Max. MPPT Operating Voltage
+
+Add the maximum MPPT (Maximum Power Point Tracking) voltage.
+
+Max. System Voltage
+
+Add the maximum system voltage.
+
+Output
+Max. Output Voltage
+
+
+Add the maximum allowable voltage.
+
+
+ Max. Output Current
+
+Add the maximum output current.
+
+ Efficiency
+
+Add the efficiency. This is the ratio of usable AC output power to the sum of the DC input power and any AC input power. If no number is provided, use the max efficiency value from below. 
+
+ Max. Efficiency
+
+Add the maximum efficiency. This is the ratio of usable AC output power to the sum of the DC input power and any AC input power. If no number is provided, use the efficiency value from above. 
+
+ 
+Cost
+Supplier
+
+Add the name of the supplier
+
+Cost
+
+Add the cost of the optimizer
+
+
+
+
+
+

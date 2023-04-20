@@ -1,0 +1,621 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar Batteries for Home: A Comprehensive Guide | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar Batteries for Home: A Comprehensive Guide                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The past two years have seen record growth in solar home installations in the US. Based on industry data, residential solar installations grew 14% between Q2 and Q3 in 2020 despite the pandemic. In addition, the Solar Energy Industries Association estimates that more homeowners will be pairing solar systems with battery storage, with over 25% of all behind-the-meter PV systems being paired with storage by 2025, compared to below 5% in 2019.
+Why Homeowners are Turning to Battery Storage
+In 2010, most lithium ion batteries were relegated to devices such as laptops and mobile phones. By the end of the decade, however, lithium ion batteries could be found powering houses and vehicles. 
+There are several reasons why solar power users are increasingly turning to battery storage:
+
+It allows users to store energy when they need it.
+It enables homeowners to be less dependent on the grid.
+In some areas, the utility provider is required to buy back any energy that users create in excess of what they consume, resulting in a lower monthly bill.
+The surge in lithium ion production has driven prices down to be an attractive option for regular consumers.
+A PV system combined with battery storage allows users to have an alternative power source that’s environmentally friendly.
+Steady improvements in battery technology have led to improved capacity, efficiency and longevity, and made them economical for both small- and large-scale use.
+
+What to Look for When Choosing a Solar Battery
+Solar batteries have contributed significantly to the growing use of solar energy. They store surplus power generated during the day for use when the sun goes down, or when it disappears behind the clouds. Also, with a battery you can use less electricity from the grid, resulting in a lower utility bill.
+In fact, you may not even need a large battery to see the benefits of energy storage. Even a small battery can noticeably lower your time of use (TOU) rate, the variable rate that utility companies apply based on when demand is high or low throughout the day. 
+But not just any solar battery can do the job perfectly. Before you talk to a solar installer about  PV systems and the accompanying solar batteries, you need to learn how to choose the most efficient solar battery. The following factors should help you select the right solar battery for your solar energy needs:
+Battery capacity
+The capacity of a battery is the amount of energy, measured in kilowatt-hours (kWh), a particular battery can store. In other words, Capacity will determine how much electricity your battery can store, and how long the charge can last. Before selecting your solar battery, you could start by establishing your daily energy consumption to determine your PV system size.
+To determine your daily energy requirements. Consider the following:
+
+Appliances you use regularly in your home
+Length of time electricity is actively in use each day
+The readings on your average utility bills
+
+Power
+Before choosing your preferred solar battery, look at its power in terms of its peak and continuous delivery performance. Power is an important factor since the battery capacity may not be enough in determining the best solar battery for your home. You will find high capacity and low capacity batteries and may wonder which ones to choose.
+A high-capacity low-powered battery can supply power for a few essential appliances, such as the fridge, or washing machine, for a long time. A low capacity but high-powered battery may power your entire home, but for a limited period of time. Ask your solar installer how you can establish a balance between capacity and rating and they should help you choose the right solar battery for your needs.
+
+Depth of Discharge (DoD)
+The chemical nature of solar batteries requires some charge to keep them working efficiently and longer. Depth of Discharge (DoD) refers to the amount of charge you can use from your battery before you affect it’s optimal performance.  A higher DoD means you can use more of your solar battery capacity before you need to recharge it.
+For example, a 10 kWh solar battery with 80% DoD means you should never use more than 8 kWh of its stored power. Exceeding this limit may shorten its lifespan significantly. 
+Round-Trip efficiency
+Round-trip efficiency represents the amount of energy put in the battery that can be retrieved for practical use. The higher the round-trip efficiency, the more efficient and economical the battery is.
+To better understand the concept of the round-trip efficiency, consider this example: if your battery can hold up to 10kWh of power, but you can only use 8kWh of it, your battery has a round-trip efficiency of 80%. If you are shopping for the best solar battery, get one with the highest round-trip efficiency.
+Warranty
+Manufacturers offer a wide range of warranties, depending on the brand as well as the type of battery. Lead-acid batteries usually have a shorter warranty period compared to more expensive lithium-ion, which can be covered for up to 10 or more years. 
+Lifespan
+The battery’s ability to store charge diminishes with use, and eventually, you will realize it does not hold as much power as it did when it was new. After years of use, depending on its quality, the battery may stop holding charge completely. In general, batteries with a longer break-in period before reaching their peak capacity performance tend to have a longer lifespan, compared to those with a high initial capacity.
+Cost
+The price of a solar battery is perhaps one of the most important factors to consider before making the purchase. You will have to strike a balance between affordability and quality when deciding which solar battery to buy. The cost of solar batteries ranges from $3,000 to well over $20,000.
+
+Here is a summary of the average costs of the different types of solar batteries on the market:
+
+
+
+Battery Type
+Up-front System Cost
+Up-front Battery Cost
+Total Battery Cost
+Total Cost to Own
+Battery Warranty
+Number of Batteries
+Regular Maintenance
+
+
+Flooded Lead-Acid Solar Batteries
+$12,899
+$2,854
+$8,562
+$21,461
+3
+8
+Yes
+
+
+Sealed Lead-Acid Solar Batteries
+$12,899
+$3,954
+$11,862
+$24,761
+3
+8
+No
+
+
+Lithium-Ion Solar Batteries
+$12,899
+$13,195
+$13,195
+$26,094
+10
+2
+No
+
+
+
+ 
+Types of Solar Batteries for the Home
+It is also vital to know the types of solar batteries available. Here are the two most common types, and their pros and cons:
+Lead-Acid
+These batteries are the oldest on the market and the cheapest energy systems to use. They are the best bet if you need lots of energy but wish to go off-grid. They come in two types: flooded, which requires regular maintenance, and sealed, a maintenance-free option.
+Pros:
+
+The most affordable solar battery type available
+Quite reliable
+Suitable for off-grid power needs
+
+Cons:
+
+Lower DoD of about 50%
+Shorter lifespan compared to other battery types
+Much larger and occupy more space per kWh
+
+Lithium-Ion
+They are a new type of battery technology and preferred among most homeowners today.
+Pros:
+
+More compact than lead-acid
+Need no regular maintenance
+Have a longer lifespan because of a higher DoD of about 90%
+
+Cons:
+
+More expensive than their lead-acid counterparts
+Prone to thermal runaway
+
+Final word
+Given that the sun isn’t always shining, having a solar battery that can store power for your home is crucial. There are many types to choose from, but hopefully, you’ve got a better idea of what you’re looking for now. If you’re interested in learning more about solar energy storage, check out our guide on How Solar Energy Storage Works. 
+Learn more about the fundamentals of solar by subscribing to our blog.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

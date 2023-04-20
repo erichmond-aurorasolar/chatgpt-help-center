@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Financial Incentives for Installing Solar: A Beginner’s Guide | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Financial Incentives for Installing Solar: A Beginner’s Guide                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+While the initial price tag of a solar installation may seem high, it’s important to communicate to your customers that the total cost may be significantly lower after applying available credits and rebates. The federal government and many states have enacted policies to reduce the cost of solar installations in order to incentivize investment in solar energy.
+
+In this article, we present an overview of common incentives and how they work so you know what benefits may be available to customers in your state. It is important to note that these policies benefit customers who purchase their solar installation and are not available to customers who finance their system with leases or PPAs.
+Federal Incentives
+Federal Investment Tax Credit
+Perhaps the most well-known solar incentive, the Investment Tax Credit (ITC)  is a U.S. federal policy that gives homeowners and businesses a tax credit worth 30% of the solar installation cost. This allows homeowners to subtract 30% of the cost of their solar installation from what they owe in federal taxes (their tax liability). For instance, if a solar installation costs $10,000 and the homeowner owes $5,000 in taxes, the homeowner would be eligible to deduct 30% of the cost of the solar installation ($3,000) from their taxes, allowing them to pay only $2,000 in taxes that year.
+If the value of the tax credit exceeds the owner’s tax liability, the excess amount can be applied to taxes owed the following year. Referring back to the example above, if instead of owing $5,000 in taxes the homeowner only owed $2,000, the $3,000 deducted from their taxes would be rolled over to the following year, allowing them to pay nothing in taxes the first year, and then save $1,000 in taxes the following year. It is important to note that the ITC can only be rolled over to the following year and no further.
+The ITC was extended until 2032 with the passage of the Inflation Reduction Act in the summer of 2022.
+Modified Accelerated Cost Recovery System (MACRS)
+For commercial customers, the federal government allows business owners to depreciate the cost of their solar installation over a period of years through the Modified Accelerated Cost Recovery System (MACRS) . While the name may sound complex, the concept is relatively simple. Depreciation refers to the reduction in value over time of an asset associated with an investment project, particularly due to wear and tear. For tax and accounting purposes, companies can depreciate their long-term assets, like solar installations, over time. In the case of MACRS, businesses can depreciate the value of their solar project over a shorter period of time.
+MACRS allows businesses to deduct the cost of their solar installation from their taxable income over a period of 5 years. This helps save the business money and allows them to recover the cost of the solar installation faster.
+Additionally, Congress has authorized something called “bonus depreciation” for the first year. This “bonus” allows the business to deduct 50% of the system cost from their taxable income in the first year, and then continue to depreciate under normal MACRS.
+One important caveat to be aware of with MACRS is that if the ITC was claimed on the solar installation, the total value that can be depreciated must be reduced by one-half the value of the 30% ITC (so a business could only claim 85% of the cost of the system).
+State and Local Incentives
+Many states, counties, and municipalities offer additional incentives to residents who install solar, though the available incentives differ widely by location. Below we explain the most common policies used by states and local governments to incentivize solar.
+To determine if your state offers incentives like these, the DSIRE database  is an excellent starting point. The Department of Energy also offers a database of financial incentives for clean energy projects, which can be filtered by state, the type of clean energy, and what types of customers are eligible.
+Solar Renewable Energy Credits (SRECs)
+Many states use a policy called a Renewable Portfolio Standard  mandating that utilities generate a certain percentage of their total electricity through renewable energy. A Solar Renewable Energy Credit (SREC) is a tradable credit generated by solar installations that utilities can purchase to meet this percentage. For every 1,000 kWh of electricity generated by a solar installation, one SREC is generated, which the homeowner can sell in their state SREC market.
+The average 5kW installation typically generates between five and eight SRECs per year. How much these SRECs are worth depends on the market price in the customer’s state (which fluctuates over time). For example, between March 2018 and February 2019 the price of an SREC in Washington, D.C.’s market ranged between $420 and $290. In markets with high SREC prices, solar customers can generate hundreds or even thousands of dollars in additional income. Talk about an incentive!
+ Figure 2. How SRECs generate income for solar system owners.
+SRECs are a type of Performance Based Incentive (PBI)—a category of incentives that depend upon the performance of the solar system. Other examples include Feed-In-Tariffs and certain rebates that reimburse solar customers based on the amount of energy their installation sends back to the grid.
+Tax Credits and Rebates
+In addition to the federal income tax credit available under the ITC, many states offer credits and rebates on state taxes for installing solar that can save customers hundreds or thousands of dollars. These incentives may be fixed amounts based on the number of taxpayers or people in the household or may reimburse the homeowner based on the amount of energy produced by the installation (another type of Performance Based Incentive). For example, Montana residents are eligible for a tax credit of $500 per taxpayer living in a household that installs solar, up to $1000.
+Tax Exemptions
+Many states exempt the value of a solar project from property or sales taxes. A total of 38 states offer property tax exemptions  for solar installations. Thus, while the customer benefits from an increase in the value of their property by installing solar, their property taxes will not increase. Additionally, 29 states offer sales tax exemptions for solar PV components and/or installation labor which reduces the upfront cost. These incentives make solar energy more affordable for both companies and homeowners.
+Taking the time to understand the incentives available to your customers is essential for any solar professional, as these options can reduce customers’ costs significantly without eating into your margins. We hope that this discussion of the most common incentives helps you educate prospective clients about of the programs available to help them go solar!
+
+About Solar Finance 101
+Financial Incentives for Installing Solar: A Beginner’s Guide is Part 4 of Solar Finance 101, a five-article series that serves as an introductory primer on the financial considerations of solar installations:
+Article 1: How Solar Customers Save Money: A Beginner’s Guide to Net Energy Metering
+Article 2: Your Solar Finance Primer: What to Know About the Top Four Solar Financing Options
+Article 3: Evaluating Solar Financing Options: Factors for Your Customer to Consider
+Article 4: Financial Incentives for Installing Solar: A Beginner’s Guide
+Article 5: Quantifying Value of a Solar Installation: Some Helpful Metrics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

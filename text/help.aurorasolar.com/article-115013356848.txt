@@ -1,0 +1,42 @@
+How to enable WebGL
+
+To find out if WebGL is enabled in your browser, please visit https://get.webgl.org/. 
+ 
+If 3D views are not showing up in your Aurora account, follow these steps:
+
+
+Go to chrome://flags
+
+Click on enable the "override software rendering list"
+
+
+If the above steps do not resolve the problem, try these steps next:
+
+
+Go to chrome://settings
+
+Click the + Show advanced settings button
+In the System section, ensure the Use hardware acceleration when available checkbox is checked (you'll need to relaunch Chrome for any changes to take effect)
+
+If errors are still occurring, inspect the status of WebGL by following these steps:
+
+
+Go to chrome://flags
+
+
+Inspect the WebGL item in the Graphics Feature Status list. The status will be one of the following:
+
+
+
+Hardware accelerated — WebGL is enabled and hardware-accelerated (running on the graphics card).
+
+
+Software only, hardware acceleration unavailable — WebGL is enabled, but running in software. See here for more info: "For software rendering of WebGL, Chrome uses SwiftShader, a software GL rasterizer."
+
+
+Unavailable — WebGL is not available in hardware or software.
+
+
+
+If the status is not "Hardware accelerated", then the Problems Detected list (below the the Graphics Feature Status list) may explain why hardware acceleration is unavailable. 
+Check to ensure you are not using an extension that may be disabling WebGL. If these troubleshooting tips still do not allow you to use Aurora, we recommend checking with an IT representative for your computer. This may be a setting on the computer that does not allow certain graphics to be displayed. 

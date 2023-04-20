@@ -1,0 +1,17 @@
+How to model Generac PWRcell inverters with PV-Link Sub-String optimizers
+
+Generac offers two PWRcell inverters - the X7602 and the X11402, listed at 7600 W and 11400 W respectively. Each of these inverters have two DC inputs for PV strings, in addition to inputs for batteries.
+Somewhat uniquely, these Generac PWRcell inverters do not have internal MPPT trackers; instead, a Generac PV-Link Sub-String optimizer is needed to add MPPT functionality to each string. Both PWRcell inverters support up to 6 PV-Link Sub-String optimizers in parallel, connected using MC-4 parallel connectors.
+Generac PWRcell inverters in Aurora’s database are listed as having 6 DC inputs and 6 MPPTs to allow each of the 6 strings connected to the inverter to operate on their own MPPTs during simulation. Please be aware that during installation, there will be 1 PV-Link per string, with PV-Link devices being placed between the first module in a string and the inverter. For accuracy of balance-of-system & single line diagrams, we recommend placing a blank combiner-box component wherever a PV-Link optimizer would fall. This placeholder component will not affect your design simulations. For your convenience, we have created a “PV-Link” blank component in the combiner-box section of the component database.
+For a visual demonstration of stringing with PV-Link see below:
+
+Enabling Submodule Simulation with compatible modules is recommended with these inverters.
+
+To enable submodule simulation:
+
+Go to Simulation Settings in the Aurora design
+Check the box to enable Submodule Simulation.
+
+
+ 
+ 

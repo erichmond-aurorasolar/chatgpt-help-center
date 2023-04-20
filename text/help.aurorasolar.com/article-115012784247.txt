@@ -1,0 +1,9 @@
+Proposal Overview
+
+A proposal template allows you to present all the information that you have collected during the design process, and present it to the client in one consolidated manner. Please note that only account administrators can create proposal templates.
+         
+
+Go to your Database, then click on Proposal Templates in the left-hand menu. 
+Click on Create Template.
+Give it a name and select an orientation of your choice.
+You’ll see on the right hand side that you have a wide range of tools for you to use. You can input Text Boxes, Photo Images, 2D and 3D boxes for your projects, and Financial Charts/Tables.

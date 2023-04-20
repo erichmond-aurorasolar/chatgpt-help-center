@@ -1,0 +1,18 @@
+Horizon Shading 
+
+What is Horizon Shading?
+Horizon shading in Aurora helps you account for shade caused by the terrain around your project site. When used, Aurora will scan the terrain elevation around the site to create a 360 degree view of hills and mountains nearby. During the irradiance map and performance simulation calculations, we count the horizon profile as an obstruction that can block both direct irradiance (eg, when the sun is hidden by the terrain) and a proportion of diffuse irradiance.
+The toggles for horizon profile in irradiance maps and performance simulations are independent. You can also control the default toggle in your company account settings.
+Horizon shade loss is calculated independently from other sources of shade losses. You can see the impact of horizon shading in the loss diagram.
+ 
+
+The horizon profile calculation is based on a digital elevation map (DEM). This doesn’t account for buildings and trees in the way that a digital surface map (DSM) or LIDAR shows those objects, so you will still need to create man-made structures and trees to obtain accurate shading results.
+For more details on diffuse irradiance, you can check out our updates in the help center here:
+Settings for irradiance map
+How to Disable Horizon Shading:
+
+Under Design Settings deselect the "Horizon Shading" box.
+Next under Simulation Settings deselect the "Horizon Shading" box. 
+
+ 
+

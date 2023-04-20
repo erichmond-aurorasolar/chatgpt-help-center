@@ -1,0 +1,658 @@
+
+
+
+
+
+
+
+
+
+
+
+
+CPUC Voted: California’s Net Billing Tariff (NEM 3.0) is Now Final | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    3 min read                                
+
+
+                            CPUC Voted: California’s Net Billing Tariff (NEM 3.0) is Now Final                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+
+            Sunny Wang        
+
+                Director of Government & Non-profit Affairs            
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+On December 15, 2022, the California Public Utilities Commission (CPUC) voted on and passed the Net Billing tariff (NBT, also commonly referred to as NEM 3.0). April 14, 2023 is the last day to submit an interconnection application to enroll into NEM 2.0.
+Very little changed between the NEM Proposed Decision published last month (which we analyzed here) and the final version that passed. It still maintains a reduction of 55%-80% on the credits customers receive for the extra solar energy they produce and send to the grid. It also still includes a $14-$16 monthly charge from the mandatory switch to a time-of-use rate for solar customers, uses the Avoided Cost Calculator (ACC) to determine and calculate 576 different NEM credit values in a year, and makes no retroactive changes for NEM 1.0 and NEM 2.0 customers.
+Some of the changes that made it into the final version of NBT include:
+A nominal increase in PG&E’s residential and low-income export adder, from 1.8 to 2.2 cents and 8.7 to 9.0 cents respectively to correct for a data error in the Proposed Decision. Adders will still step down 20% each year until they reach zero.Commercial customers enrolling into NBT / NEM 3.0 during the first five years will now get a nine-year lock-in period, instead of five, i.e., their hourly export values for the first nine years are locked-in, using the first nine years of forecasts in the ACC. Commercial customers still do not receive any ACC adders.An expansion of the definition of “low-income” customers; single family residential customers in disadvantaged communities and tribal land will now be eligible to receive the higher export rate adder.All solar customers submitting applications to get onto NEM 2.0 must “submit final building permit sign off and electrical clearing by the authority having jurisdiction (AHJs)” within three years, i.e., their residential or commercial PV systems must be built within three years of the application date to keep NEM 2.0 eligibility.
+
+Comparing NEM 2.0 and the Final Net Billing Tariff With Aurora
+We ran (workaround) simulations in Aurora of a typical residential solar installation in PG&E, SCE, and SDG&E territories — the territories impacted by the change — to help provide context on the effects of the Net Billing tariff.
+We modeled two systems: 
+An ideally-oriented, unshaded system to show the best possible payback periods A larger system with a lower Total Solar Resource Fraction (TSRF) at 80% that represents more common installations that, for example, don’t have a south-facing roof or have shade losses
+Under NBT, the payback period for ideal systems is close to 7 years, while the payback period for typical systems is roughly 8.5 years — 1.5 years longer. In both cases, for a near 100% energy offset design, the payback period increases by 1.8 to 2.7 years.
+
+Notes: Pre-solar customer and the post-solar NEM 2.0 uses schedules E-TOU-C, TOU-D-4-9PM, and TOU-DR1 for PG&E, SCE, and SDG&E, respectively. Post-solar NBT uses E-ELEC, TOU-D-PRIME, and EV-TOU-5 as specified by the final decision. The payback here is the “time to payback” — the time it takes to break even given all cash flows, rate escalation, panel degradation, etc. — and it differs slightly from the CPUC’s “simple payback” which only uses year-1 bill savings.
+Our help center article details how to approximately model Net Billing tariff. For more NEM related resources, bookmark our Net Billing Tariff (NEM 3.0) resource center — we will be updating this page regularly in the months to come. 
+Want to learn more about how NEM changes may affect your business? Schedule a personalized, no-pressure demo to get all your specific questions answered.
+
+
+
+
+
+
+
+
+
+
+                            Authors                        
+
+
+
+
+            Sunny Wang        
+
+                Director of Government & Non-profit Affairs            
+
+
+
+
+
+
+
+
+
+
+
+
+                        For more information...                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Industry                    
+
+
+
+
+
+
+
+        Keynote Address: State of Play on Solar Job Trends, ...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Industry                    
+
+
+
+
+
+
+
+        Leading Through Turbulence and IRA Opportunities        
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+                    Efficiency                
+
+
+
+                    Installation                
+
+
+            1 min read        
+
+
+
+            3 Tactics for Better Solar Designs Under Time of Use (TOU) Rates        
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

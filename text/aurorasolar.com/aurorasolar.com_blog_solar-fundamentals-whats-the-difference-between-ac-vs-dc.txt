@@ -1,0 +1,543 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar Fundamentals: What's the Difference Between AC vs. DC? | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar Fundamentals: What’s the Difference Between AC vs. DC?                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In the solar industry, producing electricity is our bread and butter. This means it’s important for solar professionals to have a strong grasp of electricity fundamentals.
+If you’re new to solar, there’s a lot to learn — you can’t just plug the panels into the wall and call it a day. In today’s article, we cover one of the core topics every installer needs to understand about electricity: the difference between two types of electric current, AC and DC. 
+AC and DC are both involved in a solar PV system. So, if your familiarity with AC/DC starts and ends with the famous band, this article is for you!
+The Difference Between Alternating Current (AC) and Direct Current (DC) Power
+AC stands for alternating current and DC for direct current. AC and DC power refer to the current flow of an electric charge. Each represents a type of “flow,” or form, that the electric current can take. 
+As we explain in our primer on solar panel stringing, current is the rate of flow of electric charge (i.e. the flow of electrons).
+Although it may sound a bit technical, the difference between the two is fairly basic:
+
+Direct current always flows in the same direction. 
+Alternating current, as you might expect from the name, changes direction frequently (though the back-and-forth motion of the electrons still conveys energy to the end device).
+
+“A simple way to visualize the difference is that, when graphed, a DC current looks like a flat line, whereas the flow of AC on a graph makes a sinusoid or wave-like pattern,” says Karl K. Berggren, professor of electrical engineering at MIT.
+
+Electricity History: The Fight Between AC and DC
+When electric power was first being developed and used, it was unclear whether AC or DC would become the dominant way electricity was supplied. Two famous pioneers of electricity — Thomas Edison and Nikola Tesla — each advanced one of these options.
+Tesla had patented AC, while Edison had patents on DC. In the beginning, DC was the standard. However, one issue with DC is that it’s not easily converted to higher or lower voltages — which is obviously useful for different applications.   
+AC solves this problem. It can be converted to different voltages using transformers, and it’s also easier for power companies to transmit AC power over long distances. So, despite a misinformation campaign by Edison to discredit AC as dangerous (in which he went so far as to publicly electrocute animals!), it won out in the long run. 
+
+Do household items use DC or AC?
+The short answer is, “both”. The U.S. electric grid and the power flowing into your home are AC. As a result, most plug-in home appliances — refrigerators, electric ovens, microwaves, and so on — run on AC power
+Batteries, however,  use direct current: they have a positive and negative terminal and current always flows in the same direction between those points — from the positive to negative terminals when they’re being discharged. 
+Because batteries work with DC, many of the electronics you use — like your laptop and cell phone — run on DC, as well. 
+Is Solar Power AC or DC?
+Solar panels produce direct current: the sun shining on the panels stimulates the flow of electrons, creating current. Because these electrons flow in the same direction, the current is direct. 
+An inverter in a home, converting DC to AC.
+The Need for Inverters
+This is why solar PV systems use inverters. The inverter converts DC energy into AC energy so it can be used in the home or sent back to the electric grid (in addition to some other functions).
+And what about those DC-powered devices? The power adapter that’s part of the charger for these devices is, in fact, a form of inverter. They convert the AC grid supply to DC power that can be used by the device. 
+So, when you plug in your laptop in your solar powered home, the DC power from the solar panels is converted to AC by your inverter, it’s then turned back into DC by your laptop’s inverter so your laptop can use it! 
+This can seem like a lot. Thankfully, there’s solar software out there that can help ease the burden when actually putting these concepts into practice with solar system design. This solar software buyer’s guide details some of the features you should look for when considering a solution.
+What About AC Solar Panels?
+As we discussed above, traditional solar panels produce DC energy. That energy is then converted to AC power by the inverter. This is the case whether your PV system includes a string inverter (which converts energy from one or multiple strings of solar panels) or microinverters (which convert it for individual, or in some cases a few, solar panels).
+However, you may also have heard of AC solar panels. If solar panels inherently produce DC, then what are these? 
+What are AC Solar Panels?
+AC panels are simply solar panels that have microinverters integrated into them. 
+System design using AC panels is the same as designing a system with microinverters, except that the installer doesn’t need to buy and attach the microinverters.
+What about home storage?
+Home storage batteries connected to solar use the same general model. DC batteries run power through an inverter to convert it to AC. “AC batteries” on the market simply have a built-in inverter that lets them convert DC directly into AC.
+Understanding the differences between AC and DC is important in the solar industry. Not only is it essential to understanding how a solar array works and how it’s designed, this knowledge can also help you educate customers — and ultimately build trust during the sales process.
+Ready to learn more? Join Aurora Solar at the 2021 Empower Conference!
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

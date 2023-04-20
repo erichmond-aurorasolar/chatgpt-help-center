@@ -1,0 +1,4 @@
+03/01/2019 Release Notes
+
+Features Added•Proposal tool UI inspector
+Features updated• Consumption portal• Shade report: speed ups and each carport will have its own array # label•Shed dormer no longer flips azimuth when converted to roof•Increased CAD zoom out limit

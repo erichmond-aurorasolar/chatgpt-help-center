@@ -1,0 +1,541 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Unlocking Commercial Solar Design Benefits with Aurora | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Unlocking Commercial Solar Design Benefits with Aurora                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When the International Brotherhood of Electrical Workers in San Jose, California (Local Union 332) decided to replace an aging commercial solar array on their union hall, they set their sights on a solar project that would offer benefits far beyond bill savings and reduced environmental impact. Using Aurora, they designed a unique 200 kW commercial solar installation (which spells out the organization’s name in solar panels!) that will offer business benefits for years to come.
+  
+In our previous article, we shared the story of the project’s development and the benefits it provides. In today’s article, we explore the how the system was designed in Aurora and how the use of a robust solar design software streamlined and enhanced project development.
+The union hall of IBEW Local 332 now hosts a 200 kW commercial solar array designed in Aurora.
+Project Impacts and the Role of Aurora 
+As the most extensive electrical union in the world, the International Brotherhood of Electrical Workers (IBEW) advocates for the interests of its member electricians. It also keeps an eye on emerging business opportunities for electrical workers. These days, many of those opportunities are in solar and other renewable energy technologies. So, as they considered replacing the solar installation on their union hall, IBEW Local 332 saw an opportunity for their union members to hone their solar design and installation skills.
+Working with the National Electrical Contractors Association (NECA), the trade association representing U.S. businesses in electrical construction industry, Local 332 installed the solar array as part of a broader retrofit to make their union hall a net zero energy building. In addition to giving NECA and IBEW members experience leading a project of this scale from start to finish, the project is a high-profile example of their workmanship for prospective clients. It even provides its own advertising! The array spells out IBEW in solar panels making it identifiable to air travelers flying into San Jose International Airport.  
+Aurora software, which was used to design the project, played an important role in enabling these benefits. Christopher Smith, Business Developer and Alternative Energy Engineer with NECA and the IBEW, took the lead on the project designs. He credits Aurora solar design and sales software as a key tool that enabled the stakeholders to easily evaluate different design options and settle on an optimal design to meet their needs.  
+
+“Aurora was very helpful because we could actually see what a given design would look like. Not only that, we could know what the production value was, what the costs were going to be, and everything in between, even down to the aesthetic level.”
+
+In addition to accurate 3D models that made it easy to visualize exactly how the project would look, Aurora also streamlined the design process. Smith could quickly make design adjustments and share them with project stakeholders. Accurate performance simulation made it easy to compare the energy production of different design configurations.
+Chris Smith, project designer (right), discusses the project with Ken Spears (left), whose firm Pacific Ridge Electric installed the system.
+Taking the Project from Concept to Reality
+Modeling the Project Site and Assessing Solar Potential
+The first step, before developing and assessing potential designs, was to create a 3D model of the project site. This allowed for the evaluation of potential PV panel locations, as well as assessment of how much solar energy the roof receives (a required input for calculating how much energy the system will produce).
+Local 332’s union hall was a cinch to model in Aurora. The one-story building has a flat roof and just a few obstructions, meaning tools like Aurora’s Automatic Obstruction Detection weren’t needed. To model the project, the perimeter of the roof was traced over the aerial imagery of the site. To accommodate the rounded corners of the building, multiple nodes were placed to create a curve.
+A 2D aerial view of the building, used to generate the preliminary 3D model in Aurora. As you can see, the first step was to outline the building, allowing the SmartRoof feature to automatically generate the roof structure. Obstructions, such as skylights and the HVAC units were then added.
+From there, the model was adjusted to include obstructions that prevented panel placement and could cause shading. Among the obstructions to be modeled were a walled-off area containing HVAC units, several rectangular skylights, and a number of roof vents.
+These were easily modeled by drawing polygons with Aurora’s “Add Obstruction Tool,” and then setting the height of each. Another feature of the building that had to be modeled was a shade awning running along one side of the building. Taking into account these factors allowed Aurora to generate an accurate 3D model of the site.
+An accurate 3D model of the project site, including obstructions like skylights and vents, created in Aurora using satellite imagery. (The imagery shows the 30 kW solar array previously installed on the building, which was disassembled before installation of the new system started.)
+With an accurate site model created, assessing the available solar energy on the site was simple with Aurora’s irradiance engine. As you can see below, the site is excellent for a solar PV system; it is almost completely shade-free and just about every point on the roof has a solar access value of 99%.
+Aurora’s irradiance engine, which assesses the available solar energy on each point of the roof for every day and hour of the year, shows that this commercial site is exceptionally well suited for solar.
+Evaluating Potential Designs and Their Energy Production 
+With the irradiance levels of each point on the roof determined, Smith could explore a wide variety of different design configurations. “By the time we settled on the final design, we were probably on our tenth iteration,” says Smith. “Previously that would have been time consuming, but with Aurora it was simple. I’d sit down to the computer, spend a couple minutes modifying the design, and then I’d take screenshots or send them the file.”
+Numerous alternative layouts for the solar array, like these, were considered during the design process. (Note that these are draft designs and are not finalized.) 
+Aurora’s performance simulation capabilities made it easy to predict how much energy different designs would produce. A key factor that influenced Local 332’s decision to spell out IBEW in solar panels was that they had more space than they needed to meet the building’s full energy production needs.
+According to local interconnection policies, grid-tied solar installations must be designed so as not to exceed 110% of the site’s historic electricity consumption. Given size of the roof and its excellent solar generation potential, Smith found that if they had designed the array to fill the entire roof face it would have exceeded this limit. Additionally, under California’s net metering policies excess solar production beyond the building’s annual needs is compensated at a much lower rate.
+With space to spare, designing the solar array to spell out IBEW was an appealing opportunity to let the site be its own advertisement. With San Jose International Airport nearby, there is significant air traffic to see the solar installation from above. As the team began to more seriously consider spelling the IBEW acronym in a portion of the array, they wanted to test out how the design would actually look from an airplane before making a final decision. 
+They arranged panels from the old array, which had been disassembled, to spell out IBEW as designed in Aurora. Local 332 General Manager Gerald Pfeiffer then took photos of the placeholder array as he flew into San Jose International Airport after a trip. The team was thrilled to find that design was easily identifiable from the air, just as it appeared in Aurora. With the feasibility of the plan assured, they proceeded with the unique design.
+The final system design is comprised of 595 panels and has a capacity of 202.3 kW.
+
+Aurora’s highly accurate performance simulation feature enabled the team to predict with confidence the energy production of different design variations. The estimated monthly production of the installed system is shown above. 
+The selected design will produce 302,421 kWh each year, offsetting the building’s total annual energy consumption while not exceeding the maximum energy offset allowed under local interconnection policies. 
+The final completed installation. Credit: NECA-IBEW Powering America.
+The project was completed this month and is already generating attention and business opportunities for IBEW and NECA members. Pacific Ridge Electric, the contracting firm that installed the system, has received numerous inquiries from prospective customers interested in solar projects or net zero building retrofits like this one. (To learn more about the project’s goals and impacts, read our earlier post detailing the project’s development.)
+Aurora played a central role in the project’s success by streamlining the design process, accurately estimating energy production, and providing precise 3D models that made it easy to visualize exactly how the project would look. This made it much easier for the IBEW/NECA team to manage the project entirely in-house and reap the full benefits of their clean energy investment.
+
+Interested in learning more about how Aurora can enhance your solar design and sales processes? Click here to schedule a demo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

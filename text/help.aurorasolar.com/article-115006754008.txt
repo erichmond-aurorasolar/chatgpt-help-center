@@ -1,0 +1,6 @@
+What is a Taxable Entity?
+
+A taxable entity is a home or property owner for whom the money they make (or the money they save on their utility bill) would be subject to income tax.
+In the US, homeowners are rarely taxed on their utility bill savings - so this option should be checked off. Conversely, commercial property owners often have to pay taxes on their utility bill savings, so this option may be checked on. You can learn more about this subject here: Taxes
+Taxes are often applied at the National (Federal) and Local (State) level. Choose the appropriate check boxes to select the appropriate tax jurisdiction(s).  
+ 

@@ -1,0 +1,6 @@
+5/11/18 Release Notes
+
+
+Added a flat system cost option in Pricing
+Simplified modal when adding a financing
+Minor UI improvements

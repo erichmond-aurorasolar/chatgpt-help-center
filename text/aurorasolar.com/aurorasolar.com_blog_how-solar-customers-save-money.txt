@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Solar Customers Save Money: A Beginner’s Guide to Net Energy Metering | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Solar Customers Save Money: A Beginner’s Guide to Net Energy Metering                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lower electric bills are one of the biggest selling points of installing a solar PV system. But how exactly does adding solar provide these savings? For customers early in the process of evaluating a solar purchase, the specific dynamics aren’t always clear.
+As a solar professional, being able to give potential customers a concrete understanding of the process by which a solar installation will put more money in their pockets each month can help make this big investment much less daunting.
+
+In the U.S., net energy metering (also called net metering or NEM) policies are the primary mechanism driving savings for solar customers who wish to remain connected to the electric grid—as most solar customers do, so that they can rely on the services of their local utility when needed.
+In this article, we break down how solar saves customers money by explaining how solar installations interact with the electric grid and how this relates to net energy metering as a means to allow solar customers to lower their electricity bills.
+ Figure 1. States with net energy metering policies. Net metering is the dominant mechanism for compensating U.S. solar customers for the energy their systems produce.
+What is the Grid and How Does It Relate to Solar Installations?
+While most people have a general familiarity with the electric grid—often referred to simply as “the grid”—as the source of power for their homes and businesses, few people have a strong understanding of how it works. The grid is a network of power plants and transmission lines that work together to deliver electricity to consumers across the U.S.
+Because electricity is always in demand, the grid is constantly operating, and grid operators carefully manage energy output to meet demand; energy that flows into the grid must be immediately consumed. It is a complicated system that is vital to the operation of countless services we depend on.
+Figure 2. A graphical representation of the electric grid.
+For a typical home without a solar installation, all of the electricity needed to meet occupants’ demands is drawn from the grid. When solar panels are installed, the relationship between the customer’s home and the grid changes because energy can now flow in two directions. The solar array acts as a small power plant that provides an additional source of energy for the home and the grid.
+When the household consumes energy at the same time that their solar panels are producing it, they can use that energy directly in place of what they would draw from the grid. This results in lower energy consumption through the utility company and thus a lower electric bill. This is the part of solar savings that most people intuitively understand—but there’s more to how a solar installation saves customers money.
+
+Figure 3. An illustration of how homes with solar panels interact with the grid. When the system produces excess energy, it is sent to the grid (green arrows); when solar production is not enough to meet the household’s needs, energy is drawn from the grid (red arrows).
+Unlike a traditional power plant which can be turned on and off as needed, the amount of energy produced by a solar array changes depending on factors like the time of day and the weather. This variability means that there will be times when the installation produces more or less energy than the occupants are consuming. This is a key reason why most solar customers still rely on the grid even after installing solar.
+How Net Energy Metering Reduces Solar Customers’ Energy Bills
+When a customer’s solar panels do not produce enough energy to match their needs, the grid provides the additional energy needed. On the contrary, when solar panels produce more energy than the household is using, the excess energy is fed back onto the grid. This two-way relationship between a customer’s solar panels and the grid is central to net energy metering (NEM), the primary way U.S. solar customers save money on their utility bills.
+We know that solar panels can directly save customers money by decreasing the energy they buy from the grid, but what happens when the system is producing a lot of energy when they don’t need it—like on a hot summer day when they’re away on vacation?
+Net energy metering answers this question by putting a value on the excess energy solar customers send back to the grid when their system produces more energy than they need. Under net metering, excess electricity generated by the solar installation is valued at the same retail rate customers would pay the utility for it1, which allows them to cancel out the cost of electricity they purchase from their utility at other times.
+One way to visualize this process is that when the system produces excess energy the building’s energy meter runs backward so customers pay only for their net energy consumption. Coupled with the direct decrease in energy consumption from the grid, net metering compensation often allows solar customers to pay nearly nothing for electricity.
+Because solar customers are paid at the retail rate for the extra energy they produce, they may wonder whether installing a very large solar system could provide a source of income rather than just savings. However, almost all net metering policies are structured so that customers are only compensated at the retail rate for solar energy up to the total amount of energy they consume over the course of the year. Any energy production beyond that is compensated at a much lower rate (this is called the utility’s Net Surplus Compensation policy). This is why solar designers typically recommend a system that produces slightly less energy than the total amount the customer needs.
+~~~
+Going solar is a big decision, so providing prospective customers with a concrete understanding of how it will put more money in their pockets is an essential first step in communicating the value of your solar design—in addition to quantifying how much solar energy the system will produce and exactly what their savings will be (both of which are easy to calculate if you use Aurora).
+We hope this article has provided a useful reference for communicating to prospective customers how going solar can significantly reduce or eliminate their cost of electricity. Check out other articles in our Solar Finance 101 series for more information on the financial considerations of a solar purchase.
+[Note: In this article, we are only discussing “grid-tied” solar installations, in which the homeowner remains connected to the electric grid, as opposed to an “off-grid” solar installation, which would not be eligible for net metering.]
+1This is generally the case, though some utilities are implementing changes that reduce how much they compensate solar customers for the energy they produce. These changes include fees and other charges that cannot be offset by solar, or reductions in the value paid for solar energy compared to energy purchased from the grid. One example is California’s NEM 2.0 policy changes. It is important to confirm the details of how solar energy is compensated with the customer’s utility company. We discuss other factors that add complexity to net metering on the Aurora Blog in our “The Hidden Factors that Affect Solar Savings” series. See Part 1 and Part 2. 
+
+About Solar Finance 101
+How Solar Customers Save Money: A Beginner’s Guide to Net Energy Metering is Part 1 of Solar Finance 101, a five-article series that serves as an introductory primer on the financial considerations of solar installations:
+Article 1: How Solar Customers Save Money: A Beginner’s Guide to Net Energy Metering
+Article 2: Your Solar Finance Primer: What to Know About the Top Four Solar Financing Options
+Article 3: Evaluating Solar Financing Options: Factors for Your Customer to Consider
+Article 4: Financial Incentives for Installing Solar: A Beginner’s Guide
+Article 5: Quantifying Value of a Solar Installation: Some Helpful Metrics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

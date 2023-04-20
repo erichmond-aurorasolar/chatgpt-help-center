@@ -1,0 +1,21 @@
+Loans: Two Terms (Accrued Interest then Regular)
+
+
+ 
+In some loan structures offered by financing companies like Green Sky, Enerbank and Dividend Solar, the homeowner is not required to make any payments (neither interest nor principal) for the first term of their loan, however she is being charged interest which she will have to pay later. Here is how to model this type of loan:
+
+Go to your account Database. Click on Financing Products, then Add Financing Product. Give your template a descriptive name. Click Create.
+
+Click Add Loan. Give your loan a descriptive name that you will later be able to understand.
+
+'Principal' percentage should be: 100% - Down Payment%. So if the homeowner is putting no money down, this should be 100%. If the homeowner is putting 20% down, this should be 80% (we chose 100%).
+
+Input your 'Dealer Fee', 'Interest Rate', and the 'Duration' of the loan (we chose 4.5%, 4.9% and 16 months). For loan type, select No Payment.In this type of a loan structure, although the homeowner is not making any payments for the first 16 months, interest is accruing, so the starting balance in the second period is higher than the original loan amount.
+
+Input your 'Interest Rate', and 'Duration' for the second term of the loan. Read the summary at the bottom of the pop up box to make sure your loan description is accurate.
+
+
+You may choose to lock your settings, so other users cannot change the parameters you have set.
+
+Click OK.
+

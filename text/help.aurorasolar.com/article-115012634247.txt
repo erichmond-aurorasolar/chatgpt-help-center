@@ -1,0 +1,6 @@
+How to Center the 3D Model
+
+You can center the 3D model in both the Design and the 3D visualization within a Proposal. 
+To pan: Left-click, hold and drag while holding down the Space bar on your keyboard or the center click on your mouse.
+To zoom: scroll your mouse wheel.
+To rotate: Right-click, hold and drag your mouse.

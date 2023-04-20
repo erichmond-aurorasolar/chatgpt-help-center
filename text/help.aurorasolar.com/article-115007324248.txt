@@ -1,0 +1,23 @@
+5/12 Release Notes
+
+
+Upgraded financing analysis portal with the following inputs:
+
+Billing frequency
+
+End of billing cycle
+
+
+
+
+
+
+Monthly cashflow table has been updated in the following ways:
+
+It now reflects the billing cycle (i.e. the date on which billing starts)
+It will not show monthly utility bill savings if user chooses annual billing
+
+
+Added ability to set default utility rate escalation for all utility rates in financial templates (admins only)
+
+

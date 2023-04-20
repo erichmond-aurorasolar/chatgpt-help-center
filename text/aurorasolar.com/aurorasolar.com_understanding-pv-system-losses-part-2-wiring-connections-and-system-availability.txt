@@ -1,0 +1,560 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding PV System Losses, Part 2: Wiring, Connections, and System Availability | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    5 min read                                
+
+
+                            Understanding PV System Losses, Part 2: Wiring, Connections, and System Availability                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As a solar contractor, one of the key promises you need to deliver on for your customers is that your solar installation will produce the amount of energy forecasted.
+Yet there are a wide number of factors that impact how much your system will produce–from the physical characteristics of your chosen components to system design and installation decisions. Understanding factors that can reduce the energy production of your solar installation, and the extent of their impact, is key to arriving at an accurate production estimate.
+In today’s article we explore wiring, connection, and system availability losses.
+About This Series
+In this series, we provide an overview of various causes of energy production loss in solar PV systems. Each article will explain specific types of system losses, drawing from Aurora’s Performance Simulation Settings, and discuss why they affect system performance.  
+For Aurora users, this series will provide tips for improving the accuracy of your performance simulations by sharing research-backed recommendations for what values to input in your Simulation Settings for different loss types. While Aurora provides default values for these fields that fit most use cases, this series will also highlight cases in which you might want to use different values depending on the specifics of your design. (For a quick summary of system losses, and how to configure your account settings in Aurora, see the Aurora Help Center.)
+This guide for picking better loss values will help you give your customers the most accurate estimate of how much their system will produce and how much they can save by going solar.
+Want all this info in one handy package? Download The Ultimate Guide to PV System Losses.
+Click above to download our full guide to PV system losses.
+Solar PV System Wiring Losses
+Suggested Values:
+
+2% for most systems
+1% if using thicker wires or very short runs
+
+To understand wiring losses, let’s first review simple circuits. 
+How PV Circuits Work
+PV modules act as a voltage source that raises the DC voltage across its two terminals. 
+Stringing PV modules in series adds the voltages, bringing the system up to a higher voltage, which is usually capped at 600 V in the United States and 1000 V in the EU. When the system is connected to an inverter, current begins to flow thanks to the voltage difference across the system.
+What Causes PV Wiring Losses
+In circuits, several components can cause a voltage drop, including resistors. Wires themselves have a small amount of internal resistance, the amount of which will be based on the gauge (thickness) of wire as well as its length. Installers can weigh the tradeoff between a thicker gauge of wire, which reduces resistive losses, with the increased cost.
+The National Electric Code (NEC) specifies a minimum gauge for the wires based on the voltage and current involved in order to prevent electrical fires. 
+However, the NEC does not dictate limits on wire losses. NREL’s study “Performance Parameters for Grid-Connected Systems” is a widely cited source of loss factors, and they suggest a 2% loss for DC wiring. Systems with shorter wire runs between the modules and inverter, or with thicker wire, may see a loss closer to 1%.
+
+PV Connection Losses
+Suggested Value: 0.5%
+What is a PV Connector?
+PV connectors have multiple uses in a PV system. They predominantly help connect modules on series strings. They also connect modules to module-level devices on systems using microinverters.
+What Causes PV Connection Losses?
+Connection losses capture resistive losses across wiring connectors and diodes. Most solar panels contain bypass diodes, which let other modules on a string circumvent a panel that is shaded or otherwise poorly performing. 
+These components have a small voltage drop, caused by the internal resistance of the material and imperfections in the contact surface. An NREL study found a value of 0.5% loss for these components. 
+Note that while adding DC optimizers to an array will double the number of connections, the extra connective losses are captured in the DC Optimizer component losses. 
+PV System Availability
+Suggested Values:
+
+3% for most systems
+As low as 0.5% if alert system or O&M are expected to prevent down time
+
+“System availability” is a generic loss value. It is meant to capture events that knock out the system entirely – including inverter shutdowns or failures, grid outages, or other actions that disconnect the PV system and prevent it from producing electricity for the home. The exact timing and duration of such outages is unpredictable, so the industry approach is to model these as a flat percentage loss spread out across the entire set of hours.
+How Aurora Deals with System Availability
+Aurora sets a default value of 3%, which is the same used by PVWatts. In cases where there is an operations and maintenance or fault alert system set up, the availability loss can be as low as 0.5%.
+Using Solar Software to Model PV Wiring and Connection Losses
+Software like Aurora, that simulates electrical behavior within the circuits of your solar PV installation, offers a significant advantage for accurately estimating your customer’s solar energy production. However, understanding system loss factors, so you can tailor these percentage losses to the specifics of your design, offers an additional layer of precision. In future articles, we will explain other PV system loss types, including soiling, snow, and degradation due to age.
+Having trouble accurately estimating system losses? Aurora can help. Sign up for our free demo to learn more.
+About Our PV System Losses Series
+This article is part of Aurora’s PV System Losses Series. Each article explains specific types of system losses, drawing from Aurora’s Performance Simulation Settings, and discusses why they affect system performance.
+
+Understanding PV System Losses, Part 1: Nameplate, Mismatch, and LID Losses
+Understanding PV System Losses, Part 2: Wiring, Connections, and System Availability
+Understanding PV System Losses, Part 3: Soiling, Snow, System Degradation
+Understanding PV System Losses, Part 4: Tilt & Orientation, Incident Angle Modifier, Environmental Conditions, and Inverter Losses & Clipping
+
+To get all this information in one place, download The Ultimate Guide to PV System Losses.
+Click above to download our full guide to PV system losses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

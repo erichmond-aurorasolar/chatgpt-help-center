@@ -1,0 +1,6 @@
+Where is LIDAR available in Aurora?
+
+LIDAR Availability Map
+Aurora offers LIDAR coverage through many parts of the United States and select international locations, visible on our map below.  Aurora's current coverage areas are shown in green for Aurora LIDAR and orange for Google 3D.
+
+For Aurora LIDAR, age, point density, and score are also available. Click on an area to view details. We use the age and point density of LIDAR data to calculate a score out of 100. For reference, a point density of 0.7 is acceptable and a point density of 4 or more is quite good.

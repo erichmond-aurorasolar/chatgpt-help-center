@@ -1,0 +1,29 @@
+Key Terms: Irradiance, Solar Access, TOF, and TSRF
+
+Irradiance, Solar Access, TOF, and TSRF are key terms to understand when using Aurora's Irradiance Maps and Shade Report. These terms are defined below: 
+ 
+Irradiance
+Irradiance is the power per unit area received from the sun in the form of electromagnetic radiation. Aurora measures this in kWh/m2/yr.
+ 
+Solar Access
+Solar Access is defined as the incident solar energy given shading, divided by the incident solar energy if there were no shading:
+ 
+$$\mathrm{Solar\,Access} = \frac{ E_\mathrm{shade} }{ E_\mathrm{no\,shade} }$$
+ 
+In simpler terms, Solar Access Percentage refers to the percent of irradiance that is hitting the roof. 
+ 
+You can learn about Solar Access in more depth here. 
+ 
+TOF
+TOF stands for Tilt and Orientation Factor. The TOF will be represented as a percentage and is calculated by dividing the solar insolation of the actual tilt and orientation by the solar insolation at the optimum tilt and orientation.
+ 
+TSRF
+TSRF stands for Total Solar Resource Fraction. The TSRF is the ratio of insolation available accounting for both shading and Tilt and Orientation Factor (TOF), compared to the total insolation available at a given location at the optimum tilt and orientation and with no shading.
+ 
+
+
+
+For additional questions regarding these terms, please contact our Support team at support@aurorasolar.com. 
+
+
+

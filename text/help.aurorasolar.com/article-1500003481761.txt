@@ -1,0 +1,6 @@
+3/4/2021 Release Notes
+
+Features Added
+Added support for the NREL NSRDB PSM V3 weather database. More info can be found here
+Features Updated
+Various performance improvements and bug fixes with the CAD module

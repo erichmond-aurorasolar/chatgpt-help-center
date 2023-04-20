@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+
+
+The Value of Green Button Data for Solar Customers | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            The Value of Green Button Data for Solar Customers                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Green Button data — if you’re not familiar with it, it might sound like something that a Marvel comic book villain would enjoy reviewing. But, in fact, Green Button data is actually a very valuable tool for understanding a home or business owner’s energy usage. In this post, we’ll explore what Green Button data  is and what benefits it provides for solar designers and customers.
+  
+
+Green Button data gives utility customers — both residential and commercial — timely access to energy use data in a standardized, computer-friendly format.
+
+What is Green Button Data?
+Green Button data refers to an option provided by some utilities that enables customers to download detailed data on their electricity usage with just the click of a (green) button from the utility website. Specifically, Green Button data gives utility customers — both residential and commercial — timely access to energy use data in a standardized, computer-friendly format. The Green Button Initiative emerged as a voluntary, industry-led response to a 2011 call-to-action from the White House to make energy data more accessible to consumers.
+Beyond showing how much energy a consumer uses, one of the greatest benefits of Green Button data is that it also provides insight into when energy is being used. Historically utility bills have only shown how much energy was used over a monthly period. However with the increased deployment of “smart meters,”  which track energy usage at intervals of one hour or less, much more granular energy use data is becoming available. If a customer has a smart meter, Green Button data will allow a customer to see exactly how much energy they use at specific intervals.
+The measurement interval available to customers depends on what their utility offers, but many utilities — especially in California and Texas, where utilities are required to provide customers with their energy usage data — provide this information in 15-minute increments. Currently, more than half  of American households have smart meters and they are increasingly being deployed by utilities around the country as part of utility efforts to modernize the electric grid. Smart meters and Green Button data go hand in hand as methods to give customers’ greater insight into and control over their energy use. The Green Button program is helping to make the improved data from smart meters more easily accessible.
+
+Beyond showing how much energy a consumer uses, one of the greatest benefits of Green Button data is that it also provides insight into when energy is being used.
+
+Why Is Green Button Data Important?
+Green Button data offers numerous benefits to energy consumers and for solar professionals looking to design and sell high quality solar installations. Green Button data helps consumers better understand when they are consuming energy, and save on their utility bills. For instance, for residential customers in areas where Time of Use (TOU) rates are standard (like California), Green Button interval data can show how changing the timing of certain energy-intensive activities can result in reduced energy bills.
+
+Green Button data is particularly useful for customers who are considering solar, because it makes evaluating projects and savings faster and more accurate.
+
+Green Button data offers additional value for commercial customers. Beyond the insights it provides with regard to Time of Use rates (which are more common for commercial customers), Green Button data can also help commercial customers better understand demand charges, which are fees a utility charges based on the maximum amount of power a commercial customer consumes over a given time period.
+ An example of a customer’s hourly energy usage based on Green Button Data uploaded in Aurora.
+Green Button Data and Solar: A Perfect Combination
+Green Button data is particularly useful for customers who are considering solar, because it makes evaluating projects and savings faster and more accurate. Having a clear picture of a household’s energy consumption is critical to determining the appropriate size of a solar array. Furthermore, precise data on energy consumption at different times throughout the day is important in enabling accurate evaluation of the financial returns of the solar design.
+For instance, if the customer is billed under Time of Use rates, in order to understand how much a solar installation will reduce their utility bill, it is essential to understand how much energy they consume during peak demand times when energy is more expensive, and how those usage patterns intersect with the amount of energy their solar array is likely to be producing at different times. A customer’s savings will be greater if the energy produced by their solar installation coincides with and can offset much of their electricity consumption during hours when electricity is most expensive (typically in the afternoon). Furthermore, this consideration might influence the ideal location or orientation of a solar design (such as siting the design where it will get more afternoon light, and thus offset energy when electricity prices are higher, rather than where it would produce the most energy overall).
+For commercial customers, whose utility bills include demand charges, the benefits of using Green Button data in the solar design process are a little more nuanced, so we will cover them in a later post.
+With a customer’s Green Button data, you can save time by automatically importing the exact details of the customer’s energy consumption and Aurora will use that to model the customer’s electricity usage throughout the day and throughout the year (their load profile). Combined with Aurora’s simulations of the solar design’s energy production (the industry’s most accurate), you and your solar customer can be confident in the expected financial return on the installation.
+Key Takeaways:
+
+The Green Button Initiative is a program through which participating utilities provide customers with detailed data on their energy usage, in a standardized, machine-readable format.
+Green Button data gives utility customers greater insight into the amount and timing of their energy consumption, helping them to understand how they can save energy and reduce their utility bills.
+Green Button data is particularly useful in helping potential solar customers accurately evaluate the financial return on a solar installation.
+Aurora’s software can automatically import and interpret Green Button data enabling faster and more accurate development of detailed solar sales proposals.
+
+
+Are you using Green Button data? How has it impacted your solar business? Join the conversation on Twitter , Facebook , and LinkedIn  with the hashtag #GreenButtonData.
+~~~  Want to be in the loop on our latest articles? Click here to subscribe to our blog!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

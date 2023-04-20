@@ -1,0 +1,588 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Understanding PV System Losses, Part 1: Nameplate, Mismatch, and LID Losses | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    7 min read                                
+
+
+                            Understanding PV System Losses, Part 1: Nameplate, Mismatch, and LID Losses                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There are many factors that impact the energy production of a solar installation. These range from the characteristics of the modules themselves, to the way the system is designed and installed (tilt, orientation, stringing configuration, etc.). Environmental factors like shade, soiling, and snow also play a role.
+
+An accurate estimate of how much energy your PV system design will produce is essential to ensuring the system meets your customer’s needs. But without a strong understanding of the factors that can reduce system output, arriving at an accurate estimate can be challenging — even with the help of software applications that simulate system performance.
+About this series
+In this series, we’ll provide an overview of various causes of energy production loss in solar PV systems. Each article will explain specific types of system losses, drawing from Aurora’s Performance Simulation Settings, and discuss why they affect system performance.  
+For Aurora users, this series will provide tips for improving the accuracy of your performance simulations by sharing research-backed recommendations for what values to input in your Simulation Settings for different loss types. While Aurora provides default values for these fields that fit most use cases, this series will also highlight cases in which you might want to use different values depending on the specifics of your design. (For a quick summary of system losses, and how to configure your account settings in Aurora, see the Aurora Help Center.)
+This guide for picking better loss values will help you give your customers the most accurate estimate of how much their system will produce and how much they can save by going solar.
+What are PV system losses?
+System losses refer to effects that simulation engines do not explicitly model; these linear loss factors are applied as percentage reductions to the estimated system production calculated by the simulation engine. (For the purposes of this article, we assume the simulations are run using the Aurora Simulation Engine; however, PVWatts will also use these settings if selected.)
+Want all this info in one handy package? Download The Ultimate Guide to PV System Losses.
+Click above to download our full guide to PV system losses.
+Common DC losses: nameplate, mismatch, and light-induced degradation
+In today’s article we’ll cover three common types of DC losses: nameplate, mismatch, and light-induced degradation. 
+What is DC loss?
+By DC losses we mean factors that reduce the amount of direct current (DC) energy that is produced by the solar panels before that energy is converted into alternating current (AC) by the inverter for use in the home and on the electric grid.
+These are all applied as fixed-percentage DC-side losses to the system, meaning that the output of the PV modules will be reduced by these percentage values.
+Aurora allows admins to customize the default system losses for their organization. This makes it possible to ensure your default system losses accurately reflect the characteristics of your designs.
+Module nameplate rating loss
+Suggested Values: 
+0% for modern modules
+Lower Tolerance Pmax,STC  / Pmax,STC   for conservative production estimate
+Module nameplate rating loss accounts for the difference in the stated power of the module from a datasheet compared with how it actually performs at Standard Test Conditions (1000 W/m2 and 25o C). Most modern modules will have datasheets that accurately reflect module operation at STC, so the default value for this loss is 0%.
+Some older modules, particularly when some manufacturers did not “bin” modules into 5W or 10W increments, may need a small loss in this field. (Binning refers to grouping modules based on their power rating because the manufacturing process results in slight variations between modules). 
+Additionally, if a module has an error range on the wattage rating, such as “250W +/- 2.5W,”  you can enter a 1% loss (2.5/250) to ensure that your simulation provides a conservative estimate of power production.
+Today, most solar modules perform consistent with their nameplate rating under standard test conditions; however, historically there were sometimes slight discrepancies between what a module’s datasheet indicated and actual performance. 
+Mismatch Loss
+Suggested Values:
+2% for most modules and systems with long strings
+1% for modules that have tight wattage tolerances
+0% is automatically used on modules with DC optimizers or microinverters
+Mismatch loss refers to losses caused by slight differences in the electrical characteristics of the installed modules, applied as fixed percentage reduction of the system’s DC power output. 
+These losses will be higher for systems that have a wider error range on rated power. Industry research has shown mismatch values range from 0.01% up to 3%, depending on the setup of the system and the length of strings. Aurora uses a default value of 2% based on past industry consensus.
+It should be noted that in some PV modeling tools, mismatch loss includes differences in string lengths, cloud shading, and edge effects, in addition to the module electrical characteristics.
+How Aurora handles mismatch situations
+Aurora’s simulation engine calculates string length differences from the PV module layout so that the user is not required to estimate a loss from unequal string lengths.
+Aurora also sets the mismatch between modules to 0% if DC optimizers or microinverters are used. This is because these module-level power electronics perform maximum power point tracking for each module to which they are connected. 
+Some installers will use a combination of modules with and without a module-level maximum power point tracker. For example, modules on a shaded portion of the house may have an optimizer while unshaded ones do not; in this case, the modules with MPPTs will be evaluated with 0% mismatch losses while other modules will use the provided loss percentage.
+Resources for further reading:
+Effects of Mismatch Losses in Photovoltaic Arrays 
+Mismatch Loss Reduction in Photovoltaic Arrays as a Result of Sorting Photovoltaic Modules by Max-Power Parameters  
+Sources of Mismatch in Unshaded Photovoltaic Commercial Arrays (PDF)  
+Mismatch losses refer to losses resulting from slight differences in the electrical characteristics of different solar modules. 
+Light-induced degradation
+Suggested Values:
+1.5% for most crystalline solar modules
+0.5% for most multi-crystalline solar modules
+0% for n-type modules, including SunPower – check with the manufacturer for more info
+Light-induced degradation (LID) is a less-well-known phenomenon that impacts a large segment of the crystalline-silicon cell market. In short, it is degradation that occurs in a solar cell over the first few days after installation as a result of exposure to sunlight. This can lead to losses of 0.5% – 1.5%. 
+Importantly, LID impacts some module types but not others. To understand the causes of LID, and why certain types of modules are affected, one must first understand two factors that differentiate solar cells: their crystal structure (monocrystalline or multicrystalline) and their electrical properties (P-type or N-type).
+Solar cell crystal structure
+Crystal structure refers to differences in the structure of a solar cell resulting from how it is produced:
+
+Monocrystalline – solar cells that are grown using a process (the Czochralski process) that produces a uniform crystal structure that is sliced to make solar cells. These tend to have better electrical properties. They also tend to have somewhat higher oxygen concentrations, which is important for LID.
+Multicrystalline – solar cells that are produced by some form of vapor deposition, which grows silicon onto a substrate. These will have many crystalline sections, which show up as different reflective edges in a solar cell. These are less efficient at producing electricity compared to an equivalently-sized monocrystalline cell, but are cheaper and faster to produce. They also have less oxygen present in the material.
+
+Silicon wafer electrical properties
+Electrical properties refer to properties of silicon wafers (which make up a solar cell) that are needed to create a voltage difference in the cell when exposed to sunlight:
+
+P-type: a p-type silicon wafer contains a controlled quantity of impurities, referred to as doping elements, that accept electrons more readily and let a PV module create a voltage difference to produce power under sunlight. Most p-type cells use boron as the doping element, while some others use gallium. Boron plays an important role in LID.
+N-type: these silicon wafers contain impurities that have the opposite effect; they release, rather than accept, electrons. N-type silicon wafers do not exhibit LID.
+
+LID is typically caused by the formation of boron-oxygen compounds in the silicon wafers that make up the solar cell. This means that monocrystalline solar cells that are p-type with boron will exhibit the most LID, and p-type multicrystalline cells will also exhibit LID, but to a lesser extent due to a smaller oxygen concentration. The LID process is usually not accounted for in lab testing of modules, so it won’t be included in the PV module datasheet. Aurora uses a default 1.5% loss.
+Some manufacturers use n-type silicon—including SunPower in nearly all of their modules, and LG in some of their newer ones—which is not subject to LID because no boron is present in the material. In this case, the LID loss should be set to 0% instead of the default. 
+Resources for further reading:
+Understanding Light-Induced Degradation of c-Si Solar Cells
+Boron-Oxygen Defect Formation Rates and Activity at Elevated Temperatures
+SunPower Module Degradation Rate 
+Ironically, some solar panels experience degradation when first exposed to sunlight, which can reduce system losses. This is referred to as light-induced degradation. 
+
+Why PV system losses matter in solar sales
+By understanding these system losses—nameplate, mismatch, and light-induced degradation—and the recommended percentage loss to apply for each in different scenarios, you can ensure that your estimates of system performance are accurate. Your customers will be happy when their installed system produces the energy they were promised!
+In subsequent installments of this series, we will explore other types of system losses, such as Tilt/Orientation, Wiring, DC-AC Conversion, and others.
+About Our PV System Losses Series
+This article is part of Aurora’s PV System Losses Series. Each article explains specific types of system losses, drawing from Aurora’s Performance Simulation Settings, and discusses why they affect system performance.
+
+Part 1: Nameplate, Mismatch, and LID Losses
+Part 2: Wiring, Connections, and System Availability
+Part 3: Soiling, Snow, System Degradation
+
+Part 4: Tilt & Orientation, Incident Angle Modifier, Environmental Conditions, and Inverter Losses & Clipping
+
+To get all this information in one handy package, download The Ultimate Guide to PV System Losses.
+Click above to download our full guide to PV system losses.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

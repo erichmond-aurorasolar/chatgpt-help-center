@@ -1,0 +1,551 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar Fundamentals: Making Sense of Kilowatts and Kilowatt Hours | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar Fundamentals: Making Sense of Kilowatts and Kilowatt Hours                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+There are many things to understand when you’re considering going solar. In fact, some of the most basic concepts around the electricity panels generate, and we use, are often the most misunderstood. 
+When you get a solar estimate, or you read a story about a new plant coming online, the system size is generally listed in kW. When you see your electric bill, the power you’ve used is usually stated in kWh. 
+As with terms like AC and DC (alternating current and direct current), these acronyms get thrown around a lot, but the homeowner often doesn’t quite understand what they mean [raises hand]. So, following our AC/DC explainer, we thought an introduction to kW and kWh could help further reduce some of the mystery of solar installations.
+How do we get to these terms, and what do they mean? 
+Measuring Energy: Watts, Amps, Volts
+Watts are how we measure electrical power. Electrical power, of course, is what we use to run all those devices we use. It’s also what the panels on your roof, or in that field by the highway, generate 
+In the simplest terms, one watt is one unit of electrical energy or power, whether you’re using it or producing it. The equation used to determine power is:
+Power (Watts) = Current (Amps) x Flow (Volts)
+Visualizing Watts, Amps, and Volts 
+A common analogy that can help make this a bit more understandable is to think of electrical potential like water in a tank, as shown in the diagram below.
+Source: Wilderness Labs
+Having a higher water level is like having higher voltage — there is more potential for something to happen.
+Electric current (measured in amperes, or amps) is defined as the rate at which the charge is flowing. In our example above, the water flowing out of the tank through the pipe is comparable to the current in an electrical circuit. A wider pipe, like the one on the right, allows more water to flow, just like a higher amperage allows for more power at the same voltage.
+Power (P), then, is the rate at which energy is transferred. As our equation above states, it’s equivalent to voltage times current and is measured in watts (W). And, as shown in the diagram, the rate is proportional: If you cut the voltage in half, but double the amperage, it’s the same amount of power.
+(For a more in-depth explanation, check out our post on solar panel wiring basics.)
+Standard Voltage and Amperage
+In the U.S. and Canada, the standard voltage for your outlets is 120 volts. The power enters your home at 240 volts, and is then split at your main circuit breaker into two 120-volt feeds which are then routed to your outlets.
+Most homes in the U.S. are wired with a combination of 15-amp and 20-amp, 120-volt circuits.
+A typical home circuit board. (Source: Wikimedia Commons)
+Fifteen-amp receptacles can be used with 20-amp circuits, so most outlets you see in your house are the standard 15-amp variety — two slots and a U-shaped grounding hole.
+This provides enough power, in watts, to run most of your appliances. Larger items, like washer/dryers and air conditioning units, require 240 volts and higher amperage. To accommodate them, specialized individual circuits are wired into your house. You can see them in your main board as the big, “double” breakers. The amperage of each is printed somewhere on each switch, as shown in the photo to the right.
+What Is a Kilowatt?
+Basically, everything with a plug has some sort of wattage (power) that it pulls when it’s being used. You can probably think of things that have more intense electrical use (dishwashers, vacuums, hair dryers, etc.) vs. those that use a more modest amount (LED screens and bulbs, toasters). 
+For example, a 75-watt incandescent lightbulb needs an electrical flow of 75 watts to light up a room. A 13-watt LED bulb only needs a flow of 13 watts to do the same job. On the higher side, a typical dishwasher pulls over 1,000 watts; an electric clothes dryer, more than 2,000 watts.
+As you’ve probably figured by now, a kilowatt is simply 1,000 watts. A 1,500-watt dishwasher pulls 1.5 kilowatts when it’s in use.
+What Are Kilowatt Hours?
+Take the dishwasher that’s rated at 1,500 watts. As we said above, this means that the appliance uses (or draws) 1,500 watts, or 1.5 kilowatts. Getting from kilowatts to kilowatt hours is simply a matter of how much a certain item is used. 
+If your typical dishwasher cycle is 1 hour, then each cycle uses, you guessed it, 1.5 kilowatt hours. A 2,000-watt clothes dryer with a 90-minute cycle uses 3 kilowatt hours every time. In contrast, you’d have to keep that 13-watt bulb turned on for 100 hours to use 1.3 kilowatt hours.
+For More Information
+Now that we know the basics, we’re ready to understand a lot more about the process of going solar. Here are a few more resources as you continue your journey.  
+You can’t fully understand the benefits of a PV installation if you don’t know how to read an electricity bill. Check out these posts to see what all those numbers mean:
+
+Reading Your Electricity Bill: A Beginner’s Guide
+How to Size a PV System From an Electricity Bill
+
+Two things that affect your electric bill and how much return you get from a solar system are time-of-use rates (TOU) and net energy metering (NEM). Here are a couple resources to help you understand both concepts (check back frequently, these things change!):
+
+How Solar Customers Save Money: A Beginner’s Guide to Net Energy Metering
+What are Time-Of-Use Rates? Your TOU Guide
+
+Finally, if you think you might want to store some of your solar energy, check out our pieces on solar storage:
+
+Storing Solar Energy: Everything You Need to Know
+How to Choose the Best Solar Battery for Your Needs
+
+Are there any other terms you’d like to see a blog on? Let us know. 
+ 
+Special thanks to Zia Swim for the technical consultation.
+Featured image by Jon Moore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+12/10/2020 Release Notes
+
+Features Added
+
+Added an UPDATE endpoint for setting incentives on the financing tab.
+
+Features Updated
+
+Fixed an issue that caused cash grants to not be included in the correct column on the financial analysis spreadsheet.
+Fixed an issue that caused the year to apply for a financial incentive to not be last year of the project life cycle.
+Fixed an issue that caused financial incentives to show on financing graphs as the year after they are actually applied. 
+Updated tooltips around financing metrics and incentives.
+Fixed an issue related to storage system size incentives that include a hybrid inverter. 
+Fixed an issue with SE Prism inverters causing the incorrect DC to AC ratio to populate by default.
+Fixed an issue that caused the simulate button on the financing page to not reset properly after the simulation had been completed.
+Introduced new and updated utility rates to the consumption database 

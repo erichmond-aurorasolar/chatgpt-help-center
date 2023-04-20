@@ -1,0 +1,43 @@
+Modeling California's NEM 3.0 in Aurora
+
+This article describes how to model California’s Net Billing Tariff, commonly referred to as NEM 3.0, in Aurora.
+You can also view our blog for more analysis on on the NBT.
+What is in the Net Billing Tariff:
+Residential customers are required to enroll in Electrification Rates. 
+The currently allowed rates are:
+
+
+
+
+PG&E: E-ELEC
+
+SCE: TOU-D-PRIME
+
+SDG&E: EV-TOU-5
+
+
+
+
+Behind-the-meter operation is the same as normal, but exported energy is no longer compensated at retail rate (less non-bypassable charges;) instead, the compensation rate is based on the most recent Avoided Cost Calculator (ACC) and has a different rate for each hour.
+
+Customers who sign up in the first 5 years receive an adder on top of their ACC-based export rate, starting at 2.2 cents for PG&E and 4 cents for SCE non-CARE customers. The adders are applied for the first 9 years after interconnection. The adder is smaller for customers interconnecting in later years.
+
+The export rate is only fixed for 9 years, however, there's no strong indication that future iterations of the ACC will be better or worse for solar.
+
+
+Aurora models the NBT by applying each of the specified 576 distinct export rates to any exported energy as appropriate, depending on the month, hour of day, and whether it is a weekday or weekend. Our blog details how this calculation works.The ACC adders are automatically included.
+Selecting NBT residential rates in Aurora
+In Aurora, you can specify the NEM 3.0 rate by setting the post-solar rate in the energy consumption overview page or for a specific design. If the rate doesn’t appear in the dropdown list, you can search for “NEM3” to find it. Our third party rate provider lists the rates as E-ELEC-NEM3, TOU-DR-PRIME-NEM3, and EV-TOU-5-NEM3.
+
+To ensure that the correct export rules are being applied, check that the export rate is set to “Schedule” under the Utility Bill Savings dropdown section.
+
+Comparing NEM 2.0 to NBT
+To show a prospective client the difference between NEM 2.0 and the NBT, you should switch the Post Solar Rate from the appropriate NEM 2.0 rate to our NBT / NEM3 Approximation rate. The Post Solar Rate can be edited in the "Usage Details" section of the Energy Usage and Bill Overview pages in Sales Mode, or in the Utility Bill Savings section of Design Mode.
+Bill values will update automatically after a selection is made.
+Commercial rates
+At this time, our third party utility rate provider does not provide data for modeling commercial rates with the ACC export schedule. Stay tuned for updates about when commercial NBT modeling will be available.
+Legacy Aurora
+Modeling for the NBT works correctly in legacy Aurora, but the “Export Rate” field will show up as “select a rate” rather than “Schedule”. 
+ 
+For any questions, please reach out to our support team by submitting a request. We can also be reached at support@aurorasolar.com.
+ 

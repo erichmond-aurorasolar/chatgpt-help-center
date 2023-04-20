@@ -1,0 +1,568 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Solar Energy Storage Works | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Solar Energy Storage Works                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solar energy storage works by adding a battery to the solar system installed on the home. There are two primary reasons homeowners want solar energy storage:
+
+To have backup power when the grid goes down
+To take advantage of Time-Of-Use rates to lower their electricity bill
+
+Using Solar Energy Storage for Emergency Backup
+Many homeowners purchase energy storage simply as a backup in case the power from the grid goes out. With wildfires, thunderstorms, hurricanes, and other natural disasters becoming more frequent in recent years, many homeowners are looking to storage as a peace-of-mind purchase.
+What many solar homeowners don’t realize is that if the grid goes out during the day their solar panels will no longer work. This is because their solar panels are tied to the grid and they will turn themselves off if they no longer detect power coming from the grid as a safety precaution. A storage battery, however, can continue working in these cases, which is why it’s a good way to prepare for emergencies.
+Using Solar Energy Storage for Electricity Bill Savings
+The second most common reason homeowners get solar energy storage is to take advantage of time-of-use (TOU) rates. A time-of-use rate is when a utility company charges higher rates at a certain time of the day and lower rates at other times. The utility companies do this when there is higher demand on the grid, in the evenings when everyone is at home using power for instance.
+A battery can get around TOU rates by charging itself during the day, either from the cheaper grid energy or from the solar panels, and then discharge that power during the evening. This allows the homeowner to capture any extra energy their solar panels generate and use it later once the sun has gone down, thereby reducing their utility bill.
+ 
+
+Required Components for Solar Energy Storage
+Solar + storage systems require a number of additional components to make them work. While there are many variations that you can use, the basic components for any solar + storage system are:
+Solar Panels
+Solar panels allow you to charge your battery with clean renewable energy. You can have an energy storage system without solar panels, but having solar panels is preferable. The four most common types of solar panels are: Monocrystalline, Polycrystalline, PERC, and Thin Film.
+Batteries
+The battery is the center of your energy storage system. The two most common types of batteries are Lithium-Iron-Phosphate (LFP) and Lithium-Nickel-Manganese-Cobalt (NMC). Go here to learn more about home battery storage.
+Inverters
+Inverters are a device that converts energy from AC to DC and vice versa. Inverters are needed to convert the DC energy from your solar panels and batteries into AC energy that is used in the home. Some batteries and solar panels now include a built-in inverter into their components.
+Critical Load Subpanel
+A critical load subpanel is a device that determines what will get powered if the grid goes out. Most batteries can’t power an entire home for very long. To extend the amount of time your battery lasts during an outage, you can choose to power only a few critical appliances in your home (such as the refrigerator and lights). The critical load subpanel allows you to choose those critical loads and it’s very important that solar installers sets this up correctly for your battery’s capacity.
+Other Components
+There are many smaller components needed to make a solar + storage system work such as AC & DC disconnects, fuses, circuit breakers, switchgear, cables, electrical conduit, mounting hardware, battery enclosures, and safety equipment. Some modern solar storage systems even include software and mobile apps to give even more control to the homeowner.
+Solar Battery Terms
+There are a few key terms that are specific to solar battery storage. Knowing these terms is helpful when comparing types of solar batteries and understanding their advantages.
+Cycles
+A single “cycle” of a battery is a single discharge and recharge. Life-cycles refers to the number of times a battery can be charged and discharged before it needs to be replaced. Although all batteries can be discharged to 100%, many battery types should only be discharged to 70-90% of their total capacity. This is called the “depth of discharge.” Cycles are also important because some manufacturers use number of cycles for warranty tracking.
+Depth of Discharge
+The depth of discharge refers to how much of a battery’s energy is discharged before it’s charged back up again. Many types of batteries shouldn’t be discharged completely because it can lower the lifespan of the battery. Lithium batteries, for instance, should only be discharged 90% before they should be charged back up again.
+Life-span
+The estimated life-span of a battery is how long the battery will last before it should be replaced. Lifespan can either be measured in number of years or number of cycles. A lithium battery, for example, has an estimated lifespan of 13-18 years or around 6,000-10,000 cycles.
+Types of Solar Batteries
+There are three main types of solar batteries: Lithium-ion, lead-acid, and flow. The most commonly used type of solar battery is Lithium-ion, of which there are two main types.
+Lithium-Ion Batteries For Solar
+Lithium-ion batteries are the same type of batteries found in your cellphone, laptop, and other electronics. They have become preferred in the solar industry because they can discharge deeper and have more lifecycles than traditional lead-acid batteries. A typical lithium-ion battery will give you around 6,000-10,000 cycles at 90% discharge – so they will have a lifespan of roughly 13-18 years.
+The two most common types of lithium-ion batteries are Lithium-Iron-Phosphate (LFP) and Lithium-Nickel-Manganese-Cobalt (NMC). NMC are the most widely used, but LFP batteries are gaining in popularity and will soon be the dominant battery in the market.
+LFP batteries are preferred for their stability, durability, and performance. They are less prone to thermal runaway, also known as exploding, so they are generally the safer option.
+NMC batteries  are preferred for their high energy density, lower cost, and long cycle life. Many companies that already produce batteries for other applications, such as Tesla, prefer NMC batteries because they already have the infrastructure to produce them.
+Lead-Acid Batteries for Solar
+Lead-acid batteries are the same type of battery used in your car. They are an older technology that is mostly used for off-the-grid and DIY applications. Lead-acid batteries are a very well tested technology, but they lack the energy density of their Lithium-ion competition. This means that you’ll need a lot more lead-acid batteries for the same amount of energy storage as a lithium-ion setup.
+The other drawback to lead-acid batteries is that they have a lower discharge capacity and number of lifecycles. Most lead-acid batteries have a recommended discharge of 60%, meaning you shouldn’t discharge them lower than 60% or you’ll reduce their lifespan. They also have a lower cycle life of about 1000-3000 cycles before they need to be replaced.
+Flow Batteries for Solar
+The newest battery technology is what’s known as a flow battery. A flow battery uses a water-based liquid (Zinc Bromide) that flows between two tanks. 
+The two main advantages of a flow battery are its discharge capacity and its safety. Flow batteries can be discharged to 100% of their capacity and won’t lose any of their lifespan as a result. They are also safer because the liquid mixture inside is a natural fire-retardant so there isn’t any risk of thermal runaway (explosions).
+We have an entire post on best solar batteries for your needs. If you need more clarification, check it out!
+ 
+
+Energy Storage Placement
+There are two broad types of solar energy systems: DC-coupled and AC-coupled. Solar panels and battery storage equipment typically use direct current (DC). The grid and the outlets in a home, however, use alternating current (AC). 
+To make a solar panel and battery system work with the grid, the system’s DC power must be converted to AC power. This is done using a device called an inverter.
+Advantages of DC-Coupled Batteries
+A battery can be installed into a system either on the DC or AC side. The benefits of installing a battery on the DC side is that the battery and solar panels can both use the same inverter, which saves money on equipment and labor costs. DC-coupled systems also tend to be more energy-efficient and have better energy controls.
+Advantages of AC-Coupled Batteries
+There are some cases where you may want to install the battery on the AC side. If a solar panel system has already been installed on a home, you may want to use an AC-coupled battery so that you don’t have to rewire the existing solar system. AC-coupled systems are also easier to add to in the future and provide more control since the battery uses its own inverter.
+Should You Install Solar Energy Storage on your Home?
+There are a lot of variables that will determine whether an energy storage system is a good fit for your home. The two main variables to consider are energy reliability and cost.
+The Cost of Energy Storage
+While prices have been steadily decreasing over the last several years, energy storage systems are still fairly expensive. The typical system on a 10kW home can range from $5,000 to backup just a portion of the home’s energy, to upwards of $50,000 to backup the whole home’s energy consumption.
+While there are new tax credits and incentives that lower the cost of energy storage, the price of energy storage is a tough obstacle to overcome. One way to overcome this obstacle is by modeling out several energy storage options using the storage feature in Aurora. Aurora can model your current energy consumption and automatically provides smart recommendations that you can also customize to your exact needs.
+Another way to determine if storage is right for your home is by modeling out your time-of-use rates. If you live in an area with a high time-of-use rate, you may want to get a battery storage system to use during those high time-of-use periods.
+Energy Reliability and Storage
+Selling storage on cost-savings can be tough, which is why a majority of installers sell battery storage on peace-of-mind. With natural disasters growing in frequency, many homeowners simply want the energy reliability that comes with a battery storage system.
+Making storage a peace-of-mind rather than a return-on-investment purchase is highly recommended when the circumstances allow for it. If you want to learn more about how to best position storage, you can read our Pocket Guide to Selling Storage where we share positioning tactics, common objections, and even some marketing examples.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,56 @@
+Adders and Discounts
+
+ 
+Adders and discounts are line items that modify the final price of your system but are separate from local, state and federal incentives. 
+Adders add dollars to the final price, and discounts reduce the final price. 
+ 
+Creating a New Adder or Discount
+To create a new Adder or Discount, navigate to Database > Adders and Discounts. Next, click "New" in the top right corner.
+
+
+
+Name - This is the title of your adder, and will show up on your Web Proposal. Make it descriptive and customer friendly. 
+
+Type - Adder or Discount, Adders increase the final price, Discounts reduce it. 
+
+Rate - The monetary portion of how the adder or discount is applied.
+
+
+Flat - A flat monetary amount that is applied to your price. 
+
+Percentage - A percentage of the final price after year 0 incentives
+
+Per Watt - A monetary amount multiplied by the DC System Size of your system.
+
+Per Panel - A monetary amount multiplied by the number of individual panels in your system.
+
+Roof Area (per sq. ft.) - A monetary amount multiplied by the surface area specified in the following dropdown menu, which includes:
+
+
+
+
+Only roof faces containing panels - targets the combined area of all roof faces that have one or more modules
+
+
+Underneath arrays - targets only the roof area under arrays
+
+All roof faces on buildings with solar panels - targets the total roof area of buildings with one or more modules
+
+
+
+
+
+
+
+Amount - The monetary amount that may be multiplied by some value from your system design.
+
+Allow Inline Edit - If this is enabled users will be able to edit the amount of the adders or discount as they are creating their proposal. Leave this turned off if the value of the adder or discount does not and should not change from design to design.
+Is homeowner facing – If enabled, the adder will be visible to the homeowner in Sales Mode and the Web Proposal when selected. If disabled, the adder will still be factored into the system pricing, but will not be displayed in Sales Mode or the Web Proposal.
+CBIs can be applied – Toggle on if the amount associated with this adder can be included when calculating cost based incentives like the Federal ITC.
+
+
+Using Adders and Discounts
+On the Financing page in sales mode, click the 'Adjust' button. Here you can find and apply the adder or discount as well as see the incentives that are applied. 
+To add an option, click the "+" button the the right hand side of the screen, to remove it click the same button which will now be a check mark.
+
+ 

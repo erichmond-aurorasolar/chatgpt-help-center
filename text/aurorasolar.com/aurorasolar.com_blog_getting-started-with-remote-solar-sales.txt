@@ -1,0 +1,527 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Getting Started with Remote Solar Sales | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Getting Started with Remote Solar Sales                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Making the transition from meeting your customers in-person to conducting your solar sales 100% remote for the first time can seem daunting, but it can be done. Some of the most successful and fastest growing solar companies have already adopted remote sales processes. Several advantages of remote selling include increased territories, lower customer acquisition costs, zero travel, and increased appointment bookings.
+
+To help conceptualize what it would take to make this transition, we paired Aurora Solar’s Account Executive Elliot Goldstein with Baker Electric Home Energy’s Senior Solar Energy Consultant Meital Stotland in a webinar with PV Magazine. You can tune into their discussion here, where they highlight four themes to keep in mind about remote solar sales, or continue reading for the key takeaways (and don’t miss out the infographic at the end of this article).
+Set up a Sales Process for Remote Selling
+There are some in-person sales processes that also apply to remote selling, e.g., having a strong inbound lead funnel and a system that allows you to quickly respond to leads and book appointments. The key difference with remote sales is that you’re selling without any physical presence.
+The first process to set up is what you’ll be using to replace your physical presence in a customer’s home. The best solution is video conferencing with the ability to share your computer screen. After you’ve selected a platform you’re most comfortable with, Meital Stotland recommended as practice, to find the least tech savvy person you know and walk them through how to set it up over the phone.
+Once a remote appointment is booked, Meital says “preparation is vital,” just like when you’re on the ground doing field consultations, but a little different. For remote sales, before the first consultation call, here are a few good practices:
+
+Get a copy of their electricity bill
+Ask for pictures of their electrical panel to have on hand; don’t forget to share what specifically you’re looking for
+Send an email with instructions on how to set up and use the video conference platform, and what the backup plan is if it doesn’t work
+
+Essential Technologies
+In addition to using a video conference platform, there are a couple very helpful technologies to consider for remote sales. Meital mentioned that Baker Electric Home Energy has been using Aurora for sometime now, and “it’s a great tool to have when you’re designing and selling remotely.” Meital shares her screen with her prospects while logged into Aurora, and co-designs their PV system with them, just as she would at the kitchen table. Elliot pointed out that having the ability to show customers Aurora’s capabilities, such as up to date imagery with NearMap, LIDAR, and energy production estimates, can help build credibility and trust with customers.
+Another technology that is very useful for remote sales is an electronic signature tool. The one Baker Electric Home Energy uses is DocuSign, and Meital shared that you can easily review the agreement with customers, answer their questions, and show them where to sign remotely.
+Adjustments to Your Sales Pitch
+Elliot and Meital provided a number of tips on how to adjust your sales pitch for remote sales. For starters, since you won’t be physically present, your tone of voice will be key to conveying your energy and confidence. Make sure to use the camera. Building trust will be a little more challenging with remote sales, and allowing your customer to see you will help.
+Second, write a skeleton outline of your solar consultation to help you stay focused. Take advantage of now having the ability to have notes next to you during an appointment. Elliot suggests that if you’re a sales leader, it’s a great opportunity to shadow your team members, record and share the calls that went well to help the team grow.
+Lastly, with current events and stay at home orders, not everything will be perfect. It’s okay to share that you’re working from home and might get interrupted. It’s okay to be human, “give yourself a break, but still be professional, make sure you address all of their motivations and all of their objections” says Meital. Elliot added that the key here is “empathizing with the moment, people really have a lot of uncertainty that we’re all processing.”
+Closing the Sale
+Avoid the temptation to end your call with “okay, I’ll check in with you next week.”
+Ask for the sale. There’s no downsides to asking for the business. You’ll either get the sale or find out the reasons for their hesitations and know what is needed to close the sale.
+It’s best not to assume that during these difficult times people don’t want to go solar. Let them make this decision. Some may have been putting off this purchase decision until they have more time to think about it and many may now just be considering it with their rising electricity bill.
+Something else to keep in mind: be ready with a payment plan. Consider switching from cash to to loan or lease option plans. “I think a lot of us in the solar industry have been selling cash; the last couple of years, it’s been a wonderful land of cash,” said Meital. “And now I think we need to remember what it was like to sell during the recession.”
+If after addressing all their concerns, and they’re still not ready to buy, you can always ask them “how would you like me to follow up?” Meital suggested it’s a good idea to have a methodology of how you’re going to follow up, because unless they say “don’t call me, I’m not interested,” you should.
+This is one of a series of activities Aurora is putting together to help share insights on the topic of remote sales. To find a wealth of resources, click here.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

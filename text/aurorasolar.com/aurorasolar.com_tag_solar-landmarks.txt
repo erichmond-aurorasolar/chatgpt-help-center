@@ -1,0 +1,583 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Solar Landmarks: A Solar Design for Buckingham Palace | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Solar Landmarks: A Solar Design for Buckingham Palace                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In our Solar Landmarks series, we explore the world, all from the comfort of the Aurora office in Palo Alto. We will “travel” to famous landmarks and investigate their potential for solar energy generation.
+For each site, we will go through the entire solar design process—from determining an optimal component layout based on the roof structure and shading losses all the way to a cost analysis with various financial options.
+Buckingham Palace
+A 3D model of Buckingham Palace, created in Aurora.
+The UK has recently made some decisions that have left its solar industry struggling to grow. Firstly, it surprised the solar market by cutting the solar feed-in-tariff by 65%, then it surprised the financial markets by voting to leave the EU. This leaves us wondering: what can we do to help highlight the environmental and economic benefits of solar in the land of the Union Jack?
+What better way to make a statement than by helping Her Majesty The Queen go solar? We will perform a preliminary site assessment for Buckingham Palace, which was recently listed as the world’s most expensive home with a value of over $1.25 billion (we used an exchange rate of 1.25 US dollars to 1 Pound Sterling throughout this analysis).
+Balancing a Budget: Some Background on Royal Finances
+Before we get out over our skis, our first step is to qualify the lead. While we suspect they are good for it, we need to make sure that the Royal Family has enough cash, or adequate credit, to afford a solar installation. We also want to get a sense of how much they are spending on electricity in order to ballpark how big a system they would need.
+At the time of writing the Royal Family has not returned our request for a credit check, however we are able to retrieve information on their income from The Sovereign Grant Annual Report. For those in the US, this is essentially their equivalent of a W2, except it is measured in millions of pounds and read to members of parliament. And it is prepared by the delightfully named Keeper of the Privy Purse, as opposed to Turbo Tax.
+Here are some fun facts that we learn by combing through the Annual Report:
+
+The Queen is technically the Head of the Armed Forces, the Judiciary, the Civil Service and is the Supreme Governor of the Church of England (you thought you were wearing multiple hats).
+The Queen has met eleven of the last twelve US Presidents (we guess even The Queen needs a good excuse to use the good silverware).
+The Queen has sent 232,000 congratulatory telegrams to centenarians on their 100th birthdays (yes, telegrams—we had to Google them too).
+The Queen pays 50% of her suppliers within 15 days of receipt of invoice, and 95% of them within 30 days of receipt of invoice (an installer’s dream!)
+The Royal Household had income of approximately $65 million in 2015.
+
+We think they’re good for it.
+The Report records that Buckingham Palace consumed 4.3 million kWh of electricity from the utility grid (that’s about 4 times the estimate we used for the White House, which is a bit more secretive). Based on the utility rates available for the Palace’s area code, we calculated an average day-time rate of approximately $0.15/kWh for daytime energy usage, and $0.07/kWh for nighttime use. Great, we are ready to get started designing!
+Prospecting the Roof Structure
+Buckingham Palace’s floor area covers more than 19 acres! The site itself dates back to the seventeenth century, although the modern building was built between 1820 and 1828. We started by taking a look at the irradiance and shading characteristics of the roof.
+The irradiance map, generated in Aurora, reveals that south facing surfaces have the most sunlight, and that most shading comes from adjacent buildings. 
+With a glance at the irradiance map, we quickly see why 4 million British tourists make the annual pilgrimage to the relatively sunny United States: An average irradiance of about 1000 kWh/year is even less than Maine’s, which weighs in at about 1,200 kWh/year.
+Unsurprisingly, as seen by the lighter colors on the irradiance map, we found that south facing roof surfaces were the best locations for a solar installation. Unfortunately, the same blocky neoclassical architecture that draws legions of tourists every year also results in roof surfaces that have few uninterrupted areas for placing modules.
+Carport or Ground Mount?
+With few options for a roof installation, we have to look to the ground game. Fortunately, in addition to having over 19 acres of floor space, Buckingham Palace has over 40 acres of garden. We are going to look at installing a carport or ground mount system in the backyard. (After all, how much lawn does one really need for croquet?) An elevated structure will still allow for plenty of space for picnic tables for afternoon tea. We can use pipe racks in a 404 kW system and TrinaPeak 330W modules with cell-string level power optimizers, allowing us to mitigate the effects of shading from nearby trees.
+Given the size of the project, and due to the marquee nature of our client, we’re assuming an aggressive $2.1/W-DC installed cost.
+Spec Table
+
+
+
+Pitch
+25°
+
+
+Rack Height
+15 ft
+
+
+Modules
+1,224
+
+
+Estimated Project Cost
+$848,232
+
+
+System Size
+404-kW
+
+
+
+
+Simulating Energy Performance
+Taking into account system loss factors such as soiling, snow, and shading, and running a sub-module performance simulation, we estimate that this solar system can produce 330,195 kWh of electricity in its first year of operation.
+
+Energy production and loss diagram
+Our loss tree diagram shows exactly where we are losing energy and how we might improve our design—for example we see inverter clipping losses of 0.8%.
+Financing options
+Now that we have established that we can provide shelter for the visitors to Buckingham Palace, and offset approximately 10% of the Palace’s energy consumption, let’s see the financial return of this project.
+The UK has a feed-in tariff system where the system owner is paid a credit for any energy she produces, whether it is for self consumption or for export to the grid. At the time of writing, for a 404 kW system, the rate is approximately $0.02/kWh. Adding this to the baseline energy cost of $0.15/kWh, we have a total combined feed-in tariff rate of $0.17/kWh (to simplify the problem we are ignoring the time of use and export bonus rates).
+In our first attempt we assume that the Royal family dips into their savings to pay for this solar installation with cash.
+Cash Financed
+
+Hmm, a return of 6.55% and a Payback Period of over 14 years is not anything to write home about. The Queen probably has a pretty good FICO score though, and at a very minimum, she could post her house for collateral.
+Loan Financed
+After the Brexit vote bond rates are close to historic lows, so it should be a good time to lever up. Let’s model a loan for 80% of the system cost at a rate of 2.2%.
+
+Debt does the trick! We are now looking at a very respectable sub 7 year payback, with a return of investment of almost 16%. That’s enough to earn a famous Royal Wave:
+
+Notes
+According to UKPower.co.uk, electricity rates in Buckingham Palace postal code are 11.76p (incl. VAT) per kWh during the day, and 5.63p (incl. VAT) at night, with a standing charge of 16.6p a day.
+We make the following financial and system design assumptions:
+
+Annual Degradation Rate: 0.25%
+FIT Inflation Rate: 3%
+Inverter Life: 13 years
+Inverter Replacement Cost: $.3/W
+Project Life: 25 years
+
+The Inflation Rate was calculated by averaging the annual utility bill increase from 1997 – 2015. The utility bill information was obtained from the UK Department of Energy and Climate Change: https://www.gov.uk/government/statistical-data-sets/annual-domestic-energy-price-statistics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,538 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Key Solar Energy Measurement Terms: Irradiance, Insolation, TSRF, and More | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Key Solar Energy Measurement Terms: Irradiance, Insolation, TSRF, and More                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you work in the solar industry, you know that the amount of solar energy available at a proposed project site is one of the most fundamental factors for determining whether installing solar makes sense for a customer. Obviously, the amount of solar energy—also referred to as irradiance or insolation—where the array will be sited will determine how much energy it can potentially produce.
+
+There are a number of different metrics for expressing the amount of solar energy at a given location, however. Whether you’re new to the industry or are just looking for a refresher on some of the key terms and metrics for expressing how much sunlight will reach your solar array, today’s article has you covered.  
+Aurora’s solar design and sales application generates beautiful irradiance maps, like this one above, which visually communicate how much solar energy is available at each point on a roof. (Brighter colors indicate greater irradiance.)
+Available Solar Energy – Irradiance and Insolation
+Irradiance and insolation are perhaps two of the most important terms to know for describing the available solar energy at a project site. The two terms are often used interchangeably in practice within the solar industry, as both quantify the amount of solar radiation a surface receives. However, they measure that value in different ways.
+1. Solar Irradiance
+Irradiance is a measure of solar power whereas insolation is a measure of solar energy. Because power refers to the rate of energy transfer over time (not the total amount of energy delivered), another way of thinking of irradiance is that it quantifies the amount of solar energy that arrives in a particular area in a given moment [Watt/m2].
+2. Solar Insolation
+As previously shared, solar insolation is the mesaure of solar energy. When that [Watt/m2] value is converted to express the total amount of energy that area receives over a certain interval of time, say one hour, it is communicated in Watt hours (Wh) or, depending on quantity, kilowatt hours (kWh) per unit of area [(k)Wh/m2]. This is a measure of insolation.
+In Aurora, we use the term irradiance interchangeably with insolation and communicate the value in kWh/M2/yr. This provides a helpful way of conceiving of the amount of solar energy that will be available to your solar installation over the course of the year, given any shade that is present as well as the local weather patterns.
+[Note: Aurora uses what’s known as the Perez model for calculating irradiance based on location and weather data; for more detail, see our interview with Dr. Richard Perez, the researcher who developed this methodology that is now the solar industry standard.]
+3. Solar Access
+Solar access is another term used to quantify how much sunlight is available for a solar array at a particular site. It is also referred to as Solar Access Percentage or Solar Access Value. This metric expresses the available solar energy as a percentage of what would be available in perfect (i.e. shade-free) conditions.
+Solar access is calculated by dividing the actual solar energy present given shading at the site by the amount of solar energy if there were no shade:
+
+This is a handy metric as it provides an easy way of understanding how significantly shade is reducing the available sunlight. 
+Because even a small amount of shade can disproportionately reduce the power output of a solar array, determining the extent of shading is an important first step in understanding whether a customer’s property—or a particular area of that property—is a feasible location for a solar PV system.
+Aurora provides a variety of measures of solar energy including irradiance, solar access, TOF, and TSRF. Moving your cursor over the roof face allows you to see how those values vary at different points.
+4. Tilt and Orientation Factor (TOF)
+Tilt and Orientation Factor, or TOF, is a metric that takes into account how the slope and direction of a given surface impact the solar energy that surface receives. The specific tilt and orientation that maximize the solar energy reaching a surface varies depending on latitude. Like solar access, TOF is a percentage that expresses actual conditions compared to optimal conditions.
+TOF is calculated by dividing the solar energy available at the actual tilt and orientation of the surface, by what would be available at the optimal tilt and orientation.
+
+5. Total Solar Resource Fraction (TSRF)
+Total Solar Resource Fraction, or TSRF, is a measure of available solar energy that takes into account the two other metrics we’ve discussed in this article—solar access and TOF. TSRF can be calculated by multiplying the solar access of the site by the TOF percentage.
+TSRF provides a more complete picture of how much solar energy will be available for the solar panels to convert into electricity. This is because it takes into account both the percentage of available solar energy at a site given shading (solar access) and how much of that energy will reach the surface where solar panels will be mounted given its tilt and orientation (TOF).
+
+Wrapping it Up
+These are the main solar energy terms you’ll need to understand when measuring available solar energy.
+Of course, there are other factors—like the stringing configuration and the capabilities of the components you use—that will significantly impact the amount of energy your solar design will produce given the sunlight it receives. 
+The Aurora Difference
+However, accurately quantifying the solar energy that is available to the PV system is an essential first step in correctly estimating the system’s energy output. 
+These values once had to be determined based on manual measurements at the project site. 
+Today, however, advanced solar software applications like Aurora can accurately calculate these values without a site visit—saving installers time and money and reducing the potential for error.
+Want to see how it works? Check out Aurora in 60-seconds.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

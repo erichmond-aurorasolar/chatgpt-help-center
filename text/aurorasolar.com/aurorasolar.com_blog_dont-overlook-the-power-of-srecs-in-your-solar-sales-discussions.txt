@@ -1,0 +1,534 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Don’t Overlook the Power of SRECs in Your Solar Sales Discussions | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Don’t Overlook the Power of SRECs in Your Solar Sales Discussions                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As a solar contractor, you’re always looking to convey the most persuasive and relevant information in your sales conversations. When you’ve found the ideal prospect, you want to make it abundantly clear how a solar installation can benefit them–including clearly spelling out the financial benefits. You also want to build trust by providing up-to-date, educational information that answers their questions and concerns about going solar.
+If your prospective customer lives in a state that offers Solar Renewable Energy Certificates (SRECs), a discussion of SRECs–which can significantly increase the return on investment–should be an integral part of your conversations.
+This article explores a number of important points about SRECs you may want to bring to a prospect’s attention in a sales conversation.
+The Basics: What Are SRECs?
+An SREC is a renewable energy certificate (REC) for solar. RECs are tradable credits purchased by electric utilities to serve as proof that they have procured a certain percentage of their energy from renewable sources like wind and solar power. The percentage requirement is established by a state as part of a Renewable Portfolio Standard (RPS), a mandate created to encourage the use of renewable energy. Twenty-nine states, Washington, D.C., and three territories have adopted an RPS.
+Each REC represents the environmental benefits of one megawatt hour (or 1000 kilowatt hours) of renewable energy generation. One SREC is created for each megawatt hour (MWh) of electricity generated from solar energy systems. A state with an SREC market has a solar-specific renewable energy requirement for utilities, or “solar carve-out,” to help spur the development of solar under the state’s RPS. PV system owners in these states can earn income by selling SRECs associated with their systems’ output (in the form of these electronic certificates) into their state SREC market.
+State Renewable Portfolio Standards as of October 2018. Source: NC Clean Energy Center’s Database of State Incentives for Renewables & Efficiency (DSIRE).
+Highlight Eligibility for SREC Income
+First, you may need to tell prospective solar customers if their state has an SREC market (or if they can sell SRECs in another state market), as they may not be aware.
+The states that have SREC markets are Illinois, Ohio, Pennsylvania, Maryland, New Jersey, Delaware, and Massachusetts, as well as Washington, D.C. States that don’t have an SREC market but where people can sell SRECs across the border in the Ohio SREC market are Indiana, Michigan, Kentucky, and West Virginia. Pennsylvania allows SRECs to be sold into the Ohio market as well, and historically has allowed out-of-state generators to participate in its SREC market–though changes implemented in 2017 have begun to limit this.
+Regardless of the presence of a state market, it should be made clear to your customers that SRECs are only available to the owners of PV systems. This means that homeowners and businesses going solar via a lease or PPA, are not eligible for SRECs. This may be an important consideration for them as they weigh different solar financing options.
+Explain the Value of SRECs
+A solar system owner earns one SREC for every 1 MWh of electricity their system generates. The average size five kilowatt (kW) residential system produces between five to eight and a half MWh of electricity per year (i.e., 5 to 8 SRECs). (An analysis of the production of 4.9 to 5.1 kW PV systems designed in Aurora found an average of 6.81 MWh per year, with most systems producing between 5 and 8.5 MWh per year.) Given that, SRECs can seriously impact the financial returns of installing solar panels in some areas.
+The actual amount of money a solar panel owner will receive for their SRECs varies by state market and SREC prices fluctuate over time. For example, in 2018, the price per SREC in Washington D.C. ranged from $420 to $295 and in Massachusetts they ranged from $322 to $265; meanwhile in Maryland and Ohio, they ranged from $15 to $5.50 and $7 to $3.50 respectively.
+SREC value is determined by supply and demand. The demand is largely driven by utilities’ need to meet their solar RPS requirement or pay a compliance penalty if they don’t. This penalty is called an Alternative Compliance Payment (ACP) and is a per-MWh fine that electricity providers must pay for the amount they fall short of their RPS requirements. The ACP serves as a ceiling on SREC prices because electricity providers will save money by buying SRECs only if the SRECs cost less than the ACP. Therefore, lower ACP values equate to lower SREC prices.
+As more solar is installed, there is a greater supply of SRECs in the market. This can result in lower SREC prices over time. However, the volume of SRECs required in a state is directly proportional to the overall RPS requirements for that particular state. Often those RPS requirements are set to increase over time, which can mean that the demand for SRECs increases along with solar installation numbers.
+(Note: If you use Aurora solar software, our financial analysis tools can help you to calculate the value of the customer’s SRECs.)
+Know the Specifics of Your State Market
+Each state has different parameters for their SREC program in terms of things like how much energy utilities must source from solar, the cost of the ACP, and the length of time customers can receive credit for SRECs. You’ll want to be familiar with the details of the SREC markets in the states where you operate so that you can be an effective resource for your customers.
+For example, in Massachusetts, the RPS requires that, by 2020, 15% of all electricity sold by regulated electricity suppliers serving retail customers come from renewable sources. While the state’s 1,600 MW program cap has been reached, their “SREC II” program has been extended to help transition to a new Solar Massachusetts Renewable Target (SMART) incentive program. SREC prices in Massachusetts are also determined by an additional factor, the Solar Credit Clearinghouse Auction, which is an opportunity for brokers to sell SRECs at a set, guaranteed price when there is market oversupply. In 2017, the SACP was set at $350 and the Solar Credit Clearinghouse Auction II price was set at $285.
+In Illinois, the RPS commits the state to producing 25% of its electricity from renewable energy sources by 2025, with 1.5% coming from solar systems. New Jersey utility PSG&G created a particularly creative initiative to provide loans to homeowners for their solar systems, allowing the loan repayment to come from the SRECs generated by their solar systems.
+The length of SREC programs also vary. In Massachusetts and New Jersey PV system owners can claim SRECs for ten years. In Maryland, in contrast, eligible systems can continue to produce SRECs for the duration of the installation’s productive life. The Database of State Incentives for Renewables & Efficiency (DSIRE) is a helpful resource for state-specific research about SRECs. Being able to highlight local nuances to your customers is crucial to helping them understand the policies that will apply to them.
+Limitations and Special Cases
+There are a few caveats and special circumstances your customer may want to know about. If homeowners or businesses sell their SRECs in an SREC market they cannot claim that their building is powered by solar or make claims about reducing their carbon footprint with solar (particularly applicable to businesses interested in making this claim for marketing purposes.)
+That’s because by selling their SRECs solar customers transfer the right to claim their energy as renewable because the utility is now using those SRECs to reduce the amount of renewable energy they would otherwise have to generate themselves. If the owner of the solar system claimed it for themselves as well it would mean the resulting emissions reductions would be counted twice, something regional tracking systems work to prevent. (For more on claims refer them to the Environmental Protection Agency’s Solar Power Use Claims Guidance.)
+Customers may also be keen to know that if they sell their home or business in the future, they can transfer rights to SRECs to the new buyer as part of the sale process. This can act as an incentive for getting a higher sale price.
+How Does Selling SRECs Work?
+There are several ways a solar system owner can sell their SRECs. Many solar customers opt to sell their credits through an aggregator who acts as a broker between system owners and state markets. For a fee, these companies manage SREC sales to maximize returns and sometimes provide other resources like online systems to track performance.
+Working with an aggregator requires less expertise and direct management than selling SRECs directly in the state market, though that is also an option. Alternatively, some customers enter into an agreement with a financing partner where they receive a fixed payment for SRECs over a set number of years. This can serve to insulate them from market fluctuations.
+Some solar financing companies and SREC aggregators offer partnership programs with solar contractors. Like all major business decisions, these options should be weighed carefully. However, as you become more familiar with SRECs and the options you find to work best for your customers, these kinds of programs may be a worth exploring to help your customers monetize their SRECs.
+Many customers are motivated to install solar because of the savings it can offer. A compelling sales conversation is bolstered by the inclusion of the role SRECs can play in a customer’s solar ROI. Depending on the state, SRECs can generate significant income for the system owner. Because SRECs and SREC markets can be complex topics to understand, positioning yourself as a resource to help prospective customers make sense of the details can be a great way to build trust and showcase the financial benefits of solar.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

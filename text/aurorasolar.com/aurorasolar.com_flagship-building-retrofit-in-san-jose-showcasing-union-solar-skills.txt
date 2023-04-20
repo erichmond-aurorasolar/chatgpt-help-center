@@ -1,0 +1,569 @@
+
+
+
+
+
+
+
+
+
+
+
+
+A Flagship Building Retrofit in San Jose is Showcasing Union Solar Skills | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            A Flagship Building Retrofit in San Jose is Showcasing Union Solar Skills                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Over the last year, the local electrical union serving California’s Santa Clara County has undertaken the development of an impressive 200 kW commercial solar array and net zero building retrofit on their union hall in San Jose. The project, completed this month by Local Union 332 of the International Brotherhood of Electrical Workers (IBEW) and the National Electrical Contractors Association (NECA), will enable the union hall to generate all of its energy with solar. It is also making a splash for the two organizations by providing a stunning example of the solar installation skills of both IBEW and NECA members. If you ever fly into San Jose International Airport, chances are this project will catch your eye from the window of the plane… because part of the array spells out IBEW!
+  
+A new commercial solar array on the International Brotherhood of Electrical Workers’ Local 332 Union Hall is easily identifiable to passengers flying into San Jose airport. Left: aerial photograph photograph of the completed project (Credit: NECA-IBEW Powering America), Right: project design in Aurora software.
+As part of a broader project to make the entire site a net zero energy building, the solar array will produce more than 100% of the building’s energy consumption. The project, created using Aurora solar design software, will save the local union over $140,000 per year in utility bills and cut carbon emissions. But its value goes far beyond energy savings for the union hall; it is also an important business development initiative.
+With renewable energy technologies like solar PV and energy storage becoming highly-sought skills for electrical workers, managing the solar project from design to installation allowed IBEW and NECA to showcase their talents to prospective clients in a high-profile way. Aurora played an important role in facilitating the project; it streamlined the process of creating a variety of potential designs and made it easy to assess the energy production and bill savings benefits of each.
+In today’s article, we delve into the story of the project and its benefits for IBEW Local 332 and NECA members. In our subsequent article, we explore the design process through the lens of Aurora.  
+Envisioning the Project: Growing Skills and Business Opportunities
+Innovation isn’t new to Local 332; it’s one of the largest IBEW Local Unions in Northern California, known for its leadership in implementing cutting-edge technologies. Its union hall previously hosted the first commercial-scale solar array in San Jose . It was also the largest commercial solar array west of the Mississippi  when it was installed in 2001. This was during the height of the electricity crisis in California when the state experienced several large-scale blackouts. Because the building also had a back-up battery system that enabled it to keep running during the blackouts, it gained notoriety in the local community.
+The union hall of IBEW Local Union 332. The solar array show here is the building’s previous installation, which was the first commercial solar array in San Jose, installed in 2001. Source: Google Maps.  
+In the nearly two decades since the historic installation, the early modules had degraded and the union was interested in replacing them. While they could have simply replaced the 30kW system, they had a vision to make the project much grander. Local 332 Business Manager Gerald Pfeiffer saw this as an opportunity for the union to demonstrate its expertise in renewable energy technologies through a larger and more complex project.
+But that wasn’t the only incentive to embark on this new project. California law has established aggressive targets for all new (and many existing) buildings to meet net zero energy standards in the coming decade . Under these requirements, buildings’ annual energy consumption must be less than or equal to the energy generated by onsite renewable energy systems. By 2020, all new residential buildings will be required to meet zero net energy requirements; by 2030, this will apply to all new commercial buildings and 50% of existing ones. Because of this, there will be a rapidly growing market for contractors with the skills to implement net zero energy projects. By expanding the scale of the solar installation and undertaking retrofits to meet the building’s full energy needs, Pfeiffer saw an opportunity for union members to gain skills in this burgeoning field.
+The project was implemented by Pacific Ridge Electric, a member company of NECA, co-founded by IBEW electrician Ken Spears, pictured above. Credit: NECA-IBEW Powering America, Electric TV- San Jose Net Zero video.
+While local IBEW and NECA members had prior experience with commercial solar installations, this project had special significance because it was undertaken in-house with one electrical contracting company, Pacific Ridge Electric, overseeing the solar project from start to finish. In many commercial solar projects and net energy retrofits of this scale, there are a large number of contractors managing different aspects of the work. This makes it more challenging for electrical contractors who want to transition into a leading role to gain familiarity with the full range of project requirements. By executing this project from start to finish, Pacific Ridge Electric provides a tangible and impressive example of NECA and IBEW members’ experience with solar installations of this scale.  
+Aurora’s software played an important role in facilitating the project, as did technical and financing assistance from NECA’s Energy Conservation and Performance (ECAP) Platform. Aurora was used to design the installation, and to  forecaste the energy production of different design configurations. ECAP, working alongside Pacific Ridge Electric, provided services such as energy auditing, economic modeling, and project management support, and connected the project with $3.2 million in financing—covering the full upfront cost of the building retrofit. The ECAP program’s financial and technical services are designed to make it easy for any member electrical contractor to implement a renewable energy project.
+
+
+
+
+IBEW and NECA – Representing the Workers and Firms of the Electrical Industry
+NECA and IBEW are two major organizations in the electrical contracting industry that today work closely together. IBEW is a union representing individual electrical workers, while NECA is a trade organization that supports member electrical contracting firms and advocates for the industry. The two organizations operate symbiotically providing education and training, business development, and other services to advance the industry.
+
+
+
+
+
+
+
+
+The International Brotherhood of Electrical Workers (IBEW)  is the most extensive electrical union in the world, representing approximately 750,000 active members and retirees.
+The organization was founded in 1891, in the early days of the electrical industry, to improve conditions for electrical workers including advocating for fair pay and improved training and safety for workers. Today, IBEW represents electrical worker members in a wide variety of fields, including utilities, construction, telecommunications, manufacturing, and government and still advocates for members’ wages, benefits, and rights.
+
+
+The National Electrical Contractors Association (NECA)  is a trade association that represents businesses in the $130 billion U.S. electrical construction industry.
+While most NECA members are small businesses, large, multi-area electrical contracting firms are also members of the association.
+One of NECA’s current initiatives is its Energy Conservation and Performance (ECAP) Platform, which helps members get involved in energy efficiency and distributed generation projects.
+
+
+
+
+
+
+
+In Santa Clara County, California, cooperation between IBEW Local Union 332 and NECA includes the operation of a Joint Apprenticeship and Training Center (JATC)  where accepted applicants are provided with cutting-edge training for careers in electrical work, including training in solar PV design and installation. The apprenticeship program is notable, because it is a tuition-free degree program. Apprentices accepted to the program join the IBEW 332 union and are dispatched by IBEW to electrical contractors. They are paid for their work throughout the program and awarded a Journeyman certificate upon successful completion.
+
+
+
+Project designer Chris Smith poses in front of a mural in the entryway of the IBEW Local 332 union hall.
+Showcasing Solar Technologies and Workmanship
+The project also serves to educate people about solar technologies, helping turn visitors into solar enthusiasts. The IBEW lettering in solar panels to catch the eyes of incoming airplane passengers may be the most dramatic example, but the entire project was designed for people to see solar technologies at work. In addition to the 200 kW rooftop solar array, a number of other interesting technologies were included, including a battery system, electric vehicle charging stations, skylights containing transparent Building Integrated Photovoltaic (BIPV) panels, and a shade awning comprised of recycled panels from the building’s original array. While the panels have degraded significantly compared to their original efficiency, they still generate a small amount of supplemental power and by shading the windows they help save energy needed for cooling.  
+
+In the coming months, the building lobby will be outfitted with TV screens showing the real-time energy production of the system, as well as a live video feed of the array so visitors on the ground can see what it looks like. Those who desire will also be able to get a much closer look at the array by taking a tour of the array.  As part of the building upgrades, the ladder to the roof was upgraded to give visitors easy roof access. Eventually, Local 332 plans to add a rooftop deck with picnic tables, giving members and visitors ample opportunity to get a close-up view of a solar installation.
+Project designer Christopher Smith explains that even though solar is becoming more ubiquitous, rooftop solar installations aren’t always very noticeable or easy for the average person to get a close look at. “You probably drive past a thousand places driving between San Jose and San Francisco that have solar, and you just don’t know because you can’t see it. Even when you do see a solar installation, you usually don’t get to see everything that goes into it; you don’t get to ask why they made different design decisions. We really wanted that [educational] aspect.” 
+“Aurora was key in that, because it allowed us to answer questions like, ‘Are people going to be able to get up there and walk around it? How’s it going to look from up in the sky? How much is it going to cost?’ That allowed us to make sure that we weren’t spending money needlessly.”
+ 
+Employees of Pacific Ridge Electric, a NECA member company co-founded by IBEW union member Ken Spears, work on installing a section of the array.
+Paving the Way for Future Solar Work
+The project has only just been completed, but already there are indications that it is generating business benefits for IBEW and NECA stakeholders. Ken Spears, co-founder and Vice President of Pacific Ridge Electric which led the project installation, has already received numerous inquiries from businesses interested in adding commercial solar arrays to their facilities after seeing the work at the IBEW Hall. And, with multiple years before California’s net zero buildings requirements take effect, the project has created an avenue for NECA and IBEW to build a strong portfolio of these types of projects in the coming years in order to be well prepared for growing demand in this area.
+“This project returns Local 332’s building to legendary status within San Jose,” says Smith. “There are few retrofitted Net Zero Energy buildings in the world and a project of this magnitude demonstrates the enormous capabilities and importance of IBEW electricians and NECA contractors.”
+Credit: NECA-IBEW Powering America.
+
+
+
+
+Does your organization have an innovative solar project designed in Aurora that you’d like to highlight? We’d love to hear about it! You can submit projects using this form . Please note that Aurora Solar makes no guarantee that submitted installations will be profiled.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

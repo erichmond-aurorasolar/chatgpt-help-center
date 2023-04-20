@@ -1,0 +1,27 @@
+How to create carport and ground mount templates (administrators only)
+
+Available for Premium Memberships only
+
+ 
+To create a template 
+
+
+For administrators, once you have a ground mount or carport placed within a design of a project, select all the components that you would like pre-set to place for future designs. To learn how to add, check out this link here: How to Design a Ground Mount System
+
+Click on Save as template in the bottom right corner.
+Enter in a name up to your discretion, then go back to insert panels. Select Carport/ Ground mount then click on Pre-configure.
+Select the template you have set, then click Draw.
+Click on one end where you'd like the array to start, then extend where you would like this to go.
+Within the box you specify, there are red boxes that outline where your pre-set arrays will go. 
+
+
+Editing templates in a Design
+
+
+Like all other design elements you can drag, resize, rotate, and copy-paste templates.
+Templates also snap to rulers so you can accurately space them out on a parking lot.
+You can also use the inspector to “Explode” the template and change properties.
+
+For performance reasons the components inside the template only update at the end of a drag or copy-paste.
+
+

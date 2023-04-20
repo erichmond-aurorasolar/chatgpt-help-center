@@ -1,0 +1,32 @@
+How to View Roof Face Characteristics
+
+Aurora allows you to view key characteristics of a roof face (or multiple roof faces), including azimuth, pitch, area, number of modules, and percent area of modules.  This is key information to have at your fingertips as you design.
+ 
+How to Use:
+
+In Design view, click on the System tab
+ Click on the roof face you wish to view:
+
+You'll be able to see the following:
+
+Azimuth
+Pitch
+Slope
+Area of roof face
+Number of modules
+Area of modules
+Percentage of total roof surface occupied by modules (area of modules/total roof face area)
+
+
+Additional roof characteristics can be viewed by clicking "View Characteristics":
+
+To view averaged characteristics of multiple roof faces, Shift+Click to view:
+
+You'll be able to see the following:
+
+Combined area of the selected roof faces
+Number of modules on selected roof faces
+Area of modules on selected roof faces
+Percentage of total roof surface occupied by modules on selected roof faces (area of modules/total roof face area)
+
+

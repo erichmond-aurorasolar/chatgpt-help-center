@@ -1,0 +1,541 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How Computer Vision Is Revolutionizing Solar Design | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How Computer Vision Is Revolutionizing Solar Design                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Here at Aurora, one of our primary goals is to reduce the cost of solar by providing installers with tools to make their work more efficient. By developing techniques to design PV systems quickly and accurately without having to visit the site, we eliminate the time and costs associated with truck rolls. Remote system design has the potential to reduce the cost of solar by as much as $0.17/W, according to the U.S.  National Renewable Energy Laboratory (NREL).
+ Designing a solar installation remotely requires an accurate 3D model of the roof and its surroundings. This ensures that the system is appropriate for the site and enables accurate modeling of the energy it will produce. There are multiple ways to create a representative 3D model of a site, including the use of LIDAR data, which is gathered by scanners that emit pulses of light energy (using a laser) at buildings and other objects in an area, and measure how long it takes for the pulse to return. 
+The use of LIDAR data is one important element of Aurora’s work to improve the solar design process through remote site modeling. “The high accuracy, high resolution, three-dimensional information inherent in a LIDAR dataset has been game-changing on so many levels, and to be honest I believe we’re still on the front end of the adoption curve,” says Jason Stoker, U.S. Geological Survey Physical Scientist and Chief Elevation Scientist for the National Geospatial Program.
+However, LIDAR data is not available for all areas, and not always current where it is available.
+
+Computer vision—the use of computers to interpret visual images—provides additional ways to remotely model a solar project site.
+
+With computer vision, widely available aerial and street view imagery can be used to extract information about the scene. Because of this, computer vision has the potential to transform the solar design process. Aurora has invested in developing these cutting-edge tools with our team of experienced computer vision engineers.
+In today’s article, we delve into current applications of computer vision in solar design and how they work. In future articles, we’ll take a broader look at how this technology enables industry-level changes.
+Aurora’s Computer Vision Team
+Aurora’s Computer Vision research and feature development is led by Computer Vision Engineers Matt Stevens, Ganesh Nunnagoppula, Maxwell Siegelman, Adriel Luo and Consulting Scientist Dr. Amir Zamir.
+From left to right, Aurora’s Computer Vision Engineers Matt Stevens, Ganesh Nunnagoppula, Maxwell Siegelman, and Adriel Luo.
+Matt received a B.S. in Computer Science from Stanford University with a concentration in Artificial Intelligence in 2016. Matt joined Aurora in 2014. Ganesh received a Master’s degree in Electrical and Computer Engineering from Carnegie Mellon University in 2015 and his B.Tech (Bachelor of Technology) degree from the Indian Institute of Technology Kharagpur (IIT Kharagpur) in 2016.
+Maxwell received a B.S. in Symbolic Systems from Stanford University, followed by a Master’s in Computer Science from Stanford in 2017. He joined Aurora in 2017.  Adriel Luo received his B.S. in Computer Science from Carnegie Mellon University in 2018. He interned with Aurora in the summer of 2017 and joined the team full-time in of 2018. 
+Amir is a Postdoctoral Researcher in Computer Science at Stanford University, where he works in the Computational Vision and Geometry Lab. He received his Ph.D. from the University of Central Florida’s Center for Research in Computer Vision in 2014.
+Making Remote Solar Design More Accurate
+One exciting application of computer vision in remote design is the ability to accurately measure distances using images of a site. This is made possible by the mathematical technique of triangulation. Think back to your high school trigonometry class—you might recall that if you know the length of one side and two of the angles of a triangle, you can easily calculate the remaining two sides and angle. This process is based on the same rules.
+Triangulation, commonly used in nautical navigation, allows you to determine the distance to an object if you know the direction from two known locations. With this approach, computer vision can reconstruct the 3D shape of objects using images from multiple angles of a scene. If you form two rays extending out from the viewing locations, the rays will intersect at the location of the object.
+ An illustration of how computer vision uses triangulation from two different perspectives to determine distances. In this example, the distance between the two points on the house (indicated by red dots) is calculated.
+Aurora’s 3D measurement tool uses any satellite or aerial imagery (such as Google, Bing or even aerial imagery captured from a drone) and Google Street View imagery to provide those two different viewpoints needed to use triangulation. These images also provide information on the camera position that is accurate within a few feet. With this data, computer vision allows project designers to extract 3D measurements from the scene—such as the slope of a roof or the heights of chimneys or trees—ensuring the accuracy of the site model.
+Aurora’s 3-D measurement tool gives solar designers the ability to take measurements of a project site using aerial and streetview imagery. Click on the GIF above to see a longer video of this feature in action.
+NREL has analyzed Aurora’s 3D measurement tool and validated its accuracy; roof slopes can be measured to within 2 degrees and distances to within six inches. Two thousand measurements per week are taken using Aurora’s 3D measurement tool, each one serving to enhance the accuracy of the design.
+Speeding Up the Design Process
+Computer vision can also be used to speed up the tedious process of drawing a 3D model of a site. One of the most repetitive tasks when modeling commercial roofs is placing obstructions. Often, these roofs will have the same kind of obstruction in many places—such as skylights, vents, or pipes. Using an approach called template matching, computer vision can automatically detect these instances in the imagery.
+ Satellite imagery showing obstructions on a commercial roof (left) and Aurora’s automatic identification of similar obstruction instances (right).
+With Aurora’s Automatic Obstruction Detection tool, the user can select a particular obstruction as a template to guide the identification of other similar instances. Aurora then sweeps over the image looking for similar obstructions. For every possible location of the obstruction a score is generated based on how similar it is to the template. Then Aurora places obstructions at the highest-scoring locations. In this way, a time-consuming process can be reduced just a few clicks.
+“Aurora’s automated obstruction detection feature has been a huge help. We used to spend hours drawing out each individual skylight and AC unit, particularly on large data centers and warehouses, and this feature has easily cut our rooftop design time to a fraction of that,” says Douglass Jordan, Project Manager, Pre-Construction Services at SunPower. 
+ Aurora’s obstruction detection features make it possible to automatically identify and model in 3-D all occurrences of similar obstructions instead of having to draw each by hand. Click on the GIF above to see a longer video of this feature in action.
+As you can see, computer vision has huge implications for cutting costs in the solar industry. As a solar contractor, being able to accurately model a customer’s home or commercial site remotely saves your team time-intensive site visits. It can further speed up the remote design process by automating repetitive tasks, like identifying obstructions.
+Aurora recently completed a $500,000  grant from the Department of Energy’s SunShot Incubator program  to develop these features as a means to reduce soft costs and advance the growth of the solar industry. And this is just the beginning.
+As the applications of computer vision evolve, the Aurora computer vision team will continue to bring the latest innovations of the field to the industry, helping installers create PV projects quickly and accurately.
+Key Takeaways
+
+Remote solar design can help save solar companies time and money by eliminating the need for onsite measurements. NREL has estimated this can reduce the cost of solar by as much as $0.17/W.
+Remote design requires the development an accurate 3D model of the project site; computer vision—a field of computer science that teaches computers to interpret visual images—enhances accurate remote site modeling in multiple ways.
+One way that computer vision can increase the accuracy of 3D models of a solar installation site is by making it possible to take accurate site measurements from photos, including heights and roof slopes. This is made possible by using the mathematical technique of triangulation.
+Computer vision can also dramatically speed up the process of modeling a site by automatically detecting obstructions on the roof, eliminating the need for the designer to draw each one by hand.
+Aurora is continuing to invest in Computer Vision and Artificial Intelligence applications to make solar more ubiquitous.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

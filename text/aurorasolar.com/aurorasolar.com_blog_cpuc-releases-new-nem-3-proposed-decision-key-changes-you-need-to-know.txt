@@ -1,0 +1,684 @@
+
+
+
+
+
+
+
+
+
+
+
+
+UPDATED — CPUC Releases New NEM-3 Proposed Decision: Key Changes You Need to Know | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    6 min read                                
+
+
+                            UPDATED — CPUC Releases New NEM-3 Proposed Decision: Key Changes You Need to Know                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+
+            Sunny Wang        
+
+                Director of Government & Non-profit Affairs            
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+February 2, 2023 UPDATE: By a 5-0 vote, CPUC passed the Net Billing Tariff (commonly referred to as NEM-3) at its December 15, 2022 meeting. April 14, 2023 will be the last day to submit an interconnection application for NEM 2.0. Click here to read our latest analysis, and go to our Net Billing Tariff resource page for all the latest. Subscribe to our newsletter to be sure you get all the latest analysis, and please don’t hesitate to contact us with specific questions. 
+On November 10, 2022, the California Public Utilities Commission (CPUC) released their follow up proposed decision (PD), detailing revisions to California’s Net Energy Metering (NEM). Our team reviewed the 240-page document so you don’t have to. But, if you’re curious, the full CPUC proposed decision can be found here; it replaces the December 2021 proposed decision.
+As written, the proposed Net Billing tariff (commonly referred to as NEM-3) would:
+Reduce the credits solar customers receive for the extra solar energy they produce and give to the utility by 43%-80% on day one of the Net Billing tariff, depending on the utility provider. All NEM credit reduction will grow to 55%-80% over the lifetime of the system as rates escalate and the ACC compensation stays flat.Non-residential and low-income customers will see an even steeper decrease on day oneExtend the payback period by ~50% longer for residential customers in year one; we expect it to stay close to a nine-year payback period over timeTack on a $14-$16 monthly charge for residential solar customers because they must switch to an existing time-of-use electrification rateIncrease monthly electricity bills for low-income solar customers even more, on top of the estimated reduction in NEM credits of 0-80%. They will no longer receive both their discounted rate and NEM credits as they had on NEM-2, only NEM creditsNo changes for NEM-1 and NEM-2 customers. Any customers who install solar before the Net Billing takes effect will be grandfathered into NEM 2.0 for 20 years.
+It’s important to remind ourselves that this is not final. It’s very likely changes will be made between now and when the CPUC votes on the final decision for California’s NEM. The next two scheduled CPUC voting meetings are December 15, 2022 and January 12, 2023. If a PD vote is held on December 15, the effective date is April 23, 2023.
+Continue reading for more details on the key proposed changes. We included a (workaround) simulation in Aurora of a home in PG&E territory to help provide more context, as well as information on how you can help push for a better NEM proposal — one that doesn’t make it harder for people to go solar, allows for sustainable standalone solar and solar+storage growth, makes it easier for low-income communities to afford a modern life necessity (electricity), recognizes the true cost and benefits of solar for everyone, and does not fall for the “cost-shift myth”.
+November 2022’s key proposed changes to NEM
+NEM credits will be based on hourly export values calculated from the Avoided Cost Calculator (ACC). There are 576 different NEM credit values in a year:12 months x 24 different hours in a day x 2 (weekday vs weekend)This applies to all customers who enroll into Net Billing tariff or NEM, including any residential, commercial, and low-income customers enrolled in California Alternate Rates for Energy (CARE) or the Family Electric Rates Assistance programs (FERA)The hourly export values in the ACC are forecasts, and the actual export rates in the Net Billing tariff will be “set at averaged monthly values for each hour” with different values for weekdays and weekendsEvery two years the hourly export values will be updated and applied to new customers
+Estimated Year One NEM Credit Reduction (Future years will be a larger % reduction)
+
+
+PG&ESCESDG&EResidential70%54%80%Low-Income22%0%69%
+
+
+Residential solar customers that enroll in the new Net Billing tariff during the first five years will have their NEM hourly export values “locked” in for nine years, using the ACC hourly export values from their interconnection year; commercial customers will get a five-year lock-in period.Example: A residential customer who joins Net Billing tariff during the first five years won’t have to worry or have their hourly export values change each time the ACC is updated. Their hourly export values for the first nine years are locked-in, using the first nine years of forecasts in the ACC. For any solar customers who join five years after Net Billing tariff has been implemented, e.g., in 2030, there is no lock-in period. Their hourly export values will update with the latest ACC.Customers can choose to leave their locked-in export values if the future ACC values are higher than their locked-in rate“Lock-in” period is tied to the original owner, not the system, i.e., if the owner moves or someone else takes ownership of the system, the lock-in period is lost. The one exception is if the new owner is or was a legal partner — spouse, domestic partner, etc. 
+Residential solar customers must switch to an existing time-of-use electrification rate and pay the associated monthly charge of $14-$16. Customers have the option to select critical peak pricing or peak day pricing rates, and additional eligible rates can be added later.PG&E: E-ELECSDG&E: EV-TOU-5SCE: ​​TOU-D-PRIME
+For the first five years of the successor tariff, the ACC Plus will be available as the “glide path” for eligible residential solar customers — a fixed cents per kilowatt-hour (c/kWh) export adder will be included into the ACC-based hourly export credits. Hourly ACC export value + export adder value = compensation for energy exportedACC Plus is not available for new construction, commercial customers, or SDG&E residential customersValue of the export adder will step down 20% at the end of each calendar year (December 31st) until it phases out completely at the end of year five, e.g., PG&E residential customer joining in year two will get an adder of $0.014 ($0.018*0.8) for nine years
+PG&ESCESDG&EResidential$0.018$0.0400Low-Income$0.087$0.0930Non-Residential000
+
+When the ACC Plus phases out, PG&E residential and low-income and SCE residential and low-income will see a larger NEM credit reduction change, compared to SDG&E customers
+Estimated Year One & Ten Year NEM Credit Reduction
+PG&ESCESDG&EYear One: Residential75%54%80%Year Ten: Residential78%68%83%Year One: Low-Income22%0%69%Year Ten: Low-Income62%52%73% 
+
+True-up will be done annually, based on the customer’s interconnection date. Customers can make a one-time request to change their true-up date. From our research, the optimal months for solar customers to do a true-up are March and April. Customers will need to pay their monthly electricity bill in full each month.Interconnection date is defined as “the submission date of an application that is free of major deficiencies and includes a complete application, a signed contract, a single-line diagram, a complete California Contractors License Board Solar Energy System Disclosure Document, a signed California Solar Consumer Protection Guide, and an oversizing attestation (if applicable).”
+Comparing NEM-2 and Net Billing tariff with Aurora
+For example, let’s look at a home in PG&E territory on E-TOU-C rate that uses 12,300 kWh of energy a year (an average of 1,025 kWh a month) with a standalone 9 kW PV system positioned with some shading, offsetting 103% of the home’s annual energy usage.
+The monthly bill savings would drop 58% and extend the payback period by about 3.55 years (62% longer).
+$ Bill Savings/mo% Bill SavingsPayback PeriodNEM-2$35193%5.7 yearsNet Billing$20354%9.3 years
+There is still time to influence the outcome of NEM
+This proposed decision is not final. Here are some things you can do to help:
+The campaign to sign your public comment to Governor Newsom and the CPUC is still running, if you haven’t signed it yet, do it now here.Solar companies: have you already joined the list of companies endorsing the campaign to Save California Solar? If not, you can easily do it here.Stay tuned by following CALSSA’s LinkedIn page for in-person events and updates.
+
+A very special thank you to Andrew Gong (our senior research engineer) for helping with modeling and being an all-around rockstar!
+
+
+
+
+
+
+
+
+
+
+                            Authors                        
+
+
+
+
+            Sunny Wang        
+
+                Director of Government & Non-profit Affairs            
+
+
+
+
+
+
+
+
+
+
+
+
+                        Related Posts                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Industry                    
+
+
+
+
+
+
+
+        Keynote Address: State of Play on Solar Job Trends, ...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Industry                    
+
+
+
+
+
+
+
+        Leading Through Turbulence and IRA Opportunities        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Industry                    
+
+
+
+
+
+
+
+        Straight Talk: State Net Energy Metering Programs        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

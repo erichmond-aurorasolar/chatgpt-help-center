@@ -1,0 +1,5 @@
+1/16/2020 Release Notes
+
+Features Added
+
+Added new placeholder "Financing Name"

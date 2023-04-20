@@ -1,0 +1,16 @@
+Creating a Project in New Aurora
+
+In Aurora, a project is defined as a unique address.  Within each project, you can create multiple different designs.  Follow the steps below to create a new project within Aurora. 
+
+ 
+Start by clicking on the "+ New project" button in the top right corner of the Project Index page.
+
+Type in the project address, and verify that the pin on the satellite view is on top of the correct building. You can also give the project a unique name if you'd like.
+Make sure that your project is set to Residential since Commercial projects are not supported in Sales Mode.
+Now click "Create".
+
+ 
+As soon as you've created a new project, you'll be brought to the Project Dashboard.Here you can see and edit the customer's contact information, energy usage, and view all designs for this given project address.
+
+ 
+You can also use the left hand navigation menu to jump into these same sections.

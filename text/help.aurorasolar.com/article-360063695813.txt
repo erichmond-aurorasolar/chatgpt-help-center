@@ -1,0 +1,6 @@
+2/15/2021 Release Notes
+
+Features Updated
+
+Fixed issue causing deleted users to appear on the project owner drop down menu.
+Introduced new and updated utility rates to the consumption database 

@@ -1,0 +1,547 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Community Solar 101 — How It Works | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Community Solar 101 — How It Works                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+As we discussed in our previous post in this series — Community Solar 101: The Basics — while solar energy has grown dramatically in the last few years, for nearly half  of all households and businesses in the U.S., installing solar is not an option.
+With such a huge portion of the market unable to access solar through on-site installations, other options are needed to ensure that the benefits of solar energy are broadly accessible. Community solar — also referred to as solar gardens or shared solar — addresses this challenge by providing a way for multiple customers to share the solar energy produced by a solar array.
+Community solar has emerged as one of the fastest-growing sectors in the solar industry, with projects in 41 states, plus Washington DC, and 4.6 gigawatts installed as of the end of 2021.
+Data courtesy of NREL. Click the image to see the full report.
+Whether you want to access clean energy for your home or business but can’t (or prefer not to) install a system on your roof, are a solar professional looking to understand emerging markets, or just want to expand access to clean energy in your area, getting familiar with community solar can can open new opportunities.
+In today’s installment, we’ll explore the variety of ways that community solar projects can be structured, how these different models work, and some of the complexities that project developers and participants need to consider.
+What is Community Solar?
+
+Just to quickly review, NREL defines  community solar as a solar-electric system that provides power and/or financial benefit to multiple community members. While there are a number of different models for community solar, this definition highlights its core characteristic: It provides a way for a solar project to supply energy to multiple homes and businesses, and reduce their utility bills, without being located on their premises.
+
+How Does Community Solar Work?
+Community solar projects come in a variety of forms and because the sector is still emerging new approaches may arise. However, a few dominant models for community solar have been developed to date.
+How Members Participate: Subscription vs. Ownership Models
+From the perspective of participant experience, it’s helpful to think of community solar arrangements in two broad categories: subscription and ownership models. In an ownership model, customers buy specific panels or a share in the array to meet their desired level of energy production. In a subscription model, the project is owned by a third-party, like the local utility or a company, and community members subscribe to a portion of the energy it produces.
+Ownership-based community solar projects require upfront payment by participants for their portion of the project, much as if a household or business was paying cash for a solar installation on their own property. Participants then receive credit for the actual amount of energy their portion of the project produces, either as a direct credit on their utility bill or through some other arrangement.
+A subscription model, on the other hand, usually requires no upfront fees to join and offers immediate savings because members subscribe to purchase solar energy at a lower rate than what they would typically pay their local utility. Because there are no upfront costs, this model provides a way for low-income community members to access the benefits of solar.
+Who Administers Community Solar Projects?
+In addition to variations in how customers participate (buying in versus subscribing), there are also a variety of different models of community solar depending on what type of organization owns and/or administers the project. NREL identifies three ownership models  for community solar: utility-sponsored, special-purpose entity (SPE), and nonprofit.
+In a utility-sponsored model, the community solar project is owned or operated by a utility company, which opens it up to voluntary participation by their customers. Depending on the project, participants may pay upfront or make subscription payments. In return, participants receive credits on their utility bills proportional to their contribution and the amount of energy the system produced. Under this approach, participants typically buy rights to the benefits of a share of the energy produced (a subscription model), but do not have an ownership stake in the project itself.
+Another common structure for community solar projects is to have a nonprofit administer the project on behalf of donors or members. There are multiple ways that a nonprofit could approach this:
+
+They could develop and administer the project in a way that shares the benefits with participant members.
+In a variation of the previous approach, the nonprofit could partner with a for-profit third party that could own the system and take advantage of tax incentives.
+They could also solicit donations to support the development of the project. Note: This approach is not strictly “community solar” as the donors would not directly benefit from the energy produced, but might contribute for environmental or philanthropic reasons.
+
+Finally, in a special-purpose entity (SPE) model, a community solar project is developed by a group of individuals who join together in a business enterprise. One reason for developing a shared solar project in this way is that registering as a business enterprise may make it possible to take advantage of tax incentives, like the Investment Tax Credit, that would otherwise be unavailable to tax-exempt nonprofits (and some for-profit utilities). However, in choosing this approach, those developing the project must take on the legal and financial complexities of forming a business and complying with related regulations (as discussed below).
+Complexities of Community Solar
+The development of community solar projects can be financially and legally complex because of federal and state securities laws that govern investments. Transactions involving financial investment in an enterprise with the expectation of earning profit through the efforts of someone other than the investor are considered securities and are subject to specific regulations. The process of ensuring compliance with securities regulations can add significantly to the time and cost involved in project development and failure to properly comply may subject participants to liability.
+For these reasons, community solar project developers typically work to ensure that the project does not meet the legal definition of a traditional, taxable investment that would be governed by securities law. This results in a variety of rules about who can participate in community solar projects and how. For instance, it is common for projects to limit participation to those within a certain geographic area, and restrict the amount of energy participants can obtain from the project to their annual energy consumption.
+While project developers should seek professional legal and tax advice as they develop the structure of their project, NREL’s A Guide to Community Shared Solar  provides a great starting point for understanding some of the legal implications of different models.
+Looking to the Future: Why Community Solar Matters
+Because community solar can reach the half of the population that is unable to go solar via rooftop systems, it is one of the biggest growth opportunities for the solar industry. In the last few years, this option has grown from being almost non-existent to serving thousands of customers across the nation.
+ A map of community solar projects around the country, courtesy of Community Solar Hub, a clearinghouse of information on community solar.
+Community solar had a record-setting 2021, with over 950 MW-dc installed for the year. And that’s just the beginning, as total community solar capacity is expected to more than double through 2026 — with the potential for greater growth if new state programs are created and current programs are expanded. 
+Expected community solar installations through 2026. Click to see more information.
+Not only is community solar a huge opportunity to supply more of our electricity with sustainable, domestic energy, it also has important equity implications. By providing affordable solar energy with low or no upfront costs and no credit rating or property ownership requirements, community solar opens up clean energy to groups that have traditionally had limited access. We look forward to keeping an eye on this market—and keeping you posted—as it develops!
+
+Interested in bringing community solar to your local area?
+Click through to explore these resources:
+
+Community Solar Hub, a SunShot-funded clearinghouse of resources for community solar supporters
+The Department of Energy’s National Community Solar Partnership , which connects community solar stakeholders and compiles resources
+The  Rocky Mountain Institute’s Shine Program, which helps co-ops and municipal utilities develop community solar projects
+
+Don’t forget to check out Part 1 of this series: Community Solar 101 — The Basics.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,70 @@
+Adding pages to Sales Mode
+
+Within Aurora settings, admins may access the Sales Mode Customization tab. Here, you can preview the Sales Mode workflow and add four custom page types:
+
+Profile page
+Image Gallery page
+Video Gallery page
+Full Screen image
+
+Once a custom page has been added, admins can reorder, edit, and delete custom pages as needed — up to 10 custom pages.
+Custom pages will be adding to your Web Proposal by default, but this may be disabled.
+Profile page
+Use this to highlight a specific message or value proposition. This consists of a title, message, and byline text & image on one side of the page, and an image or video on the other. 
+
+
+As an admin user, navigate to Sales Mode Customization settings
+Click + Add Page, then click Profile
+
+Add a Page Title, Heading, and Message
+
+Choose to display an image or a video. Note that videos must be hosted on Youtube or Vimeo
+
+Click Add Page to finish, and the page will format automatically upon completion
+
+Image Gallery
+Use this to showcase a series of images (up to 12). Alternatively, upload a single image to this page - either photos of your installations, or images of other promotional or marketing material. 
+Please note that image files must be 1MB or smaller. 
+
+
+As an admin user, navigate to Sales Mode Customization settings
+Click + Add Page, then click Image Gallery
+
+Add a Page Title, Heading, and Subtext
+
+Upload up to 12 images
+Click Add Page to finish, and the page will format automatically upon completion.
+
+Video Gallery
+Use Video Gallery to showcase a series of videos (up to 12).
+
+
+As an admin user, navigate to Sales Mode Customization settings
+Click + Add Page, then click Video Gallery
+
+Add a Page Title, Heading, and Subtext
+
+Link up to 12 videos. Note: videos must first be uploaded to Youtube or Vimeo
+
+Click Add Page to finish, and the page will format automatically upon completion
+
+Full Screen Page
+Full screen page gives you complete control over the look of your sales mode slides. 
+
+As an admin user, navigate to Sales Mode Customization settings
+Click + Add Page, then click Video Gallery
+
+Add a Page Title, Heading, and Subtext
+
+Link up to 12 videos. Note: videos must first be uploaded to Youtube or Vimeo
+
+Click Add Page to finish, and the page will format automatically upon completion
+
+Check out this article on Sales Mode Customization - Full Screen Image Guidelines
+Changing Page Order
+Admin users may also change the page order of any pages added. Note: You may only change the order of pages added in this fashion, and may not change the order in which the other pages appear.
+ 
+
+ 
+To change the order of added pages, simply click and drag in the area indicated on the page, found in the sales mode customization menu within the app.
+ 

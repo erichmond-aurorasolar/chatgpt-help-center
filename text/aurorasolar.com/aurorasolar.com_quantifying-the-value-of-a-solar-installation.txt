@@ -1,0 +1,736 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Quantifying the value of a solar installation: some helpful metrics | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Quantifying the value of a solar installation: some helpful metrics                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+
+Introduction
+Update: The Inflation Reduction Act (IRA)
+The Solar Discount Rate
+Net Present Value (NPV)
+Internal Rate of Return (IRR)
+Calculate Dollars per Watt ($/W)
+Evaluating the Cost with Levelized Cost of Energy (LCOE)
+Payback Period and Calculating Recovering Cost of the Installation
+How Aurora Solar Software Can Help
+About Solar Finance 101
+FAQs
+
+When you’re talking with a homeowner about installing solar, of course they’re going to ask about the straight up cost of the system. However, installers know what they’re really wondering about is the value of the system compared to the other proposals they receive — and compared to the cost of doing nothing at all. 
+Communicating the true value of a system over its lifetime — often 20 years or more — is difficult, though. Being able to provide metrics that demonstrate  what the solar installation will be worth will help potential solar customers more easily understand the value your company is offering and trust that they’re making a smart choice. 
+What metrics should you highlight? In this article, we compiled some of the most common metrics for quantifying a solar project’s value, how they are calculated, what purpose they serve, and how they can help you close the deal.
+If you’re just starting out in solar installation, stop here and go through our article PV Education 101: A Guide for Solar Installation Professionals.
+
+Inflation Reduction Act
+We’d be remiss if we didn’t mention a huge update affecting the value of solar installation. 
+The Inflation Reduction Act (IRA) was signed into law last August. It has the potential to supercharge the renewable energy sector, as it includes the most comprehensive and sweeping renewable energy investments in U.S. history, including
+
+The Federal Investment Tax Credit (ITC) has been restored to 30% and extended for ten years — through 2032 — and it now includes direct pay for non-profit and government entities.
+The ITC allows homeowners who installed a new solar PV system in 2022, to recoup up to 30% of installation expenses retroactively through federal tax credits. 
+If a homeowner wants to add storage to their existing PV system, they might still get federal tax incentives for battery storage through the ITC.
+
+Discount rate
+What is a discount rate?
+The “discount rate” is an important concept to understand when assessing the value of a solar installation. While the discount rate itself doesn’t express the value of a particular solar project, it is used in the calculation of many other financial metrics.
+The discount rate provides a way to account for the fact that future earnings are worth less than money in hand today — a concept called the “time value of money.” This is true in part due to inflation but also because the money that you have in the present could generate additional value over time if it were put in a safe investment.
+How do you use the discount rate to calculate savings?
+The basic equation for a customer’s savings in year N, sometime in the future, is:
+
+We have a whole article explaining this equation in our help center, but remember:  “In the context of solar, electric bill savings in the future are worth less than savings today of the same amount. To reflect that, you need to input a rate into the ‘discount rate’ field. We suggest you consult your financing partner to advise you on what number to use as your discount rate, if you do not know what it is. Without including a number in this field, you may be presenting a misleading view of your client’s cash flows.”
+What is the purpose of solar discount rate?
+Using a discount rate allows you to understand the real value of future earnings from an expense like a solar installation, compared to putting the money in another safe investment.
+Cost is just one common homeowner concern. Click above to get The Solar Sales Objections Handbook to see 4 other objections and how to turn them into opportunities.
+Net Present Value (NPV)
+What is Net Present Value?
+Net Present Value (NPV) is a common metric to express the value of future income (or savings) from a solar installation. NPV is presented in dollars and is calculated by subtracting the cost of the initial investment from the sum of the total discounted future cash flows over the lifetime of the investment (i.e., the present dollar value of future cash flows, calculated using the discount rate). In solar, this initial investment is the system cost, and future cash flows are the resulting energy savings.
+How do you calculate the Net Present Value?
+NPV is calculated using the following equation:
+
+Where:
+
+N is the lifetime of the installation.
+i is a given year during the lifetime of the installation.
+Cash Flow is the system cost in year 0 and for years i = 1 through 25 they are the difference in pre-solar and post-solar bills. (The Investment Tax Credit (ITC) is typically applied in year 0.)
+d is the discount rate.
+
+What is the purpose of NPV?
+This equation is very useful not only in valuing solar installations but also in evaluating the returns of many other investments, including real estate and business ventures.
+Internal Rate of Return (IRR)
+What is the Internal Rate of Return?
+The Internal Rate of Return (IRR) is similar to NPV in that it accounts for discounted future cash flows over the lifetime of the project. However, unlike NPV, the IRR is not measured in dollars. Rather, the IRR is a percent return one can expect to gain (or lose) from an investment and its future cash flows.
+How do you calculate the IRR?
+The IRR is calculated by setting the NPV of a project equal to zero and solving for the discount rate. Because this calculation is rather difficult mathematically, it is often solved by testing different discount rates until the NPV of a project is as close to zero as possible. 
+There are also calculators online that can determine the IRR for you (and if you use Aurora, Sales Mode’s financial analysis features will generate this value automatically).
+What is the purpose of the IRR?
+The IRR helps your customers to see what percentage return they might see on their PV system over time. 
+Learn all the ways Sales Mode can help you customize your proposals to close more deals.
+Dollars per Watt ($/W)
+What is dollars per Watt?
+Dollars per Watt ($/W) is a simple and widely used calculation to evaluate the value of a solar installation. It is essentially the cost per watt of energy produced by the PV system. 
+How to find dollars per Watt?
+This metric is calculated by dividing the total installation cost by the capacity of the system. For example, a 5kW system that costs $11,000 will have a value of $2.2/W ($11,000/5000W). It’s important to check if the Investment Tax Credit (discussed above, and in the previous article in this series) is taken into account when calculating the $/W value, as this could impact the estimated value significantly.
+While this metric may seem simple and straightforward, it is far from a perfect measure of an installation’s value. For one, it does not take into account the time value of money by discounting future cash flows. It also does not take into account the solar installation’s efficiency (what percent of available solar energy it converts to electricity) or how that efficiency will decrease over time as the installation ages — called degradation.
+Additionally, qualitative factors, like the level of customer service, attention to detail, or maintenance guarantees your company provides may warrant a higher price for the installation. You may want to communicate that $/Watt does not reflect these factors when discussing the value your company offers. 
+What is the purpose of dollars per Watt?
+Although $/W is not a comprehensive measure of a solar installation’s value, customers often find it helpful when comparing prices they receive from different installers.
+Levelized Cost of Energy (LCOE)
+What is Levelized Cost of Energy?
+Levelized Cost of Energy (LCOE) is a popular metric used to assess the value of an installation. LCOE quantifies the cost of the electricity produced by your solar installation over its lifetime. LCOE, which is presented in $/kWh, is a particularly helpful metric because it allows one to directly compare the price of solar energy to what the local utility would charge. This metric is also useful to look at when comparing between financing options.
+How to find the LCOE of Solar?
+Calculating the LCOE of a solar installation is a complex process involving many factors, including:
+
+The cost of the installation minus any tax incentives
+The efficiency of the solar installation
+The degradation rate of the solar installation (the rate at which the efficiency decreases)
+The output of the solar installation (how much energy the installation produces)
+The lifetime of the installation (a typical installation has a lifetime of 25 years)
+
+(For more information, check out our blog article on how LCOE is calculated.)
+What is the purpose of LCOE?
+Because the LCOE is calculated over such a long time span, it can fail to take into account larger economic changes that may occur over the lifetime of the system (say, dramatic changes in fuel costs). 
+Despite this limitation, LCOE is widely used throughout the solar industry, so it is important to have an understanding of how it is calculated and what information it presents.
+Payback period
+What is the payback period?
+As you might guess, payback period indicates how many years it will take for the installation to recover its cost. 
+How do you find the solar payback period?
+This value is found by taking the initial investment (the system cost) and dividing it by the yearly savings it creates. For example, if a system costs $30,000 after tax incentives and saves the customer $5,000 per year on their electric bill, the payback period will be 6 years ($30,000/$5,000).
+What is the purpose of payback period?
+This is a simple metric that’s useful when selling solar, as many customers want to know how quickly the large upfront investment will “pay for itself.” However, it’s important to note that the payback period is another metric that does not take into account the time value of money. Because of this, the period calculated will be slightly shorter than if future cash flows were discounted.
+It’s also important to note that payback period is most relevant for cash-financed projects. In some loan or lease setups, the customer can put no money down and start saving immediately by having a monthly payment that’s lower than their typical electric bill without solar.
+Just like solar delivers ROI to customers, solar software can deliver ROI to installers. Click the image to learn how.
+How Aurora Solar software can help
+Aurora’s financial analysis features calculate each of these metrics in a matter of seconds. That’s right, seconds. 
+The resulting information, shown below, also includes the projected cash flows over the lifetime of the system. Better yet, this information is integrated directly into Sales Mode, so you can access all of the information you need to show clients the value of a solar installation.
+
+Having an understanding of the different metrics used to quantify the value of a solar installation will increase your credibility as a solar professional. It will also allow you to help clients make informed decisions about whether going solar is right for them, and communicate the value your company can offer.
+
+
+About Solar Finance 101
+Quantifying the Value of a Solar Installation: Some Helpful Metrics is Part 5 of Solar Finance 101, a five-part series that serves as a primer on the financial considerations of solar installations:
+Article 1: How Solar Customers Save Money: A Beginner’s Guide to Net Energy Metering
+Article 2: Your Solar Finance Primer: What to Know About the Top Four Solar Financing Options
+Article 3: Evaluating Solar Financing Options: Factors for Your Customer to Consider
+Article 4: Financial Incentives for Installing Solar: A Beginner’s Guide
+Article 5: Quantifying Value of a Solar Installation: Some Helpful Metrics
+FAQs
+How to calculate price per watt?
+To find the price per watt for a solar panel system, take the total out-of-pocket cost of the system and divide it by the number of watts of capacity in the system, or $/W. For example, let’s say a 6 kW PV system costs $20,000. $20,000/6000 watts = $3.33/watt.
+How much does it cost per kWh for solar energy?
+There are two main ways to calculate the cost of a solar system:
+Price per watt ($/W), which is useful for comparing multiple solar offersCost per kilowatt-hour (cents/kWh), which is useful for comparing the cost of solar versus grid energy (also known as Levelized cost of energy, or LCOE)
+Solar has enjoyed dramatic cost reductions over the years. The national average solar price per watt is $1.38/W, and the cost per kilowatt-hour is $.06-$.08/kWh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Related Posts                    
+
+
+
+
+
+
+
+ 
+
+
+
+                    Sales & Design                
+
+
+
+                    Solar Sales                
+
+
+            4 min read        
+
+
+
+            3 easy ways to qualify a solar customer in 10 minutes        
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        5 Data-driven ways to increase the ROI of your solar...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        Create Instantly Personalized Designs & Proposa...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,4 @@
+10/29/2020 Release Notes
+
+
+Added ability to remove LIDAR source information from API responses.

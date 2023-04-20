@@ -1,0 +1,13 @@
+Creating a Bill of Materials
+
+You can create a bill of material in Aurora by following the following steps: 
+1. Click on Pricing on the left pane
+2. Select Line Items in the Pricing Type drop-down
+
+ 
+
+Line items can be manually added by clicking on the Add Line Item button. Click on the pencil edit button next to the name to rename. Click on the edit button next to Miscellaneous to change the category of the item.
+Electrical Component cost can be edited by clicking on the pencil edit icon next to the price. 
+Click on Download to export a CSV file of the bill of materials. 
+
+You can set the costs and prices of all your components values in the components Database.

@@ -1,0 +1,529 @@
+
+
+
+
+
+
+
+
+
+
+
+
+3 New Tools to Help You Design Solar More Efficiently | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            3 New Tools to Help You Design Solar More Efficiently                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+One of the challenges of the current economic climate is that solar installers have to do more with less. In the past, a solar sales rep could be responsible solely for door-to-door knocking. Once they secured a lead, they could then set an appointment for the solar designer to visit the home to design the appropriate system.
+
+In today’s solar industry, however, things are moving much faster. In order to compete in today’s market, solar installers need to improve their operational efficiency or they could get left behind by their competition.
+Luckily, new tools are rapidly being developed to help both the solar sales rep and the solar designer (who, let’s face it, are sometimes the same person).
+In this post we’ll cover three new tools that we’ve developed to help make designing a solar installation faster.
+ 
+
+1. Battery Storage
+According to Aurora’s Technology Benchmark Survey, over 70% of solar installers are selling storage today. While solar + storage is a great way to boost solar sales, it also presents a lot of headaches for solar sales reps.
+According to the survey, 92% of installers currently use design, site assessment or shading analysis software, however, most installers don’t have a designated tool to use for backup calculation and sizing recommendations. Many solar installers make highly generalized sales recommendations because they are unable to confidently calculate sizing based on the backup capacity that the homeowner wants.
+Aurora’s new battery storage feature will be a game changer for the industry as it’s the only tool on the market that can calculate backup requirements and provide battery storage sizing recommendations. Simply plug in how much backup capacity your customer wants, and Aurora will give you the most compelling backup sizing recommendation. Once the feature launches you’ll be able to take your battery storage deal from backup calculation to sales proposal in 10 minutes or less.
+You can watch a sneak peek video of the solar storage tool in action here as well as sign up for early access.
+ 
+
+2. Fit Trees to LIDAR
+One of the most difficult pieces of designing a solar system is making sure you account for shading. Most shading analysis tools can do a good job of modeling shading with the correct inputs. The tricky part is getting those inputs right.
+One of the most difficult inputs for installers are trees. Aurora’s latest feature, Fit Trees to LIDAR, helps solar designers model trees by automatically modeling the tree height using LIDAR data. All a designer has to do is pick the location and type of tree (conical or round), and the Aurora engine will automatically model the height and crown height. This helps designers cut down project design times so they can spend more of their time on the most important task, designing a great pv system.
+ 
+
+3. Irradiance on Panels
+Experienced solar installers know that a solar system is only as good as its weakest link. Solar power functions like a system of pipes, if there’s a clog in one pipe it affects the flow of other pipes around it. For example, if one solar panel is covered by shade, it can affect the power generation of the panels around it.
+Many solar tools use irradiance mapping to give a general idea of what the power generation will be on the face of a roof. What those tools don’t account for is how much irradiance each panel will experience once placed on the roof. Aurora’s new Irradiance on Panels feature takes into account shading from obstructions, trees, and nearby panels (also known as inter-row shading). This allows sales reps and designers to quickly and confidently troubleshoot a design and present an efficient design that reduces shading on the system.
+You can watch videos and learn more about each of the features mentioned above at the following links:
+Solar Storage Feature
+Fit Trees to LIDAR Feature
+Irradiance on Panels Feature
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

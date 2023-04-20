@@ -1,0 +1,112 @@
+How to Configure your Mosaic Financing Integration
+
+ 
+Table of Contents
+
+Introduction
+Process Overview
+How to Become a Mosaic Partner
+How to Configure Your Account
+Setting Up Advanced Configurations
+How to Submit a Credit Application
+Integration Video
+
+Overview: 
+Aurora Solar is excited to announce a new financing integration with Mosaic. You can now configure your Mosaic account and connect it directly with your Aurora account within Sales Mode.
+Once the integration has been configured within Aurora all of your Mosaic loans will appear in Sales Mode as financing options. With this integration you can: 
+
+Conduct a soft credit check on behalf of the homeowner and apply for a loan from Aurora’s Sales Mode quickly; 
+Show the homeowner Mosaic loan products in approved language;
+Say goodbye to manual data entry into the Mosaic Portal, and the need to manually manage your Mosaic products in Aurora. 
+
+Process Overview
+
+
+Step 1: You can submit a credit application within Aurora’s Sales Mode for your homeowner. Note this will result in a soft credit pull only. 
+
+
+Step 2: When the homeowner is approved for credit, the loan documents will be sent via email to the homeowner.  
+
+
+Step 3: When the homeowner navigates to their email, they see a link and click to navigate to the loan documents, and are able to apply for a loan within Mosaic.  
+
+
+
+Who Is Eligible to Use the Aurora Mosaic Integration
+In order to use the Mosaic integration please note that you must currently be on Aurora Sales Mode. This integration also is only available to customers in the US doing residential sales. 
+Note, that you need to be a current Mosaic partner to set up your integration. If you’re not a Mosaic partner, click here to get started.
+ 
+
+How to Configure Your Account:
+
+The following steps only need to be taken  once to configure the Mosaic integration and must be done by an account admin:
+ 
+
+
+
+Log into your account and navigate to Integrations under the Settings tab. 
+
+Click on the Connect button under the Mosaic integrations box.
+Now enter your Mosaic ID which can be found in the URL of your Mosaic portal
+Click on the “Connect” button in the bottom right. 
+If you’ve successfully connected your account, you’ll see the word “Connected” under the Mosaic integrations tab. 
+
+
+Setting Up Advanced Configurations: 
+Based on your needs, Aurora offers the following advanced configuration settings.
+
+Dealer Fees
+Creating Accounts for Reps Who Don’t Have Mosaic
+
+Dealer Fees:​​ A dealer fee is a % of the system cost that is added on top of the system cost and becomes the new financed amount. 
+A dealer fee will always be recouped by Mosaic. By clicking the toggle below you can choose to include the dealer fee in the loan amount that is sent to Mosaic.
+Sales Rep Account: Mosaic will use the Sales Rep email address that they used to log into Aurora to match their Mosaic account. If the Aurora email log-in they used matches with their Mosaic log-in, then they will see their loans in the Mosaic Portal upon logging in. However, if the Sales Rep email that they signed into Aurora with does NOT match an account on Mosaic’s Portal, this configuration helps avoid any issues further down the line. With this toggle you can:
+
+Have Aurora automatically creates a new Mosaic account in Mosaic’s portal for that Sales Rep
+Or send the loans under a generic Mosaic account. If the loans go to a generic account, it won’t be clear which sales rep is responsible for which loans. 
+
+How to Submit a Credit Application:
+*Please note that once you’ve enabled the Mosaic integration, you’ll be able to use this integration on previously created projects as well as new projects moving forward.
+To get started navigate to “Financing” in Sales Mode.  
+ 
+
+ 
+Next, make sure to select any adders, discounts, or incentives you’d like to add to the project. Then select your preferred Mosaic loan from the drop down menu on the right side of the screen.  
+ 
+
+ 
+Make any adjustments to the financing proposal if needed or click on “Apply now” to move forward.  
+ 
+You’ll next see the following screen. Note that In order to submit a credit application, please note you’ll need the following information from your homeowner:
+
+First name and last name*
+Email address
+Social Security Information
+Income Level
+Birth Date 
+Phone number (including area code)
+Address
+CPW
+Consumption information
+A completed site and system design 
+
+ 
+* Note that the name and information need to match the name on the Homeowner Installation Agreement. If they don't match, Mosaic will not countersign the loan. 
+
+Once finalized click “Submit” to submit the credit application. Next, you will have the opportunity to confirm the name, email address, phone number, and address of the homeowner. Click “Continue”. 
+ 
+If the customer qualifies, you will see the following screen below. Next, click on the envelope icon on the top left of the screen to email the loan documents to the homeowner. 
+
+ 
+If the homeowner’s credit is approved they will receive the following two emails to their inbox. Pictured below.  
+Email 1: Approval EmailIf the customer is pre-qualified they will receive an email such as the one pictured below. 
+
+Email 2: Loan Document Email 
+This second email will contain a link to the loan application. When the homeowner clicks on the link in the email, it will take them to the Mosaic portal where they will complete the documents. 
+
+How to Fill Out the Loan Documents:
+Finally, to fill out the loan documents the homeowner will click on the link in their email which will take them to the Mosaic portal. From here they can review the loan terms in detail, and sign the loan application if they should choose to proceed.
+ 
+Integration Video:
+
+ 

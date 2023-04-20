@@ -1,0 +1,667 @@
+
+
+
+
+
+
+
+
+
+
+
+
+How to Size a PV System from an Electricity Bill | Aurora Solar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Aurora Solar                    
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+                                Engage                            
+
+
+
+                                            Lead Capture AI
+                                                                                    
+
+
+
+
+
+                                Sell                            
+
+
+
+                                            Sales Mode
+                                                                                    
+
+
+
+                                            Aurora AI
+                                                                                    
+
+
+
+                                            Contract Manager
+                                                                                    
+
+
+
+
+
+                                Deliver                            
+
+
+
+                                            Design Mode
+                                                                                    
+
+
+
+                                            Expert Design Services
+                                                                                    
+
+
+
+                                            Plan Sets
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                Sell Battery Storage                                            
+
+
+
+
+
+
+
+
+                                                NEM 3                                            
+
+
+
+
+
+
+
+
+
+Resources
+
+
+
+
+
+                                Resources                            
+
+
+
+                                            Blog
+                                                                                    
+
+
+
+                                            Case Studies
+                                                                                    
+
+
+
+                                            Events
+                                                                                    
+
+
+
+                                            NEM 3 Resource Center
+                                                                                    
+
+
+
+                                            Content Library
+                                                                                    
+
+
+
+                                            API Documentation
+                                                                                    
+
+
+
+                                            Help Center
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Industry                                                
+
+                                                Solar Industry Snapshot                                            
+
+
+
+
+
+
+
+
+                                                    Webinar                                                
+
+                                                How to Sell More Storage                                            
+
+
+
+
+
+
+
+
+
+Company
+
+
+
+
+
+                                Company                            
+
+
+
+                                            About
+                                                                                    
+
+
+
+                                            Careers
+                                                                                    
+
+
+
+                                            Partners
+                                                                                    
+
+
+
+
+
+                            Featured Resources                        
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Raising a Series D to Gear Up For Solar’s Extraordinary Growth                                            
+
+
+
+
+
+
+
+
+                                                    Aurora Updates                                                
+
+                                                Sunrise Sessions: Uniting Solar Design and Sales                                            
+
+
+
+
+
+
+
+
+
+Careers
+Pricing
+
+Login
+Schedule Demo
+ 
+
+Login
+Schedule Demo
+ 
+
+                    Main menu                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            How to Size a PV System from an Electricity Bill                        
+
+
+
+
+        Blog Main    
+
+
+
+
+
+
+            Share        
+
+
+
+
+                        Facebook                    
+
+
+
+
+
+                        Twitter                    
+
+
+
+
+
+                        LinkedIn                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sizing a PV System from an Electricity Bill
+In the previous installment of our six-part series on Solar Installer Basics 101, we provided a detailed overview of how to read a customer’s utility bill. Being able to help customers decipher these statements is often what wins the sale. Equally important, your ability to read these bills is a prerequisite for correctly sizing each customer’s photovoltaic (PV) system for optimal utility bill savings and carbon offsets.
+Click the image to download the full guide in printable form.
+This post more deeply explores some of the factors that go into solar PV sizing. Master these steps, and you’ll be able to consistently provide your own clients with the right solar capacity at the lowest price for maximum returns.
+Understanding Basic Solar PV Sizing Requirements
+We’ll use California as an example model. However, the basic steps below are the same regardless of location and geography.
+Let’s start with a hypothetical monthly energy consumption of 500 kilowatt-hours (kWh). This is on the low side for California. But it keeps the numbers simple.
+Assuming there are 30 days in a month, you can determine a potential solar customer’s average daily energy consumption by dividing their monthly consumption by 30. The formula for this calculation is:
+Daily Energy Use = Monthly Energy Use / Days in Month
+16.7 kWh/day = 500 kWh/mo / 30days/mo 
+Next, we need insolation values. As mentioned in The Beginner’s Guide to Solar Energy, insolation values are reported in kWh/m2/day. Since a “full-sun’s” worth of incoming solar energy is approximately 1 kW/m2, insolation values provide a rough estimate of how many full-sun hour equivalents a location receives over the course of a day.
+
+Figure 1. Visualization of how total solar insolation received over the course of a day (left) can be represented by the number of full-sun hours (right). Source: pveducation.org
+For a Palo Alto home, the average daily irradiance value is 5.2 kWh/m2/day. By multiplying the daily energy usage by full-sun hours in a day, you can calculate the total PV system output as:
+Power Output = Daily Energy Use * Daily Hours of Full Sun
+3.21 kW = 16.7 kWh/day * 5.2 hours/day
+
+Figure 2. The Palo Alto home used for this PV system sizing exercise. 
+Note, however, that 3.21 kW represents the ideal sizing assuming 100% efficiency under optimal laboratory conditions. However, that is not the case because all PV systems have a corresponding derate factor that takes into account the inefficiencies of the overall system in the field, such as soiling of the panels and imperfect electrical connections.
+According to the National Renewable Energy Laboratory’s PVWatts calculator, a typical derate factor is 0.84. For the sake of this calculation, we’ll assume the derate factor is roughly 80% (or 0.8). And thus, to correctly determine the ideal PV system size for field applications, you must divide the required power output by the derate factor.
+PV System Size = Power Output / Derate Factor
+4.01 kW = 3.21 kW / 0.8
+From this analysis, a homeowner looking to completely offset an average monthly energy usage of 500 kWh/mo would need a 4.01 kW PV system.
+
+Comparing PV size estimates to simulated results
+Since this is a rough estimate, how does it compare against an actual, comprehensive design for a home with the same characteristics?
+Using the variables above, Aurora Solar’s PV system design software found that the required system size is roughly 4 kW, meaning laboratory conditions closely match the ideal field conditions once the installation is complete.
+However, there is one final piece of the equation: shading.
+Whether from nearby trees or neighboring buildings, shading can sometimes block portions of a solar PV system. Moreover, this shading can often vary throughout the year as the sun’s trajectory changes with the seasons — or as trees gain and lose their leaves.
+Although shading is partially accounted for in the derate factor, this value can fail to accurately capture the effect that shading has on a PV system’s total power output. Fortunately, Aurora’s Solar’s PV design software can account for this shading variability throughout the year. And this improved accuracy allows you to install sufficient solar PV capacity to cover each customer’s annual energy needs for optimal savings and carbon reductions.
+Therefore, expect the results to be less close when modeling a location with shading.
+About Solar PV Education 101
+This blog is part of Solar PV Education 101, a six-article series that serves as an introductory primer on the fundamentals of solar. We’re updating each piece in late 2022, so be sure to check back often for the most recent information.
+Part 1: The Beginner’s Guide to Solar Energy (Updated 11/9/2022)
+Part 2: How a Photovoltaic System Produces Electricity (Updated 11/10/2022)
+Part 3: Reading Your Electricity Bill: A Beginner’s Guide (Updated 11/15/2022)
+Part 4: How to Size a PV System from an Electricity Bill (Updated 12/9/2022)
+Part 5: Shade Losses for PV Systems, and Techniques to Mitigate Them (Updated 12/12/2022)
+Part 6: The Basic Principles that Guide PV System Costs (Updated 12/13/2022)
+And be sure to download the PDF version to give to reps, installers, and even customers looking to learn more about the basics of solar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Ready to learn more?                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Design                    
+
+
+
+
+
+
+
+        Designing for Performance: 3 Techniques to Boost Sol...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        How to Qualify a New Customer in 10 Minutes using Au...        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Sales                    
+
+
+
+
+
+
+
+        How to Sell with Aurora in 20 Minutes        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    Show previous slide                                
+
+
+
+                                    Show next slide                                
+
+
+
+
+
+        All Posts    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        Get Started                                    
+                                
+                                                                    Discover what you can do with Aurora                                                            
+
+
+
+        Schedule Demo    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Stay up to speed on the latest at Aurora                
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ProductsPricing
+Sales Mode
+Aurora AI
+Lead Capture AI
+Contract Manager
+Design Mode
+Expert Design Services
+Plan Sets
+ResourcesBlog
+Content Library
+Events
+Press Kit
+AuroraAbout Aurora
+Careers
+ 
+
+
+
+
+
+
+                    Copyright © Aurora Solar 2023
+                    Terms of Use
+Privacy Policy
+Cookie Notice
+
+Instagram
+Facebook
+Youtube
+Twitter
+Linkedin
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

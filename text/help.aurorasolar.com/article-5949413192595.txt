@@ -1,0 +1,12 @@
+Selecting an Overview Page Background Image
+
+Sales Mode Customization features allow Aurora users to customize the background image on the Overview page in Sales Mode. Admins can manage their configurations from within the Aurora app.
+ 
+
+ 
+
+As an admin user, navigate to Sales Mode Customization settings
+Locate the Overview Page settings, then click Edit (as shown in the above image)
+Select from several choices of background images, or select Upload Image to choose your own background image. (Max file size 1 MB)
+Click Done
+
