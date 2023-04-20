@@ -1,14 +1,16 @@
 import os
 
-from flask import Flask, redirect, render_template, request, url_for
+from flask import Flask, redirect, render_template, request, url_for, jsonify
+from flask_cors import CORS
 import numpy as np
 import openai
 from openai.embeddings_utils import distances_from_embeddings
 import pandas as pd
 
 app = Flask(__name__)
-openai.api_key = os.getenv("OPENAI_API_KEY")
+CORS(app)
 
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
 @app.route("/", methods=("GET", "POST"))
 def index():
@@ -20,6 +22,11 @@ def index():
     result = request.args.get("result")
     return render_template("index.html", result=result)
 
+@app.route("/ask")
+def ask():
+    question = request.args.get("question")
+    answer = get_answer(question)
+    return jsonify({ 'answer': answer })
 
 df = pd.read_csv('processed/embeddings.csv', index_col=0)
 df['embeddings'] = df['embeddings'].apply(eval).apply(np.array)
@@ -71,7 +78,7 @@ def answer_question(
         print(f'{response=}')
         total_tokens = response['usage']['total_tokens']
         print(f"{total_tokens=}, estimated_cost=${total_tokens/1000*0.002:.3f}")
-        return question + "\n\n" + response["choices"][0]["message"]["content"]
+        return response["choices"][0]["message"]["content"]
     except Exception as e:
         print(e)
         return ""
@@ -107,5 +114,10 @@ def create_context(
 
         # Else add it to the text that is being returned
         returns.append(row["text"])
+
+        
     # Return the context
     return "\n\n###\n\n".join(returns)
+
+if __name__ == "__main__":
+    app.run(host="localhost", port=4000, debug=True)
