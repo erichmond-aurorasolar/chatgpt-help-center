@@ -26,7 +26,7 @@ def index():
 def ask():
     question = request.args.get("question")
     answer = get_answer(question)
-    return jsonify({ 'answer': answer })
+    return jsonify({ 'question': question, 'answer': answer })
 
 df = pd.read_csv('processed/embeddings.csv', index_col=0)
 df['embeddings'] = df['embeddings'].apply(eval).apply(np.array)
