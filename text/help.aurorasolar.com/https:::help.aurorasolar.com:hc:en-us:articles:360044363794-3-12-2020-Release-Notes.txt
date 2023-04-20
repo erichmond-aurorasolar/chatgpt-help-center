@@ -1,0 +1,7 @@
+3/12/2020 Release Notes
+
+Features Added:
+
+Added support for PERC modules.
+Adjusted the way that new proposal names are automatically generated so new the default name will start over at "Proposal 1" if you rename the other proposals on a given design.
+

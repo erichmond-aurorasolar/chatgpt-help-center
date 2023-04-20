@@ -1,0 +1,17 @@
+Validating Designs
+
+
+On the Design page, click the page icon located in the top toolbar. 
+
+Click on the + symbol to expand each category.
+Click on the name of the validation test to display the mathematical equations used.
+
+        
+
+An electrical tree diagram will display the electrical connections of your system.
+Aurora will display validation warnings and/or errors based on your design.
+
+
+To find and correct/adjust the specific point of error with your layout, simply click on the name of the component. Click on the blue return arrow to view the component in the Database.
+        
+

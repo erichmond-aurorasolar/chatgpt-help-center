@@ -1,3 +1,0 @@
-How to Override the Auto-Snap Feature
-
-You can override the auto-snap by holding down the  Ctrl  key (or the  Cmd  key on a mac) . This will prevent your edges from snapping to 90 and 45 degree angles. 

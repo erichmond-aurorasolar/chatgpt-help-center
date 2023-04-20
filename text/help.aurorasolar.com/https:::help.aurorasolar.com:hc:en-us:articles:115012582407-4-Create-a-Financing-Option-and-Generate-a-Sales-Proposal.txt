@@ -1,0 +1,51 @@
+4. Create a Financing Option and Generate a Sales Proposal
+
+You can simulate almost any type of financial product in Aurora, including cash deals, loans, PPAs and lease products. We will go through a simple cash deal. Proposals for a project are filled in automatically from a Proposal Template. Aurora will provide you with a number of templates to start off with, and you can always create your own to better suit your clients.
+         
+Financial analysis
+
+
+Go to Pricing on the sidebar on the left and switch the pricing mode from 'Line Items' to 'Cost/Watt'. 
+
+Enter a cost per watt of $4.
+
+Navigate to Financings on the design sidebar and click Add Financing. Input the following parameters:
+
+
+Template: Aurora Sample Cash Financing
+
+Electricity Rates: NEM (TOU)
+
+Post Solar Utility: Sample Commercial Utility Rate
+
+Post Solar Utility Rate: Sample Commercial Utility Rate
+
+
+Set 'Utility Rate Escalation' to 4%. 
+
+When done click on Run Analysis to perform your financial analysis.
+
+
+Creating a proposal
+
+Navigate to the Documents section from the design sidebar and click New Proposal.
+
+Give your proposal a name, and select Aurora Sample Portrait Proposal and the financing you just created.
+Click Create.
+
+
+As you scroll down your proposal you will notice that it automatically populate charts, tables, and 3D visualizations from the project you have just created.
+Changing a proposal
+Proposals are read-only, and to truly make changes to a proposal, you need to edit the Proposal Template that it was generated from and recreate your proposal. However, there are small customizations you can make to each proposal.
+
+Navigate to the 3D rendering on the second page and scroll on it to change the zoom of the image.
+Click and drag the 3D model to change the camera angle.
+Right click on the 3D model to view additional display options. Check Ground Plane to overlay the satellite imagery.
+
+Exporting to PDF
+Your browser can convert Aurora proposals to PDF through its print dialog.
+
+Click on the Print button in the top right corner.
+In the print dialog, choose 'Save as PDF' where it asks you to choose a printer.
+
+Next: Generating bankable shade reports

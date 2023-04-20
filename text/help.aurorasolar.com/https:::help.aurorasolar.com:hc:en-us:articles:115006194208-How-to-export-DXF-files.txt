@@ -1,0 +1,5 @@
+How to export DXF files
+
+DXF files can be exported in both the System Design and the Single Line Diagram sections by clicking Export in the top left-hand side of the screen and selecting DXF. 
+
+For more information please see the articles System Design and Single Line Diagram.

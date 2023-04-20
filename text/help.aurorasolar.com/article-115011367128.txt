@@ -1,7 +1,0 @@
-Quick Search for Utilities
-
-
-In the Consumption Load Profile, search for Utility Provider or Rate Name.
-
-Click on the + icon to the left of the name then select to use. This is now also saved in your Database.
-

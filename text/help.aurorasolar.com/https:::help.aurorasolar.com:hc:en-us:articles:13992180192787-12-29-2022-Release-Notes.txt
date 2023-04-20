@@ -1,0 +1,36 @@
+12/29/2022 - Release Notes
+
+
+
+
+Advanced Roles
+Advanced Roles in Aurora enables admin users to configure up to four custom permissions and access settings for groups of users through custom roles.
+
+
+Panel Overlap Visual Validation
+Panels will change colors if overlapping a setback (yellow) or overlapping other panels (red).
+
+
+New Image Resizing UI
+Updated map resizing functionality to be more user friendly.
+
+
+ITC Toggle Logic Expansion
+
+The logic behind when the "Use tax credit to pay down loan" toggle in Sales Mode is now much more flexible. The ITC toggle will now appear for any loan as long as the ITC is selected and the prepayment percentage for the incentive matches the value of the ITC (30%). This includes:
+• Loans with any number of months for incentive paydown (rather than only month 18) • Custom incentives
+
+
+
+Roof Adders
+The "By Unit" adder has been replaced with "Roof Area (sq. ft.)" adder, including additional options for how its calculated. When creating a Roof Area adder, customers can select whether the square footage targets (1) only roof faces containing panels, (2) area under  the arrays, or (3) all roof faces on buildings with panels. This gives companies more options to quote re-roofing within Sales Mode.
+
+
+Flat Price
+While Sales Mode previously only allowed for reps to price the system in Price per watt, we have now added the ability for customers to input a Flat price. Admins have the option to set the default pricing method to be Price per watt, Flat price, or both. This gives customers more flexibility to price the system based on their pricing preferences.
+
+
+AutoDesigner Filler Row in Energy Mode
+Filler Row in Energy Mode allows you to maximize roof space while running AutoDesigner in Design Mode by allowing the top or bottom row of an array to be the opposite orientation of the rest of your designed panels.
+
+

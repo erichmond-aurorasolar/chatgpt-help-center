@@ -1,8 +1,0 @@
-05/13/2021 Release Notes
-
-Features Added - 
-Added support for two additional currencies, the Pakistani Rupee and the Nigerian Naira.
-Issues Resolved - 
-
-Resolved an issue where some users who use the Nearmap Integration feature were unable to load imagery in certain locations.
-Resolved an issue where NEC validations would incorrectly show that DC Optimizers were overloaded.

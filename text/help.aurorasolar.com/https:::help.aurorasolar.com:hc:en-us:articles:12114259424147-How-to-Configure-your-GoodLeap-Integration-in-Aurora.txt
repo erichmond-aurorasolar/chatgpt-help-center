@@ -1,0 +1,127 @@
+How to Configure your GoodLeap Integration in Aurora
+
+Table of Contents
+
+Introduction
+Process Overview
+How to Become a GoodLeap Partner
+How to Configure Your Account
+Setting Up Advanced Configurations
+How to Submit a Credit Application
+
+Overview
+Aurora Solar is excited to announce a new financing integration with GoodLeap. You can now configure your GoodLeap account and connect it directly with your Aurora account within Sales Mode.
+Once the integration has been configured within Aurora all of your GoodLeap loans will appear in Sales Mode as financing options. With this integration you can: 
+
+Conduct a soft credit check on behalf of the homeowner and apply for a loan from Aurora’s Sales Mode quickly; 
+Show the homeowner GoodLeap loan products in approved language;
+Say goodbye to manual data entry into the GoodLeap Portal, and the need to manually manage your GoodLeap products in Aurora.
+
+ 
+Process Overview
+
+
+Step 1: You can submit a credit application within Aurora’s Sales Mode for your homeowner. Note, this will result in a soft credit pull only. 
+
+
+Step 2: When the homeowner is approved for credit, the loan documents will be sent via email to the homeowner.  
+
+
+Step 3: When the homeowner navigates to their email, they will see a link and click to navigate to the loan documents, and are able to apply for a loan within GoodLeap.  
+
+
+
+Who Is Eligible to Use the Aurora GoodLeap Integration
+In order to use the GoodLeap integration please note that you must be in Aurora Sales Mode. This integration is only available to customers in the US making residential sales. 
+ 
+How to Become a GoodLeap Partner
+You'll need to be a current GoodLeap partner to set up your integration. If you’re not a GoodLeap partner, fill out the partner form at https://goodleap.com/partnerform/aurora/ 
+ 
+How to Configure Your Account
+*The following steps only need to be taken once to configure the GoodLeap integration and must be done by an account admin.  
+**Be sure to unfavorite any GoodLeap loans previously built out manually in your Aurora Database so there isn't redundancy with what's syncing from the GoodLeap portal.
+ 
+1. Send an Email to GoodLeap Support 
+
+
+To start the process of configuring your GoodLeap account within Aurora you will need to send an email to the GoodLeap Support team
+
+Log into your account and navigate to Integrations under the Settings tab
+
+Click on the Connect button under the GoodLeap integrations box
+
+Click the email hyperlink apisupport@goodleap.com that is listed on the modal (as seen in the screenshot above), which will trigger an email template that you can use 
+
+Fill out the email template accordingly and send the email (see below for an example)
+
+ 
+Send To: GoodLeap Support team (apisupport@goodleap.com)CC: sgarcia@goodleap.com
+Subject: GoodLeap - Aurora API key request: <ENTER YOUR COMPANY NAME HERE>
+GoodLeap team - we have been onboarded with Aurora Solar and would like to connect our GoodLeap account with them. Please provide the following information that will allow <ENTER YOUR COMPANY NAME HERE> to do this:- API credentials (keys)- GoodLeap application base url Thank you!
+ 
+GoodLeap will follow up with you by email to confirm your integration has been configured, generally within 24 hours, and will provide your username, password, and partner URL. 
+ 
+2. Configure your GoodLeap integration in your Aurora account
+
+
+
+Once you receive your credentials, enter the following in the modal
+
+Your GoodLeap API Key Username
+Your GoodLeap API Password
+Your GoodLeap Partner URL 
+
+
+Click on the “Connect” button in the bottom right. 
+If you’ve successfully connected your account, you’ll see the word “Connected” under the GoodLeap integrations tab as shown in the image below.
+
+
+ 
+Set Up Advanced Configurations
+Dealer Fees:​​ A dealer fee is a % of the system cost that is added on top of the system cost and becomes the new financed amount. A dealer fee will always be recouped by GoodLeap. By clicking the toggle below you can choose to include the dealer fee in the loan amount that is sent to GoodLeap.
+
+ 
+ 
+Submit a Credit Application
+*Please note that once you’ve enabled the GoodLeap integration, you’ll be able to use this integration on previously created projects as well as new projects moving forward.
+ 
+Navigate to “Financing” in Sales Mode within a specific design you've already created. 
+
+ 
+Make sure to select any adders, discounts, or incentives you’d like to add to the project. Then select your preferred GoodLeap loan from the drop down menu on the right side of the screen.
+
+Make any adjustments to the financing proposal if needed or click on “Apply” to move forward.  Then you’ll see the following screen. 
+
+In order to submit a credit application, you’ll need the following information from your homeowner:
+
+First name and last name*
+Email address
+Social Security information
+Income level
+Birth date 
+Phone number (including area code)
+Address
+CPW
+Consumption information
+A completed site and system design
+
+ 
+* Note that the name and information need to match the name on the Customer Loan Information Form. If they don't match, GoodLeap will not countersign the loan.
+ 
+Once finalized, click “Submit” to submit the credit application. You'll then have the opportunity to confirm the name, email address, phone number, and address of the homeowner. Then click “Continue”. 
+ 
+Loan Approval or Disqualification 
+If the customer qualifies for the GoodLeap loan, you will see the following screen below.  
+ 
+Email 1: Approval Email 
+ 
+ 
+ 
+If the customer is disqualified, they will receive an email such as the one pictured below.
+
+ 
+Email 2: Loan Document Email 
+ 
+ 
+Fill Out the Loan Documents:
+To fill out the loan documents the homeowner will click on the link in their email which will take them to the GoodLeap portal. From there they can review the loan terms in detail, and sign the loan application if they should choose to proceed.

@@ -1,0 +1,30 @@
+Components
+
+Aurora allows you to model the following component types in your system design:
+Solar Panels
+Connects to: You can't connect solar panels directly to other components, you first have to string them.Properties: none
+Strings
+While technically not a component, a string represents a group of solar panels that are connected together in series.
+Connects to: Combiner Boxes, Inverters, DisconnectsProperties: none
+Combiner Boxes
+Amongst the balance of system components you can model in Aurora are combiner boxes and re-combiner boxes (both are represented by the combiner box component).
+Connects to: Strings, Combiner Boxes, Inverters, DisconnectsProperties: none
+String Inverters
+If there are strings or combiner boxes connected to the inverter, you can specify which MPPT it is connected to by right clicking on the inverter. In the Connections section of the inverter property you can now select which you would like your connections to be connected to.
+You can design systems with multiple-MPPT inverters by right-clicking on the inverter and assigning connections to MPPTs.
+Connects to: Combiner Boxes, Load Centers, Meters, Service Panels, DisconnectsProperties: none
+Microinverters
+Microinverters cannot be placed independently, but need to be attached to a solar panel when placing it.
+DC Optimizers
+DC Optimizers cannot be placed independently, but need to be attached to a solar panel when placing it.
+Disconnects
+Represent both DC and AC disconnects.
+Connects to: Strings, Combiner Boxes, Inverters, Load Centers, Meters, Service Panels, DisconnectsProperties: none
+Load Centers
+Represents a load center.
+Connects to: Solar Panels, Combiner BoxesProperties: Load Center
+Service Panels
+Represents a (main) service panel. If a service panel is already existing, you can mark it as such by right-clicking the service panel and checking off Exists in its properties. In that case it will not show up in the Bill of Materials. If it is a main service panel, you can indicate that by checking off Main. Furthermore, you can specify the type of connection (Breaker Connection, Dual Breaker, Supply Side Tap, Load Side Tap) in the Connections section of its properties (if the service panel is connected to something).
+Connects to: Inverters, Load Centers, Disconnects, MetersProperties: Exists, Main
+Meters
+Connects to: Inverters, Load Centers, Disconnects, MetersProperties: Exists

@@ -1,0 +1,8 @@
+How to import DXF files into AutoCAD
+
+DXF files can be imported into CAD programs, such as AutoCAD.
+1. Prior to importing your file, adjust your units by typing in UNITS and change the length type to Decimal and the Insertion scale units to Unitless.
+
+2. Check the units in your options by typing OPTIONS and ensuring your units are in Inches or Feet if your Aurora setting is Imperial, and Meters if it is in Metric.
+
+Note: Your version of AutoCAD may look very different, but the functionality should be the same.

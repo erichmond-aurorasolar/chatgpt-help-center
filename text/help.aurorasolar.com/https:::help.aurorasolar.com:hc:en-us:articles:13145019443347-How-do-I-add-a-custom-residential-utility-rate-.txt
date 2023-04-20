@@ -1,0 +1,38 @@
+How do I add a custom residential utility rate?
+
+Creating a Custom Residential RateAurora provides you with the tools to create utility rates. Just follow these steps.
+
+
+Go to the utilities page by clicking on Database then Utilities.
+
+
+To create a custom utility company, click on Add Utility at the top of the page. Input the name, area of operation, and utility website. 
+Click on the name of a utility company or follow step 2 to create a custom utility company, then click on Add Custom Utility Rate.
+
+
+Input a Name, Sector (Residential or Commercial), Description, Reference, Effective period, Fixed monthly charge, and Energy usage unit.
+
+Name: Choose a name you can easily remember to pick out of the list later on.Sector: Residential rates can only be selected for Residential projects, and Commercial rates can only be selected for Commercial projects (you choose whether the project is Residential or Commercial when you first create a new project.)Description: You may enter a short description for your own internal needs. This is optional and not displayed to your customers.Reference: You can use this field to enter the URL link of the utility webpage where you found the rate information. This is optional and not displayed to your customers.Effective Period: For your notes. This is optional and not displayed to your customers.Fixed Monthly Charge: This is a flat fee that your utility charges each month for being connected to their grid. Otherwise known as a meter fee, connection fee, or by many other names. Occasionally Minimum Bill is used instead of, or with, Fixed Monthly Charge.Energy Usage Unit: You may select between kWh/month or kWh/day. Monthly is the more common option, so leave it at monthly if you're not sure.
+
+Input an Export Rate, Billing Frequency, and True-up Period. These settings change how the utility company deals with power sent back to the grid, and have a significant impact on your savings.Export rate: This is the rate one is compensated for sending excess power back to the grid. Often this is the "Retail Rate," so if you are buying power for $0.20/kWh, you send it back to the grid for a $0.20/kWh credit on your utility bill. Other utilities have less favorable export rates, with a reduction in export value. Others still will not compensate you at all for power sent back to the grid. Set the rate according to the local utility rules.Billing Frequency: Select between Monthly or Annual billing frequency. This can have an impact on projected solar savings, with Annual generally being more favorable. Select an option according to the local utility rules.True-up Period: The true-up period is the time of the year where you lose all of your Net Metering credits, and start the next month with no credits. This can happen on an annual or monthly basis. Sometimes the true-up month will change depending on the month the PV system is energized and connected to the local grid. Don't worry if you have a variable true-up date, because you have the option of changing this later on a project by project basis. Some utilities do not have expiration of accrued credits. In these cases, Monthly Billing frequency with the End of Billing Cycle as 1 year from the install date will give an accurate reflection of the customer’s Year 1 monthly bills. If you wish to instead show the typical bills beyond Year 1, Annual Billing frequency reflects the rolling of credits accurately.
+
+Add periods and tiers. Periods are used for time-of-use rates. This is when the cost of electricity differs depending on month of the year (usually seasons) or time of day (peak vs non-peak). Tiers are used to simulate cost of electricity that differs depending on how many kWh the customer uses. 
+You can set the 'energy Usage unit' to kWh/month or kWh/day depending on how the utility company gives out the kWh allowances. 
+Change the allowance per tier and the $/kWh rate.
+Setting the first tier to 100 kWh is equal to 0-100kWh. Setting the second tier to 200kWH is equal to 101kWh to 200kWh. 
+ 
+
+Modify the weekday/weekend schedule for time-of-use rates. To do this, highlight a section by left clicking and dragging your mouse. Then hit a number on the keyboard to change the period. In our example, we set the months of Nov. 1 thru Apr. 30 to use the rate values set in period 2. The months of May 1 thru Oct. 31 is using the rate values from period 1.For the weekend hours, we also set the hours from 7:00am to 8:00pm to use the rate values set in period 2. 
+
+
+Click on the  Validate  button in left of your screen to make sure that your rate does not contain any errors.
+
+
+Checking the Accuracy of Your Utility Rate
+Once you finish creating your rate, you'll want to see if it is accurate. You will need an electric bill on hand.
+
+Go to a project that uses this custom rate.
+Click on Consumption. Make sure to select the custom rate. In the monthly usage graph, enter the kWh value seen on the electric bill. The box on the right side will display the calculated bill value. We want this bill value to be close to the bill value on the electric bill. 
+There may be some discrepancies due to taxes, fees, or credits. 
+
+

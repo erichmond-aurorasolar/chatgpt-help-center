@@ -1,0 +1,12 @@
+Selective Optimizers
+
+Selective optimization is when you only have DC optimizers on select modules within a string, as opposed to on every module in a string which is what is typically required. Optimizer manufacturers such as Tigo work with various module manufacturers to integrate the DC optimizer into the module and thereby create a "smart module". This is how to model them in Aurora:
+
+Enable the DC optimizer for your account by selecting it as a "favorite" it in your database (note you need to be an account administrator to add "favorite" components). You can change the search field by clicking on the label in the top right of your database.
+Generate your design as normal. Click on Solar Panels and the Fill Roof Face.
+In the drop-down menu select your module, then select a string inverter and click on the roof face you wish to fill with modules. 
+
+Click and drag a rectangle around the modules that you would like to optimize right click to select your optimizer.
+After completing this you may have to restring your array - see the stringing section for more details.
+ 
+

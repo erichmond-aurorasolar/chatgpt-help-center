@@ -1,0 +1,81 @@
+New Aurora Account Configuration Guide
+
+This article provides an overview of the areas you’ll need to configure within your Aurora account to ensure that everything is preset and at your fingertips before you create a project.  Click on the links below to access content-specific help articles that will guide you through your account set up. 
+ 
+Please note that you must be an Administrator to configure your account.  
+*Some products and services mentioned below are only available as add-ons. If you are interested in adding Aurora AI, Contract Manager, or Plan Sets to your Aurora account plan, please reach out to your Customer Success Manager or support@aurorasolar.com.
+ 
+General Company Info & Settings
+Update your basic company information and general account settings. 
+
+General Settings
+Creating Custom Project Statuses
+Adding your Logo
+Adding Users
+
+ 
+Pricing
+Establish your starting cost for all projects in your account and then create adders and discounts to fine tune your pricing.
+
+General Base Pricing
+Adders & Discounts
+
+ 
+Financing Products
+Build Custom Financing Products in your Database to model in Aurora. A direct financing integration is currently available in Aurora with Mosaic as well. 
+
+Modeling Custom Financing Products
+Aurora Financing Integrations
+
+ 
+Enabling Solar Components
+Enable the solar components that you plan to offer for quick and easy access when designing.
+
+Modules 
+Inverters
+DC Optimizers
+Batteries
+
+ 
+Creating Jurisdiction Setbacks
+Establish unique setback regulations for the locations where you do business.
+
+Creating State or Local Setback Regulations
+
+ 
+Application Settings 
+Review the default application settings and make changes as necessary.  You can also add custom pages to your Sales Mode workflow. 
+
+Sales Mode Design Settings 
+Financing Settings
+Utility and Tax Rate Settings
+Performance Simulation Settings 
+
+ 
+Sales Mode Customization 
+Sales Mode Customization features allow Aurora users to customize their sales experience by adding custom pages, videos, and more to Aurora's Sales Mode.
+
+Add custom pages in Sales Mode
+Add custom pages to your Web Proposal
+
+ 
+Sales Agreements with Contract Manager
+*Contract Manager is an add-on product only available with a custom contract.
+Create your Document Templates with the help of this step by step guide. 
+
+What is Contract Manager & Who is Eligible
+What you'll need
+Create a new Template
+Merge Fields - Options & Definitions
+
+ 
+Plan Sets Account Configuration Requirements
+*Plan Sets is an add-on service with New Aurora
+To ensure you are set up for success when submitting Plan Sets, be sure that you've completed the items below in your Aurora account:
+
+Enable Solar Components including applicable BOS Components 
+Establish and Enable State or Local Setback Regulations
+
+ 
+ 
+ 

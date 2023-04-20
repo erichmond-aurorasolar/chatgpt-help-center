@@ -1,0 +1,12 @@
+04/06/2022 Release Notes
+
+Features Updated
+
+Corrected an issue where if the project location marker had been moved from the default location then the Design page in Sales Mode would load on the original location rather than the updated one. 
+Nearmap for SMAI ensures that every project created on AutoRoof has Nearmap imagery loaded by default when available. Sales Mode AI users and AI Client SDK will be able to benefit from this feature.
+
+Features Added
+
+New loading animations in Lead Capture AI offer a more engaging experience for homeowners to educate themselves on the importance of solar before assessing their estimate.
+A new and improved results page for Lead Capture AI optimizes the homeowner experience to drive more conversions and leads for our customers. These changes include a more prominent savings callout and optimized CTA language.
+In Design Mode under the dropdown next to savings % > Utility Bill Savings, users now have the ability to modify the electricity rate, pre-solar utility rate, post-solar utility rate, net surplus compensation, export rate, billing frequency, and true-up month.

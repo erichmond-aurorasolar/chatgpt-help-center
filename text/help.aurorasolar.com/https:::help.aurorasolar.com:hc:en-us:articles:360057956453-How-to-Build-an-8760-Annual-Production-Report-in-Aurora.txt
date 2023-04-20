@@ -1,0 +1,11 @@
+How to Build an 8760 (Annual) Production Report in Aurora
+
+An 8760 energy model is an hour-by-hour analysis that simulates a building’s performance for all 8,760 hours in a given 12-month period. In Aurora, you are able to export the hourly production of your system and demonstrate the overall performance.
+1) Go to your Aurora Project and export the Hourly data under the Simulation tab in the top right. 
+
+2) Once you have downloaded the hourly data, upload the CSV file to your preferred spreadsheet software (Microsoft Excel, Google Sheets, etc.)
+3) Run a pivot table within the spreadsheet to organize the data. Once you create the pivot table, organize the data with Months in the Rows, Hours in the Columns, and Energy Production (Average) in the Values section. Once you organize it as such, you will have a visual demonstration of Average kWh production throughout the year broken down by the hour of the day for your specific project. 
+
+ 
+You can save this visual as an image and upload it to your Proposal within the Proposal Templates section of your Aurora platform. 
+ 

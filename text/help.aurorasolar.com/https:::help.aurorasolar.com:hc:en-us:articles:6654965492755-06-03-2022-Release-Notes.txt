@@ -1,0 +1,12 @@
+06/03/2022 - Release Notes
+
+Features Added
+
+Savings Narritive - This changes the location of the Bill Overview page to after the Financing page and shows a more detailed breakdown of the post-solar bill, now including monthly financing payments, post-solar cost per kWh, lifetime savings, and the ability to apply for financing directly on the Bill Overview page. You can also make additional configurations or disable the Savings Narrative, in Settings > Pricing > General > Bill Overview. This provides homeowners with a more transparent estimate and breakdown of their costs after going solar, as well as offering customers greater flexibility and configurations depending on the workflow that works best for their team. More information can be found here - Bill Overview Settings
+
+A new Asset Created webhook event fires when an asset (e.g., screenshot, DXF file) is created and ready for download in Aurora.
+A new Consumption Profile Changed webhook event fires upon any change to a consumption profile made in Aurora.
+You can now customize panel tilt, spacing, and orientation depending on whether a roof face is flat or pitched in order to align with your design and installation best practices and maximize irradiance and system production.
+You can now modify more fields under the Update Project API: customer_salutation, customer_first_name, customer_last_name, customer_address.
+
+ 

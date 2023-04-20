@@ -1,5 +1,0 @@
-9/16/2021 Release Notes
-
-Features Updated
-
-Corrected an issue causing the error message "Design Engine Failed to Initialize" to incorrectly appear when editing proposal templates. 

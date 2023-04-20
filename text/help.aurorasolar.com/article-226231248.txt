@@ -1,3 +1,0 @@
-Why can I not add (or check off) components in my database?
-
-Only administrators of an account can add components. Please have your account administrator add the components for you. Alternatively you can be made into an account administrator. Click here to find out how. 

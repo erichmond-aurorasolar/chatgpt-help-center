@@ -1,0 +1,8 @@
+What is a discount rate?
+
+Discount rate:  "The interest rate at which future cash inflows and cash outflows associated with an investment project are discounted in order to allow for the timing of these cash flows."Solar installations last a long time, in many cases you are looking at cash flows over 25 or more years. Being promised a dollar 25 years from now is clearly not as good as having one in your possession today. There is no guarantee that whoever is promising you the dollar will be around or will deliver it so far into the future (this is called risk premium). Even if the person does deliver the dollar, due to the effects of inflation, it would not buy as much in 25years as it does today. Additionally, if you got a dollar today, you could put it in a bank or invest it, and it would be worth more in 25 years than today (this is called opportunity cost). All of these examples show us that a dollar in the future is worth a discounted amount to one today. The concept that money promised tomorrow is worth less than guaranteed money today is referred to as the "time value of money". In the context of solar, electric bill savings in the future are worth less than savings today of the same amount. To reflect that, you need to input a rate into the "discount rate" filed. We suggest you to consult your financing partner to advise you on what number to use as your discount rate, if you do not know what it is. Without including a number in this field, you may be presenting a misleading view of your client's cash flows. 
+   
+Where      = Savings in year n
+                 = Savings in year one
+                    = Discount Rate            
+              = Year of evaluation

@@ -1,0 +1,17 @@
+How can I improve savings on my project?
+
+Are the savings on your projects coming out unexpectedly low? Here are a few settings you can adjust:
+ 
+1. Lower your Discount Rate
+As a general rule, the higher Discount Rate you are using, the lower the lifetime savings. Go to your financing settings page and change this to a lower number. Note: If you change this setting, the change will apply only to future projects. To update past projects, Duplicate an existing project.
+
+2. Other Financing settings
+Settings like Degradation, Inverter Placement Cost, and Inverter Life all impact your savings, as well. Panels degradation varies per manufacturer, but usually isn't more than 0.50% per year. Inverter replacement costs can vary from $0.20 to $0.40 per watt or more, but you can enter $0 if the inverter is under a full lifetime warranty.
+3. Double check the selected Utility Rate
+The more your electric utility charges you, the more money you will save by going solar. Make sure you have selected the right utility rate for your project, or your savings calculations will be incorrect. Utility rates can be updated from both the Project Overview page or in Sales Mode.
+4. Check your Utility Bill Savings settings
+In the main design view (not in Sales Mode), click the area in the top right which shows the Size, Production, and Savings of your design. Then click Utility Bill Savings. Here, you can adjust settings such as Export Rate and True-Up Period which can have a significant impact on your projected savings
+
+5. Check the irradiance on your panels
+Use the irradiance button to check the irradiance values on your panels. If your panels are placed in a shady area, or are too close together, then production and savings will be negative impacted.
+ 

@@ -1,0 +1,9 @@
+10/03/2019- Performance Simulation Update 
+
+Overview: 
+In keeping with Aurora’s commitment to PV simulation accuracy, on October 3rd, 2019, Aurora will be releasing a new version of its shading engine that includes a number of improvements to its site and system modeling. We've also upgraded our circuit simulation engine. As a result, you may notice some differences in energy production results.
+Update: 
+In approximately 98% of cases, there will be an increase in energy production between 0 and 1%. However, in a small minority of cases (2%) there can be larger differences (increases or decreases) in the production. 
+Though the changes represent an improvement in accuracy, if you are in the midst of a sale for a particular design and do not want its simulation results to change, we recommend that you do not re-run the simulation for this design.
+Other:
+If you have any questions, please don’t hesitate to reach out.

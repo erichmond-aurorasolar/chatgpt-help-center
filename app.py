@@ -41,10 +41,11 @@ def get_answer(question):
 
 def answer_question(
     df,
-    question="Am I allowed to publish model outputs to Twitter, without a human review?",
-    max_len=1800,
-    debug=False,
-    max_tokens=150,
+    *,
+    question,
+    debug,
+    max_len,
+    max_tokens,
     stop_sequence=None
 ):
     """
@@ -62,9 +63,12 @@ def answer_question(
 
     try:
         # Create a completions using the question and context
-        prompt = (f"Answer the question based on the context below, and if the question can't be "
-                  f"answered based on the context, say \"I don't know\"\n\nContext: {context}\n\n"
-                  f"---\n\nQuestion: {question}\nAnswer:")
+        prompt = ("Answer the question based on the context below, and if the question can't be "
+                  "answered based on the context, say \"I don't know\". Please also include "
+                  "URLs to the original articles by simply appending (Source: <url>) at the end of "
+                  "your answer.\n\n"
+                  f"Context: {context}\n\n---\n\n"
+                  f"Question: {question}\nAnswer:")
 
         response = openai.ChatCompletion.create(
             model='gpt-3.5-turbo',

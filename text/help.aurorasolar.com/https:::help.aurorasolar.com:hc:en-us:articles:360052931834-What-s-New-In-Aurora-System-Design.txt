@@ -1,0 +1,15 @@
+What's New In Aurora System Design
+
+
+1. Toggle Viewing Options
+While exploring this tab, the user has access to toggle a variety of viewing options located in the photo immediately below. This tab allows users to include or exclude various measurement options while also being able to toggle important factors such as the sun-path, shadow presence, and more.
+2. LIDAR and Irradiance Locations
+V2 has placed the LIDAR and Irradiance tabs on the left side of the Design View page. Users still have access to the same LIDAR settings and configurations to allow pinpoint accuracy for slope angles, obstruction locations, and specific height measurements. 
+
+3. Image Selection Tab
+The image selection tab has moved from the top left toolbar to the bottom left near Map Split and Street View Ruler. Users still maintain access to uploading imagery, toggling between various imagery sources, and accessing HD and NearMap imagery. 
+4. System, Pricing, and Proposal Tabs
+In Aurora V1, these tabs were located on the left-most side of the program near the Site and System Design panel. Now users are able to toggle through these sections on top of the screen. 
+5. Adjust 360° View Options
+In order to promote a more seamless view of the project, New Aurora has the 360° View Options located in the bottom right. Users are still able to right-click to adjust their 360° view of their project as well as holding the space bar and scrolling to zoom in and zoom out. 
+ 

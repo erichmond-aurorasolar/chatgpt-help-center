@@ -1,8 +1,0 @@
-01/08/2019- Release Notes
-
-1.) Draw Roof Face Tool: The Draw Roof Face Tool allows one to draw one or more roof faces instead of having to outline and create the entire roof structure using SmartRoof. This can be useful for certain use cases including:
-
-When the roof is very complex and getting SmartRoof to configure correctly may be taking too long.
-When you need a quick estimate and are confident about the roof face(s) that will have the best solar potential and therefore want to be able to quickly outline said roof faces and add modules.
-
-2.) Irradiance Mapping on panels: Irradiance Mapping can now be viewed on top of panels that accounts for inter-row shading. Values in the design summary will be updated accordingly.

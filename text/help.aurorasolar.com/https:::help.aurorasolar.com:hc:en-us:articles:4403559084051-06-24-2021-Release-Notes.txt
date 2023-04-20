@@ -1,0 +1,10 @@
+06/24/2021 Release Notes
+
+Features Added
+
+We have migrated our API documentation to a new location and made it publically accessible. The new site can be found here - https://docs.aurorasolar.com/reference/overview
+
+
+Features Updated
+
+Fixed an issue causing irradiance maps to not load correctly.

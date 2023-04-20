@@ -1,0 +1,19 @@
+Using Aurora's Shadow Feature
+
+Using Aurora's Shadow Feature 
+Overview:
+Aurora’s Shadow feature demonstrates how the sun casts shadows on solar panels, objects, and buildings in your design. This feature can be used as an educational tool that demonstrates how the sun works to cause shadows on your solar array or site. It can also use be used to design your system better by knowing where shadows are at certain times of the day.
+
+How to Use the Shadow Feature:
+When enabled this feature will cast shadows on an array, objects, and buildings in Aurora’s Design Mode and also in the Sunpath animation. Please note that this feature is enabled by default when using the Sunpath animation tool.
+Follow these steps to enable Shadow in your design:
+
+Create a new design in Design Mode.
+
+Next, click on the eye icon in the top left-hand of your screen.
+
+Click the eye icon next to the word Shadow to enable. 
+
+
+ 
+That’s it! You’ve enabled Shadow for your design. As a reminder, you’ll need to complete the steps above for any new design in Aurora. 

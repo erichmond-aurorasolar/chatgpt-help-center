@@ -1,0 +1,13 @@
+Ruler Tool 
+
+Overview:With the ruler tool you can press the ruler icon in the lower left portion of the Design page to draw a ruler that will conform to roof surfaces to measure the length of an area. The ruler tool will snap to objects (building edges, obstructions, solar panels, carports/ground mounts, fill areas, etc). 
+Once the ruler has been placed you can edit the length of an area and switch between 2D (laying on the ground) and 3D (conforming to the roof surface) views by moving the cube icon in the top left side of your screen.
+The ruler tool snaps to conform to nearby obstructions to ensure accurate placement and drawing. 
+
+ 
+How to Use the Ruler Tool:
+1.) Select the ruler icon in the bottom left corner of your page. You can also draw by clicking once to place the start of your measurement and once again to place the end of your measurement.
+2.) Click once and hold down your mouse, dragging to extend the ruler.
+3.) Next hold down your mouse and drag to extend the ruler. 
+4.) Unclick your mouse at the end of the area that you would like to measure. 
+5.) You will know when you have measured your area successfully when you see a yellow line across the area you have measured. You will also see the measurement in the metric unit (designated under Settings) above the yellow line. 

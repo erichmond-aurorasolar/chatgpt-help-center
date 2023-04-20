@@ -1,0 +1,32 @@
+How to Define a Target Energy Offset in Sales Mode
+
+Overview 
+An admin user can help salespeople optimize their system design by targeting a starting energy offset (energy production relative to consumption) when placing panels in Sales Mode. Then, the salesperson can toggle on or off additional panels if they choose.
+Additionally, admins can set a default microinverter to add to each panel, allowing salespeople to create a more finalized system with a more accurate simulation.
+
+How to specify Target Offset in Settings
+
+Admins can specify the default target offset percentage value in the Target Energy Offset field under the AutoDesigner section of the Sales Mode Design tab on the Settings page. This value will be set to 100% by default unless changed.
+ 
+How to specify a microinverter in Settings
+In the same section, admins can also specify whether a microinverter will be attached to panels in Sales Mode (in the Add Microinverters field) and which microinverter to attach (in the Default microinverter field). By default, microinverters will not be included unless the field is set.
+
+Note: You cannot attach microinverters that connect to more than one module in Sales Mode at this time.
+How to place panels in Sales Mode
+After you have a site model, you are ready to build out your PV system. 
+To place panels in your design, click on the Add Solar Panels icon on the left-hand side, select your chosen panel and orientation and click "Place". This will generate an optimal design with the necessary modules to meet the desired energy offset enabled and the remaining modules disabled. 
+
+How to toggle panels in Sales Mode
+To deactivate or activate a single panel, simply click on the panel and note the color change. 
+To toggle on or off a full array, double-click on it.
+To turn a contiguous group of panels on or off, click and hold your mouse button and then drag your cursor over the panels you wish to toggle.
+
+
+How to simulate system production in Sales Mode
+
+When you are satisfied with your system or want to check its energy output, click Recalculate.
+If you haven’t toggled any panels, the production values should be very close to the target specified by the tenant admin.
+If microinverters are attached to all panels, the simulation will be a more accurate Aurora simulation.
+ 
+ 
+ 

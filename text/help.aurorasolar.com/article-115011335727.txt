@@ -1,7 +1,0 @@
-Adding walkways
-
-Your fill zone will dynamically adjust to walkways placed in your design. Follow the steps to add a walkway:
-
-Click on the Walkway(W) button in the right hand toolbar. 
-Click (and release) on any edge of your fill zone. Move your cursor across to the opposite edge of your fill zone. Click down.
-

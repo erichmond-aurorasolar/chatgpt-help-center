@@ -1,0 +1,20 @@
+Adding Balance of System Components
+
+
+Click on BOS Components in the right toolbar then select the appropriate component for your system from the sub-menu.
+
+Combiner box
+Load center
+Service panel
+Meter
+Disconnect
+
+
+Click on the Connect icon, then starting from either string end, click to connect your string(s) to your inverter/combiner box.
+
+Think of connections like conduit runs on the roof/wall
+Continue to click on components to connect them together
+
+         
+For microinverter systems, the 'string' feature connects modules in parallel on a single trunk cable. Red indicates the trunk cable ampacity has been exceeded, where the trunk cable ampacity is defaulted to the standard 20 amps.
+

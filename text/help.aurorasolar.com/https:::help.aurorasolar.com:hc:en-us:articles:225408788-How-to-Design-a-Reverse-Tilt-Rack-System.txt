@@ -1,0 +1,26 @@
+How to Design a Reverse Tilt Rack System
+
+
+
+On the Design page within a project click Insert Panels.
+
+Select Modules.
+Select the module type, orientation, tilt, rotation, and spacing.
+Make sure to set the rotation to 180 degrees, or whatever is appropriate for your design.
+
+Click the Fill Roof Face button.
+
+Click on the roof to place the system.
+
+To Toggle into 3D Mode:
+
+Click on the 3D cube (or hold right-click) and move your cursor down.
+
+You can view/hide setbacks and toggle on/off the map imagery in the top toolbar.
+
+
+To Make Adjustments to the System After It's Been Placed on a Roof:
+
+Click and drag a box around the panels with your cursor.
+In the toolbar on the right you can make adjustments to the orientation, tilt, rotation, or click the Auto-String button to string the system to an inverter.
+

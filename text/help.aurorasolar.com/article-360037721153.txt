@@ -1,7 +1,0 @@
-08/22/2019-Release Notes
-
-As of 08/22/2019, Aurora Solar has introduced the following changes:
-
-Banner Ad: We have introduced a banner in-app informing users that the legacy roof tool will be deprecated on 10/31/2019. 
-Circuit Fitting: We made general updates to improve our circuit fitting model
-Legacy Pages: The Legacy pages section is now set to closed by default

@@ -1,0 +1,12 @@
+How to Update to the Stable Version of Google Chrome
+
+A recent version of Google Chrome caused Aurora to crash frequently. Some users were directed to try Chrome Beta as a workaround. As of July 30, 2019 Google has updated their Stable version of Chrome, resolving this stability issue. While your choice of browser is a personal choice, we no longer suggest using Chrome Beta and encourage our users to move back to the Stable version for the best experience.
+What is Chrome Beta?
+Chrome Beta is one step ahead of the stable version, so it gets new features and enhancements first, however since it is a beta software (it is being tested), you may find weird behavior or crashes, etc.
+How to uninstall Chrome Beta
+Before uninstalling Chrome Beta make sure you're signed into Chrome with your Google account. This ensures your bookmarks, apps, and extension data will reappear when you download the browser again.For Windows:1. On your computer, close all Chrome windows and tabs.2. Click the Start menu Control Panel.3. Click Add or Remove Programs.4. Click Google Chrome.5. Click Remove.6. Click Uninstall.For Mac:1. Open the Application Folder in the Finder (if it doesn’t appear in the sidebar, go to the Menu Bar, open the “Go” menu, and select Applications in the list).2. Search for Google Chrome beta application by typing its name in the search field, and then drag it to the Trash (in the dock) to begin the uninstall process. Alternatively you can also click on the Google Chrome beta icon/folder and move it to the Trash by pressing command + delete or choosing the File and Move to Trash commands.
+How to Install the Stable Version of Chrome
+To install the latest stable version of Chrome please click this link.
+If you need additional assistance installing the stable version of Chrome or if you are having any issues please send an email to support@aurorasolar.com.
+For more information on updating google chrome please check out this article.
+ 

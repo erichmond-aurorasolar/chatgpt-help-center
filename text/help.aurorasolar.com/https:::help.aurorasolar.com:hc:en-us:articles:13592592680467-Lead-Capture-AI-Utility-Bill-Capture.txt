@@ -1,0 +1,10 @@
+Lead Capture AI: Utility Bill Capture
+
+From the Lead Capture AI experience, homeowners can directly upload their utility bills for teams to access in the Aurora application.
+After viewing their estimate and submitting their lead information, leads will have the option to “Complete their profile.” When selected, they’ll land on a page to upload a photo or file; they can upload multiple files.
+
+When a lead uploads a photo or file, those files are then associated with that lead in the Lead Overview page from the new Aurora application. Users can find the uploaded utility bills under the Energy Consumption section of the Lead Overview page.
+
+ 
+FAQ
+Can I deliver the utility bill via API?The utility bill is not supported in API at this time.

@@ -1,4 +1,0 @@
-6/29/2020 Release Notes
-
-
-Improvements to text editing in the proposal template design tool to allow for better control over text styles. 

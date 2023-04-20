@@ -1,0 +1,49 @@
+How to Draw Fire Pathways
+
+Overview
+Fire Access Pathways are required for most photovoltaic projects in the United States. Aurora’s Draw Fire Pathways feature allows you to easily draw fire pathways that meet the code requirements of your design’s jurisdiction.
+ 
+Note: Setbacks vs Fire PathwaysFire Pathways are meant to supplement rather than replace Setbacks. You can continue to use Setbacks, which will not change functionality at all. However, now Fire Pathways should be used to properly meet fire code requirements, whereas Setbacks can be used for installation needs (e.g. safety buffers or to accommodate an array skirt).
+Here is an example of a roof as it previously might have been designed with setbacks, compared to how it might look with setbacks as a safety buffer (yellow) and fire pathways (purple) to meet code requirements.
+   
+Overall there is more usable roof space and the flexibility to maximize the system productivity.
+How to Draw Fire Pathways
+There are two ways to insert fire pathways in Aurora. 
+
+
+Draw Fire Pathways, which allows users to manually insert fire pathways in their design, based on the identified AHJ and code year. 
+
+Auto Place Fire Pathways, will automatically place the pathways on the design. When there are no panels on the roof, Aurora will place the minimum set of pathways required by the international fire code of the project’s AHJ (which is set based on the location). When there are panels already on the roof, Aurora will account for the amount of available space covered by panels when placing the minimum set of pathways. The result will avoid panels when possible, but will place pathways over panels when necessary (e.g., if the panel is very close to a ridge). The overlapping panels will turn yellow to make it clear that they should be moved.
+
+1. Manual Draw Fire Pathways
+1. Access the Fire Pathways feature by clicking on the Fire Pathways button in the System section of the toolbar.
+
+The Fire Pathways inspector (on the far right side) will include the AHJ along with the Code year and the percentage of the building covered by panels. You can click on the AHJ name to access the AHJ Database. 
+A default value of 36 inches, the typical code requirement, will be set for the width, which you can modify as needed.
+2. Click anywhere on the roof to start drawing the pathway; then move your mouse and click to place the other endpoint. If you hover near any corner or edge, the cursor will snap to it for ease of use. If you are snapped to an edge when placing the first endpoint and move your mouse along the edge before clicking to place the other endpoint, the pathway itself will snap to the roof edge.
+
+3. When drawing a Fire Pathway along a ridge, hip, or valley of the roof, the pathway will split between the adjacent roof faces (half on each face). The inspector will display each width, which you can modify individually.
+
+Widths are independent of each other and can be edited independently. Note that Width 1 is always the most northern one. 
+4. Fire Pathways can be moved to a different location by clicking and dragging, which will maintain their orientation and total width.
+
+5. When two pathways intersect, they will meld for a clean look, but you can still edit them individually.
+6. When panels are placed over a Fire Pathway, they will turn yellow to draw attention to the overlap.
+
+This can be turned off in the View Settings Menu.
+
+7. You can click the DXF button and download a DXF with the Fire Pathways included as a distinct layer. 
+
+2. Auto Place Fire Pathways
+Note: To realize the full benefits of this feature, we encourage you to change your setback database (for jurisdictions that have adopted 2015 fire codes or later) to reflect only an installation cushion, rather than using them to meet fire code requirements.
+1. Access the Auto Place Fire Pathways feature by clicking on the Fire Pathways button in the System section of the toolbar. Select “Auto place fire pathways”.
+
+2. A modal will pop-up allowing users to verify the AHJ and code year as well as identify whether there are sprinklers on the roof (which could affect pathway requirements).
+
+Note: “Place Fire Pathways” will remove existing fire pathways and then place new ones. 
+3. The minimum fire pathways needed, based on the Code year for the project’s AHJ, will be placed on the design.
+
+5. The fire pathways can then be edited individually by clicking on the pathway and using the pathway inspector, and moved to a different location by clicking and dragging.
+6. When panels are placed over a pathway, they will turn yellow to draw attention to the overlap.
+
+7. You can download a DXF, which will include the pathways as a distinct layer.

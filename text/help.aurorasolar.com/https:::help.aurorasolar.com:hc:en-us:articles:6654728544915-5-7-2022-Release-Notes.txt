@@ -1,0 +1,14 @@
+5/7/2022 - Release Notes
+
+Features Added
+
+Lead Capture AI Settings - 
+
+Added the ability to choose to place the lead capture form before or after the results page. If they turn “Require user contact information to view results” off, the lead capture form will surface after the homeowner sees the results.
+Added the ability to turn savings estimates on the results page on or off for any given template. If checked off, the solar estimate results page will remove any financial savings estimates from the homeowner. It will show the system’s # of solar panels, hours of sunlight, and % energy offset.
+Added the ability to turn qualification questions on or off for any given template. Address and utility bill are always included, but turning this off will remove questions like age of roof, roof materials, etc.
+Added the ability to set an energy offset target (%) for Aurora’s AutoDesigner to optimize system designs to meet the configured target.
+
+
+
+ 

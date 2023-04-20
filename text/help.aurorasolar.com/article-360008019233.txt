@@ -1,5 +1,0 @@
-8/10/18 Release Notes
-
-
-Updated UI on the consumption page
-Moved the proposal and financing templates to 'Database' 

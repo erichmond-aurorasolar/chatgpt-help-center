@@ -1,0 +1,124 @@
+Sales Mode Customization
+
+Sales Mode has many customizable elements to help differentiate your proposal and create a unique sales experience for your team.
+Note: Only admin users are able to edit Sales Mode settings.
+ 
+In this article, we’ll break down each page of Sales Mode, highlighting all of the available customizations and how to make any adjustments. These include:
+
+Overview page
+Energy Usage page
+System Design page
+Storage page
+Environmental Impact page
+Financing page
+Bill Overview page
+Agreements page
+Custom pages
+Disclaimers
+
+ 
+Overview Page
+Customizations available on the Overview page:
+
+Background image
+Logo
+Disclaimers
+
+
+Background image – there are multiple default images available or you can upload your own. For more information, see Selecting an Overview Page Background Image.
+ 
+Logo – you can upload your company logo that will populate throughout Sales Mode and the Web Proposal. To do this, navigate to Settings > Organization General > Color and Logo. 
+
+Energy Usage Page
+Customizations available on the Energy Usage page:
+
+Project Lifespan (number of years)
+Utility Rate Escalation
+Disclaimers
+
+
+Project Lifespan – editing the project lifespan will update the Energy Usage chart to show the homeowners’ bill estimation for the selected number of years. To change this value, navigate to Settings > Financing > Project Life. 
+ 
+Utility Rate Escalation – editing the utility rate escalation will change how much the homeowners’ utility bill increases year-over-year. You are able to set a default rate for all projects or set a rate based on the project location. To change these values, navigate to Settings > Utility and tax rates > Utility Rate Escalation.
+
+System Design Page
+There are no presentation customizations available on the System Design page in Sales Mode, but you are able to set many system design settings that will affect actual PV system design and production estimates. 
+ 
+To edit these values, navigate to Settings > Sales Mode design and Performance simulations.
+
+Storage Page
+Customizations available on the Storage page:
+
+Turn on/off on a tenant level
+Battery cost
+Disclaimers
+
+
+Turn on/off on a tenant level – the Storage page will be enabled by default, but if you do not want to include it across your entire tenant, you are able to disable the page entirely. To do this, navigate to Settings > Sales Mode customization. Then select the Storage page, click Edit, toggle Show page off, and click Save.
+
+Battery cost – the cost for each battery is set to $0 by default, so admins will need to set the appropriate price for each battery model. To do this, navigate to Database > Batteries. Then select the desired battery model, click Edit, adjust the price, and click Save.
+
+ 
+Environmental Impact Page
+Customizations available on the Environmental Impact page:
+
+Turn on/off on a tenant level
+Disclaimers
+
+
+Turn on/off on a tenant level – the Environmental Impact page will be enabled by default, but if you do not want to include it across your entire tenant, you are able to disable the page entirely. To do this, navigate to Settings > Sales Mode customization. Then select the Environmental Impact page, click Edit, toggle Show page off, and click Save. 
+
+Financing Page
+Customizations available on the Financing page:
+
+Show/hide adders
+Adjust pricing page
+Disclaimers
+
+
+Show/hide adders – you can disable individual adders from being displayed on the Financing page in Sales Mode. To do this, select the adder under Database > Adders & discounts, then toggle “Is homeowner facing”.
+
+Adjust pricing page – there are many settings and configurations available to give you full control over your pricing method. For a detailed breakdown, see Pricing in New Aurora – Account Configuration. 
+
+Bill Overview Page
+Customizations available on the Bill Overview page:
+
+Project Lifespan (number of years)
+Show Financing on Bill Overview page
+Post-solar kWh
+Lifetime savings
+Disclaimer
+
+
+Project lifespan – editing the project lifespan will update the pre-solar total cost, post-solar savings, and Preview bills chart to reflect the selected number of years. To change this value, navigate to Settings > Financing > Project Life. 
+ 
+Show Financing on Bill Overview page – you can choose whether to show the Bill Overview page before OR after the Financing page. If shown before Financing (toggle turned off), the bill comparison will not reflect any loan selection since financing has not been defined yet. To do this, navigate to Settings > Pricing General > Bill Overview. If turned on, there are 2 additional configuration options:
+
+
+Post-solar kWh – turning this off will remove the post-solar kWh from the post-solar card on the Bill Overview page.
+
+
+Lifetime savings – turning this off will remove the lifetime savings from the post-solar card on the Bill Overview page. 
+
+
+
+ 
+Agreements Page
+Customizations available on the Agreements page: 
+
+
+Background Image - there are multiple default images available or you can upload your own. To do this, navigate to Settings > Sales Mode Customization. Then click Edit on the Agreements page to select the image.
+
+
+For more information on setting up custom documents, see Contract Manager Configuration Guide.
+
+Custom Pages
+A custom page can be inserted between any Sales Mode page except in front of the first page (Overview page) and after the last page (Agreements page).
+
+For instructions on adding custom pages in Sales Mode, see Adding pages to Sales Mode.
+Add pages to the Web Proposal
+
+Disclaimers
+Each page in Sales Mode and the Web Proposal has editable disclaimers. 
+For instructions on editing disclaimers, see Editing Disclaimers in Sales Mode. 
+ 

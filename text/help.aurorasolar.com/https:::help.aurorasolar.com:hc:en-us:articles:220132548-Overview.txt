@@ -1,0 +1,13 @@
+Overview
+
+Shading can have a significant impact on the performance of PV systems so shading analysis is an essential step in solar design. Shading on a roof can come from a variety of factors, including trees, roof obstructions, neighboring buildings and self-shading from other roof faces.
+Aurora gives you a number of tools to assess the solar potential of a site and to determine the impact of shading on system energy production.
+
+
+Irradiance Maps allow you to visualize the solar potential of a site and to get shade measurements remotely.
+
+
+The Shade Simulator lets you visualize shade cast by objects on the site.
+
+
+Learn more about our validated NREL Report which is allows you to save the time, cost, and hassle of a truck roll with every project you design!

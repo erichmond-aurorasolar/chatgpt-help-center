@@ -1,0 +1,46 @@
+User Management: Roles
+
+*Only admin users are able to manage and edit Roles. Roles in Aurora enable customers to manage and edit user permissions within the Aurora app. 
+ 
+Standard Roles
+Admins can select different types of standard roles in Aurora:
+
+
+Admin: Can see, modify, and change ownership of all projects. Can change account settings and templates. Only administrators are allowed to change a user’s permissions or initially set them upon inviting them.
+
+
+
+
+Team Member: Can see and modify all projects and leads and can assign/reassign any project in Aurora. Team members can’t change account settings or templates.
+
+
+
+
+Limited Team Member (Custom Plans Only): Can only see and modify their own projects and leads. Limited team members can’t change account settings or templates. Administrators can also determine if limited team members are restricted from editing the site model.
+
+
+In addition to standard roles, customers can create up to 4 custom roles with the Advanced Roles add-on. 
+Secure Mode for Limited Team Members
+Secure Mode is a setting supported for Limited Team Member roles; when enabled, Secure Mode restricts Limited Team Members from editing site models. In order to activate Secure Mode for Limited Team Members, you must turn on the setting from the Roles page under Limited Team Member.
+
+Assigning Users to Roles
+You can assign your users to Roles in a few ways:
+
+Assign the role at user creation
+Change role from the User page
+Bulk assign roles
+Assign via API
+
+Assign at User Creation
+When you create a new user from the Aurora app, you must select a role for that user. From the New user page under Settings, select the Role you’d like to assign for that user from the dropdown menu.
+
+Change Role from User Page
+You can also change a user’s role after user creation. From the Edit user page under Settings, select the Role you’d like to re-assign for that user from the dropdown menu.
+
+Bulk Assign Roles
+From the Users and Licenses page under Settings, admins can multi-select users and re-assign their roles in bulk.
+
+Simply select the users you’d like to reassign, and click “Change role” in the top right to select a new role assignment.
+
+Assign via API
+In addition to assigning roles through the Aurora app, Sync API users can assign roles when creating and updating users via the Users API. Read our technical documentation for more information.

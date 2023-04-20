@@ -1,7 +1,0 @@
-1/30/2020 Release Notes
-
-Features Added
-
-Added ability to limit access to the site model for limited team members (Enterprise accounts only)
-Improved multi-object copy/paste functionality in proposal templates
-Added minor performance simulation speed improvements

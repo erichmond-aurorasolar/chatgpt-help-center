@@ -1,9 +1,0 @@
-05/27/2021 Release Notes
-
- 
-Features Updated
-
-Added validation to 3D Modeling service requests submitted via the API to ensure latitude and longitude coordinates are valid. 
-Added fallback logic so that when a performance simulation using submodule simulation is tried but is not possible, the simulation engine will automatically fall back and complete the simulation without this feature being active. 
-
- 

@@ -1,0 +1,8 @@
+04/29/2021 Release Notes
+
+Issues Fixed
+
+Fixed an issue causing custom modules without physical dimensions from appearing on the roof face. 
+Fixed an issue causing CAD to become unresponsive when certain BOS components were connected together.
+
+ 

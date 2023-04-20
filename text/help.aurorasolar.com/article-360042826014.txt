@@ -1,6 +1,0 @@
-12/5/2019 Release Notes
-
-Features Added
-
-Added Solar Loans as a financing option
-added additional options for Fill Zone presets

@@ -1,4 +1,0 @@
-Setting Rectangular Obstruction Orientation
-
-When drawing in rectangular obstructions, make sure to initiate the obstruction drawing by clicking, holding and dragging within the roof surface.
-Avoid dragging the rectangular obstruction outside of the roof surface. This will change the orientation to line up with the satellite imagery rotation which may not be the same as the roof surface orientation.

@@ -1,0 +1,40 @@
+4. Create a Financing Option and Generate a Sales Proposal
+
+You can simulate almost any type of financial product in Aurora, including cash deals, loans, PPAs and lease products. We will go through a simple cash deal. Proposals for a project are filled in automatically from a Proposal Template. Aurora will provide you with a number of templates to start off with, and you can always create your own to better suit your clients.
+
+Financial Analysis
+
+
+Go to Pricing on the sidebar on the left and enter a cost per watt of $3.50. 
+
+Navigate to Financings on the design sidebar and click Add Financing. For this example we’ve selected the Residential Cash Template. (Please note cash is just one of the financing options).
+
+
+When done click on Run Analysis to perform your financial analysis.
+
+
+Creating a Proposal
+
+Navigate to the Documents section from the design sidebar and click New Proposal.
+
+Give your proposal a name, and select Aurora Becquerel template. Select the financing option you just created.
+Click Create.
+
+
+As you scroll down your proposal you will notice that it automatically populate charts, tables, and 3D visualizations from the project you have just created.
+Changing a Proposal
+Proposals are read-only, and to truly make changes to a proposal, you need to edit the Proposal Template that it was generated from and recreate your proposal. However, there are small customizations you can make to each proposal.
+
+Navigate to the 3D rendering on the fourth page and scroll on it to change the zoom of the image.
+Right click, hold, and drag the 3D model to change the camera angle.
+Right click on the 3D model to view additional display options. Check Satellite Imagery to overlay the satellite imagery.
+
+
+Exporting to PDF
+Your browser can convert Aurora proposals to PDF through its print dialog.
+
+Click on the Print button in the top right corner.
+In the print dialog, choose 'Save as PDF' where it asks you to choose a printer.
+
+
+Next: Generating Bankable Shade Reports

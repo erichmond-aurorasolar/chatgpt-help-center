@@ -1,0 +1,18 @@
+03/14/2022 - Release Notes
+
+Features Added
+
+
+Added an “Updates” Header to the Status column in the Project Index table: The new Updates column will show the status of an Expert Design Service request, as well as any contracts that have been sent. 
+
+Bulk-Delete and Bulk-Archive Projects: Customers can now bulk delete an bulk archive projects saving time an effort. It is important to note that deleted projects cannot be recovered, so use this feature with caution.
+
+"Project Name” added back in to New Project flow: You will now be able to enter a custom name for each new project you create within the existing project flow. 
+
+
+Features Updated
+
+Corrected an issue causing some obstructions to appear as a darker shade. 
+Corrected an issue that caused the utility rate details to not update if the default rate was changed to a custom rate and then back to a global Aurora rate.
+Corrected an issue causing Smartroof models to reach an invalid state when adding dormers. 
+Corrected an issue causing AC Modules (which include an integrated microinverter) to not correctly populate the 'AC System Size' proposal template placeholder. 

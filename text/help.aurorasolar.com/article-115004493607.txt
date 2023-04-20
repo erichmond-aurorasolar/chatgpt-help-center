@@ -1,9 +1,0 @@
-3/17 Release Notes
-
-
-Sped up design loading times. Improved the load times of large systems by 4-5x.
-Added ability to deselect components while holding down the Shift key.
-
-Streetview will now load the streetview image of where the green location marker is placed.
-Improved middle mouse click functionality while in rotate mode.
-Added shortcuts for lift roofs j and flatten roofs k in 3D mode.

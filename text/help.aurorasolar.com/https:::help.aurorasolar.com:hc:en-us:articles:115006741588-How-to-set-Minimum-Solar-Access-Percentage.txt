@@ -1,0 +1,23 @@
+How to set Minimum Solar Access Percentage
+
+Solar Access is a measure of the amount of sunlight lost due to shading during a certain time period.
+ 
+In order to set a Minimum Solar Access Percentage, you will first need to run the Irradiance Map in your System Design.
+         
+There are two different ways you can add the Minimum access Solar Percentage. The first, is through the Fill Roof Face tool for residential projects. 
+
+Click on Solar Panels in the right hand tool bar.
+
+Click Fill Roof Face.
+
+In the pop up box, adjust the percentage that you would like to set for the Minimum Solar Access Percentage. 
+
+The second way you can add in the Minimum Solar Access Percentage is through the Fill Zone tool for commercial projects. 
+
+Click Solar Panels in the right hand tool bar.
+Click  Fill Zone.
+
+Designate the zone you would like to fill by placing nodes to create a zone or by double clicking on the roof face you would like to fill.
+
+In the pop up menu that appears, adjust the solar access.
+

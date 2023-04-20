@@ -1,9 +1,0 @@
-How to move a block of modules
-
-To learn how to add modules to a design, check out how-to steps here.
-There are two different ways to select multiple panels in Aurora:
-
-By default, your cursor is in Box Select mode. Simply click, hold and drag over the modules you would like to adjust the placement on.
-
-Hold down the Shift key while clicking multiple panels to highlight them. This will also work to deselect panels.
-

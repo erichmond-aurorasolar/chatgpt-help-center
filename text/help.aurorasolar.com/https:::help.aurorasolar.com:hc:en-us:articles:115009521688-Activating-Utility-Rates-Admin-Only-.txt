@@ -1,0 +1,12 @@
+Activating Utility Rates (Admin Only)
+
+         
+
+Click on the Database section (third icon from top) of your Aurora account.
+
+Click on Utilities on the left. Use the search bar at the top right of the page to search for the utility companies you use. Make sure to search by the utility company's full name, not its acronym.
+
+Click on the + next to the Utility Names you would like to use.
+Click on the Utility Name to open up the rate page. Then click on the "+" next to the utility rates.
+Once selected, you will see a Green Checkpoint appear to the left of the Utility Name and Rate.
+

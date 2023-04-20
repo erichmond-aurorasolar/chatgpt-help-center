@@ -1,0 +1,8 @@
+11/17/17 Release Notes
+
+
+Added Tutorial for all users. Tutorial button is located on the project page. 
+Updated stringing rules for SolarEdge Australian optimizers.
+Fixed issue with uploading custom csv files for the interval data on the consumption page. 
+Added tooltips for financing templates.
+Added ability to create up to 12 periods for custom utility rates.

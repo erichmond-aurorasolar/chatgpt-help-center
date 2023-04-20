@@ -1,0 +1,23 @@
+Pre-existing Nearmap Users: Linking your Nearmap Account to Use in Aurora
+
+Step 1: Contact Aurora support and ask us to turn on the integration
+Please have your account administrator email support@aurorasolar.com from their work email with the subject line "Enable my Nearmap Account Integration". Once we turn this on, your account admin will have access to the Integrations section in Step 4 below. 
+Step 2: Create a new API application for use with Aurora
+We recommend that you create a new API application for use with Aurora.  You will be creating this API application in Nearmap's admin portal. Make sure to follow the instructions below, with the following settings:
+
+Do not enable any IP restrictions
+ In your referrer restrictions, we recommend that you put https://app.aurorasolar.com/
+
+Here is the link to NearMap's documentation. 
+Step 3: Obtain a Nearmap API Key
+Follow Nearmap’s instructions for obtaining or creating an API Key and copy the API key.
+Step 4: Insert the API Key into Aurora
+Go to Settings -> Integrations and click on Nearmap. Paste your API key into the text box and hit Save to enable the integration. Please note you need to be an administrator to see the Integrations page.
+
+We will save your API key in an encrypted format and use it to get Nearmap imagery in Aurora, on your behalf. You can disable the integration at any time in the same Settings -> Integrations menu.
+Please note, if you have the API integration enabled, you should NOT purchase Nearmap credits in the “On-Demand Services” section. You will not be able to use these credits while the integration is enabled.
+Step 5: Using Nearmap in Aurora after linking your account
+In the site model, you can use Nearmap imagery by hitting the “HD” icon in the image settings toolbar or by hitting “Get HD Imagery” in the dropdown. This will open a screen where you can choose what imagery to use.
+
+Near the bottom, you should see “Nearmap Integration Enabled.” Please note you will be billed directly to your Nearmap account. 
+If you don't have a Pre-existing Nearmap account, use this guide instead to use Nearmap in your Aurora account. 

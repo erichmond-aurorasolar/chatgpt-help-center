@@ -1,0 +1,240 @@
+Keyboard Shortcuts (System Design)
+
+Aurora provides the following keyboard shortcuts in Design page. You can speed up your workflow significantly by learning these shortcuts. 
+
+
+
+
+General Hotkeys
+
+ 
+
+
+
+ctrl + S
+⌘ + S  (Mac)
+
+Save
+
+
+
+ctrl + Z
+⌘ + Z  (Mac)
+
+Undo
+
+
+
+ctrl+ Y
+⌘ + Y  (Mac)
+
+Redo
+
+
+
+ctrl + C
+⌘ + C(Mac)
+
+Copy
+
+
+
+ctrl+ V
+⌘ + V  (Mac)
+
+Paste
+
+
+
+ 
+
+
+
+
+
+Design Hotkeys
+
+ 
+
+
+
+Middle Mouse Button (hold) or Spacebar (hold) + Left-click
+
+Pan
+
+
+
+Hold Right-click and move cursor left/right
+
+Rotate
+
+
+
+Hold Right-click and move cursor up/down
+
+3D View
+
+
+
+shift + 1
+
+Focus on all
+
+
+
+shift + 2
+
+Focus on selection
+
+
+
+
+
+
+
+
+R
+
+SmartRoof
+
+
+
+Q
+
+Draw Polygon Obstruction
+
+
+
+W
+
+Draw Rectangle Obstruction
+
+
+
+E
+
+Draw Circle Obstruction
+
+
+
+T
+
+Draw Tree
+
+
+
+L
+
+Activate LIDAR
+
+
+
+G
+
+Show/Hide Map
+
+
+
+M
+
+Add Modules
+
+
+
+P
+
+Add Ground Mount/Carport
+
+
+
+V
+
+Add Inverter
+
+
+
+B
+
+Add Combiner Box
+
+
+
+C
+
+String/Connect
+
+
+
+H
+
+View/Hide System Components
+
+
+
+A
+
+Auto-Designer
+
+
+
+K
+
+Add Walkway (commercial only)
+
+
+
+Z
+
+Add Fill Zone (commercial only)
+
+
+ 
+ 
+
+
+
+Proposal Tool 
+ 
+
+
+
+T
+
+Textbox
+
+
+
+U
+
+3D Unified View
+
+
+
+I
+
+Insert Image
+
+
+
+L
+
+Insert Logo
+
+
+
+Related Articles:
+Keyboard Shortcuts (Proposals)
+
+
+Keyboard Shortcuts (3D System Design)
+ 
+
+Tips and Tricks
+
+Hit the esc key to exit a mode. For example if you are in Draw Roof mode and want to add an obstruction.
+Left-click on an object to view to its specification menu on the right. Press the delete key to remove the object.
+Double-click on a roof to enter edit mode.
+Click and drag to select multiple components.
+
+To rotate components, click and drag the arrows to the right. You can also double-click on a module to rotate 90 degrees.
+

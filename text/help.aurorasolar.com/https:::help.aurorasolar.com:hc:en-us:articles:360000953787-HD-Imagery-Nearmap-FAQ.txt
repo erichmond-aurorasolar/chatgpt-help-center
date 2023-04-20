@@ -1,0 +1,26 @@
+HD Imagery (Nearmap) FAQ
+
+How do I get started with HD Imagery in Aurora?
+Check out Using HD Imagery: A Quickstart Guide
+How long do my bundles last? 
+Bundles expire one year from the date of purchase.
+Is Nearmap available outside the US? 
+Yes! Nearmap is currently available in the US, Canada, Australia, and New Zealand.
+
+
+
+
+Several updates per year
+ At least one update per year
+
+
+
+
+How do I request new areas? 
+Please email support@aurorasolar.com with your request.
+What is the specification of the Nearmap Orthos?
+Nearmap imagery is delivered in WGS84 Web Mercator (EPSG 3857). It is captured at 3” resolution and has a horizontal accuracy of .75 RMSEx or y.
+Why is the imagery shifting between different vintages?
+When changing between dates homes may shift causing the imagery to move underneath drafting work that has already been completed. This is normal given slight changes in orthorectification between surveys. For additional support please contact Nearmap Support.
+Why are Nearmap tiles / imagery loading slowly?
+If Nearmap tiles / imagery are loading slowly, then the most likely reason is a poor internet connection. Please check your internet connection speed and ensure it is robust. You may also have too many applications running, or too many tabs open in your browser that are affecting Nearmap performance. Close other applications and browser tabs and give it another shot. 

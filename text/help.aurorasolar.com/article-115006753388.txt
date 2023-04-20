@@ -1,4 +1,0 @@
-What is the difference between the Orange and Yellow Bars in the Consumption Profile?
-
-In your Consumption Profile, the orange bars will symbolize the amount of energy being consumed. The yellow bars will symbolize the bill value for that month.
- 

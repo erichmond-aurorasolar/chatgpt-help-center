@@ -1,0 +1,26 @@
+How to Create Custom Financing Products
+
+What is a Financing Product?
+A Financing Product is a template that the account administrator can create to model a financing option like a loan, PPA, or lease. Financing Products are used in Projects to pre-fill the required fields for a financing option. It is important for the account administrator to correctly set up the account's financing products in order to ensure accurate financial calculations.
+ 
+How to Access Financing Products
+To access your Financing Products, navigate to the Database section of your account and select Financing Products:
+
+ 
+Financing Products are organized by Name, Project Type (Residential or Commercial) and Product Type. The product types able to be modeled in Aurora are loan, lease, and PPA (Power Purchase Agreement).
+ 
+Each Financing Product can be made accessible or inaccessible by your team, by using the green toggles to the left of each Product. To view only the products that have been toggled on, click "Enabled for My Team". To view all products, click "All Financing Products".
+ 
+How to Create a Custom Financing Product
+Aurora makes it easier than ever to create custom loans, leases, and PPAs. To get started, click "Add Financing Product" at the top-right corner of the page, give it a name, select whether it applies to Residential or Commercial Projects, and what Financing Type it will be:
+
+ 
+In this example, we're creating a loan. Click "Add Loan", adjust the loan properties, and click "Save".
+ 
+
+ 
+That's it! You've created your first Financing Product in Aurora. For more detailed information on loan modeling, check out these articles from our Help Center:
+Loan Modeling Overview
+Solar-Style Loans (In-Depth)
+ 
+ 

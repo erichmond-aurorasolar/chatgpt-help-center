@@ -1,0 +1,30 @@
+Storage Incentives 
+
+ 
+Overview: Storage-related incentive programs available to the general public are increasing rapidly in the US and Canada. Common incentive programs include the following: Storage Demand Response: Also known as “BYOB” or “Bring your own Battery” incentives. These incentives are typically offered by utility companies to customers in exchange for the ability to tap that customer's batteries in times of high grid load. Typically, a customer will need to sign an agreement to participate and have their batteries connected to the grid at all times, for a number of years.  In return, they’ll be guaranteed a yearly payment of a number of dollars per kW (output power) per year of connected battery power rating for the same term.Enrollment: Some BYOB programs require customer-installed batteries to be from an approved list. Others require enrollment in a particular electricity rate tariff. Most programs have a min/max battery bank size for participation. If you plan to attempt to enroll in one of these programs, check utility company documentation to make sure you qualify. Additionally, some programs have disqualification clauses where if an attempt is made to draw power from a battery bank and is unable to do so (due to connection issues) more than a small number of times, the incentive ends.Examples:
+
+NV Energy’s "powershift" Residential Energy Storage Incentives
+
+Green Mountain Power’s “Bring Your Own Device” program 
+
+
+ 
+Storage System Size Incentives:These incentives are given out by either Utility Companies or Government Mandates to encourage the adoption of storage in their areas. The payout for these incentives is a single lump sum and can be based on either battery capacity (measured in kWh) or battery output power (measured in kW). Typically, no long-term commitment is required to qualify for an incentive like this. The incentive giving body may have other qualification requirements, such as requiring users to install batteries from an approved list, or that the user also install other energy-efficient home upgrades to qualify for the incentive.If this incentive comes from a governmental body, it may come in the form of a Tax Credit instead of a direct cash payment. 
+Examples:
+
+
+Hawai’ian Electric “Battery Bonus” program
+
+
+The State of Maryland’s Energy Storage Income Tax Credit Program
+
+
+Storage SGIP Incentives: 
+The “Self Generation Incentive Program”  is a variant of the Storage System Size Incentive offered by the State of California with a different tapering-off structure. Payout is based on kWh battery capacity. Special bonus rates are given to users in low-income communities or in areas with significant grid stability issues.
+
+
+More Info can be found on the CPUC’s website.
+
+
+Current SGIP incentive values can be found through the SelfGenCa website.
+

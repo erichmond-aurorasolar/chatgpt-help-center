@@ -1,0 +1,13 @@
+6/17/2022 - Release Notes
+
+Features Added
+
+A new discovery widget option for Lead Capture AI enables customers to place a floating bar at the top or bottom of any webpage, offering marketing teams an easy-to-implement call-to-action to drive more conversions.
+New UTM parameters delivered via JavaScript event listeners enables marketers to deliver key event tracking information to their analytics tools for insights and optimizations.
+Module and Inverter manufacturer is now automatically sent over to Mosaic during financing applications, saving the user time and data entry.
+New Aurora users are now able to export hourly production data in a CSV file from the downloads drop-down in Design mode. 
+Customers utilizing the Design API can now specify a minimum and maximum roof face azimuth (in degrees, where 0 is north and 180 is south) upon which panels are allowed to be placed. This gives you more control over customizing your output, but is not necessary to produce an optimal system (i.e., Energy Mode will already avoid placing panels on shaded faces).
+
+Features Updated
+
+The all new navigation bar moves key menu items out of the typical settings dropdown and into the left hand navigation bar allowing users to move more seamlessly between projects, systems settings, and the database. 

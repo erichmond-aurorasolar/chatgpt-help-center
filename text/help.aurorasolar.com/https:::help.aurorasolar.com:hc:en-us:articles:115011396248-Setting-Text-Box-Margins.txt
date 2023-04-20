@@ -1,0 +1,4 @@
+Setting Text Box Margins
+
+
+Right click on the text box and edit the margins. You can edit the unit of measure (imperial, metric) in your account settings.

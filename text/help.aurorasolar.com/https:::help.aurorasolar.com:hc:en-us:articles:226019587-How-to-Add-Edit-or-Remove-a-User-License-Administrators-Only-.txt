@@ -1,0 +1,71 @@
+How to Add, Edit or Remove a User License (Administrators Only) 
+
+Adding/Inviting New User:
+
+On the top right hand corner, click on your name then on Settings in the drop down menu. 
+
+On the left hand side click Users and Licenses.
+Next, click on Add User.
+Fill out the first name, last name, and email (phone number and title fields are optional).
+Select a license. 
+
+Click "Invite".
+
+
+Deleting a User:
+
+Find the target user in the users list.
+Click on the action menu (ellipsis) at the right of the users list row.
+Click on "Delete".
+Click on "Confirm".
+
+Changing a user's properties
+
+Find the target user in the users list.
+Click on user, their properties will be shown in side-bar on right.
+Change desired property in side-bar.
+
+The change will be auto-saved in a few seconds. Navigating away from the page will notify you of unsaved changes.
+Administrators may now make other users tenant administrators without Customer Success contact.
+
+Temporarily "deactivating" a user
+
+Find the target user in the users list.
+Click on user, their properties will be shown in side-bar on right.
+Change their license to "Inactive" in the "License" drop-down.
+
+Note that you cannot do this to yourself (so as to not lose access).
+
+Once the change is auto-saved, the user will lose access to Aurora.
+Re-assigning a user license
+
+Find the target user in the users list.
+Click on user, their properties will be shown in side-bar on right.
+Change their license to another license in the "License" drop-down.
+Once the change is auto-saved, the user will gain or lose permissions associated with the license change.
+
+Adding a license
+
+Click on "Edit Licenses".
+Press "+" or type in the new number of licenses for a given license type.
+Examine the license change list and summary to confirm your expectations.
+Press "Confirm".
+
+If the license addition succeeds, you'll be sent back to the users list.
+If the license addition fails, an error will be shown.
+
+Removing a license
+
+Click on "Edit Licenses".
+Press "-" or type in the new number of licenses for a given license type.
+
+If no licenses are available for removal, an error will be shown asking you to un-assign a license from a user before trying again.
+
+Examine the license change list and summary to confirm your expectations.
+Press "Confirm".
+
+If the license removal succeeds, you'll be sent back to the users list.
+
+If the license removal fails, an error will be shown.
+
+

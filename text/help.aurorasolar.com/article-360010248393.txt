@@ -1,8 +1,0 @@
-10/05/2018 Release Notes 
-
-
-Modified and speed up fill zone labels - labels are now always visible. They will automatically fade out if the label collides with other labels. Edge labels are now always visible in ortho view.
-
-Improved proposal text box usability - Left clicking on the text of a text box will allow you to edit the text. User can now drag the text box by clicking on a location that has no text.
-
-Added a new commercial template called “Aurora - Commercial Template 2”

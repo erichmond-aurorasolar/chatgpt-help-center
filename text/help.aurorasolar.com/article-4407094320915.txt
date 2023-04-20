@@ -1,5 +1,0 @@
-8/19/2021 Release Notes
-
-Features Updated
-
-Corrected an issue causing some Huawei Inverters to incorrectly force the use of a Huawei DC Optimizer.

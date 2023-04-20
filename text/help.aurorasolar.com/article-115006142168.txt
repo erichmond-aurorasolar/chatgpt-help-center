@@ -1,7 +1,0 @@
-How can I show incentives in my proposal?
-
-
-You can add incentives by including different placeholders within your proposal templates. For more information on how to add placeholders, please refer to the article Placeholders
-
-You can also add Performance Based Incentives (PBIs) to your cashflow table. Click on Chart -> Cashflow Table. Then right click on the table. Under Columns click on the Show More tab and check PBI.
-

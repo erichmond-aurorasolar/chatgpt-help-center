@@ -1,0 +1,18 @@
+Inverters
+
+Opening an inverter in your Database section allows you to see the properties of that inverter, including its electrical, temperature, and mechanical characteristics. This information is generally pulled from inverter datasheets. You can also enter pricing information for modules.
+Starring
+To use an inverter in a design, you must star it in your Database section. To do this, click the star directly to the left of the inverter's name. The icon will turn yellow, indicating the inverter has successfully been starred.
+Check out how to Activate your Utilities here. 
+Custom Inverters
+When you create a new inverter in your Database section, you must enter in all the data necessary for Aurora to use that inverter in a simulation. Click the pencil icon next to each data field to enter a value for that parameter. You can find the values of most of these parameters in the manufacturer’s datasheet; Aurora does not recommend using any other source of this information. The following parameters must be provided to run a performance simulation:
+
+Rated Power
+At least one of {Max. Efficiency, European Efficiency, CEC Efficiency}
+Whether or not the component is a microinverter (check the box if so)
+Number of DC Inputs
+Number of MPPTs
+
+Other values, such as the min and max input voltages and max input current, are necessary to perform NEC validation checks on a design.
+The “Global MPPT” field for custom inverters is not editable. Global MPPT refers to whether or not the inverter is able to periodically sweep the full IV curve of the solar array to find the global maximum power point, which can have a significant impact on energy production for arrays under partial shading with activated bypass diodes. Because this behavior can drastically affect the simulation results, Aurora only allows Global MPPT for inverters we have confirmed have this functionality with the manufacturer.
+It is also important to note that Aurora does not simulate the full efficiency curve of an inverter defined as a custom component. Simulating the efficiency curve requires extra experimental test data from the California Energy Commission (CEC). Many inverters in Aurora’s global component database have this data, and so for those we do simulate the full efficiency curve as a function of input power and voltage. You can always check whether a simulation used an efficiency curve or a fixed efficiency value in the simulation logs.

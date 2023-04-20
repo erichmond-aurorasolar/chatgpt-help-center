@@ -1,6 +1,0 @@
-11/3/17 Release Notes
-
-
-Smooth meshes for LIDAR
-Fixed google imagery in design screenshot
-Fixed proposal financing selection

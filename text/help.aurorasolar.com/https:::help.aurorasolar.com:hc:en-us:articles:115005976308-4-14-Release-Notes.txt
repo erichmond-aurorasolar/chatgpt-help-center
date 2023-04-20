@@ -1,0 +1,16 @@
+4/14 Release Notes
+
+
+Released new module layout methodology featuring module to module snapping
+
+Updated Projects and Database pages navigation
+Added validation error messages to the Autodesigner modal
+Resolved an issue when deleting multiple nodes 
+Resolved an issue in deleting line items in pricing section
+Resolved an issue in the CSV file downloads where items were not lined up correctly due to commas
+Resolved an issue where an obstruction may 'jump' when panning with the middle mouse button
+
+ 
+ 
+ 
+ 

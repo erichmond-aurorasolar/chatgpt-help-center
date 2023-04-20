@@ -1,0 +1,14 @@
+Adding Modules in Sales Mode
+
+
+With a model that you’ve created through Aurora AI, our Expert Design Services, or one that you’ve manually created in Design Mode, now you can go ahead and design the system. To get started, click on the solar panel icon in the left hand menu.
+
+Select the module you’d like to use, the orientation of the modules, and even add in a Filler Row which adds an alternate orientation above or below the arrays if there’s any available space. Then click Place.
+ 
+
+Aurora will max-fit the modules on your site model based on the global settings that have been set by your account admins – while avoiding any obstructions or setbacks.
+Tap to turn on or off a single module, double tap to turn on or off the entire array, or tap and drag to select multiple modules. Notice that changing the layout adjusts the offset in real-time.
+When you feel good about the design, you can click on Finalize to run a more accurate production simulation. 
+
+ 
+If you’d like to make any adjustments to the entire layout, you can click on the solar panel icon again to remove the panels, or select a different module or orientation, then click Update to redesign the system.

@@ -1,0 +1,106 @@
+How to Customize Pages and Questions in Lead Capture AI
+
+Custom pages for Lead Capture AI offer more control over the flow and content of your Lead Capture AI for homeowners, based on your business needs.
+Note: Only admin users are able to view and edit Lead Capture AI templates.
+ 
+
+ 
+From the Lead Capture AI Templates page under your Settings, you can edit and manage all of your Lead Capture AI templates (see more in Lead Capture AI: Templates). To do so, navigate to the Lead Capture AI page or question that you’d like to edit, and click Edit under the ellipses on the right for each page.
+
+ 
+In this article, we’ll cover:
+
+Available Page Customizations
+Creating Custom Questions
+Frequently Asked Questions
+
+ 
+Available Page Customizations
+Customizations are available for the following pages in Lead Capture AI:
+
+Landing Page
+Address page
+Questions
+Profile Complete
+Post Results
+
+Contact Form Page
+Utility Bill Capture
+
+
+Contact Form Page
+Contact Form Filled (Post Results)
+
+Landing Page: This is the first page homeowners see when they land on the Lead Capture AI experience. You can customize image, title text, and description text.
+
+Address page: This is a required page for leads to enter their address. You can customize the image.
+
+Utility Bill Estimate: This is a required page for leads to enter their monthly utility bill estimate. You can customize the image.
+
+ 
+Questions: There are different types of questions available for Lead Capture AI:
+
+
+Qualifier: These are questions that can automatically disqualify homeowners from receiving a 3D estimate.
+
+
+Required for 3D model: These questions are required for Lead Capture AI to generate a 3D estimate. No customizations are available.
+
+
+Other: These are questions to gather additional data from homeowners to help you better qualify the lead.
+
+
+For Qualifier and Other question types, you can choose to show or hide these questions. To add or edit these questions, see the Creating Custom Questions section of this article.
+Profile Complete: If you choose to display the lead contact form after the 3D estimate results, this page lets homeowners know they’ve finished the questions and can move forward to view their 3D estimate. You can customize the title, subtitle, and primary button text on this page.
+
+If you choose to display the lead contact form before the 3D estimate results, this field will not appear in your template.
+Loading page: These pages will show while Lead Capture AI is producing the lead’s estimate. By default, the pages show tips and benefits of going solar. You can change the Header and Message for five (5) pages.
+
+Results: This page shows the homeowner the 3D estimate and savings. You can choose to show/hide the savings amount ($), and customize the title and CTA button.
+
+Post Results - Contact form: This page allows the homeowner to provide their contact information to learn more. You can customize the image and disclaimer information. Hyperlinks can be included in the disclaimer using standard HTML notation in order to provide links to a privacy page, TCPA compliance page, etc. You can also choose to display this form before or after the 3D estimate.
+
+Post Results - Add utility bill: This page allows the lead to upload a utility bill to their profile (learn more in Lead Capture AI: Utility Bill Capture). You can choose to hide this page.
+Final page: This page surfaces after the lead submits their information. You can customize the Title, Subtitle, CTA copy, and CTA link.
+
+Error Pages: These pages are end states if a lead is either (1) Disqualified ( because of a disqualification question) or (2) Generic error (the AI model failed to run). 
+For Disqualified, you can customize the CTA copy and hyperlink. This page will appear for disqualifications from any of the disqualification questions you set.
+
+For Generic error, you can customize the image, title, subtitle, CTA text, and CTA hyperlink.
+
+ 
+Creating Custom Questions
+
+To create your qualification questions, follow these steps:
+1. Select or create a new Template. 
+2. Navigate to the Pages tab and select “Add question” in the top right.
+3. Feature image: Select or upload a feature image for your question.
+JPG, PNG, and WebP formats accepted. For best results, use an image with a height of 1024 px, landscape orientation, and an aspect ratio between 3:4 and 5:7. Images under 1MB are recommended for best performance.
+4. Image alt text: Include a description to support your site’s accessibility and SEO optimization.
+5. Question: Type your question here.
+6. Answer format: Select a question type:
+
+
+
+
+
+Dropdown
+Radio group
+Multi Select
+
+
+
+
+
+7. Answers: Type in up to 6 different response options for the question.
+Disqualifier: Check this box for any given response option if you’d like the lead to be automatically routed as disqualified. In these cases, they will receive an end page and will not be counted toward your contracted leads.
+
+8. Show skip button: Toggle this on to show the “Skip” button in your Lead Capture AI experience.
+9. Show question: Toggle this to show this question in your Lead Capture AI experience.
+10. Click Save.
+After you click Save, you must publish your template for the changes to go into effect. From there, you can toggle on/off questions and edit your custom pages from the template page.
+ 
+Frequently Asked Questions
+Can I customize the disqualification page?Yes, users can customize the CTA copy and hyperlink for the disqualification page, when a lead submits a response that is considered a “disqualifier.” There is one general disqualification page for all disqualified leads, regardless of what question they were disqualified on.
+If a lead is disqualified, will I still get their information in my system?This is possible. By customizing the CTA copy and hyperlink for the disqualification page, users can set the CTA to redirect to a generic web form, so that they can still capture the lead’s information. In these cases, Aurora does not charge for these leads.
+Is this supported by the Lead API?Any lead’s questions and responses can only be accessed via the Lead Overview page in the Aurora application, and is not supported by the Leads API at this time.

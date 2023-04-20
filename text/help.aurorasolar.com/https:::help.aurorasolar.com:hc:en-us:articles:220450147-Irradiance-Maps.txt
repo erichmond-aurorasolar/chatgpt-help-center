@@ -1,0 +1,12 @@
+Irradiance Maps
+
+Aurora's irradiance maps allow you to get remote irradiance and shade readings for your site.
+Once you have modeled your site, you can run an irradiance map. To run an irradiance map, click the Irradiance button in the top toolbar (or press i).  After picking up the job, Aurora's servers will simulate the sun's path for every daylight-hour of the year and calculate the irradiance and the solar access percentage across all roofs in your site.
+To generate the map, Aurora samples 4 points per m2 (approximately 4 points per ft2) and interpolates to determine values for the points in between (irradiance and solar access typically vary gradually across a site, so there isn't any significant inaccuracy introduced by the interpolation).
+
+Once the irradiance map is generated, you can hover across it to get insolation (amount of incident solar energy in kWh) and shade readings (solar access, TOF and TSRF in %). In addition to providing these readings, the color scale of the irradiance map also gives you a visual sense of which locations in the site have the highest solar potential and is therefore very useful to guide your design.
+TOF or Tilt and Orientation Factor is the solar insolation of the actual tilt and orientation divided by the solar insolation at the optimum tilt and orientation. TSRF or Total Solar Resource Fraction is the ratio of insolation available accounting for both shading and TOF, compared to the total insolation available at a given location at the optimum tilt and orientation and with no shading.
+Aurora will give you annual shade readings when you move your mouse across the site. If you would like to see monthly values, expand the irradiance menu in the bottom right corner.
+
+It is usually helpful to run an irradiance map first thing after creating a design, in order to determine the roof faces with the highest solar potential and to identify roof areas that experience shading and could thus negatively impact system performance.
+ 

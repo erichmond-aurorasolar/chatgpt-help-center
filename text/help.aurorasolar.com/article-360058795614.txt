@@ -1,4 +1,0 @@
-10/22/2020 Release Notes
-
-
-Updated warning messages for the Storage configuration page. 

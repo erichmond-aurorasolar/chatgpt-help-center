@@ -1,0 +1,12 @@
+Irradiance on Panels
+
+Overview:
+Aurora now allows you to view Irradiance values on panels. This panel irradiance values take into account shading from obstructions, trees, and nearby panels.
+Once you've placed your panels click Irradiance in the top menu.
+
+If you remove panels or make any adjustments to your design click Irradiance to re-run.
+
+Hover your cursor over the panels and the bottom right menu will now specify the Solar Access and Irradiance values for the panels. If you wish to view these values for the roof move your cursor in between the panels. 
+
+ 
+ 

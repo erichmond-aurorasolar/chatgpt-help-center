@@ -1,0 +1,212 @@
+Contract Manager Configuration Guide
+
+Table of Contents
+Introduction
+Who can use Contract Manager
+Configuration Overview
+What you'll need
+Create a new Template
+Merge Fields - Options & Definitions
+Add CC'd Recipient Roles to a New Contract Template
+Tips, Tricks & Best Practices
+Testing
+ 
+Introduction - What is Contract Manager?
+Contract Manager is an add-on product in New Aurora that allows solar sales reps to easily generate deal documents, with project details automatically populated from Sales Mode. They can then send out documents to homeowners for their e-signature. This enables sales teams to speed up their sales cycle, reduce errors, and boost their win rate by closing deals on the first meeting - all within Sales Mode.
+Contract Manager Demo Video
+ 
+Who Is Eligible to Use Aurora's Contract Manager
+Contract Manager is available to all residential solar companies in the US on a Custom account plan.  If you are interested in adding Contract Manager to your custom Aurora account plan, please reach out to support@aurorasolar.com.
+ 
+Configuring Contract Manager in your Aurora Account:
+The following steps can only be taken once you've purchased Contract Manager and it is enabled for your account by your Onboarding or Customer Success Manager.  
+Please note that only account Administrators can make these changes.
+ 
+What you'll need:
+Please note that the 6 items below cannot be changed after you save your template without creating a new template from scratch.
+
+PDF(s) of your Sales Agreement(s) 
+Template Name(s)
+Email Name (From)
+Email Subject Text
+Email Body Text
+Established Signature Order 
+Additional cc'd Recipient Roles
+
+Create a New Template
+Log into your Aurora account and navigate to Settings > Sales Agreements.  Click on “New Template” to begin configuring a new Sales Agreement template.
+
+
+
+Step 1: Name your template - Give your template a name that will be easily distinguishable. Then click “Next”.
+
+
+Step 2: Upload Sales Agreement PDF.  Then click “Next". You can add as many PDFs to your template as you'd like to create an "Agreement Packet". 
+
+
+Step 3: Choose Auto-fill Fields - Click “Select All” for each section to enable all Auto-Fill Fields as an option for your configuration.  Then click “Next”.
+
+
+Step 4: Set up Email Message - Determine the generic email name, subject, and body of this template that will go out with each contract envelope. Then click “Next”. 
+
+
+Step 5: Edit and Save Template - Then click “Next”. 
+
+
+Step 6: Designate signer roles or “actors” who are touching the document in some way.
+
+
+Note that signer roles cannot be changed after the sales agreement has been saved!  Only one signer role can be left blank when sending a sales agreement (otherwise Aurora sees two blanks as duplicate entries) so be sure to limit the number of roles created in the template when possible.
+
+
+
+
+
+
+ 
+
+Merge Fields - Options and Definitions
+
+Drag and drop the appropriate fields onto the template until all necessary fields have a merge field. 
+
+
+All Merge Fields 
+Sender merge field options that pull from the Aurora design are shown in pink below.  For other commonly requested fields that are not an option from Sender, please see configuration suggestions below or use an open text field. 
+ 
+PROJECT
+
+
+Customer Address - Address of the project in Aurora
+
+
+Customer Phone # - Phone number entered in the Customer details in Aurora project
+
+Customer Email - Use Homeowner role fields and this will auto fill when you designate the individuals who will receive the agreement. 
+Customer Name - Use Homeowner role fields and this will auto fill when you designate the individuals who will receive the agreement. 
+
+CONSUMPTION
+
+Utility Name
+Utility Rate Name
+
+DESIGN (SYSTEM SIZE)
+
+
+System Size STC - # of panels x wattage of panels (W) **This is likely what you’ll want to input on contracts and is what will be displayed in Aurora for system size**
+
+
+System Size AC - size of the system based on the inverter efficiency
+
+
+System Size PTC - rating of a panel based on what it actually produces 
+
+
+System Cost w/ Storage - This will be the total system cost and best bet to use for the template since it will pull in total system cost whether or not the project has storage. 
+
+
+DESIGN (ARRAYS)
+
+Optimizer Name
+Optimizer Manufacturer Name
+Optimizer Count
+
+Inverter Manufacturer Name
+
+Note: If using Sales Mode with Aurora AI to generate designs, inverters will not automatically be part of the system design, therefore inverters would need to be manually added in Design Mode for them to be available to pull into Contract Manager. 
+Another option if you don't want to manually add/string inverters in Design Mode is to have the inverter fields in Contract Manager be open text fields for the sales rep to complete.
+
+
+Inverter Name
+Inverter Count
+Module Manufacturer Name
+Module Name
+Module Count
+Ground mount Manufacturer
+Ground mount Name
+Ground mount Count
+
+DESIGN (SHADING)
+
+SAP
+TSRF
+
+DESIGN (ENERGY PRODUCTION)
+
+Annual Production
+Annual Offset
+
+DESIGN (PRICING)
+
+Price per Watt
+Incentives
+Estimated value of ITC
+Adders 
+System Cost Less Storage 
+System Cost With Storage
+System Cost less incentives - Use an open text field for the Sales Rep to complete
+Cumulative Value of Incentives
+
+FINANCING
+
+Financing Name
+Financing Option
+Discount Rate
+Useful Project Life
+Degradation Factor
+Lifetime Savings
+
+FINANCING (LOAN)
+
+Loan Principal
+Down Payment 
+
+Monthly Payment First Month – **Monthly Payment merge field works best for a mortgage style loan with no buy-down, otherwise use an open text field. 
+
+Principal Percentage
+Interest Rate
+Duration (Months) - Loan duration in months (will only display the number value)
+
+STORAGE
+
+Battery Manufacturer
+Battery Name
+Battery Count 
+
+MISC
+
+
+Date of Transaction - Apply the Homeowner as the actor and input the Signed Date field.
+
+
+Other Merge Fields
+
+Add CC'd Recipient Roles to a New Contract Template
+As the last step before completing a new document template under the Review and save section, you now have the option to add CC recipient role(s). Here you can write the role for who needs to receive a copy (ie. “Sales Manager” or “Second Homeowner”), or create a general recipient (ie. “CC Recipient 1”). You will only enter in the email when creating the document in Contract Manager.
+*NOTE: You can only add CC recipients during the creation of a new document template. 
+*NOTE: You can add a max of 5 CC recipients to a single document template.
+*NOTE: You are not able to add more CC recipients than you have allotted while creating the document template – so add at least 1 more recipient than you think you’ll need, just in case.
+
+When you are done adding in CC recipients, click Save template to make it available to the rest of the organization.
+ 
+Using CC in Contract Manager
+Once your document template has been properly configured with CC recipients, select the appropriate template in Contract Manager.You will now see the fields to enter a CC recipient’s email under the signer fields. Enter the emails for whoever needs to be included, then click Continue.
+*NOTE: You do not need to fill out every CC recipient field! Only the signers’ names and emails are required to create a contract. CC recipient fields left blank will simply not be included when the contract is sent – this is why it’s better to have more CC fields available than not having enough.
+ 
+Tips, Tricks, & Best Practices
+
+
+Required checkbox fields (one or the other) - Use the Radio buttons option 
+
+
+CC & BCC -This is not currently an option in Contract Manager, but if you add additional “actors” on the document for the individuals who need to be cc’d or bcc’d, then you can add an optional Checkbox or some other merge field in the doc, so that they still receive a copy of the agreement. 
+
+Sent contracts can only be downloaded and viewed once all parties have signed. 
+
+ 
+ 
+Testing
+It’s a good idea to test out the document templates on a few training projects before going live.  To do this, you can add yourself as the recipient and send out a completed agreement to ensure all of the fields will populate correctly for the homeowner.
+ 
+ 
+ 
+ 

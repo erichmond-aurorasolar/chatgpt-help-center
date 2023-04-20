@@ -1,8 +1,0 @@
-Making Text Boxes in Proposal Templates Editable
-
-Most of the time you want to create a fixed proposal template, with very limited editing ability in an actual proposal. That makes generating a proposal a simple exercise- just select your template and all the formatting and data is automatically generated for you. However sometimes you might want to have the flexibility to change data in the proposal itself. This is how to make your text box editable:
-
-After creating your textbox right click to access its settings.
-Click on the Editable option.
-
-

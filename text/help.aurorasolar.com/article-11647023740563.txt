@@ -1,6 +1,0 @@
-Webhooks Dashboard
-
-Aurora uses webhooks to notify your applications when an event occurs in your tenant.
-A webhook is a single message sent by Aurora to your application's webhook subscription URL. A webhook contains payload in path parameters and, optionally, authentication information in the headers. A webhook subscription is a persisted data object that you can create, update, delete, and test using the Webhooks dashboard or via API. For more details, see the Webhooks section in Aurora API docs.
- 
-

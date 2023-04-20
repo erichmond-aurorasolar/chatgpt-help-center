@@ -1,8 +1,0 @@
-7/21/18 Release Notes
-
-
-Updated Financing UI
-Defaulted 'pricing type' to cost/watt
-Added currencies for: Thailand, Israel, and Philippines
-Added more specific error messages for consumption uploads
-Added more specific messages for electrical warnings/errors

@@ -1,0 +1,4 @@
+Flat Rate
+
+This article shows an example of how a custom flat rate.You will not need to add any tiers or periods. Modify the rate to the appropriate value. The value should include the generation, transmission, distribution, and other costs (based on kWh). For fixed costs, input a value in the 'Fixed Monthly Charge' section. You will not need to modify the weekday/weekend schedule. Leave all of the values at 1. This will correspond to period 1 which in this example is set to 15 cents per kWh. Remember to click on the Validate button at the bottom of the page when you are done configuring your custom rate.
+

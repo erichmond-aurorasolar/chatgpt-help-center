@@ -1,0 +1,218 @@
+Application Settings
+
+Aurora's Application Settings can be accessed by clicking on the left hand global navigation menu and selecting the gear icon for "Settings":
+
+These settings will be used as the default settings for all newly created Projects, although most can be adjusted within the Project/Design itself.
+ 
+Table of Contents
+Sales Mode Design Settings
+Financing Settings
+Utility and Tax Rate Settings
+Performance Simulations
+Sales Mode Customization
+ 
+Sales Mode Design Settings
+Row Spacing
+
+
+Panel Orientation Landscape - Default row spacing of panels in landscape mode.
+
+Panel Orientation Portrait - Default row spacing of panels in portrait mode.
+
+Autodesigner Settings
+
+
+Column Spacing - The spacing of columns for pitched roof faces.
+
+
+Row Spacing - The spacing of rows for pitched roof faces.
+
+
+Panel Tilt Degree - The tilt of panels relative to the roof surface for pitched roofs, in degrees.
+
+
+Flat Face Orientations - Toggle between portrait, landscape, or both. This setting will determine the orientation at which Autodesigner will place panels on flat roof faces.
+
+
+Flat Face Panel Tilt Degree - The tilt of panels relative to the roof surface for flat roofs, in degrees.
+
+
+Flat Face Row Spacing - The Y axis spacing for flat roof faces.
+
+
+Flat Face Column Spacing - The X axis spacing for flat roof faces.
+
+
+Pitched Face Tilt Threshold Degree - The threshold, in degrees, for considering a roof to be flat or pitched. 
+
+
+SAP Min - The minimum Solar Access Percentage to place panels on, expressed as a percentage. Autodesigner will place panels on any area of a given roof surface that has a SAP higher than the percentage entered here, provided that it also meets the TSRF min. Solar Access is a popular way of accounting for shading in solar PV systems. You can read more about Solar Access in this article.
+
+TSRF Min - The minimum Total Solar Resource Fraction to place panels on, expressed as a percentage. Autodesigner will place panels on any area of a given roof surface that has a TSRF higher than the percentage entered here, provided that it also meets the SAP min. TSRF is a helpful metric in determining whether a particular location is good for solar, factoring in shading considerations as well as the Tilt and Orientation Factor (TOF). You can read more about TSRF and TOF in this article.
+
+Ground Mount Settings
+
+
+Column - The default number of columns for a ground mount installation.
+
+
+Column Limit Min - The minimum allowed number of columns for a ground mount installation.
+
+
+Column Limit Max - The maximum allowed number of columns for a ground mount installation
+
+
+Height - The default height for a ground mount installation. This is based on the lowest point on the panel. 
+
+
+Height Limit Min - The minimum allowed height for a ground mount installation.
+
+
+Height Limit Max - The maximum allowed height for a ground mount installation.
+
+
+Intermodule Spacing X - the default spacing between modules on the X-axis for a ground mount installation.
+
+
+Intermodule Spacing Y - the default spacing between modules on the Y-axis for a ground mount installation.
+
+
+Orientation Default - The default panel orientation for a ground mount installation. Toggle between Portrait and Landscape.
+
+
+Rotation - The default rotation for a ground mount installation, in degrees. 
+
+
+Rows Limit Min - The minimum number of rows allowed for a ground mount installation.
+
+
+Rows Limit Max - The maximum number of rows allowed for a ground mount installation.
+
+
+Row Spacing - The default spacing between rows for a ground mount installation.
+
+
+String Rows - Toggle on/off. This setting changes the default for whether or not to automatically string rows in a ground mount installation.
+
+
+Tilt - The default tilt for a ground mount installation, in degrees.
+
+
+Tilt Limit Min - The minimum tilt allowed for a ground mount. 
+
+
+Tilt Limit Max - The maximum tilt allowed for a ground mount installation, in degrees.
+
+Azimuth - The default azimuth for a ground mount installation, in degrees.
+
+Financing Settings
+Project Life
+
+Project Life - The expected life of the project in years. This determines the length of the financial analysis.
+
+Electricity Rate
+
+Utility Bill Savings/Feed-In Tariffs are Taxed? - Check this box if utility bill savings or feed-in tariffs are taxed as revenue.
+
+System and Maintenance
+
+
+Degradation - How much less the system will produce each year due to equipment degradation, set as a percentage per year.
+
+
+Inverter Replacement Cost - The cost of replacing the inverter (per watt of rated AC Power)
+
+Inverter Life - The expected number of years until the inverter needs to be replaced.
+
+Discount Rate
+
+Discount Rate - The interest rate used to compare future cashflows to present cashflows. You can learn more about the Discount Rate here. 
+
+Operation and Maintenance (Commercial Only)
+
+
+Fixed O&M Cost - The estimated fixed operations and maintenance costs associated with the system based off the size of the system, expressed as dollars per kW per year.
+
+
+Variable O&M Cost - The estimated variable operations and maintenance costs associated with the system, expressed as dollars per kWh.
+
+
+O&M Cost Inflation - The assumed annual increase in O&M costs due to inflation, expressed as a percentage per year.
+
+Tax Deductible? Check this box if the Operation and Maintenance Costs are tax deductible.
+
+Depreciation (Commercial Only) 
+For Commercial Projects, users are able to factor both National and Local Depreciation into the financial simulations. You can read more about Depreciation in this Help Center article.
+
+
+National Depreciation - The reduction in value of an asset over time for national tax and accounting purposes. Here you have the ability to toggle between MACRS and Straight Line options at different yearly increments, as well as the option to include Bonus Depreciation at 50% or 100%.
+
+Local Depreciation - The reduction in value of an asset over time for local tax and accounting purposes. Here you have the ability to toggle between MACRS and Straight Line options at different yearly increments, as well as the option to include Bonus Depreciation at 50% or 100%.
+
+Project Template Settings
+Utility Rate Escalation
+
+
+Set a default rate for all projects - Expressed as a percentage increase per year, this will be the default rate if there is no rate set for the location.
+
+Set a rate based on location - For projects in selected locations, the location rate will overwrite the default rate. At this time, locations can be created for US states and Canadian provinces.
+
+Tax Rates
+Here you can enter default marginal national (federal) and local (state) tax rates, which will be used in estimating changes to the customer’s tax liabilities. There are several implications to tax requirements from a solar project, which you can read about in our Help Center.
+
+National (Federal) Tax Rate - Expressed as a percentage per year
+Local (State) Tax Rate - Expressed as a percentage per year
+
+ 
+Performance Simulation Settings
+These settings will be used as the default settings within Sales Mode, although they can be adjusted on a per-Design basis within Design Mode.
+ 
+General
+
+
+Simulation Engine - Toggle between Auto, Aurora, or PVWatts simulation engine options. Auto will default to Aurora's engine as long as the panels are connected to an inverter. 
+
+
+PVWatts simulation engine is used by default in all Aurora AI generated system designs and does not require inverters or strung systems in order to run performance simulations.  
+
+Aurora simulation engine requires inverters and a strung system, and is a bit more on the conservative side for production estimates. 
+
+
+
+
+
+
+Shading Engine - Toggle the Aurora shading on/off. When the Shading Engine option is checked, Aurora determines the incident irradiance on each module, taking into account shading from trees, buildings and roof obstructions in the site. By varying the IV characteristics of each module based on its incident irradiance, Aurora can accurately simulate the effect of shading on the system.
+
+
+Use Horizon Shading? - Toggle on/off. Horizon shading helps you account for shade caused by the terrain around your project site, such as faraway hills and mountains. You can learn more about Horizon Shading here.
+
+Use LIDAR Shading? - Toggle on/off. LIDAR shading is a new feature exclusive to Sales Mode AI, which will draw the shading profile directly from the LIDAR data, without the need to add trees to the Design.
+
+Aurora
+
+
+Irradiance Model - Set the default irradiance model used in the Aurora Simulation Engine (Perez, Hay Davies, or Reindl).
+
+
+Inverter Clipping - Toggle on/off. Inverter clipping occurs when the DC input power of an inverter exceeds the inverter's AC power rating. It is normal to slightly oversize the DC array relative to the inverter, but if this DC-to-AC ratio is too high, a significant amount of generated energy will be lost. Aurora's performance simulation report indicates how much energy is lost due to clipping, leaving it up to the user to resize their design if desired.
+
+Use Submodule Simulation if Available - Toggle on/off. When enabled, Aurora will create an equivalent circuit for every cell string in the design, where a cell string is a series connection of solar cells inside a module that has a parallel bypass diode. This is the finest level of granularity available for solar energy production simulation, offering the best simulation accuracy. Submodule simulation is only supported for modules where Aurora has verified the internal cell string configuration and bypass diode connections with the manufacturer and for inverters that support global maximum power point tracking. You can learn more about Submodule Simulation here.
+
+PVWatts
+
+
+Inverter Efficiency - This field will set the default inverter efficiency percentage for when the PVWatts simulation engine is used. This can be adjusted within a specific Design under the Simulation Settings.
+
+
+DC-to-AC Ratio - This field will set the default DC-to-AC Ratio when using the PVWatts simulation engine. You can learn more about DC-to-AC Ratio in our blog article on Choosing the Right Size Solar Inverter.
+
+Weather Dataset - Specifies which weather dataset Aurora will use by default when using the PVWatts simulation engine.
+
+System Losses
+Each of these fields will set the default system losses for all newly created Projects. Each of these losses are defined in detail in our Help Center article on System Losses.
+ 
+Sales Mode Customization
+Sales Mode Customization features allow Aurora users to customize their sales experience by adding custom pages, videos, and more to Aurora's Sales Mode.
+Click here to learn more about Sales Mode Customization.
+ 

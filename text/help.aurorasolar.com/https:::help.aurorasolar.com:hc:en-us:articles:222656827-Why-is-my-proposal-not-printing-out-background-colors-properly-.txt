@@ -1,0 +1,9 @@
+Why is my proposal not printing out background colors properly?
+
+In the print preview box, there is an option called Background graphics. Check that box to print your proposal with background colors.
+Print dialogue box:
+
+Select Background graphics:
+
+ 
+ 

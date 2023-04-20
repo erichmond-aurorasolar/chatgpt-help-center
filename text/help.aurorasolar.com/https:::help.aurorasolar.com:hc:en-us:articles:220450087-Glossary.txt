@@ -1,0 +1,37 @@
+Glossary
+
+Remuneration schemes
+Net Energy Metering (Tiered / TOU)
+A “billing mechanism that credits [clients] for the electricity they add to the grid… [clients] are only billed for their ‘net’ energy use” - SEIA.
+
+If the electricity you generate plus any existing credits on your account is equal to or greater than what you consume, then you will receive the minimum monthly charge only on your bill.
+
+Bill = minimum monthly charge.
+
+If the electricity you generate, plus any existing credits on your account is less than what you consume, then you will be billed for the difference between what you use and what you feed into the grid.
+
+Bill = minimum monthly charge + consumption – (production + rollover credits).
+
+
+With tiered rates, the per kWh price of electricity varies based on the cumulative amount of energy the client has consumed in that day or month. For example, the first 100 kWh in a month may be cheaper than the next 100 kWh, etc.
+With Time of Use (TOU) rates the per kWh price of electricity varies based on the time of day, or day of the year, the energy is consumed. For example, energy consumed at night may be cheaper than that consumed during the day.
+When the ‘Tiered/TOU’ option is selected, the cumulative net amount of energy the client has used in a day and month, and the time of day the energy has been consumed, are evaluated to determine the appropriate per kWh cost of energy used to perform financial calculations.
+Net Energy Metering (Flat Rate)
+
+If ‘NEM (Flat Rate)’ is selected, Aurora will assume that energy costs the same irrespective of when it is consumed or produced, or how much energy the client has used in a month, when performing financial calculations.
+
+Feed-in Tariff (FIT)
+
+A project’s energy production is sold to the grid at pre-agreed prices.
+If FIT is selected, the cash flow of the project is the amount of energy produced multiplied by the relevant FIT rate. There is no concept of savings since the client’s energy consumption is not used for financial analysis. The charts will change accordingly – there will be no “bill before solar” chart since that is not part of the cash flow analysis.
+
+Lease
+
+A project lessee (home or building owner) pays the lessor (project owner) a specific dollar amount for the energy produce by the solar installation.
+
+Power Purchase Agreement (PPA)
+
+A project lessee (home or building owner) pays the project owner (lessor) a specific price per kilowatt hour for each unit of electricity their solar system generates.
+
+Leases and PPAs are often subject to an annual escalator.
+Placeholders

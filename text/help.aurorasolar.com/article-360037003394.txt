@@ -1,5 +1,0 @@
-10/17/2019 Release Notes
-
-Features Added
-
-The ability to see "panel coverage area" using the face inspector.  The panel coverage area will be displayed as a percentage and as square footage values in the building face characteristics. 

@@ -1,5 +1,0 @@
-9/30/2021 - Release Notes
-
-Features Updated
-
-Corrected an issue where some line-item pricing for some BOS components would sometimes revert to $0 after saving. 

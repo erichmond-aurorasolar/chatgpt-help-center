@@ -1,0 +1,15 @@
+AutoDesigner: Savings Mode
+
+
+Within your Design, click on AutoDesigner in the toolbar (it's located in the top right).
+
+Select the mode: Savings
+
+Input a dollar per month savings target and set the post-solar rate.
+Select your components (by clicking on Select).
+Select the panel orientation and the price basis (optional).
+Click on Run.
+You can change the post-solar rate by clicking on Change.You can change the selected components by clicking on Edit.
+
+ 
+

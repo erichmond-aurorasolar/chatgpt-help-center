@@ -1,0 +1,12 @@
+1/24/2022 - Release Notes
+
+Features Added
+
+
+Cost Per Watt Toggle: Users can now toggle whether or not to show the design's price per watt on the System Summary header in the Sales Mode Financing page
+
+Sales Mode Background Image Customization: Users now have the ability to change the background image on the Welcome page of Sales Mode. They can select from 6 different images from the Sales Mode customization page in Settings.
+
+
+Sales Mode Disclaimer Customization: Users now have the ability to edit the disclaimers that appear at the bottom of each page in Sales Mode and Web Proposal.
+

@@ -1,2 +1,0 @@
-Part 3. Generate a 3D Model, Analyze Shading, Add In and Adjust Modules
-

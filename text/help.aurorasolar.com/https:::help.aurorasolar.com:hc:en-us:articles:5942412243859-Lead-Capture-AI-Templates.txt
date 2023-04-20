@@ -1,0 +1,149 @@
+Lead Capture AI Templates
+
+Templates for Lead Capture AI empower businesses to customize their web experience to optimize for leads. Users can manage their configurations from within the Aurora app.
+Note: Only admin users are able to view and edit Lead Capture AI templates.
+View Settings for Lead Capture AI
+
+
+Navigate to Settings
+Under “Application”, click on “Lead Capture AI”
+
+Lead Capture AI Templates
+From the Lead Capture AI application settings page, users will find a list of Lead Capture AI templates, including each template’s Org ID and API Key. From this page, users can:
+
+Create a new template
+Edit an existing template
+Delete an existing template
+
+Create a new Lead Capture AI Template
+
+Click “New Template” on the top right of the screen and give it a name. After saving you can customize your template with the settings below.
+ 
+General
+The General settings manage your template information and system design preferences.
+
+Click “Edit” to enter edit mode.
+
+Fill in Template Information
+
+Template Name
+Description (optional)
+
+
+Fill in Branding
+
+Logo file
+
+Will be displayed on a white background
+SVG, PNG, JPG accepted
+Keep file size less than 250KB for best performance
+
+
+
+Set 3D Model Preferences
+
+
+Offset Target: This field limits the number of panels placed on the roof based on the customer's average monthly usage. The maximum offset target a user can set is 150%.
+
+A higher target will result in more panels if space is available. For example, if the target is set to 90% and we estimate 1000kWh of usage based on the customer's utility bill, the system will attempt to place enough panels to offset 900kWh.
+
+
+
+
+ 
+
+Panel Azimuth Range: Defines the range of roof plane azimuths that are eligible for panel placement. For example, if a range of 60° to 300° is set then roof planes between those two headings on the compass may receive panels but any planes facing in a northerly direction will not.
+
+
+Show savings estimate: Determines whether a customer can see estimated savings on the results page (Yes/No).
+
+Savings period: Determines total savings over the selected period. You can select anywhere within 5-25 years.
+Utility rate escalation: Determines the annual utility rate increase per year. This will help determine approximate savings over time.
+
+
+
+
+
+ 
+Service Region
+
+The Service Region settings enable you to set serviceable regions by state and/or zip code; when a lead submits an address that is outside of the serviceable region, they will be automatically disqualified. 
+
+To allow addresses from anywhere, leave the field blank.
+Regions are added by using the search box and selecting one of the autocomplete options
+Upon selection, the search will be reset and the selected option added to the list below
+To remove a region, use the X button next to that specific region.
+
+ 
+Pages
+
+The Pages settings manage the text, images, and questions you show to homeowners when Lead Capture AI is implemented on your site.  To learn about available customizations, see Lead Capture AI Page Customization.
+
+
+
+Landing Page: This is the first page homeowners see when they land on the Lead Capture AI experience.
+
+
+Qualifiers: These are questions that can automatically disqualify homeowners from receiving a 3D estimate. You can choose to show or hide these questions
+
+
+
+To add a question, see Lead Capture AI Page Customization.
+
+
+
+Required for 3D model: These questions are required for Lead Capture AI to generate a 3D estimate.
+
+
+
+
+
+Other: These are questions to gather additional data from homeowners to help you better qualify the lead. You can choose to show or hide these questions.
+
+
+
+
+
+
+To add a question, see Lead Capture AI Page Customization.
+
+
+
+Profile complete: If you choose to display the lead contact form after the 3D estimate results, this page lets homeowners know they’ve finished the questions and can move forward to view their 3D estimate.
+
+
+
+If you choose to display the lead contact form before the 3D estimate results, this field will not appear in your template.
+
+
+
+
+
+
+Results: This page shows the homeowner the 3D estimate and savings.
+
+
+
+
+Contact Form Page: This page allows the homeowner to provide their contact information to learn more. You can choose to display this form before or after the 3D estimate.
+
+
+The Contact Form Page requests: First Name, Last Name, Phone Number, and Email.
+
+
+Post Results: This page allows the homeowner to continue to upload a photo or document of their utility bill for you to view in the Aurora app.
+
+
+The Inactive section of the Pages settings shows the questions that have been hidden from the homeowner.
+ 
+Implementation
+The Implementation Settings shows you the Org ID and Zapier API Key for implementation on your site and across your systems. You’ll also find links to our API documentation and Help Center.
+To learn about the technical implementation for Lead Capture AI, navigate to our Lead Capture AI technical docs here.
+ 
+FAQ
+Is there a limit to the number of templates I can create?
+At this time, Lead Capture AI customers can create an unlimited number of templates.
+How much customization can be made to Lead Capture AI?
+Lead Capture AI customers are able to customize the questions and select pages in the Lead Capture AI experience. To learn more, see our Help Center Article: How to Customize Pages and Questions in Lead Capture AI.
+If a lead submits their address outside of my service region, will I still receive that lead’s information?
+No, if a lead submits an address outside of your defined service region, they will be automatically disqualified and their information will not be stored. They will also not count against your contracted leads.

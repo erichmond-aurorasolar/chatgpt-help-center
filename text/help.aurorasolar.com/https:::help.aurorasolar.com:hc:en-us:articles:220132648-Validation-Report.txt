@@ -1,0 +1,50 @@
+Validation Report
+
+Aurora's error checks your designs to ensure it does not violate any electrical and mechanical constraints and follows the solar-relevant rules of the National Electric Code (NEC), as well as industry best-practices. If you have a Premium license, you can run this error check by clicking Run Design Validation at the top of the CAD view in System Design.
+
+Aurora will then run through dozens of checks in the following categories:
+DC
+
+String Sizing
+
+
+Modules must be strung - Aurora checks to see that all panels in your design are strung.
+
+Minimum possible string - Aurora checks that the string voltage is greater than the inverter's minimum input voltage. The software uses the average high temperature for the project location. 
+
+Maximum possible string - Aurora checks that the string voltage is less than the inverter's max input voltage. The software uses the historical low temperature for the project location.
+
+Maximum NEC-Adjusted input current - Aurora checks to see that the input current (multiplied by a safety factor of 1.25) is less than the inverter's maximum input current
+
+Inverter Power
+
+Maximum possible input power - Aurora checks that the maximum possible input power is less than the inverter's output power.
+
+Invalid Connection
+
+Aurora checks that all optimizers in a string must be the same 
+
+
+AC
+
+Overcurrent Protection Device Sizing
+
+Aurora checks the maximum possible NEC-adjusted continuous output current of the microinverter(s) is less than or equal to the trunk cable ampacity of 20A
+
+Invalid Connection
+
+Aurora checks that all microinverters that are strung together are the same type
+
+
+Mechanical
+
+
+Module overlap: Ensures that modules don't overlap
+
+Setbacks: Ensures that modules respect setbacks
+
+
+ 
+Any errors will be listed in the validation report. You can also click on the link given within the error report and it will direct you to the errors within your system design.
+ 
+ 

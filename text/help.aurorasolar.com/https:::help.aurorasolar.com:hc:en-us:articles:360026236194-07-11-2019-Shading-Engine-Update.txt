@@ -1,0 +1,25 @@
+07/11/2019- Shading Engine Update
+
+Overview: Aurora is constantly striving to make its simulations more accurate. On July 11th, 2019, Aurora Solar introduced improvements to the diffuse irradiance models that will affect performance simulations. 
+Namely, Aurora has fine-tuned its computation of the shading due to sky diffuse, ground-reflected, and circumsolar irradiance.
+For more information on the irradiance models Aurora uses, check out our past blog posts on irradiance.
+What is Diffuse Irradiance? The irradiance models that Aurora uses account for both direct and diffuse forms of irradiance. Though direct beam irradiance is the most intense form of irradiance, it actually plays a backseat role to diffuse irradiance on overcast days and in other suboptimal conditions. 
+There are four total forms of diffuse irradiance that Aurora computes, all of which are essential to Aurora’s industry-leading energy performance simulations.
+The four types of diffuse irradiance:
+
+
+Sky: an isotropic glow across the entire sky due to the scattering of sunlight through the atmosphere—it’s responsible for the bulk of the light on overcast days.
+
+
+Circumsolar: also sunlight scattered through the atmosphere, but at small angles, making it more intense than conventional sky diffuse irradiance—it’s the glow visible around the sun.
+
+
+Horizon brightening/dimming: sunlight scattered through the portion of the atmosphere near the horizon. It often differs in intensity from the sunlight scattered through the rest of the atmosphere due to the effective thickness of the atmosphere at low angles.
+
+
+Ground-reflected: light from the sun that scatters & reflects off the ground before reaching the panels.
+
+
+ 
+
+For more information on the irradiance models Aurora uses, we encourage you to check out our past blog posts on irradiance.

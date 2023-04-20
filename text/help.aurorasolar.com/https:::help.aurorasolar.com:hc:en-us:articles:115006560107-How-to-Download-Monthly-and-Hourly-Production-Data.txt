@@ -1,0 +1,9 @@
+How to Download Monthly and Hourly Production Data
+
+
+In your Performance Simulation, click on the Settings gear.
+
+In the pop up menu, click Export.
+
+Choose Monthly or Hourly then click the download button.
+

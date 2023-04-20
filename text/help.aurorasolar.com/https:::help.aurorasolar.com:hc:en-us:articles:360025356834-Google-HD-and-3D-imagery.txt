@@ -1,0 +1,33 @@
+Google HD and 3D imagery
+
+Aurora is proud to announce our new partnership with Google, granting unprecedented HD imagery access to all our customers and an expanded map of 3D imagery to our Premium customers!
+ 
+HD Imagery by Google
+Now all Aurora customers will have access to a new high-definition source of satellite imagery for designs--Google's HD imagery.  Where available, the new HD images will display by default, allowing you to design with unprecedented accuracy.
+
+
+
+
+
+
+
+
+Standard Google Satellite Image
+
+
+Google HD Image
+
+
+
+
+ 
+Standard Google imagery and Bing imagery will still be available to you under the imagery dropdown, as well as Nearmap HD for a nominal fee.
+
+ 
+LIDAR by Google
+For our Premium users, Google 3D will expand the coverage map of our existing LIDAR data, unlocking LIDAR benefits to a wider range of sites in the US and opening LIDAR to select areas internationally.
+
+ *International Google 3D data shows approximate location 
+Simply load LIDAR, and Aurora will select Google 3D or Aurora LIDAR automatically, based on coverage area.
+ 
+To view or switch your data source, just go to LIDAR settings.

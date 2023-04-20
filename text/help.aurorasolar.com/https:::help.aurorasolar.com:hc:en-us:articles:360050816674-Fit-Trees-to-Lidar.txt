@@ -1,0 +1,9 @@
+Fit Trees to Lidar
+
+Our new Fit Trees to LIDAR feature eliminates guesswork and saves you time when adding trees to your project by intelligently adjusting the height trees to match Aurora's LIDAR data. 
+ 
+When a new tree is added, Aurora will automatically look for LIDAR data points in that location and adjust the Tree Height and Crown Height. 
+Please be aware that if LIDAR has not finished downloading or is not available, then you will need to manually adjust the height of the tree(s) added or click the Fit to LIDAR button in the tree inspector once it finishes downloading. Also, if the height of the tree is adjusted, and then the tree shape is changed (cone to sphere, sphere to cone) then the tree will fit to LIDAR again and the height adjustment is overwritten. 
+You are still able to copy and paste trees, however the copied tress will not automatically fit to LIDAR. Use these keyboard shortcuts to copy and paste trees: Mac - Copy:Command +  C             Paste:Command + V PC - Copy:Control +  C          Paste:Control + V
+To learn more about trees, please click here. 
+To learn more about LIDAR, please click here.

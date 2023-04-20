@@ -1,0 +1,6 @@
+6/23 Release Notes
+
+
+Added database index page that shows selected components and utility providers
+Added live module search in dropdown menu in system design (learn more here) 
+Updated non-bypassable charge calculation to utility billing

@@ -1,9 +1,0 @@
-Changing Units of Measurement (New Aurora)
-
-To change the unit of metric measurement associated with your account and projects, please follow these easy steps:
-
-Navigate to the Settings > General
-Click on 'Units' and change units from 'Imperial' to 'Metric'
-Change the unit of temperature from C to F as needed.
-
- 

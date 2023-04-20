@@ -1,5 +1,0 @@
-4/27/18 Release Notes
-
-
-Improved fit to LIDAR
-Enabled Bing imagery for basic subscribers

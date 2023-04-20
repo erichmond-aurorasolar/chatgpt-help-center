@@ -1,0 +1,30 @@
+How to Use GPS Coordinates or Plus Codes as Your Address in Aurora
+
+If you are experiencing difficulties loading the correct address in Aurora, you can easily find the location using one of two other options:
+
+Latitude and longitude coordinates
+Plus Codes
+
+ 
+Using Latitude / Longitude Coordinates
+Find Lat/Long Coordinates in Google Maps
+To begin, go to Google Maps and locate the project. Once you have found the correct project location, right-click on your mouse and select, "What's Here?". The coordinates of the location will then show up on the bottom of the screen.
+Coordinates must be entered in the following decimal format, for example (34.138, -84.301), into the address bar. Ensure that you are entering coordinates accordingly for Aurora to pinpoint your location accurately. 
+The GIF below shows how to generate the coordinates. 
+ 
+
+ 
+Use Lat/Long Coordinates in Aurora
+Once you have copied or written down the coordinates, go to your Aurora Project page. Click "Create New Project", and input the coordinates for the location. Once the coordinates are entered correctly, click "Create". Aurora will generate imagery directly above the coordinates and you will be ready to design.
+ 
+
+ 
+Using Plus Codes
+Generate a Plus Code
+To generate a Plus Code for a given street address, go to https://plus.codes/map and enter the street address you are looking for. 
+
+You will see a little red box highlighting the given address that you've entered along with a Plus Code now visible at the bottom of your window. 
+Enter Plus Code as Project Address in New Aurora
+You can now use this Plus Code (for example: CR8V+G5 Stanford, CA, USA) as the project address in Aurora. 
+
+ 

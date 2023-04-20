@@ -1,0 +1,4 @@
+04/12/19 Release Notes
+
+Features Added•Status of 3D modeling requests can now be viewed on the Projects page.
+Features updated• AC/DC ratios in AutoString tool will no longer round to the tenth decimal place.

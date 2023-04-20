@@ -1,6 +1,0 @@
-07/25/2019-Release Notes
-
-As of 07/25/2019, Aurora has made the following feature improvements:
-
-Banner ad: We've introduced a banner ad in-app that encourages customers to use our new CAD tool.
-Auto-Designer Updates: We have made general updates to the auto-designer to perform quicker.

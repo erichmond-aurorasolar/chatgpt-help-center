@@ -1,0 +1,26 @@
+8/4 Release Notes
+
+
+Added speed ups for irradiance simulations
+Added special cases for Solaredge inverter sizing
+Added additional tests for validation report
+
+Checks all inverters are connected to at least 1 string
+Checks all strings that are connected to the same inverter's mppt have same voltage
+
+
+Removed 'Quick Search' text from the project's page search bar
+Revamped utility/rate/version selection throughout the app
+
+This allows you to search for a Utility and add it to your database within a project without going to the Database to select first. 
+
+This also applies to System Design when adding in modules, inverters, DC Optimizers, and Balance of System components.
+
+
+
+
+Added tool tips to the System Loss Diagram under Performance Simulations. 
+
+A description has been added to each loss item- hover your cursor over the name to view.
+
+

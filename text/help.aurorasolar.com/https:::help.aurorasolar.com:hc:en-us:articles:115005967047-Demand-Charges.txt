@@ -1,0 +1,36 @@
+Demand Charges
+
+What are Demand Charges?
+A demand charge is a fee that makes up a significant portion of a commercial or industrial utility rate cost. These charges can also apply to residential customers depending on the utility provider. The provider will charge a customer for their peak usage in a time period; these demand charges can vary by time of day and/or season.  Aurora does not simulate reduction in demand charges from going solar.
+ 
+How are they calculated? 
+When you create a new project and navigate to the Consumption tab, there are three options for calculating demand charges in Aurora:
+
+Please note: Aurora does not currently model Demand Compensation Credits. 
+ 
+
+Option 1: Estimation Tool
+
+Aurora’s Estimation Tool will allow you to input your client’s consumption data for each month of the year by entering in either the month’s total kWh consumed or the month’s utility bill total. 
+ 
+For any months that you do not have data for, Aurora will fill in the gaps by estimating the other months’ consumption based on OpenEI data for the project location. Using this data, the resulting load profile that Aurora generates factors in estimated demand charges. 
+ 
+You can learn more about the OpenEI data that Aurora uses here: 
+https://openei.org/datasets/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-states 
+ 
+
+Option 2: Manual Input 
+
+Similarly to the Estimation Tool, the Manual Input option allows you to input your client’s consumption data for each month of the year or by typing the month's bill amount. You must commit to the type of data, but using monthly usage will produce the most accurate information since taxes and fees are removed. The difference with this tool, however, is that you are not able to input bill totals (only consumed kWh) and you must input data for every month. 
+ 
+Based on the data you enter, Aurora estimates demand charges. 
+ 
+
+Option 3: Upload Green Button Data
+
+The final option for calculating demand charges would be to upload your client’s Green Button data. This method will ensure the greatest degree of accuracy. 
+ 
+The steps to upload Green Button data are outlined here: https://help.aurorasolar.com/hc/en-us/articles/360001738428-How-can-I-use-Green-Button-data-in-Aurora- 
+ 
+ 
+ 

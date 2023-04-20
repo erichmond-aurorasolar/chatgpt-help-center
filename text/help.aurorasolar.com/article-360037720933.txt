@@ -1,7 +1,0 @@
-09/05/2019-Release Notes
-
-As of our 09/05/2019 release, Aurora has improved the following: 
-
-
-Google HD for Commercial: You can now use Google HD imagery for your commercial projects 
-

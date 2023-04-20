@@ -1,0 +1,3 @@
+Does Aurora work on an iPad or Tablet?
+
+Compatibility will depend on your specifications. Aurora works on desktop computers and laptops. However, as of now, we do not recommend using Aurora with an iPad or Tablet. Many of Aurora's features depend on dragging and clicking with a mouse. 

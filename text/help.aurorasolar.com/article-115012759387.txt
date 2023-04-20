@@ -1,8 +1,0 @@
-Difference Between a Financing Product and a Financing
-
-What is a Financing Product
-A Financing Product is a template that the  account administrator can create to model a financing option like a loan, PPA, ease or cash financing.  Financing Product is used in a project to prefill the required fields for a financing option. 
-It is important for the account administrator to correctly set up the account’s financing products in order to ensure accurate financial calculations. To access Financing Products navigate to the Database section of your account and select Financing Products.
-To see how to model a loan, lease, or PPA Financing Product watch information watch this short video.
-
- 

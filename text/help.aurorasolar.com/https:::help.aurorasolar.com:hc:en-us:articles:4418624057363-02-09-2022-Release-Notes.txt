@@ -1,0 +1,8 @@
+02/09/2022 - Release Notes
+
+Features Adjusted
+
+Backend improvements to improve the loading of LIDAR data and Imagery.
+Adjusted the projection of shadows from obstructions not entirely on a roof face for a more accurate visual representation of shading impact. 
+Corrected an issue that sometimes caused shadows to not appear when using the Sun Path animation tool.
+Corrected an issue causing inverters to not be removed when added to a fill zone. 

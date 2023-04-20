@@ -1,0 +1,28 @@
+Solar Access
+
+Solar Access is a popular way of accounting for shading in solar PV systems. Traditionally, these shade measurements are taken on-site using specialized equipment, but modern software like Aurora allows users to generate shade readings from their office, without having to travel to the site.
+Solar Access Percentages (or Solar Access Values) were commonly applied to the output of performance simulations as linear derate factors in order to account for the effect of shading on system energy production. However, this approach has inherent limitations and therefore modern simulation engines, such as Aurora's, provide an integrated irradiance and performance simulation engine that accurately models the effect of shading on system energy production.
+Definition
+Solar access is defined as the incident solar energy given shading, divided by the incident solar energy if there were no shading:
+$$\mathrm{Solar\,Access} = \frac{ E_\mathrm{shade} }{ E_\mathrm{no\,shade} }$$
+Calculation
+The calculation of solar access for a given location includes two components: \( E_\mathrm{shade} \) and \( E_\mathrm{no\,shade} \). These components are calculated by determining the sun position and, using typical local weather data, modeling the incident irradiance at the point of interest. If the location is shaded, then the irradiance will be reduced due to the fact that the location does not receive any direct sunlight. This calculation is repeated for every hour of the year and ultimately \( E_\mathrm{shade} \) is divided by \( E_\mathrm{no\,shade} \) to obtain the solar access value.
+Differences between Aurora and Solmetric
+While this high-level definition of solar access is commonly accepted, the details of the calculations can differ. Specifically, Aurora's calculation of solar access differs slightly from the one by Solmetric. The differences are the following:
+
+
+Solmetric incorrectly cancels out the diffuse light component during the hours where the location does not receive direct sunlight. This is incorrect because a location will always receive diffuse light, even when there is shade or when the sun is behind the roof plane. This error manifest itself on steep east- or west-facing roof planes, where the sun is 'behind' the roof plane for a part of the day and therefore Solmetric calculates the solar access percentage as less than 100%, even if there is no shading in the site. In these cases, Aurora will return a 100% solar access, as per the definition above.
+
+
+Solmetric uses a 15-minute time step, whereas Aurora uses a 1-hour time step. Given that the weather data used by both is provided on an hourly basis and that the sun position within an hour is fairly constant, this difference should be small.
+
+
+Aurora accounts for ground reflected irradiance, whereas Solmetric ignores this irradiance component. This difference is more severe in areas with a high albedo, e.g. in areas with a lot of snowfall.
+
+
+Aurora adjusts the amount of sky diffuse and ground reflected irradiance based on the site. By accounting for all objects modeled in the site, Aurora produces a more refined estimate for these two irradiance components than Solmetric does.
+
+
+Limitations
+While solar access can be useful as a concise quantification of shading in a site, it has inherent limitations that limit its usefulness for use in performance simulations. This stems from the fact that the impact of shading on system energy production can be highly non-linear. For example, if one module is shaded in a string inverter design, the shaded module will also bring down the performance of the other modules in the string. Conversely, the energy production of a string using microinverters or DC optimizers will not be affected by shading to the same degree, even though the solar access across the string in both cases would be the same.
+Aurora's simulation engine overcomes these limitations, by integrating its irradiance engine with a circuit-cased simulation engine. This allows for accurate assessment of the impact of shading on PV performance.

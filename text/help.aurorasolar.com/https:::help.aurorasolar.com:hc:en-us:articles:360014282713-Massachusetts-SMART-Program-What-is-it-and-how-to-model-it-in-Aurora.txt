@@ -1,0 +1,9 @@
+Massachusetts SMART Program: What is it and how to model it in Aurora
+
+Overview:The Massachusetts SMART Program offers a production-based incentive at a set rate for a set number of years, but the specific value for behind-the-meter installations varies based on the location of the customer and the utility they receive service from. Users can model the SMART program as a Production-Based Incentive (PBI) in Aurora, but will have to find the value from the SMART spreadsheet. The spreadsheet will show the Solar Incentive Payment ($/kWh) and the Duration (years) which can be input in Aurora’s incentive modeling section.
+ 
+More information about the SMART program:
+https://www.mass.gov/info-details/solar-massachusetts-renewable-target-smart-program
+ 
+Link to the spreadsheet from the SMART program:
+https://www.mass.gov/doc/capacity-block-base-compensation-rate-and-compensation-rate-adder-guideline-2 

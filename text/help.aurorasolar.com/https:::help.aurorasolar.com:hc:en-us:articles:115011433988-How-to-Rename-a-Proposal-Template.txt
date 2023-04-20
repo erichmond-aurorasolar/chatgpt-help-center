@@ -1,0 +1,9 @@
+How to Rename a Proposal Template
+
+      
+
+Go to your Account Settings by clicking on your name in the top right corner.
+In the left, select Proposal Template.
+Click on the proposal template you would like to change the name of.
+In the top right, select the gear icon titled Settings.
+Click on the pencil icon to change.

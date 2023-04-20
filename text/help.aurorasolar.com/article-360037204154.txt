@@ -1,9 +1,0 @@
-10/03/2019 Release Notes
-
-Aurora Solar made the following updates on 10/03/2019:
-
-General shading engine for performance simulations
-Export Site 3D Json- Aurora now offers the ability to export a 3D JSON file 
-Net Surplus Compensation type to Avoided Cost and Financing Calculations-You can now specify net surplus compensations as a credit instead of a cash pay out in Avoided Cost Tab
-Disable incentive tax flags for CBI- We've now disabled incentive fax flags for Cost-Based Incentives 
-API Upgrades (Enterprise Only): Our API now offers the ability to request 3D Modeling Requests without leaving the CRM. 

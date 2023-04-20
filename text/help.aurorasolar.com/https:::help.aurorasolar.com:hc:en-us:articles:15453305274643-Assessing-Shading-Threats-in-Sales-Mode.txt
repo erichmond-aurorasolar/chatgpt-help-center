@@ -1,0 +1,25 @@
+Assessing Shading Threats in Sales Mode
+
+
+ 
+Once you have your 3D model ready in Sales Mode, we have a few tools built in that you can use to assess shading threats and to educate the homeowner – and they’re all found at the bottom corner here.
+ 
+
+LIDAR
+LIDAR is a technology where a scanner emits pulses of light and measures how long it takes for that light to come back. This shows us the exact height of everything on the surface. By integrating that LIDAR data into our software, you're able to easily see the height of different objects around the site.
+ 
+
+Not only is that how we can create such accurate models, but you can also use this to explain to the homeowner why some roof faces may be better suited for solar than others.
+
+Sunpath Animation
+The sunpath animation tool shows how the path of the sun can impact the shading on the site throughout different times of the day and year.
+
+Play the animation here, or manually change the values.
+
+ 
+Irradiance
+Tap Irradiance to run a shading analysis on the site, calculating exactly how much sunlight hits each roof face for every daylight hour of the year, while taking into account the pitch of the roof, any obstructions, and any surrounding obstacles.
+
+The bright yellow areas are the best roof faces to put solar because they get the most sunlight – so that’s where you should try to place modules to get the best results. The darker the color, the less sunlight it gets, all the way down to that deep purple for heavily shaded areas – so you should try to avoid those roof faces where you can.
+These tools allow you confidently assess and explain the impact of shading on your project, without needing to climb up onto the roof.
+ 

@@ -1,5 +1,0 @@
-Hourly Production Data Export- in New Aurora
-
-1. In the System design page, click the Download dropdown and select Production Data.
-
-2. A csv file containing the 8760 hourly production values will download. 

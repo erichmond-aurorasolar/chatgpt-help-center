@@ -1,0 +1,22 @@
+Financing Products in New Aurora - Account Configuration
+
+Within New Aurora, you can create custom financing products to model, or you can integrate your Mosaic account directly within Aurora.  
+Please note that only account Administrators can make these changes. 
+ 
+Modeling Custom Financing Products
+Within your Database, you can configure custom financing products to model within your projects.  You can enable the loans, leases, or PPAs that you create in your database and they will then be available to choose from in the Financing page of Sales Mode.  Please note that if you don't set anything up here, Cash will be the only financing option for your projects. 
+ 
+Click the link below for a step by step guide on how to create your custom financing products. 
+How to Create Custom Financing Products 
+
+ 
+Aurora Financing Integrations
+You can now configure your Mosaic account and connect it directly with your Aurora account within Sales Mode. Once the integration has been configured within Aurora all of your Mosaic loans will appear in Sales Mode as financing options.
+With this integration you can:
+
+Conduct a soft credit check on behalf of the homeowner and apply for a loan from Aurora’s Sales Mode quickly;
+Show the homeowner Mosaic loan products in approved language;
+Say goodbye to manual data entry into the Mosaic Portal, and the need to manually manage your Mosaic products in Aurora.
+
+Click the link below for a step by step guide on setting up your Mosaic Financing Integration.
+How to Configure your Mosaic Financing Integration

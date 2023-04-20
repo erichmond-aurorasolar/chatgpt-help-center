@@ -1,6 +1,0 @@
-7/28/2020 Release Notes
-
-
-Added the ability to re-request a design to our 3D Modeling Service with feedback.
-Added denotation for custom utility rates in the Consumption module.
-Added the ability to request a certain LIDAR source on a project via the API.
