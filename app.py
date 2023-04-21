@@ -81,7 +81,7 @@ def answer_question(
         )
         print(f'{response=}')
         total_tokens = response['usage']['total_tokens']
-        print(f"{total_tokens=}, estimated_cost=${total_tokens/1000*0.002:.3f}")
+        print(f"{total_tokens=}, estimated_cost=${total_tokens/1000*0.002:.4f}")
         return response["choices"][0]["message"]["content"]
     except Exception as e:
         print(e)
