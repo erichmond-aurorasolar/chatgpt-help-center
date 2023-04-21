@@ -21,4 +21,8 @@ Populate Aurora Solar marketing and help website content as context for the Chat
 - how much energy is produced given the irradiance
 - how do I see the shadows cast on the roof\*
 
+### Sample Responses:
+
 ![when do I need to add in a selective optimizer](./docs/when-do-I-use-an-optimizer-vs-microinverter.png)
+
+![what does smartroof do](./docs/what-does-smartroof-do.png)
