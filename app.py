@@ -12,6 +12,7 @@ CORS(app)
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
+
 @app.route("/", methods=("GET", "POST"))
 def index():
     if request.method == "POST":
@@ -22,11 +23,13 @@ def index():
     result = request.args.get("result")
     return render_template("index.html", result=result)
 
+
 @app.route("/ask")
 def ask():
     question = request.args.get("question")
     answer = get_answer(question)
-    return jsonify({ 'question': question, 'answer': answer })
+    return jsonify({'question': question, 'answer': answer})
+
 
 df = pd.read_csv('processed/embeddings.csv', index_col=0)
 df['embeddings'] = df['embeddings'].apply(eval).apply(np.array)
@@ -89,7 +92,7 @@ def answer_question(
 
 
 def create_context(
-    question, df, max_len=1800,  # size='ada',
+    question, df, *, max_len,
 ):
     """
     Create a context for a question by finding the most similar context from the dataframe
@@ -119,9 +122,9 @@ def create_context(
         # Else add it to the text that is being returned
         returns.append(row["text"])
 
-        
     # Return the context
     return "\n\n###\n\n".join(returns)
+
 
 if __name__ == "__main__":
     app.run(host="localhost", port=4000, debug=True)
