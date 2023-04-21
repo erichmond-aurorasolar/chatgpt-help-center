@@ -1,4 +1,5 @@
 import os
+import time
 
 from flask import Flask, redirect, render_template, request, url_for, jsonify
 from flask_cors import CORS
@@ -54,11 +55,14 @@ def answer_question(
     """
     Answer a question based on the most similar context from the dataframe texts
     """
+    tic = time.time()
     context = create_context(
         question,
         df,
         max_len=max_len,
     )
+    toc = time.time()
+    print(f'Creating context took {toc - tic:.2f} seconds')
     # If debug, print the raw model response
     if debug:
         print("Context:\n" + context)
@@ -66,13 +70,17 @@ def answer_question(
 
     try:
         # Create a completions using the question and context
-        prompt = ("Answer the question based on the context below, and if the question can't be "
-                  "answered based on the context, say \"I don't know\". Please also include "
-                  "URLs to the original articles by simply appending (Source: <url>) at the end of "
-                  "your answer.\n\n"
+        prompt = ("Please answer the question based on the context below, citing your sources "
+                  "by appending (Source: <url>) or (Source: <url1>, <url2>, ...) to the answer. "
+                  "If the question can't be answered based on the context, please say "
+                  "'Sorry, I couldn't find an answer. "
+                  "Visit our help center (https://help.aurorasolar.com/) or email "
+                  "support@aurorasolar.com for assistance.'"
+                  "\n\n"
                   f"Context: {context}\n\n---\n\n"
                   f"Question: {question}\nAnswer:")
 
+        tic = time.time()
         response = openai.ChatCompletion.create(
             model='gpt-3.5-turbo',
             messages=[
@@ -82,9 +90,11 @@ def answer_question(
             stop=stop_sequence,
             max_tokens=max_tokens,
         )
+        toc = time.time()
+        print(f'Generating answer took {toc - tic:.2f} seconds')
         print(f'{response=}')
         total_tokens = response['usage']['total_tokens']
-        print(f"{total_tokens=}, estimated_cost=${total_tokens/1000*0.002:.4f}")
+        print(f"{total_tokens=}, estimated_cost=${total_tokens/1000*0.002:.4f}\n")
         return response["choices"][0]["message"]["content"]
     except Exception as e:
         print(e)
